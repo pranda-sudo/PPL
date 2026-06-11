@@ -10,6 +10,7 @@ Webova/PWA aplikace pro procvicovani PPL testovych otazek.
 - `ppl_app/data/questions.js` - lokalni databaze 1469 otazek.
 - `docs/manual-cs.md` - cesky uzivatelsky manual.
 - `docs/iphone-testovani.md` - navod pro testovani na iPhonu.
+- `docs/testing/` - testovaci checklisty pro jednotlive platformy.
 
 ## Spusteni lokálně
 

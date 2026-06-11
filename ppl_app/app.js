@@ -9,6 +9,7 @@ const state = {
   deck: [],
   index: 0,
   mode: "practice",
+  aircraftMode: "both",
   categories: new Set(),
   aircraft: new Set(),
   answered: new Map(),
@@ -167,6 +168,38 @@ function makeCheckbox(label, checked, onChange) {
   return row;
 }
 
+function aircraftValuesForMode(mode) {
+  if (mode === "airplane") return ["Letoun", "Spolecne"];
+  if (mode === "helicopter") return ["Vrtulnik", "Spolecne"];
+  return unique("aircraft");
+}
+
+function setAircraftMode(mode) {
+  state.aircraftMode = mode;
+  state.aircraft = new Set(aircraftValuesForMode(mode));
+  renderAircraftControls();
+  buildDeck();
+}
+
+function renderAircraftControls() {
+  const options = [
+    { mode: "airplane", label: "Letoun", detail: "PPL(A)" },
+    { mode: "helicopter", label: "Vrtulník", detail: "PPL(H)" },
+    { mode: "both", label: "Obojí", detail: "A + H" },
+  ];
+  els.aircraftFilters.innerHTML = "";
+  els.aircraftFilters.className = "aircraft-toggle";
+  options.forEach((option) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "aircraft-option";
+    button.classList.toggle("active", state.aircraftMode === option.mode);
+    button.innerHTML = `<strong>${option.label}</strong><span>${option.detail}</span>`;
+    button.addEventListener("click", () => setAircraftMode(option.mode));
+    els.aircraftFilters.append(button);
+  });
+}
+
 function renderFilters() {
   els.categoryFilters.innerHTML = "";
   unique("category").forEach((category) => {
@@ -179,16 +212,8 @@ function renderFilters() {
     );
   });
 
-  els.aircraftFilters.innerHTML = "";
-  unique("aircraft").forEach((aircraft) => {
-    state.aircraft.add(aircraft);
-    els.aircraftFilters.append(
-      makeCheckbox(aircraft, true, (checked) => {
-        checked ? state.aircraft.add(aircraft) : state.aircraft.delete(aircraft);
-        buildDeck();
-      }),
-    );
-  });
+  state.aircraft = new Set(aircraftValuesForMode(state.aircraftMode));
+  renderAircraftControls();
 }
 
 function filteredPool() {

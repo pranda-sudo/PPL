@@ -132,6 +132,41 @@ h1 {
   gap: 8px;
 }
 
+.aircraft-toggle {
+  display: grid;
+  gap: 8px;
+}
+
+.aircraft-option {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: center;
+  min-height: 52px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
+  padding: 10px 12px;
+  text-align: left;
+  cursor: pointer;
+}
+
+.aircraft-option span {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.aircraft-option.active {
+  border-color: var(--accent);
+  background: var(--focus);
+  box-shadow: inset 4px 0 0 var(--accent);
+}
+
+.aircraft-option.active strong {
+  color: var(--accent);
+}
+
 .stat-list {
   display: grid;
   gap: 8px;

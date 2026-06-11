@@ -1,0 +1,23124 @@
+window.PPL_QUESTIONS = {
+  "generatedFrom": "ppl.zip",
+  "total": 1469,
+  "files": {
+    "Komunikace/Komunikace.pdf": 54,
+    "Letové zásady/5-Letove-zasady-vrtulnik.pdf": 51,
+    "Letové zásady/Letove-zasady-letoun.pdf": 99,
+    "Lidská výkonost/2.-Lidska-vykonnost-letoun (2).pdf": 58,
+    "Lidská výkonost/2.-Lidska-vykonnost-vrtulnik.pdf": 46,
+    "Meterologie/3-Meteorologie-letoun (1).pdf": 129,
+    "Meterologie/3-Meteorologie-vrtulnik.pdf": 109,
+    "Navigace letoun/9-Navigace-letoun (1).pdf": 137,
+    "Navigace letoun/9-Navigace-vrtulnik.pdf": 133,
+    "Obecná znalost o letadle/8-Obecne-znalosti-o-letadle-letoun (2).pdf": 128,
+    "Obecná znalost o letadle/8-Obecne-znalosti-o-letadle-vrtulnik.pdf": 127,
+    "Právo/1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf": 63,
+    "Právo/1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf": 61,
+    "Provedení naplánování letu/7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf": 82,
+    "Provedení naplánování letu/7-Vykonnost-a-planovani-letu-letoun (2).pdf": 101,
+    "Provozní postupy/6-Provozni-postupy-letoun (2).pdf": 51,
+    "Provozní postupy/6-Provozni-postupy-vrtulnik.pdf": 40
+  },
+  "questions": [
+    {
+      "sourceNumber": "1",
+      "question": "Kdy má pilot vysílat naslepo?",
+      "options": [
+        "je-li třeba vysílat důležité provozní nebo technické informace současně více stanicím",
+        "nelze-li navázat rádiové spojení s příslušnou leteckou stanicí a není jistota, že stanice vysílání přijala umožňuje-li provozní situace na letišti vysílání informací, které nemusí být pozemními stanicemi potvrzovány vletěl-li pilot neúmyslně do oblačnosti nebo mlhy a chce vyžádat od pozemní stanice navigační pomoc"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 1,
+      "id": "komunikace-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Přeladění z řídící frekvence (s výjimkou situace, kdy letadlo přijelo na parkovací místo):",
+      "options": [
+        "musí být schváleno musí být ohlášeno nemusí být povinně hlášeno",
+        "musí být schváleno dvakrát"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 1,
+      "id": "komunikace-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Jaká zkratka se používá pro pojem \"na úrovni\"? ABE ABB",
+      "options": [
+        "ABM",
+        "ABA"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 1,
+      "id": "komunikace-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaká zkratka se používá pro pojem \"pravidla pro let za viditelnosti\"?",
+      "options": [
+        "VFR",
+        "VRU VMC VFS"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 1,
+      "id": "komunikace-4"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Co znamená zkratka FIS?",
+      "options": [
+        "blikající informační systém",
+        "blikající informační služba letový informační systém",
+        "letová informační služba"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 2,
+      "id": "komunikace-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Co znamená zkratka FIR?",
+      "options": [
+        "letová informační oblast přijímač letové integrity informační radar toku provozu",
+        "požadovaná informace toku"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 2,
+      "id": "komunikace-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Co znamená zkratka H24? od západu do východu slunce od východu do západu slunce",
+      "options": [
+        "služba 24 hodin denně",
+        "nestanovený otevírací čas"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 2,
+      "id": "komunikace-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Co znamená zkratka HX?",
+      "options": [
+        "od západu do východu slunce",
+        "od východu do západu slunce služba 24 hodin denně",
+        "nestanovený otevírací čas"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 2,
+      "id": "komunikace-9"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Co ukazuje výškoměr nastavený na QNH?",
+      "options": [
+        "výšku nad tlakovou hladinou 1013.25 hPa",
+        "výšku nad tlakovou hladinou referenčního letiště",
+        "výšku nad tlakovou hladinou střední hladiny moře výšku nad tlakovou hladinou bodu s nejvyšší nadmořskou výškou v okruhu 10 km"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 3,
+      "id": "komunikace-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Co ukazuje výškoměr nastavený na QFE? výšku nad tlakovou hladinou 1013.25 hPa",
+      "options": [
+        "výšku nad tlakovou hladinou referenčního bodu letiště výšku nad tlakovou hladinou střední hladiny moře",
+        "výšku nad tlakovou hladinou bodu s nejvyšší nadmořskou výškou v okruhu 10 km"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 3,
+      "id": "komunikace-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Co znamená zkratka QDR? magnetický směrník ke stanici",
+      "options": [
+        "magnetický směrník od stanice",
+        "zeměpisný směrník ke stanici",
+        "zeměpisný směrník od stanice"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 3,
+      "id": "komunikace-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Co znamená zkratka QUJ?",
+      "options": [
+        "magnetický směrník ke stanici",
+        "magnetický směrník od stanice",
+        "zeměpisný směrník ke stanici zeměpisný směrník od stanice"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 3,
+      "id": "komunikace-14"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Jaký Q kód se používá pro magnetický směrník od stanice?",
+      "options": [
+        "QDM",
+        "QDR QUJ QTE"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 4,
+      "id": "komunikace-16"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Jaký Q kód se používá pro zeměpisný směrník ke stanici? QDM QDR",
+      "options": [
+        "QUJ",
+        "QTE"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 4,
+      "id": "komunikace-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Která z uvedených radiotelefonních zpráv má vyšší prioritu než zpráva o bezpečnosti letu?",
+      "options": [
+        "z práva o rádiovém zaměřování",
+        "hlášení polohy letadla meteorologická zpráva zpráva o pravidelnosti letu"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 4,
+      "id": "komunikace-19"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Tísňové zprávy jsou zprávy:",
+      "options": [
+        "týkající se letadla a cestujících, kteří čelí závažné a bezprostřední hrozbě vyžadující okamžitou pomoc",
+        "týkající se bezpečnosti letadla, plavidla nebo vozidla nebo osoby v dohledu od provozovatele letadla, které mají být neprodleně odeslány letadlu za letu týkající se provozu nebo údržby zařízení důležitých pro bezpečnost a pravidelnost letového provozu"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 5,
+      "id": "komunikace-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Pilnostní zprávy jsou zprávy: týkající se letadla a jeho cestujících, kteří čelí vážné a bezprostřední hrozbě a vyžadující okamžitou pomoc",
+      "options": [
+        "týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu vyslané pilotem nebo provozovatelem letadla mající bezprostřední význam pro letadlo za letu",
+        "týkající se provozu nebo údržby zařízení nezbytných pro bezpečnost nebo pravidelnost provozu letadel"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 5,
+      "id": "komunikace-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Zprávy o pravidelnosti let ů jsou zprávy: týkající se letadla a jeho cestujících, kteří čelí vážné a bezprostřední hrozbě vyžadující okamžitou pomoc týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu",
+      "options": [
+        "vyslané provozovatelem letadla nebo letadlem mající bezprostřední význam pro letadlo za letu",
+        "týkající se provozu nebo údržby zařízení důležitých pro bezpečnost nebo pravidelnost provozu letadel"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 5,
+      "id": "komunikace-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Která z následujících zpráv má největší přednost?",
+      "options": [
+        "žádám QDM",
+        "točte doleva QNH 1013 vítr 300 stupňů, 5 uzlů"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 5,
+      "id": "komunikace-24"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Jak se správně vysílá volací značka OE-JVK?",
+      "options": [
+        "Omega Echo Juliett Victor Kilogramm",
+        "Oscar Echo Juliett Victor Kilo Oscar Echo Jankee Victor Kilogramm Omega Echo Jankee Victor Kilo"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 6,
+      "id": "komunikace-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Výška 4500 ft se vysílá jako:",
+      "options": [
+        "čtyři tisíce pět set čtyři pět nula nula čtyři pět tisíc",
+        "čtyři tisíce pět nula nula"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 6,
+      "id": "komunikace-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Kurz 285 se právně vysílá jako: dvě stě osum pět",
+      "options": [
+        "dva osum pět",
+        "dva sto osum pět",
+        "dvě stě osumdesát pět"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 6,
+      "id": "komunikace-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Frekvence 119.500 MHz se správně vysílá jako:",
+      "options": [
+        "jedna jedna devět tisíc čárka pět nula",
+        "jedna jedna devět čárka pět nula nula jedna jedna devět čárka pět nula",
+        "jedna jedna devět čárka pět"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 6,
+      "id": "komunikace-29"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Časy se vysílají jako:",
+      "options": [
+        "místní čas",
+        "UTC standardní čas pásmový čas"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 7,
+      "id": "komunikace-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Je-li možná záměna, čas 1620 se vysílá jako: šestnáct dvacet jeden tisíc šest set dva nula",
+      "options": [
+        "jedna šest dva nula",
+        "dva nula"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 7,
+      "id": "komunikace-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Jaký je význam slova \"rozumím\"? rozumím Vaší zprávě a budu podle ní postupovat",
+      "options": [
+        "přijal jsem vše z Vašeho posledního vysílání",
+        "v tomto vysílání byla učiněna chyba, správné znění je",
+        "povolení pro požadovaný úkon je uděleno"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 7,
+      "id": "komunikace-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Jaký je význam slova \"oprava\"?",
+      "options": [
+        "rozumím Vaší zprávě a budu podle ní postupovat",
+        "přijal jsem vše z Vašeho posledního vysílání",
+        "v tomto vysílání byla učiněna chyba, správné znění je povolení pro požadovaný úkon je uděleno"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 7,
+      "id": "komunikace-34"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Jakou frázi použije pilot, chce-li zkontrolovat čitelnost svého vysílání?",
+      "options": [
+        "jaké je spojení",
+        "jak slyšíte slyšíte mě dokonale srozumitelně ž ádám slyšitelnost"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 8,
+      "id": "komunikace-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jakou frázi použije pilot, chce-li proletět řízeným prostorem? chci požaduji",
+      "options": [
+        "žádám",
+        "chtěl bych"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 8,
+      "id": "komunikace-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Jakou frázi použije pilot, má-li na zprávu odpovědět souhlasně? rozumím",
+      "options": [
+        "potvrzuji",
+        "souhlasím",
+        "ano"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 8,
+      "id": "komunikace-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Jakou frázi použije pilot, má-li na zprávu odpovědět záporně?",
+      "options": [
+        "konec",
+        "nikoliv ne",
+        "negativ"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 8,
+      "id": "komunikace-39"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Jakou frázi použije pilot, chce-li věž informovat, že provádí průlet?",
+      "options": [
+        "bez přistání",
+        "přiblížení zrušeno tahám",
+        "provádím průlet"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 9,
+      "id": "komunikace-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Jaký je volací znak stanoviště letištního řízení?",
+      "options": [
+        "věž letiště zem",
+        "oblast"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 9,
+      "id": "komunikace-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Jaký je volací znak stanoviště řízení pohybů na zemi? věž",
+      "options": [
+        "ground",
+        "zem",
+        "oblast"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 9,
+      "id": "komunikace-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Jaký je volací znak stanoviště letové informační služby?",
+      "options": [
+        "info",
+        "poradní letová informace",
+        "informace"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 9,
+      "id": "komunikace-44"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Kdy může pilot zkrátit volací znak svého letadla?",
+      "options": [
+        "v řízeném vzdušném prostoru",
+        "poté, co pozemní stanice použila zkrácenou značku je-li na okruhu malý provoz po přeletu prvního hlásného bodu"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 10,
+      "id": "komunikace-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Jaký volací znak letadla se použije při navazování spojení? pouze poslední dvě písmena anebo číslice pouze první dvě písmena anebo číslice",
+      "options": [
+        "všechna písmena anebo číslice",
+        "pouze první tři písmena anebo číslice"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 10,
+      "id": "komunikace-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jak se správně navazuje rádiové spojení mezi OK-ABC a Tuřany věž? věž od OK-ABC Tuřany věž, přepínám",
+      "options": [
+        "OK-ABC volá Tuřany věž",
+        "Tuřany věž OK-ABC"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 10,
+      "id": "komunikace-48"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Co znamená srozumitelnost 2?",
+      "options": [
+        "vysílání je nesrozumitelné",
+        "vysílání je chvílemi srozumitelné vysílání je srozumitelné, ale s obtíže m i vysílání je dokonale srozumitelné"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 11,
+      "id": "komunikace-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Co znamená srozumitelnost 3? vysílání je nesrozumitelné vysílání je chvílemi srozumitelné",
+      "options": [
+        "vysílání je srozumitelné, ale s obtížemi",
+        "vysílání je dokonale srozumitelné"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 11,
+      "id": "komunikace-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Co znamená srozumitelnost 5? vysílání je nesrozumitelné vysílání je chvílemi srozumitelné",
+      "options": [
+        "vysílání je srozumitelné, ale s obtížemi",
+        "vysílání je dokonale srozumitelné"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 11,
+      "id": "komunikace-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Která informace od pozemní stanice nevyžaduje opakování zprávy?",
+      "options": [
+        "dráha v používání",
+        "kód odpovídače sekundárního radaru",
+        "vítr výška"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 11,
+      "id": "komunikace-54"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Jak se má správně potvrdit pokyn \"DZF po odpoutání stoupejte přímo do 2500 stop, potom točte doprava na kurz 220, vítr 090 stupňů, 5 uzlů, dráha 12, vzlet povolen\"?",
+      "options": [
+        "DZF po odpoutání stoupat přímo na 2500 stop, potom točit doprava 220, 090 stupňů, 5 uzlů, vz l et povolen",
+        "DZF po odpoutání přímo 2500 stop, potom točit doprava na kurz 220, 09 stupňů, 5 uzlů",
+        "DZF po odpoutání stoupat přímo 2500 stop, potom točit doprava kurz 220, dráha 12, vzlet povolen DZF po odpoutání stoupat přímo 2500 stop, rozumím, provedu, kurz 220, 090 stupňů, 5 uzlů, vzlet povolen"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 12,
+      "id": "komunikace-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Jak se má správně potvrdit pokyn \"příští hlášení PAH\"?",
+      "options": [
+        "rozumím ohlásím PAH pozitiv",
+        "provedu"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 12,
+      "id": "komunikace-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Jak se má správně potvrdit pokyn \" squawk 4321, volejte Bremen radar na 131.325\"?",
+      "options": [
+        "squawk 4321, 131.325 rozumím",
+        "squawk 4321, provedu",
+        "provedu"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 12,
+      "id": "komunikace-58"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Jak se správně vysílá informace \"dohlednost 12 km\"? dvanáct kilometrů jedna-dva kilometry",
+      "options": [
+        "jedna-nula kilometrů nebo více",
+        "jedna-nula kilometrů"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 13,
+      "id": "komunikace-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Kdy se dohlednost vysílá v metrech?",
+      "options": [
+        "do 5 km",
+        "větší než 5 km do 10 km větší než 10 km"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 13,
+      "id": "komunikace-64"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Jaké informace se vysílají na frekvenci VOLMET?",
+      "options": [
+        "NOTAMy",
+        "aktuální informace navigační informace",
+        "meteorologické informace"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 14,
+      "id": "komunikace-66"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Jak lze při navigačním letu získat meteorologické informace o letištích?",
+      "options": [
+        "VOLMET GAMET",
+        "METAR",
+        "AIRMET"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 14,
+      "id": "komunikace-68"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Na jaké frekvenci je třeba vysílat na slepo?",
+      "options": [
+        "na stávající frekvenci",
+        "na příslušné frekvenci FIS na frekvenci věže na frekvenci radaru pro nižší vzdušný prostor"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 15,
+      "id": "komunikace-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Kolikrát se má vysílat na slepo?",
+      "options": [
+        "dvakrát jednou třikrát",
+        "čtyřikrát"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 15,
+      "id": "komunikace-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "V jaké situaci je třeba nastavit odpovídač sekundárního radaru na 7600?",
+      "options": [
+        "ztráta spojení nouze",
+        "únos",
+        "vlétnutí do oblačnosti"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 15,
+      "id": "komunikace-73"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Jakou frázi je třeba opakovat třikrát před vysíláním pilnostní zprávy?",
+      "options": [
+        "mayday",
+        "pan pan pilnost pomoc"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 16,
+      "id": "komunikace-76"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Který z následujících faktorů má vliv na příjem vysílání VKV?",
+      "options": [
+        "nadmořská výška",
+        "výška ionosféry",
+        "svítání / soumrak",
+        "pobřežní efekt"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 18,
+      "id": "komunikace-85"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Jaký poměr odpovídá zatížení disku rotoru?",
+      "options": [
+        "tah rotoru / plocha disk u rotoru",
+        "hmotnost vrtulníku / plocha disk u rotoru",
+        "plocha disk u rotoru / hmotnost vrtulníku plocha disku rotoru / tah rotoru"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 1,
+      "id": "5-letove-zasady-vrtulnik-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Co způsobuje fázový posun mezi kývnutím a vy mávnutím listu rotoru?",
+      "options": [
+        "setrvačnost, hmotnost a aerodynamické síly úhel vymávnutí dopředu nebo dozadu o 90° tření na ložiskových čepech rotorových listů",
+        "zakulacení konců rotorových listů"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 1,
+      "id": "5-letove-zasady-vrtulnik-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Je-li překročen kritický úhel náběhu: bod přechodu s e začne pohybovat dozadu laminární mezní vrstva se změní na turbulentní",
+      "options": [
+        "mezní vrstva na horní straně rotorového listu se začne odtrhávat",
+        "mezní vrstva na spodní straně rotorového listu se začne odtrhávat"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 1,
+      "id": "5-letove-zasady-vrtulnik-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaké druhy obtékání profilu rotorového listu lze pozorovat?",
+      "options": [
+        "laminární na celém horním povrchu",
+        "turbulentní na celém horním povrchu turbulentní na náběžné hraně, laminární dále vzadu",
+        "laminární na náběžné hraně, turbulentní dále vzadu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 1,
+      "id": "5-letove-zasady-vrtulnik-4"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Virtuální osa otáčení rotoru je:",
+      "options": [
+        "kolmá na rovinu hlavy rotoru",
+        "rovnoběžná s hřídelem hlavního rotoru",
+        "kolmá na rovinu trajektorie konců listů kolmá na rovinu procházející kyvnou deskou"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 2,
+      "id": "5-letove-zasady-vrtulnik-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Efektivní úhel náběhu je úhel mezi: tětivou a rovinou trajektorie konce listu efektivním vektorem nabíhajícího vzduchu a rovinou trajektorie konce listu",
+      "options": [
+        "efektivním vektorem nabíhajícího vzduchu a tětivou",
+        "rovinou trajektorie konce listu a rotorovým listem"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 2,
+      "id": "5-letove-zasady-vrtulnik-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Jaký druh odporu vyvolává profil vytvářející vztlak?",
+      "options": [
+        "indukovaný třecí",
+        "škodlivý",
+        "interferenční"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 2,
+      "id": "5-letove-zasady-vrtulnik-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Jaká síla ovlivňuje brzdící kroutící moment rotoru za letu?",
+      "options": [
+        "vztlak vychýlený dopředu",
+        "tah rotoru směrem nahoru",
+        "tangenciální síla působící směrem dozadu odporová síla působící směrem dopředu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 2,
+      "id": "5-letove-zasady-vrtulnik-9"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Co se stane s tahem a tangenciální silou, sníží-li se otáčky rotoru za letu o 10 %?",
+      "options": [
+        "tah i tangenciální síla se zvětší",
+        "tah i tangenciální síla se zmenší tah zůstane stejný, tangenciální síla se zvětší tah se zmenší, tangenciální síla zůstane stejná"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 3,
+      "id": "5-letove-zasady-vrtulnik-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Efektivní rychlost proudu vzduchu na profilu rotorového listu se mění se vzdáleností od osy hřídele rotoru, protože:",
+      "options": [
+        "tangenciální síla a zpětné prodění se mění",
+        "obvodová rychlost se zvyšuje se zmenšující se vzdáleností od konce rotorových listů drak vrtulníku rozděluje proudění",
+        "odpor ve směru osy rotace se zvětšuje"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 3,
+      "id": "5-letove-zasady-vrtulnik-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Který z poměrů mezi vztlakem a odporem nejlépe popisuje situaci letícího vrtulníku (vztlak: odpor)?",
+      "options": [
+        "45: 1 2: 1",
+        "1: 45",
+        "1: 2"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 3,
+      "id": "5-letove-zasady-vrtulnik-13"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Jaký tvar rotorového listu je nejpříznivější z hlediska rozložení vztlaku?",
+      "options": [
+        "obdélníkový s geometrickým nastavením 1°",
+        "lichoběžníkový s kulatým koncem",
+        "dvojitý lichoběžník s kulatým koncem obdélníko-lichoběžníkový bez aerodynamického zkroucení"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 4,
+      "id": "5-letove-zasady-vrtulnik-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Tvar rotorového listu má vliv na:",
+      "options": [
+        "rozložení vztlaku použitou rotorovou hlavu citlivost na znečištění",
+        "maximální vzletovou hmotnost"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 4,
+      "id": "5-letove-zasady-vrtulnik-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Hnací systém hlavního rotoru vírníku je založen na: motoru v kabině ventilátoru v kabině",
+      "options": [
+        "motorech na koncích rotorových listů",
+        "rychlosti nabíhajícího proudu vzduchu"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 4,
+      "id": "5-letove-zasady-vrtulnik-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Otáčky motoru vrtulníku udržují konstantní otáčky rotoru. Lze je měnit:",
+      "options": [
+        "kolektivem",
+        "plynovou pákou a regulátorem otáček cyklickým řízením startérem a impulzní vazbou"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 4,
+      "id": "5-letove-zasady-vrtulnik-19"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Při visení se rychlost indukovaného proudu:",
+      "options": [
+        "po průchodu rotorem dále zvětšuje",
+        "po průchodu rotorem zůstává konstantní je stejná nad i pod rotorem po průchodu rotorem zmenšuje"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 5,
+      "id": "5-letove-zasady-vrtulnik-21"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "V rtulník nakloněný ve směru zrychlení zrychluje, dokud: tah neprochází těžištěm",
+      "options": [
+        "se horizontální složka tahu nevyrovná odporu",
+        "tah neprochází za těžištěm se vertikální složka tahu nevyrovná odporu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 5,
+      "id": "5-letove-zasady-vrtulnik-24"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Indukované proudění rotorem vrtulníku v horizontálním rovném letu má největší hodnotu:",
+      "options": [
+        "v přední části rotoru",
+        "na ustupujícím listu rotoru",
+        "v zadní části rotoru na po stupujícím listu rotoru"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 6,
+      "id": "5-letove-zasady-vrtulnik-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Která z následujících odpovědí popisuje asymetrický proud vzduchu? přesunutí hnacích sil na po stupující rotorový list při vertikální autorotaci",
+      "options": [
+        "při traťovém letu má po stupující rotorový list větší průtok než ustupující větší vztlak na vnější části rotoru než na vnitřní",
+        "rozdíl mezi požadovanou výkonností při visení v přízemním efektu a mimo přízemní efekt"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 6,
+      "id": "5-letove-zasady-vrtulnik-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Přechod ový vztlak může být zaznamenán pomocí: zvukového varování",
+      "options": [
+        "vibrací",
+        "poklesu otáček motoru",
+        "velkého násobku"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 6,
+      "id": "5-letove-zasady-vrtulnik-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Který z výroků o zatížení disku rotoru v horizontální zatáčce je pravdivý?",
+      "options": [
+        "záleží na typu vrtulníku",
+        "zvětšuje se s rostoucí náklonem zmenšuje se s rostoucím náklonem nemění se v porovnání s přímým letem"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 6,
+      "id": "5-letove-zasady-vrtulnik-29"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Proč při letu vysokou rychlostí začíná odtržení proudnic na u stupujícím rotorovém listu?",
+      "options": [
+        "proud vzduchu dosáhne podzvukové rychlosti a způsobí nárůst indukovaného odporu",
+        "malý úhel nastavení a relativně malá obvodová rychlost způsobují malý efektivní úhel náběhu proud vzduchu dosáhne nadzvukové rychlosti a způsobí nárůst škodlivého odporu",
+        "velký úhel nastavení a relativně malá obvodová rychlost způsobují velký efektivní úhel náběhu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 7,
+      "id": "5-letove-zasady-vrtulnik-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Vrtulník při visení v přízemním efektu bez opravných zásahů a za bezvětří bude provádět:",
+      "options": [
+        "mírné pohyby nahoru a dolů klopivé pohyby kolem příčné osy rychlé bočivé pohyby",
+        "klonivé pohyby přibližně o 60°"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 7,
+      "id": "5-letove-zasady-vrtulnik-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Přizemní efekt způsobuje: silné horizontální vibrace větší požadovanou výkonnost",
+      "options": [
+        "menší požadovanou výkonnost",
+        "silné vertikální vibrace"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 7,
+      "id": "5-letove-zasady-vrtulnik-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Co lze očekávat při visení v přízemním efektu nad lesní pasekou?",
+      "options": [
+        "zpětné proudění vzduchu od rotoru a zeslabení přízemního efektu",
+        "zesílení přízemního efektu způsobené menším indukovaným prouděním přisávání ocasního rotoru do směru lesa a zvýšení výkonnosti ovzduší bez turbulence v závětří lesa a stabilní polohu vůči horizontu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 7,
+      "id": "5-letove-zasady-vrtulnik-34"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Co způsobí režim vírového prstence?",
+      "options": [
+        "ztrátu výkonu vrtulníku",
+        "zvýšení otáček rotoru zvětšení stability vrtulníku",
+        "nekontrolovatelný nárůst rychlosti klesání"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 8,
+      "id": "5-letove-zasady-vrtulnik-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jaký je správný postup pro zvládnutí režimu vírového prstence? zvednout kolektiv a snížit otáčky rotoru",
+      "options": [
+        "zkusit získat rychlost a přejít do autorotace zvýšit výkon motoru a přitáhnout řídící páku",
+        "zvednout kolektiv a přitáhnout řídící páku"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 8,
+      "id": "5-letove-zasady-vrtulnik-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Jaký účinek má režim vírového prstence? stabilní klesání a vysokofrekvenční vibrace vrtulníku kolísání otáček motoru a rotoru",
+      "options": [
+        "rychlé klesání a nepravidelné pohyby klonění, klopení a bočení",
+        "snížená rychlost klesání a silné vibrace způsobené motorem"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 8,
+      "id": "5-letove-zasady-vrtulnik-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Jaké nebezpečí vzniká při vertikální autorotaci s následným nárůstem dopředné rychlosti před přistáním? vznik vírového kroužku",
+      "options": [
+        "vysoké otáčky rotoru",
+        "nesprávný odhad nárůstu dopředné rychlosti ztráta účinnosti ocasního rotoru"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 8,
+      "id": "5-letove-zasady-vrtulnik-39"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Při autorotaci je dopředná rychlost omezena:",
+      "options": [
+        "interferenčním odporem při malých rychlostech klesání",
+        "přistávacím zařízením při doteku se zemí posunutím oblastí odtržení na vnitřní části rotorových listů",
+        "posunem hnacích sil na ustupujícím rotorovém listu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 9,
+      "id": "5-letove-zasady-vrtulnik-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Která z následujících možností má vliv na vlastnosti autorotace?",
+      "options": [
+        "hmotnost vrtulníku a hustotní výška teplota vzduchu a rychlost větru jemné ovládání ocasního rotoru a systém varování před nízkými otáčkami rotoru",
+        "tlaková výška a rychlost větru"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 9,
+      "id": "5-letove-zasady-vrtulnik-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Při autorotaci vrtulníku s dopřednou rychlostí jsou hnací síly rotoru umístěny: ve vnitřní oblasti rotoru ve vnější oblasti rotoru",
+      "options": [
+        "v oblasti po stupujícího rotorového listu",
+        "v oblasti ustupujícího rotorového listu"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 9,
+      "id": "5-letove-zasady-vrtulnik-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Při autorotaci vrtulník bez dalších opravných zásahů zrychlí ze 60 na 90 kts. Otáčky rotoru:",
+      "options": [
+        "se zvýší",
+        "zůstanou stejné",
+        "se sníží budou kolísat"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 9,
+      "id": "5-letove-zasady-vrtulnik-44"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Velká hmotnost vrtulníku vede při uvedení do autorotace k:",
+      "options": [
+        "malé rychlosti klesání",
+        "velké změně polohy těžiště rychlému poklesu otáček rotoru",
+        "rychlému nárůstu otáček rotoru"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 10,
+      "id": "5-letove-zasady-vrtulnik-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Co je třeba vzít v úvahu před ukončením zatáčky při autorotaci? zmenšení tíhy odlehčí hlavní rotor a kabinu vrtulníku C oriolisova síla způsobí nárůst otáček hlavního rotoru",
+      "options": [
+        "je třeba zmenšit úhel podélného sklonu použitím páky kolektivu",
+        "je třeba zvýšit rychlost letu kvůli získání kinetické energie"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 10,
+      "id": "5-letove-zasady-vrtulnik-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jaká energie slouží k udržení otáček rotoru při autorotaci? rotační a lineární",
+      "options": [
+        "potenciální nebo kinetická",
+        "třecí a průtoková",
+        "mechanická nebo chemická"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 10,
+      "id": "5-letove-zasady-vrtulnik-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Maximální dolet při autorotaci lze dosáhnout:",
+      "options": [
+        "poměrně velkým efektivním úhlem náběhu",
+        "záporným efektivním úhlem náběhu poměrně malým efektivní úhlem náběhu neutrálním efektivním úhlem náběhu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 10,
+      "id": "5-letove-zasady-vrtulnik-49"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Jaký pohyb na po stupujícím rotorovém listu způsobuje C oriolisův efekt?",
+      "options": [
+        "máv nutí dolů",
+        "kývnutí dopředu hmotový pohyb směrem ven kýv nutí dozadu"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 11,
+      "id": "5-letove-zasady-vrtulnik-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Co ovlivňuje čas na zásah do řízení při zahájení autorotace po vysazení motoru? funkčnost táhel řízení",
+      "options": [
+        "setrvačnost systému hlavního rotoru tvar profilu rotorových listů",
+        "pohyb aerodynamického středu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 11,
+      "id": "5-letove-zasady-vrtulnik-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Který výrok o síle potřebné pro změnu úhlu podélného sklonu je pravdivý? je nejmenší s využitím úhlu předstihu 90°",
+      "options": [
+        "musí být větší než tangenciální síla",
+        "je nejmenší při využití trojitého delta závěsu",
+        "musí být větší než zatížení disku rotoru"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 11,
+      "id": "5-letove-zasady-vrtulnik-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Proč vrtulníky s polotuhým systémem rotoru reagují pomaleji než ostatní?",
+      "options": [
+        "centrální kyvný závěs nepřenáší žádné momenty",
+        "snížený závěs rotorových listů umožňuje přenos sil zalomené zadní závěsy brání přenosu aerodynamických sil na drak vrtulníku chybějící zadní závěsy způsobují nevyváženost rotoru"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 11,
+      "id": "5-letove-zasady-vrtulnik-54"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Trojitý delta závěs se používá, aby umožnil:",
+      "options": [
+        "zmenšen í úhl u nastavení kývajícího listu",
+        "vedení postupujícího listu kolem závěsu t ažení postupujícího listu kolem závěsu m ávnutí postupujícího listu nahoru kolem závěsu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 12,
+      "id": "5-letove-zasady-vrtulnik-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Čemu je třeba věnovat pozornost v souvislosti s dočasnou ztrátou účinnosti ocasního rotoru při stacionárním visení?",
+      "options": [
+        "mechanickému zablokování rotoru",
+        "vírovému prstenci na ocasním rotoru rotačnímu pohybu ve směru otáčení hlavního rotoru",
+        "ztrátě tahu hlavního rotoru"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 12,
+      "id": "5-letove-zasady-vrtulnik-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Co způsobí zvětšení stability vrtulníku? zmenšení sil v řízení",
+      "options": [
+        "lepší řiditelnost při záporných násobcích",
+        "zvýšenou všeobecnou bezpečnost letu optimalizaci maximální hmotnosti vrtulníku"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 12,
+      "id": "5-letove-zasady-vrtulnik-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Co způsobí zvětšení stability vrtulníku?",
+      "options": [
+        "zmenšení požadovaných sil v řízení lepší řiditelnost při všech násobcích",
+        "úlevu pro velitele letadla optimalizaci maximální hmotnosti vrtulníku"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 12,
+      "id": "5-letove-zasady-vrtulnik-59"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Stabilita vrtulníku se zvyšuje:",
+      "options": [
+        "zmenšením hmotnosti rotoru",
+        "snížením otáček rotoru",
+        "přidáním stabilizátoru natáčením tahového závěsu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 13,
+      "id": "5-letove-zasady-vrtulnik-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Co je účelem vertikálního stabilizátoru?",
+      "options": [
+        "zlepšen í směrové stability zmenšení manévrovací stability nastavení podélné stability",
+        "kompenzace stability ocasního rotoru"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 13,
+      "id": "5-letove-zasady-vrtulnik-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Zvýšení stability vrtulníku způsobí:",
+      "options": [
+        "zhoršenou řiditelnost zlepšení řízení při záporných násobcích",
+        "snížení všeobecné bezpečnosti letectví",
+        "optimalizaci maximální hmotnosti vrtulníku"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 13,
+      "id": "5-letove-zasady-vrtulnik-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Jak se chová vrtulník bez stabilizačních systémů, dojde-li při visení k vnějšímu poryvu bez opravného zásahu do řízení? staticky i dynamicky stabilní",
+      "options": [
+        "staticky stabilní, dynamicky neutrální staticky neutrální, dynamicky nestabilní",
+        "staticky stabilní, dynamicky nestabilní"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 13,
+      "id": "5-letove-zasady-vrtulnik-64"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "vX je rychlost:",
+      "options": [
+        "nepřekročitelná",
+        "pro největší stoupavost",
+        "pro největší úhel stoupání",
+        "pro rotaci"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 14,
+      "id": "5-letove-zasady-vrtulnik-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "vY je rychlost:",
+      "options": [
+        "nepřekročitelná",
+        "pro největší stoupavost",
+        "pro největší úhel stoupání pro rotaci"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 14,
+      "id": "5-letove-zasady-vrtulnik-67"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Zařízení na náběžné hraně křídla, např. sloty, v porovnání s klapkami na odtokové hraně křídla:",
+      "options": [
+        "vytvářejí menší odpor a umožňují dosáhnout větší kritický úhel náběhu",
+        "zvětšují zakřivení profilu a umožňují dosáhnout menší kritický úhel náběhu",
+        "zmenšují kritický úhel náběhu při dané rychlosti",
+        "umožňují dosáhnout vyšší rychlosti při vzletu a přistání"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 1,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "S tabilita letu podél příčné osy letadla je zajištěna:",
+      "options": [
+        "stabilizátorem",
+        "směrovým kormidlem",
+        "křidélky",
+        "vztlakovými klapkami"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 1,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Let rychlostí vyšší než maximální nepřekročitelnou rychlostí (vNE) může mít za následek:",
+      "options": [
+        "fl utt er a mechanické poškození křídla",
+        "snížený odpor a zvětšené síly v řízení",
+        "zvětšený poměr vztlaku k odporu a větší klouzavost",
+        "příliš velký celkový tlak způsobující závadu rychloměru"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 1,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Co způsobí námraza na vrtuli?",
+      "options": [
+        "snížený výkon, pokles otáček",
+        "snížený výkon, nárůst otáček",
+        "zvýšený výkon, pokles otáček",
+        "zvýšený výkon, nárůst otáček"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 1,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Jaká další síla ve směru odporu mající za následek zvýšení požadovaného výkonu působí při ustáleném stoupání letadla?",
+      "options": [
+        "složka tíhy působící proti směru letu",
+        "složka vztlaku působící po směru letu",
+        "složka tahu působící proti směru letu",
+        "vertikální složky tíhy verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 1,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Statický tlak v plynech působí:",
+      "options": [
+        "všemi směry",
+        "pouze ve směru proudění",
+        "pouze ve směru celkového tlaku",
+        "pouze vertikálně na směr proudění"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 2,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Bernoulliho rovnice pro nestlačitelné kapaliny bez tření praví:",
+      "options": [
+        "celkový tlak = dynamický tlak – statický tlak",
+        "statický tlak = celkový tlak + dynamický tlak",
+        "dynamický tlak = celkový tlak + statický tak",
+        "celkový tlak = dynamický tlak + statický tlak"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 2,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Lze předpokládat, že všechny aerodynamické síly působí na těleso v jednom bodu, který se nazývá:",
+      "options": [
+        "těžiště",
+        "aerodynamický střed",
+        "bod vztlaku",
+        "bod přechodu"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 2,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "0 Aerodynamický střed je teoretický bod profilu, ve kterém:",
+      "options": [
+        "působí všechny aerodynamické síly",
+        "působí všechny hmotové síly",
+        "působí hmotové a aerodynamické síly",
+        "působí pouze výsledný odpor verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 2,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "1 Číslo (2) na obrázku představuje: Viz obr. (PFA-010)",
+      "options": [
+        "úhel náběhu",
+        "střední čáru profilu",
+        "hloubku profilu",
+        "tloušťku profilu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 3,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "2 Číslo (3) na obrázku představuje: Viz obr. (PFA-010)",
+      "options": [
+        "střední čáru profilu",
+        "tětivu profilu",
+        "hloubku profilu",
+        "tloušťku profilu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 3,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "3 Ú hel náběhu je úhel mezi:",
+      "options": [
+        "tětivou a směrem nabíhajícího proudu",
+        "tětivou a podélnou osou letadla",
+        "nenarušeným proudem vzduchu a podélnou osou letounu",
+        "křídlem a trupem letounu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 3,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "4 Poměr rozpětí ku střední tětivě se nazývá:",
+      "options": [
+        "úhel šípu",
+        "lichoběžníkový tvar",
+        "úhel zúžení",
+        "štíhlost křídla"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 3,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "5 Jaký bod na profilu je znázorněn číslem (3)? Viz obr. (PFA-009)",
+      "options": [
+        "bod přechodu",
+        "bod odtržení",
+        "stagnační bod",
+        "aerodynamický střed verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 3,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "6 Jaký bod na profilu je značen číslem (4)? Viz obr. (PFA-009)",
+      "options": [
+        "bod přechodu",
+        "bod odtržení",
+        "stagnační bod",
+        "aerodynamický střed"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 4,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "7 Ve které fázi letu se začíná tvořit vír na konci křídla?",
+      "options": [
+        "při nastavení vzletového režimu při rozjezdu",
+        "při vysunutí klapek do polohy na vzlet",
+        "jakmile se letadlo začne pohybovat",
+        "když při rotaci začne křídlo vytvářet vztlak"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 4,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "8 Jaký bod na profilu představuje číslo (1) na obrázku? Viz obr. (PFA-009)",
+      "options": [
+        "bod přechodu",
+        "bod odtržení",
+        "stagnační bod",
+        "aerodynamický střed"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 4,
+      "id": "letove-zasady-letoun-1"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co se děje v okolí stagnačního bodu?",
+      "options": [
+        "laminární mezní vrstva se mění na turbulentní",
+        "proudnice se rozdělují na ty nad a pod profilem",
+        "mezní vrstva se odtrhává od horní strany profilu",
+        "působí zde všechny aerodynamické síly"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 4,
+      "id": "letove-zasady-letoun-19"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "0 Jaké je rozložení tlaku na profilu křídla vytvářejícího vztlak při kladném úhlu náběhu?",
+      "options": [
+        "tlak pod profilem se nemění, nad profilem je podtlak",
+        "nad profilem je přetlak, pod profilem podtlak",
+        "nad profilem je podtlak pod profilem je přetlak",
+        "tlak nad profilem se nemění, pod profilem je přetlak verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 4,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "1 Působiště vztlaku profilu s kladným prohnutím střední čáry:",
+      "options": [
+        "při zvětšení úhlu náběhu se posune dopředu",
+        "jeho poloha nezávisí na úhlu náběhu",
+        "při zvětšení úhlu náběhu se posune dozadu",
+        "se nachází přibližně ve 25% tětivy, měřeno od odtokové hrany",
+        "Kam se posune působiště vztlaku profilu s kladným prohnutím střední čáry, zvětší-li se úhel"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 5,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "2 náběhu?",
+      "options": [
+        "nejprve dopředu, pak dozadu",
+        "dozadu, dokud nebyl dosažen kritický úhel náběhu",
+        "dopředu, dokud nebyl dosažen kritický úhel náběhu",
+        "směrem ke konci křídla"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 5,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "3 Který výrok o vztlaku a úhlu náběhu je pravdivý?",
+      "options": [
+        "přílišné zvětšení úhlu náběhu může vést ke ztrátě vztlaku a odtržení proudu",
+        "zvětšení úhlu náběhu způsobí zmenšení indukovaného vztlaku",
+        "zmenšení úhlu náběhu způsobí zvětšení indukovaného odporu",
+        "příliš velký úhel náběhu může vést k exponenciálnímu nárůstu vztlaku"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 5,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "4 Který výrok o proudění kolem profilu při zvětšení úhlu náběhu je správný?",
+      "options": [
+        "stagnační bod se posune nahoru",
+        "stagnační bod se posune dolů",
+        "aerodynamický střed se posune dolů",
+        "aerodynamický střed se posune nahoru"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 5,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "5 Který výrok o proudění kolem profilu při zmenšení úhlu náběhu je pravdivý?",
+      "options": [
+        "aerodynamický střed se posune dozadu",
+        "stagnační bod se posune dolů",
+        "stagnační bod zůstane na stejném místě",
+        "stagnační bod se posune nahoru verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 5,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "6 Co znázorňuje úhel na obrázku? Viz obr. (PFA-003) DoF: směr nabíhajícího proudu",
+      "options": [
+        "úhel zkroucení",
+        "úhel vztlaku",
+        "úhel inklinace",
+        "úhel náběhu"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 6,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "7 Aby se zlepšily vlastnosti letadla při přetažení, je křídlo podél rozpětí zkrouceno, tj. mění se úhel nastavení podél rozpětí. To se nazývá:",
+      "options": [
+        "geometrické zkroucení",
+        "šípovitý tvar",
+        "aerodynamické zkroucení",
+        "tvar do V"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 6,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "8 Co popisuje výhodu zkroucení křídla?",
+      "options": [
+        "křidélka jsou účinná i při velkých úhlech náběhu",
+        "křídlo je tužší při průhybu",
+        "křídlo je tužší při krutu",
+        "k odtržení proudu dochází nejdříve na koncích křídel"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 6,
+      "id": "letove-zasady-letoun-2"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Který výrok o úhlu náběhu je pravdivý?",
+      "options": [
+        "zvětšení úhlu náběhu způsobí pokles vztlaku",
+        "úhel náběhu nemůže být záporný",
+        "po celou dobu letu je úhel náběhu konstantní",
+        "příliš velký úhel náběhu může způsobit ztrátu vztlaku"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 6,
+      "id": "letove-zasady-letoun-29"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "0 Jak se přibližně změní škodlivý odpor, zvýší-li se rychlost nabíhajícího proudu vzduchu dvakrát?",
+      "options": [
+        "zvětší se na dvojnásobek",
+        "zmenší se na polovinu",
+        "zvětší se na čtyřnásobek",
+        "zmenší se na čtvrtinu verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 6,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "1 Součinitel odporu:",
+      "options": [
+        "nemůže být menší než určitá kladná minimální hodnota",
+        "může nabývat hodnot od nuly až do kladných hodnot blížících se nekonečnu",
+        "zvětšuje se s rostoucí rychlostí",
+        "je přímo úměrný součiniteli vztlaku"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 7,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "2 K vyrovnávání tlaků mezi horní a spodní části křídla dochází:",
+      "options": [
+        "na náběžné hraně",
+        "na konci křídla",
+        "na odtokové hraně",
+        "u kořene křídla"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 7,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "3 Při které z následujících situací dochází k působení velkého indukovaného odporu?",
+      "options": [
+        "velká štíhlost křídla",
+        "lichoběžníkové křídlo",
+        "malá štíhlost křídla",
+        "malý součinitel vztlaku"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 7,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "4 Které části letadla výrazně ovlivňují tvorbu indukovaného odporu?",
+      "options": [
+        "vnější část křidélek",
+        "konce křídel",
+        "přední část trupu",
+        "spodní část podvozku"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 7,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "5 Kde se vytváří interferenční odpor?",
+      "options": [
+        "na křidélkách",
+        "na podvozku",
+        "u konce křídla",
+        "u kořene křídla verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 7,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "6 Která křivka na obrázku představuje indukovaný odpor? Viz obr. (PFA-011)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 8,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "7 Tlakový odpor, interferenční odpor a třecí odpor náleží ke skupině:",
+      "options": [
+        "indukovaný odpor",
+        "celkový odpor",
+        "škodlivý odpor",
+        "hlavní odpor"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 8,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "8 Který z uvedených druhů odporů NENÍ škodlivým odporem?",
+      "options": [
+        "třecí",
+        "tvarový",
+        "interferenční",
+        "indukovaný"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 8,
+      "id": "letove-zasady-letoun-3"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Jak se mění indukovaný a škodlivý odpor s narůstající rychlostí při horizontálním ustáleném letu?",
+      "options": [
+        "indukovaný odpor se zmenšuje a škodlivý odpor se zvětšuje",
+        "indukovaný odpor se zvětšuje a škodlivý odpor se zvětšuje indukovaný odpor se zvětšuje a škodlivý odpor se zmenšuje indukovaný odpor se zmenšuje a škodlivý odpor se zmenšuje"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 8,
+      "id": "letove-zasady-letoun-39"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "0 Který z uvedených tvarů křídla má nejmenší indukovaný odpor?",
+      "options": [
+        "elipsa",
+        "lichoběžník",
+        "obdélník",
+        "dvojitý lichoběžník verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 8,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "1 Jaký účinek na indukovaný odpor má v ustáleném horizontálním letu snížení rychlosti?",
+      "options": [
+        "indukovaný odpor se zvětší",
+        "indukovaný odpor se mírně zmenší",
+        "indukovaný odpor zůstane stejný",
+        "indukovaný odpor se skokem zmenší na velmi malou hodnotu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 9,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "2 Který výrok o indukovaném odporu v horizontálním letu je pravdivý?",
+      "options": [
+        "indukovaný odpor se zvětšuje s rostoucí rychlostí",
+        "indukovaný odpor se zmenšuje s rostoucí rychlostí",
+        "indukovaný odpor má minimální hodnotu při určité rychlosti a při nárůstu nebo poklesu rychlosti od této hodnoty se zvětšuje",
+        "indukovaný odpor má maximální hodnotu při určité rychlosti a při nárůstu nebo poklesu rychlosti od této hodnoty se zmenšuje"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 9,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "3 Za které z uvedených situací je celkový odpor minimální?",
+      "options": [
+        "škodlivý odpor se rovná indukovanému",
+        "škodlivý odpor je dvakrát tak velký jako indukovaný",
+        "indukovaný odpor je dvakrát tak velký jako škodlivý",
+        "indukovaný odpor je menší než škodlivý"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 9,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "4 Z jakých druhů odporů se skládá celkový odpor?",
+      "options": [
+        "indukovaný, tvarový a třecí",
+        "tvarový, třecí a interferenční",
+        "interferenční a škodlivý",
+        "indukovaný a škodlivý"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 9,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "5 Jak se mění vztlak a odpor při konstantním násobku 1, blíží-li se letadlo pádové rychlosti?",
+      "options": [
+        "vztlak i odpor se zvětšují",
+        "vztlak i odpor se zmenšují",
+        "vztlak je stejný a odpor se zvětšuje",
+        "vztlak se zvětšuje a odpor se zmenšuje verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 9,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "6 Při přetažení je důležité:",
+      "options": [
+        "zvětšit úhel náběhu a snížit rychlost",
+        "zvětšit úhel náběhu a zvýšit rychlost",
+        "zmenšit úhel náběhu a zvýšit rychlost",
+        "zmenšit úhel náběhu a snížit rychlost"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 10,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "7 Při přetažení:",
+      "options": [
+        "vztlak se zvětšuje a odpor zmenšuje",
+        "vztlak se zvětšuje a odpor zvětšuje",
+        "vztlak se zmenšuje a odpor zmenšuje",
+        "vztlak se zmenšuje a odpor zvětšuje"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 10,
+      "id": "letove-zasady-letoun-4"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Kritický úhel náběhu:",
+      "options": [
+        "nezávisí na rychlosti",
+        "se zmenší, posune-li se těžiště dopředu",
+        "se zvětší, posune-li se těžiště dozadu",
+        "se mění s rostoucí tíhou"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 10,
+      "id": "letove-zasady-letoun-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Co způsobí snížení pádové rychlosti vS (IAS)?",
+      "options": [
+        "zmenšení tíhy",
+        "nižší hustota vzduchu",
+        "menší nadmořská výška",
+        "větší násobek"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 10,
+      "id": "letove-zasady-letoun-49"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "0 Varování před pádem se aktivuje před dosažením:",
+      "options": [
+        "vNE",
+        "vS",
+        "vR",
+        "vX verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 10,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "1 U letounů je obvykle varování před pádem aktivováno změnou:",
+      "options": [
+        "polohy aerodynamického středu",
+        "polohy těžiště",
+        "polohy stagnačního bodu",
+        "polohy bodu přechodu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 11,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "2 Jak má pilot reagovat, spustí-li varování před pádem?",
+      "options": [
+        "zvětšit podélný sklon, snížit rychlost",
+        "přitáhnout výškovku, zvýšit výkon motoru",
+        "přitáhnout výškovku, snížit výkon motoru",
+        "po volit výškovku, zvýšit výkon motoru"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 11,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "3 Který výrok o vývrtce je pravdivý?",
+      "options": [
+        "při vybírání mají být křidélka v neutrálu",
+        "během vývrtky rychlost neustále roste",
+        "nebezpečí pádu do vývrtky existuje pouze u velmi starých letadel",
+        "při vybírání m usí být křidélka vychýlena proti rotaci"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 11,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "4 Jak se mění součinitel vztlaku při vysouvání vztlakových klapek, nemění-li se úhel náběhu a letadlo letí daleko před dosažením pádové rychlosti?",
+      "options": [
+        "zvětšuje se",
+        "zmenšuje se",
+        "to nelze definovat",
+        "zůstává stejný"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 11,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "5 Kter ý z následujících vlivů způsobuje zvětšení vztlaku při vysouvání vztlakových klapek?",
+      "options": [
+        "zmenšení tvarového odporu",
+        "zvětšení prohnutí profilu",
+        "zmenšení úhlu náběhu",
+        "zmenšení indukovaného odporu verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 11,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "6 Co se může změnit vysunutím vztlakových klapek do polohy na přistání?",
+      "options": [
+        "síla na výškovce",
+        "Otáčky motoru",
+        "poloha těžiště",
+        "kroutící moment motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 12,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "7 Jaký je princip F o wlerovy klapky?",
+      "options": [
+        "zadní část křídla je vy chýlena směrem dolů",
+        "při vysokých úhlech náběhu se vysunou části náběžných hran",
+        "klapka ve tvaru profilu je vychýlena dolů a zvětšuje plochu křídla",
+        "klapka ze spodní zadní části křídla je vychýlena směrem dolů"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 12,
+      "id": "letove-zasady-letoun-5"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Při vzletu s klapkami vysunutými do vzletové polohy:",
+      "options": [
+        "je zvýšená stoupavost",
+        "se zmenší odpor",
+        "je větší akcelerace letadla",
+        "se zkrátí rozjezd"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 12,
+      "id": "letove-zasady-letoun-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jak se mění součinitel vztlak u a odpor u, jsou-li vztlakové klapky vysouvány?",
+      "options": [
+        "součinitel vztlak u se zvětšuje, odpor u se zvětšuje",
+        "Součinitel vztlak u se zvětšuje, odpor u se zmenšuje",
+        "součinitel vztlak u se zmenšuje, odpor u se zvětšuje",
+        "součinitel vztlak u se zmenšuje, odpor u se zmenšuje"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 12,
+      "id": "letove-zasady-letoun-59"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "0 Laminární mezní vrstva se na profilu nachází mezi:",
+      "options": [
+        "bodem přechodu a bodem odtržení",
+        "stagnačním bodem a bodem přechodu",
+        "stagnačním bodem a aerodynamickým středem",
+        "bodem přechodu a aerodynamickým středem verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 12,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "1 Jaké druhy mezních vrstev jsou na profilu?",
+      "options": [
+        "laminární po celé horní straně bez odtrženého proudu",
+        "turbulentní po celé horní straně s odtrženým proudem",
+        "turbulentní na předních částech profilu, laminární na zadních částech",
+        "laminární na předních částech profilu, turbulentní na zadních částech"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 13,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "2 Jak se liší laminární mezní vrstva od turbulentní?",
+      "options": [
+        "turbulentní může zůstat přilnutá na profilu i při vyšších úhlech náběhu",
+        "laminární je tenčí a způsobuje větší třecí odpor",
+        "turbulentní je tlustší a způsobuje menší třecí odpor",
+        "laminární vytváří vztlak, turbulentní vytváří odpor"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 13,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "3 Co zajišťuje příčnou stabilitu letadla?",
+      "options": [
+        "svislá ocasní plocha",
+        "výškovka",
+        "diferenciální výchylka křidélek",
+        "vzepětí křídla"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 13,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "4 Jak lze popsat statickou stabilitu?",
+      "options": [
+        "zůstane zachována výchylka způsobená vnějším zásahem",
+        "po výchylce způsobené vnějším zásahem se letadlo snaží vrátit do původní polohy",
+        "po výchylce způsobené vnějším zásahem se letadlo snaží výchylku ještě zvětšit",
+        "po výchylce způsobené vnějším zásahem je nutný zásah do řízení, aby se letadlo snažilo vrátit do původní polohy"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 13,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "5 Vůči které ose se udává podélná stabilita?",
+      "options": [
+        "vertikální",
+        "podélné",
+        "příčné",
+        "vrtulové verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 13,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "6 Poloha těžiště silně ovlivňuje stabilitu kolem které osy?",
+      "options": [
+        "podélné",
+        "vertikální",
+        "gravitační",
+        "příčné"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 14,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "7 Co zajišťuje směrovou stabilitu letounu?",
+      "options": [
+        "vzepětí křídla",
+        "svislá ocasní plocha",
+        "výškové kormidlo",
+        "diferenciální výchylky křidélek"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 14,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "8 Pohyb kolem vertikální osy se nazývá:",
+      "options": [
+        "bočení",
+        "skluz",
+        "klonění",
+        "klopení"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 14,
+      "id": "letove-zasady-letoun-6"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Pohyb kolem příčné osy se nazývá:",
+      "options": [
+        "bočení",
+        "klopení",
+        "klonění",
+        "přetažení"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 14,
+      "id": "letove-zasady-letoun-69"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "0 Kritický úhel náběhu:",
+      "options": [
+        "je menší při zadní poloze těžiště",
+        "nezávisí na hmotnosti letadla",
+        "je větší při přední poloze těžiště",
+        "závisí na hmotnosti letadla verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 14,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "1 V přímočarém ustáleném letu s konstantním výkonem motoru je úhel náběhu:",
+      "options": [
+        "větší než při stoupání",
+        "menší než při stoupání",
+        "větší než při vzletu",
+        "menší než při klesání"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 15,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "2 Co zajišťuje vodorovná ocasní plocha?",
+      "options": [
+        "stabilizuje letoun kolem podélné osy",
+        "stabilizuje letoun kolem vertikální osy",
+        "stabilizuje letoun kolem příčné osy",
+        "zahajuje pohyb kolem vertikální osy"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 15,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "3 Pohyb výškovky při rotaci při vzletu:",
+      "options": [
+        "musí být větší při přední než při zadní centráži",
+        "musí být větší při vyšších rychlostech rotace",
+        "musí být větší při zadní než při přední centráži",
+        "jeho velikost nezávisí na rychlosti rotace"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 15,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "4 Výškovka způsobuje pohyb letounu kolem:",
+      "options": [
+        "svislé osy",
+        "příčné osy",
+        "podélné osy",
+        "výškovkové osy"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 15,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "5 Co platí o těžišti letadla?",
+      "options": [
+        "pouze správné naložení může zajistit správnou a bezpečnou polohu těžiště",
+        "těžiště lze posunout do správné polohy příslušnou výchylkou trimu výškovky",
+        "těžiště lze posunout do správné polohy příslušnou výchylkou trimu křidélek",
+        "polohu těžiště letadla lze stanovit jen za letu verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 15,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "6 Výchylka směrovky způsob uje pohyb letounu kolem:",
+      "options": [
+        "svislé osy",
+        "příčné osy",
+        "podélné osy",
+        "směrovkové osy"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 16,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "7 Výchylka směrovky vlevo způsobí:",
+      "options": [
+        "bočení letadla doprava",
+        "bočení letadla doleva",
+        "klopení letadla doleva",
+        "klopení letadla doprava"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 16,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "8",
+      "options": [
+        "Jaká je výhoda diferenciálních výchylek křidélek?",
+        "bočení proti příčnému sklonu je větší",
+        "zvýší se poměr součinitele odporu k součiniteli vztlaku",
+        "sníží se odpor křidélka vychýleného dolů a bočení vlivem klonění je menší",
+        "při výchylkách křidélek zůstává celkový vztlak konstantní"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 16,
+      "id": "letove-zasady-letoun-7"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Čím se vyrovnává bočení proti klonění vyvolaném výchylkou křidélek?",
+      "options": [
+        "trimem křidélek",
+        "diferenciální výchylkou křidélek",
+        "vzepětím křídla",
+        "plnou výchylkou křidélek"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 16,
+      "id": "letove-zasady-letoun-79"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "0 Diferenciální výchylka křidélek se používá proto, aby:",
+      "options": [
+        "snížila intenzitu turbulence v úplavu",
+        "zabránila přetažení letadla při malých úhlech náběhu",
+        "zmenšila bočení proti klonění",
+        "zvětšila klesavost verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 16,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "1 Vztlaková síla působí směrem kolmo:",
+      "options": [
+        "na podélnou osu let ounu",
+        "k horizontální rovině",
+        "na vektor tahu pohonné jednotky",
+        "na nabíhající proud vzduchu"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 17,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "2 Aerodynamické vyvážení směrovky:",
+      "options": [
+        "zmenšuje krátkodobě síly v řízení",
+        "zmenšuje dlouhodobě síly na pedálech",
+        "snižuje pádovou rychlost",
+        "zvyšuje účinnost směrovky"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 17,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "3 Čím se dlouhodobě zmenšují síly v řízení?",
+      "options": [
+        "diferenciálními výchylkami křidélek",
+        "aerodynamickým vyvážením řídících ploch",
+        "vířiči",
+        "ocasními plochami tvaru T"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 17,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "4 Jaký účel má hmotové vyvážení kormidel?",
+      "options": [
+        "brání jejich kmitání",
+        "zmenšuje síly v řízení",
+        "zvětšuje síly v řízení",
+        "vyvažuje řízení tak, aby na něj bylo možno působit malou silou"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 17,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "5 Za letu s konstantním nastavením výkonu motoru má letadlo snahu neustále zvedat příď. Jak lze této snaze zabránit?",
+      "options": [
+        "posunem těžiště dozadu",
+        "výchylkou výškovky nahoru",
+        "výchylkou trimu výškovky dolů",
+        "výchylkou trimu výškovky nahoru verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 17,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "6 Trim výškovky je vychýlen nahoru. V jaké poloze je jeho indikátor?",
+      "options": [
+        "neutrální",
+        "příčně vyváženo",
+        "těžký na ocas",
+        "těžký na hlavu"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 18,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "7 Který poměr popi suje plošné zatížení křídla?",
+      "options": [
+        "plocha křídla k hmotnosti",
+        "odpor k ploše křídla",
+        "odpor k hmotnosti",
+        "hmotnost k ploše křídla"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 18,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "8 Který faktor zvýší za letu násobek zatížení?",
+      "options": [
+        "Vzestupný poryv vzduchu",
+        "větší hmotnost letounu",
+        "přední poloha těžiště",
+        "menší hustota vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 18,
+      "id": "letove-zasady-letoun-8"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Jaký výrok o vrtuli konstantních otáček je pravdivý?",
+      "options": [
+        "udržuje konstantní rychlost letu",
+        "úhel nastavení listů se zvětšuje při větších rychlostech letu",
+        "otáčky vrtule se zmenšují při malých rychlostech letu",
+        "výkon motoru udržuje nastavené otáčky vrtule konstantní"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 18,
+      "id": "letove-zasady-letoun-89"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "0 Zkroucení vrtulových listů zajišťuje:",
+      "options": [
+        "přibližně stejné zatížení způsobené stejným efektivním úhlem náběhu po celé délce listu",
+        "největší možný úhel náběhu na konci listu",
+        "většina tahu se vytváří u kořene listu",
+        "většina tahu se vytváří na konci listu verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 18,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "1 Mlýnkující vrtule po vysazení motoru:",
+      "options": [
+        "vytváří větší odpor než tah",
+        "nevytváří ani tah ani odpor",
+        "zlepšuje vlastnosti klouzavého letu",
+        "má větší úhel nastavení listů než v praporu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 19,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "2 Při klesání konstantní rychlostí na volnoběhu pohne pilot pákou ovládání vrtule dozadu. Jak se to projeví na úhlu nastavení listů vrtule a úhlu klesání letadla?",
+      "options": [
+        "listy se nastaví na větší úhel nastavení, úhel klesání se zmenší",
+        "listy se nastaví na větší úhel nastavení, úhel klesání se zvětší",
+        "l isty se nastaví na menší úhel nastavení, úhel klesání se zmenší",
+        "listy se nastaví na menší úhel nastavení, úhel klesání se zvětší"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 19,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "3 Jaký režim letu označuje bod (1) na obrázku? Viz obr. (PFA-008)",
+      "options": [
+        "minimální rychlost",
+        "maximální klouzavost",
+        "let na zádech",
+        "pád"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 19,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "4 Jaký režim letu označuje bod (5) na obrázku? Viz obr. (PFA-008)",
+      "options": [
+        "minimální rychlost",
+        "maximální klouzavost",
+        "let na zádech",
+        "pád"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 19,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "5 Náklon v zatáčce o 360° za 2 minuty závisí na:",
+      "options": [
+        "pravé vzdušné rychlost i",
+        "tíze letadla",
+        "násobku zatížení",
+        "větru verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 19,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "6 Jaký je vztah mezi násobkem (n) a pádovou rychlostí (vS) v koordinované zatáčce?",
+      "options": [
+        "n je větší než 1, vS je větší než v rovném letu",
+        "n je větší než 1, vS je menší než v rovném letu",
+        "n je menší než 1, vS je menší než v rovném letu",
+        "n je menší než 1, vS je větší než v rovném letu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 20,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "7 Jak se změní rovnováha sil v zatáčce?",
+      "options": [
+        "vztlak musí být větší, aby vyrovnal součet tíhy a odstředivé síly",
+        "vztlak musí být menší, aby vyrovnal menší součet sil v porovnání s přímým letem",
+        "vertikální složka vztlaku v zatáčce je odstředivá síla",
+        "výsledná dostředivá síla je součtem tíhy a odstředivé síly"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 20,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "8 Vyrovnávání tlaku mezi horní a spodní stranou křídla má za následek:",
+      "options": [
+        "indukovaný odpor vytvářený víry na konci křídel",
+        "vztlak vytvářený víry na konci křídel",
+        "profilový odpor vytvářený víry na konci křídel",
+        "laminární proudění vytvářené víry na konci křídel"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 20,
+      "id": "letove-zasady-letoun-9"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "Jaký účinek má přízemní efekt?",
+      "options": [
+        "nárůst vztlaku a pokles indukovaného odporu v blízkosti země",
+        "pokles vztlaku a pokles indukovaného odporu v blízkosti země",
+        "nárůst vztlaku a nárůst indukovaného odporu v blízkosti země",
+        "pokles vztlaku a nárůst indukovaného odporu v blízkosti země"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 20,
+      "id": "letove-zasady-letoun-99"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "0 Jaký je rozdíl mezi vývrtkou a spirálou?",
+      "options": [
+        "vývrtka: odtržení proudu na vnitřním křídle, rychlost konstantní – spirála: není odtržení proudu, rychlost rychle narůstá",
+        "vývrtka: odtržení proudu na vnějším křídle, rychlost konstantní – spirála: odtržení není, rychlost rychle narůstá",
+        "vývrtka: odtržení proudu na vnitřním křídle, rychlost rychle narůstá – spirála: odtržení není, rychlost konstantní",
+        "vývrtka: odtržení proudu na vnějším křídle, rychlost rychle narůstá – spirála: odtržení není, rychlost konstantní verze 1. 3 ze dne 12. 08. 202 5"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Letoun",
+      "sourceFile": "Letove-zasady-letoun.pdf",
+      "page": 20,
+      "id": "letove-zasady-letoun-10"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Většina nehod v letectví je způsobena:",
+      "options": [
+        "technickou závadou",
+        "zeměpisnými vlivy",
+        "lidskou chybou",
+        "meteorologickými vlivy"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-letoun-(2)-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Model \"švýcarského sýra\" se používá k vysvětlení:",
+      "options": [
+        "řetězce chyb",
+        "stavu připravenosti pilota",
+        "postupu pro nouzové přistání",
+        "optimálního řešení problému"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-letoun-(2)-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Kolik procent kyslíku je v atmosféře v 6000 ft?",
+      "options": [
+        "12 %",
+        "21 %",
+        "78 %",
+        "18.9 %"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-letoun-(2)-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Kolik procent dusíku je v atmosféře?",
+      "options": [
+        "21 %",
+        "78 %",
+        "1 %",
+        "0.1 %"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-letoun-(2)-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "V přibližně jaké výšce je atmosférický tlak poloviční než při střední hladině moře (1013 hPa)?",
+      "options": [
+        "5000 ft",
+        "10000 ft",
+        "18000 ft",
+        "22000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-letoun-(2)-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Vzduch se skládá z kyslíku, dusíku a ostatních plynů. Jaké je přibližně percentuáln í složení těch ostatních plynů?",
+      "options": [
+        "0.1 %",
+        "21 %",
+        "78 %",
+        "1 %"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Otrava kysličníkem uhelnatým může být způsobena:",
+      "options": [
+        "kouřením",
+        "alkoholem",
+        "nezdravou výživou",
+        "nedostatkem spánku"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Co znamená pojem \"červen ý black out \"?",
+      "options": [
+        "červené vidění během záporných násobků",
+        "chudokrevnost způsobená zraněním",
+        "porucha barvocitu při východu a západu slunce",
+        "nemoc z dekomprese způsobená ukvapeností"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Otrava kysličníkem uhelnatým může být způsobena:",
+      "options": [
+        "zamrznutím Pitot-statického systému",
+        "vysazením generátoru",
+        "palivem nebo hydraulickou kapalinou",
+        "trhlinami v tepelném výměníku"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Co z následujícího NENÍ projevem hyperventilace?",
+      "options": [
+        "brnění",
+        "křeče"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Který z následujících příznaků může znamenat výškovou nemoc?",
+      "options": [
+        "zmodrání rtů a konečků prstů",
+        "svalové křeče v horní části těla",
+        "modřiny na celém těle",
+        "bolest kolen a spodní části nohou"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Který ze smyslů je nejvíce ovlivněn výškovou nemocí?",
+      "options": [
+        "sluch",
+        "hmat",
+        "zrak",
+        "čich"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Od jaké nadmořské výšky obvykle lidské tělo reaguje na snižující se tlak vzduchu?",
+      "options": [
+        "2000 ft",
+        "7000 ft",
+        "10000 ft",
+        "12000 ft"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-letoun-(2)-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Jaká nadmořská výška znamená spodní mez, od které není lidské tělo schopné úplně vyrovnat vliv nízkého atmosférického tlaku?",
+      "options": [
+        "7000 ft",
+        "5000 ft",
+        "12000 ft",
+        "22000 ft"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-letoun-(2)-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Jakou funkci mají červené krvinky?",
+      "options": [
+        "přenos kyslíku",
+        "imunitní obrana",
+        "srážlivost krve",
+        "regulace cukru v krvi"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-letoun-(2)-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Co z následujícího je odpovědné za srážlivost krve?",
+      "options": [
+        "červené krvinky",
+        "bílé krvinky",
+        "krevní destičky",
+        "cévní kapiláry"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-letoun-(2)-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Jaká je funkce bílých krvinek?",
+      "options": [
+        "přenos kyslíku",
+        "imunitní obrana",
+        "srážlivost krve",
+        "regulace cukru v krvi"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-letoun-(2)-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Jaká je funkce krevních destiček?",
+      "options": [
+        "přenos kyslíku",
+        "imunitní obrana",
+        "srážlivost krve",
+        "regulace cukru v krvi"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-letoun-(2)-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co z následujícího NENÍ rizikovým faktorem pro nástup výškové nemoci?",
+      "options": [
+        "darování krve",
+        "kouření",
+        "menstruace",
+        "potápění"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-letoun-(2)-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Anemická hypoxie může být způsobena:",
+      "options": [
+        "otravou kysličníkem uhelnatým",
+        "velkými nadmořskými výškami",
+        "alkoholem",
+        "nízkým tlakem"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-letoun-(2)-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Jaká je správná reakce, cítí-li se náhle cestující nepohodlně při traťovém letu?",
+      "options": [
+        "zvýšit teplotu v kabině a poskytnout mu deku",
+        "nemluvit a zvolit větší rychlost letu",
+        "nastavit teplotu kabiny a vyhnout se velkým náklonům",
+        "poskytnout kyslík a vyhnout se nízkým násobkům"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-letoun-(2)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Jaký je správný výraz pro nedobrovolnou reakci organizmu na podráždění receptoru?",
+      "options": [
+        "reflex",
+        "redukce",
+        "virulence",
+        "koherence"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-letoun-(2)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Jaký je správný název systému, který, kromě jiného, řídí dýchání, trávení a tep srdce?",
+      "options": [
+        "autonomní nervový systém",
+        "kritický nervový systém",
+        "automatický nervový systém",
+        "plnící nervový systém"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-letoun-(2)-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Co je to chyba paralaxy?",
+      "options": [
+        "chyba v porozumění při komunikaci mezi piloty",
+        "chybné čtení přístrojů způsobené úhlem pohledu",
+        "nevnímání rychlosti při pojíždění",
+        "dlouhozrakost způsobená stářím, zvláště v noci"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-letoun-(2)-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jaká vlastnost je důležitá, když si pilot vybírá sluneční brýle?",
+      "options": [
+        "zakřivené okraje",
+        "nepolarizované",
+        "nerozbitné",
+        "bez UV filtru"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-letoun-(2)-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Jaká část oka je odpovědná za barevné vidění?",
+      "options": [
+        "tyčinky",
+        "čípky",
+        "čočka",
+        "slepá skvrna"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-letoun-(2)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Spojení středního ucha a oblasti nosu a hrdla se nazývá:",
+      "options": [
+        "ušní bubínek",
+        "Eustachova trubice",
+        "kochlea",
+        "vnitřní ucho"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-letoun-(2)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "V jaké situaci NENÍ možné vyrovnat tlak mezi středním uchem a okolím?",
+      "options": [
+        "při dýchání pouze ústy",
+        "Eustachova trubice je ucpaná",
+        "během mírného a pomalého stoupání",
+        "všechna okna jsou zcela uzavřena"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-letoun-(2)-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Srovnání náklonu po delší době zatáčení může vést k pocitu:",
+      "options": [
+        "ustáleného zatáčení stále ve stejném směru",
+        "zahájení klesání",
+        "zatáčení do opačného směru",
+        "zahájení stoupání"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-letoun-(2)-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Co z následujícího NEZPŮSOBÍ ztrátu orientace?",
+      "options": [
+        "let pod vlivem alkoholu",
+        "rovný přímý let konstantní rychlostí",
+        "pohyby hlavou při zatáčení",
+        "turbulence v horizontálním letu"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-letoun-(2)-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Zrychlení během rovného horizontálního letu může vést k pocitu:",
+      "options": [
+        "klesání",
+        "stoupání",
+        "náklonu",
+        "letu na zádech"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-letoun-(2)-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Zpomalení během rovného horizontálního letu může vést k pocitu:",
+      "options": [
+        "klesání",
+        "stoupání",
+        "náklonu",
+        "letu na zádech"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-letoun-(2)-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Jak ý optický klam může být způsoben přiblížením na dráhu se sklonem do kopce?",
+      "options": [
+        "pilot má pocit, že přiblížení je příliš nízké, a proto se k dráze přibližuje nad správným úhlem sestupu",
+        "pilot mí pocit, že přiblížení je příliš rychlé, a proto se k dráze přibližuje nižší než normální přibližovací rychlostí",
+        "pilot má pocit, že přiblížení je příliš vysoké, a proto se k dráze přibližuje níže než pod správným úhlem sestupu",
+        "pilot má pocit, že přiblížení je příliš pomalé, a proto se k dráze přibližuje vyšší než normální přibližovací rychlostí"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-letoun-(2)-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Jaký optický klam může nastat při přiblížení k dráze se sklonem nahoru?",
+      "options": [
+        "pilot je na přistání dlouhý",
+        "pilot je na přistání krátký",
+        "pilot přistane vedle středové čáry",
+        "tvrdé přistání"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 8,
+      "id": "2.-lidska-vykonnost-letoun-(2)-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "K závrati dochází nejčastěji při pohybování hlavou:",
+      "options": [
+        "ve stoupání",
+        "v klesání",
+        "v přímém horizontálním letu",
+        "v zatáčce"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 8,
+      "id": "2.-lidska-vykonnost-letoun-(2)-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Šedé vidění bývá způsobeno:",
+      "options": [
+        "hyperventilací",
+        "kladným násobkem",
+        "únavou",
+        "kouřením"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 8,
+      "id": "2.-lidska-vykonnost-letoun-(2)-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Optický klam bývá většinou způsoben:",
+      "options": [
+        "binokulárním viděním",
+        "barvoslepostí",
+        "rychlými pohyby očí",
+        "špatným výkladem mozku"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 8,
+      "id": "2.-lidska-vykonnost-letoun-(2)-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Průměrný pokles hladiny alkoholu v krvi dospělé osoby za hodinu je přibližně o:",
+      "options": [
+        "0,001",
+        "0,0003",
+        "0,003",
+        "0,0001"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-letoun-(2)-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Co lze považovat za rizikový faktor pro cukrovku (diabetes)?",
+      "options": [
+        "konzumace zeleniny",
+        "nedostatek spánku",
+        "kouření",
+        "nadváha"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-letoun-(2)-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Rizikovým faktorem pro nemoc z dekomprese je:",
+      "options": [
+        "100 % kyslík po dekompresi",
+        "kouření",
+        "sportování",
+        "přístrojové potápění před letem"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-letoun-(2)-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Který výrok o krátkodobé paměti je pravdivý?",
+      "options": [
+        "může uchovat 5 (±2) položek na 1 až 2 minuty",
+        "může uchovat 10 (±5) položek na 30 až 60 sekund",
+        "může uchovat 3 (±1) položek na 5 až 10 sekund",
+        "může uchovat 7 (±2) položek na 10 až 20 sekund"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-letoun-(2)-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Na přibližně jakou dobu může krátkodobá paměť uchovat informace?",
+      "options": [
+        "3 až 7 sekund",
+        "30 až 40 sekund",
+        "10 až 20 sekund",
+        "35 až 50 sekund"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-letoun-(2)-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Co je skrytá chyba?",
+      "options": [
+        "chyba, které se pilot dopustil aktivně a vědomě",
+        "chyba, která má důsledek jen až po přistání",
+        "chyba, která má okamžitý dopad na řízení letadla",
+        "chyba, která po dlouhou dobu zůstane v systému neobjevena"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-letoun-(2)-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Co znamená pojem \"potvrzovací snaha\"?",
+      "options": [
+        "přednostní hledání argumentů pro podporu vlastního myšlenkového modelu",
+        "snaha o potvrzení každého radiotelefonního hovoru",
+        "smyčka zpětné vazby při uzavřené komunikaci",
+        "kritická kontrola dvojsmyslné situace za letu"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-letoun-(2)-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Nepřetržitý proces sledování současné situace za letu se nazývá:",
+      "options": [
+        "situační povědomí",
+        "okamžité sledování letu",
+        "situační přemýšlení",
+        "postup předběžné kontroly"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-letoun-(2)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "S ohledem na komunikační model, jak lze zajistit použití stejného kódu při radiokomunikaci?",
+      "options": [
+        "přidělením zvláštní frekvence",
+        "použitím radiotelefonní frazeologie",
+        "použitím správné náhlavní soupravy",
+        "použitím radiostanic certifikovaných pro letectví"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-letoun-(2)-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Jakými různými způsoby lze správně řešit riziko?",
+      "options": [
+        "vyhnout se, snížit, převést, přijmout",
+        "vyhnout se, ignorovat, zmírnit, snížit",
+        "ignorovat, přijmout, převést, vyloučit",
+        "vyloučit, vyhnout se, zmírnit, převést"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-letoun-(2)-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Za jakých okolností je pravděpodobnější přijmutí vyššího rizika?",
+      "options": [
+        "není-li k dispozici dostatek informací",
+        "kvůli skupinově-dynamickému efektu",
+        "při zkušebních letech kvůli vyšší hladině nervozity",
+        "při plánování letu, je-li předpovídáno výborné počasí"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-letoun-(2)-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Co znamená \"posun rizika\"?",
+      "options": [
+        "náhlá změna směru přistání, má-li dráha sklon do kopce",
+        "seřízení sedačky za letu",
+        "provedení skluzu na krátkém finále",
+        "tendence přijímat vyšší riziko ve skupině"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-letoun-(2)-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Jaké nebezpečné přístupy jsou často kombinovány?",
+      "options": [
+        "sebeuvolnění a předvádění se",
+        "nezranitelnost a sebeuvolnění",
+        "impulzivita a bezstarostnost",
+        "předvádění se a nezranitelnost"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-letoun-(2)-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Co je znakem přístupu předvádění se?",
+      "options": [
+        "pečlivá předletová prohlídka",
+        "riskantní letové manévry pro upoutání diváků na zemi",
+        "rychlá odevzdanost se ve složitých a kritických situacích",
+        "důkladné vyhodnocení rizik v předem neznámých situacích"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-letoun-(2)-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Co může vést k chybám lidského faktoru?",
+      "options": [
+        "dvojitá kontrola příslušné činnosti",
+        "správné používání seznamu úkonů",
+        "pochybnosti, když se něco zdá nejasné nebo dvojsmyslné",
+        "sklon vidět to, co lze předpokládat"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-letoun-(2)-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Jaká je nejlepší kombinace povahových rysů s ohledem na individuální přístup a chování pilota?",
+      "options": [
+        "introvertní – stabilní",
+        "introvertní – nestabilní",
+        "extrovertní – stabilní",
+        "extrovertní – nestabilní"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-letoun-(2)-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Samolibost je rizikem kvůli:",
+      "options": [
+        "velkému počtu chyb, kterých se lidé normálně dopouštějí",
+        "zvýšené automatizaci v pilotní kabině",
+        "lepší možnosti výcviku pro mladé piloty",
+        "vysoké poruchovosti technických systémů"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-letoun-(2)-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Ve kterém místě diagramu je zobrazena ideální hladina vyburcování? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres",
+      "options": [
+        "bod A",
+        "bod B",
+        "bod C",
+        "bod D"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-letoun-(2)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Ve kterém místě diagramu se nachází přetížený pilot? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres",
+      "options": [
+        "bod A",
+        "bod B",
+        "bod C",
+        "bod D"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-letoun-(2)-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Která z následujících vlastností je ovlivněna stresem? 1. pozornost 2. soustředěnost 3. odpovědnost 4. paměť",
+      "options": [
+        "1",
+        "1, 2, 3",
+        "2, 4",
+        "1, 2, 3, 4"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-letoun-(2)-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Která odpověď týkající se stresu je správná?",
+      "options": [
+        "stres a jeho různé příznaky jsou pro bezpečnost letu bezvýznamné",
+        "každý reaguje na stres stejným způsobem",
+        "stres může nastat, i když se zdá, že daný problém nemá řešení",
+        "výcvik a zkušenosti nemají žádný vliv na výskyt stresu"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Letoun",
+      "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
+      "page": 13,
+      "id": "2.-lidska-vykonnost-letoun-(2)-58"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Většina nehod v letectví je způsobena:",
+      "options": [
+        "technickou závadou",
+        "zeměpisnými vlivy",
+        "lidskou chybou meteorologickými vlivy"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-vrtulnik-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Model \"švýcarského sýra\" se používá k vysvětlení:",
+      "options": [
+        "řetězce chyb stavu připravenosti pilota postupu pro nouzové přistání",
+        "optimálního řešení problému"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-vrtulnik-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Kolik procent kyslíku je v atmosféře v 6000 ft? 12 %",
+      "options": [
+        "21 %",
+        "78 %",
+        "18.9 %"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-vrtulnik-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Kolik procent dusíku je v atmosféře?",
+      "options": [
+        "21 %",
+        "78 % 1 % 0.1 %"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 1,
+      "id": "2.-lidska-vykonnost-vrtulnik-4"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Vzduch se skládá z kyslíku, dusíku a ostatních plynů. Jaké je přibližně percentuální složení těch ostatních plynů?",
+      "options": [
+        "0.1 %",
+        "21 % 78 %",
+        "1 %"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-vrtulnik-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Otrava kysličníkem uhelnatým může být způsobena:",
+      "options": [
+        "kouřením alkoholem nezdravou výživou",
+        "nedostatkem spánku"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-vrtulnik-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Co znamená pojem \"červen ý black out \"?",
+      "options": [
+        "červené vidění během záporných násobků chudokrevnost způsobená zraněním",
+        "porucha barvocitu při východu a západu slunce",
+        "nemoc z dekomprese způsobená ukvapeností"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-vrtulnik-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Otrava kysličníkem uhelnatým může být způsobena:",
+      "options": [
+        "zamrznutím Pitot-statického systému",
+        "vysazením generátoru palivem nebo hydraulickou kapalinou",
+        "trhlinami v tepelném výměníku"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 2,
+      "id": "2.-lidska-vykonnost-vrtulnik-9"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Který z následujících příznaků může znamenat výškovou nemoc?",
+      "options": [
+        "zmodrání rtů a konečků prstů",
+        "svalové křeče v horní části těla modřiny na celém těle bolest kolen a spodní části nohou"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-vrtulnik-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Který ze smyslů je nejvíce ovlivněn výškovou nemocí? sluch hmat",
+      "options": [
+        "zrak",
+        "čich"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-vrtulnik-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Od jaké nadmořské výšky obvykle lidské tělo reaguje na snižující se tlak vzduchu? 2000 ft",
+      "options": [
+        "7000 ft",
+        "10000 ft",
+        "12000 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-vrtulnik-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Jaká nadmořská výška znamená spodní mez, od které není lidské tělo schopné úplně vyrovnat vliv nízkého atmosférického tlaku?",
+      "options": [
+        "7000 ft",
+        "5000 ft",
+        "12000 ft 22000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 3,
+      "id": "2.-lidska-vykonnost-vrtulnik-14"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Co z následujícího je odpovědné za srážlivost krve?",
+      "options": [
+        "červené krvinky",
+        "bílé krvinky",
+        "krevní destičky cévní kapiláry"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-vrtulnik-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Jaká je funkce bílých krvinek? přenos kyslíku",
+      "options": [
+        "imunitní obrana srážlivost krve",
+        "regulace cukru v krvi"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-vrtulnik-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Jaká je funkce krevních destiček? přenos kyslíku imunitní obrana",
+      "options": [
+        "srážlivost krve",
+        "regulace cukru v krvi"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-vrtulnik-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co z následujícího NENÍ rizikovým faktorem pro nástup výškové nemoci?",
+      "options": [
+        "darování krve",
+        "kouření menstruace",
+        "potápění"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2.-lidska-vykonnost-vrtulnik-19"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Jaká nebezpečná situace může nastat, je-li motor vrtulníku spouštěn při silném větru do zad?",
+      "options": [
+        "otrava kysličníkem uhelnatým",
+        "rotační závrať binokulární vidění nemoc z dekomprese"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-vrtulnik-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Jaké nebezpečí se objeví při letu vrtulníku v noci s vířícím sněhem? vysoký tlak a nízké teploty mohou způsobit ucpání Eustachovy trubice",
+      "options": [
+        "prot i srážková světla a rotor může způsobit závrať displeje zobrazující činnost motorů jsou sledovány se zvýšenou pozorností",
+        "vysoké parciální tlaky v lidském těle mohou způsobit hyperventilaci nebo autokinézu"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-vrtulnik-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Jaká je správná reakce, cítí-li se náhle cestující nepohodlně při traťovém letu? zvýšit teplotu v kabině a poskytnout mu deku nemluvit a zvolit větší rychlost letu",
+      "options": [
+        "nastavit teplotu kabiny a vyhnout se velkým náklonům",
+        "poskytnout kyslík a vyhnout se nízkým násobkům"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-vrtulnik-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Jaký je správný výraz pro nedobrovolnou reakci organizmu na podráždění receptoru?",
+      "options": [
+        "reflex",
+        "redukce virulence koherence"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 5,
+      "id": "2.-lidska-vykonnost-vrtulnik-24"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Co je to chyba paralaxy?",
+      "options": [
+        "chyba v porozumění při komunikaci mezi piloty",
+        "chybné čtení přístrojů způsobené úhlem pohledu nevnímání rychlosti při pojíždění dlouhozrakost způsobená stářím, zvláště v noci"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-vrtulnik-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Jaká vlastnost je důležitá, když si pilot vybírá sluneční brýle? zakřivené okraje",
+      "options": [
+        "nepolarizované nerozbitné",
+        "bez UV filtru"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-vrtulnik-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Jaká část oka je odpovědná za barevné vidění? tyčinky",
+      "options": [
+        "čípky",
+        "čočka",
+        "slepá skvrna"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-vrtulnik-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Spojení středního ucha a oblasti nosu a hrdla se nazývá:",
+      "options": [
+        "ušní bubínek",
+        "Eustachova trubice kochlea vnitřní ucho"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 6,
+      "id": "2.-lidska-vykonnost-vrtulnik-29"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Srovnání náklonu po delší době zatáčení může vést k pocitu:",
+      "options": [
+        "ustáleného zatáčení stále ve stejném směru",
+        "zahájení klesání",
+        "zatáčení do opačného směru zahájení stoupání"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-vrtulnik-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Co z následujícího NEZPŮSOBÍ ztrátu orientace? let pod vlivem alkoholu",
+      "options": [
+        "rovný přímý let konstantní rychlostí pohyby hlavou při zatáčení",
+        "turbulence v horizontálním letu"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-vrtulnik-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Zrychlení během rovného horizontálního letu může vést k pocitu: klesání",
+      "options": [
+        "stoupání",
+        "náklonu",
+        "letu na zádech"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-vrtulnik-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Zpomalení během rovného horizontálního letu může vést k pocitu:",
+      "options": [
+        "klesání",
+        "stoupání náklonu letu na zádech"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-vrtulnik-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Jak ý optický klam může být způsoben přiblížením na dráhu se sklonem z kopce?",
+      "options": [
+        "pilot má pocit, že přiblížení je příliš nízké, a proto se k dráze přibližuje nad správným úhlem sestupu",
+        "pilot mí pocit, že přiblížení je příliš rychlé, a proto se k dráze přibližuje nižší než normální přibližovací rychlostí",
+        "pilot má pocit, že přiblížení je příliš vysoké, a proto se k dráze přibližuje níže než pod správným úhlem sestupu",
+        "pilot má pocit, že přiblížení je příliš pomalé, a proto se k dráze přibližuje vyšší než normální přibližovací rychlostí"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 7,
+      "id": "2.-lidska-vykonnost-vrtulnik-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Jaký optický klam může nastat při přiblížení k dráze se sklonem nahoru?",
+      "options": [
+        "pilot je na přistání dlouhý",
+        "pilot je na přistání krátký pilot přistane vedle středové čáry tvrdé přistání"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 8,
+      "id": "2.-lidska-vykonnost-vrtulnik-36"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Šedé vidění bývá způsobeno: hyperventilací",
+      "options": [
+        "kladným násobkem",
+        "únavou",
+        "kouřením"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 8,
+      "id": "2.-lidska-vykonnost-vrtulnik-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Optický klam bývá většinou způsoben:",
+      "options": [
+        "binokulárním viděním",
+        "barvoslepostí rychlými pohyby očí",
+        "špatným výkladem mozku"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 8,
+      "id": "2.-lidska-vykonnost-vrtulnik-39"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Co lze považovat za rizikový faktor pro cukrovku (diabetes)?",
+      "options": [
+        "konzumace zeleniny",
+        "nedostatek spánku kouření",
+        "nadváha"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-vrtulnik-41"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Který výrok o krátkodobé paměti je pravdivý? může uchovat 5 (±2) položek na 1 až 2 minuty může uchovat 10 (±5) položek na 30 až 60 sekund",
+      "options": [
+        "může uchovat 3 (±1) položek na 5 až 10 sekund",
+        "může uchovat 7 (±2) položek na 10 až 20 sekund"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-vrtulnik-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Na přibližně jakou dobu může krátkodobá paměť uchovat informace?",
+      "options": [
+        "3 až 7 sekund",
+        "30 až 40 sekund",
+        "10 až 20 sekund 35 až 50 sekund"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 9,
+      "id": "2.-lidska-vykonnost-vrtulnik-44"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Co znamená pojem \"potvrzovací snaha\"?",
+      "options": [
+        "přednostní hledání argumentů pro podporu vlastního myšlenkového modelu",
+        "snaha o potvrzení každého radiotelefonního hovoru smyčka zpětné vazby při uzavřené komunikaci kritická kontrola dvojsmyslné situace za letu"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-vrtulnik-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Nepřetržitý proces sledování současné situace za letu se nazývá:",
+      "options": [
+        "situační povědomí okamžité sledování letu situační přemýšlení",
+        "postup předběžné kontroly"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-vrtulnik-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "S ohledem na komunikační model, jak lze zajistit použití stejného kódu při radiokomunikaci? přidělením zvláštní frekvence",
+      "options": [
+        "použitím radiotelefonní frazeologie",
+        "použitím správné náhlavní soupravy",
+        "použitím radiostanic certifikovaných pro letectví"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-vrtulnik-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Jakými různými způsoby lze správně řešit riziko?",
+      "options": [
+        "vyhnout se, snížit, převést, přijmout",
+        "vyhnout se, ignorovat, zmírnit, snížit ignorovat, přijmout, převést, vyloučit vyloučit, vyhnout se, zmírnit, převést"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 10,
+      "id": "2.-lidska-vykonnost-vrtulnik-49"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Co znamená \"posun rizika\"?",
+      "options": [
+        "náhlá změna směru přistání, má-li dráha sklon do kopce",
+        "seřízení sedačky za letu provedení skluzu na krátkém finále",
+        "tendence přijímat vyšší riziko ve skupině"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-vrtulnik-51"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Co je znakem přístupu předvádění se? pečlivá předletová prohlídka",
+      "options": [
+        "riskantní letové manévry pro upoutání diváků na zemi",
+        "rychlá odevzdanost se ve složitých a kritických situacích",
+        "důkladné vyhodnocení rizik v předem neznámých situacích"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-vrtulnik-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Co může vést k chybám lidského faktoru?",
+      "options": [
+        "dvojitá kontrola příslušné činnosti",
+        "správné používání seznamu úkonů pochybnosti, když se něco zdá nejasné nebo dvojsmyslné",
+        "sklon vidět to, co lze předpokládat"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 11,
+      "id": "2.-lidska-vykonnost-vrtulnik-54"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Samolibost je rizikem kvůli:",
+      "options": [
+        "velkému počtu chyb, kterých se lidé normálně dopouštějí",
+        "zvýšené automatizaci v pilotní kabině lepší možnosti výcviku pro mladé piloty vysoké poruchovosti technických systémů"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-vrtulnik-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Ve kterém místě diagramu je zobrazena ideální hladina vyburcování? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres bod A",
+      "options": [
+        "bod B bod C",
+        "bod D"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-vrtulnik-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Ve kterém místě diagramu se nachází přetížený pilot? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres bod A bod B",
+      "options": [
+        "bod C",
+        "bod D"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-vrtulnik-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Která z následujících vlastností je ovlivněna stresem? 1. pozornost 2. soustředěnost 3. odpovědnost 4. paměť",
+      "options": [
+        "1",
+        "1, 2, 3 2, 4",
+        "1, 2, 3, 4"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 12,
+      "id": "2.-lidska-vykonnost-vrtulnik-59"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Jaká oblačnost a počasí se objeví při vlhké a nestabilní vzduchové hmotě, která je převládajícím větrem tlačena proti pohoří a nucena stoupat?",
+      "options": [
+        "zastřené Cb s bouřkami a přeháňkami krup anebo deště",
+        "nevysoká, nestrukturovaná oblačnost Ns s mírným mrholením nebo sněžením (v zimě)",
+        "nevysoká oblačnost typu As nebo Cs s mírnými a dlouhotrvajícími srážkami",
+        "zataženo nízkým stratem (vysoká mlha) bez srážek"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 1,
+      "id": "3-meteorologie-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Jaká typ mlhy vzniká, když je vlhký a téměř nasycený vzduch nucen převládajícím větrem stoupat do kopců nebo malých hor?",
+      "options": [
+        "orografická mlha",
+        "radiační mlha",
+        "advekční mlha",
+        "mlha v kopcích"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 1,
+      "id": "3-meteorologie-letoun-(1)-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Jaká situace v meteorologii se nazývá přerůstání konvek tivní oblačnosti?",
+      "options": [
+        "vertikální rozvoj kumulů až do dešťových přeháněk",
+        "změna od termiky bez oblačnosti k termice s oblačností v odpoledních hodinách",
+        "nárůst kumulovité oblačnosti až pod vrstvu inverze",
+        "vývoj termické níže až k bouřkové níži"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 1,
+      "id": "3-meteorologie-letoun-(1)-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaké je složení vzduchu?",
+      "options": [
+        "kyslík 21 %, dusík 78 %, vzácné plyny / kysličník uhličitý 1 %",
+        "dusík 21 %, kyslík 78 %, vzácné plyny / kysličník uhličitý 1 %",
+        "kyslík 78 %, vodní pára 21 %, dusík 1 %",
+        "kyslík 21 %, vodní pára 78 %, vzácné plyny / kysličník uhličitý 1 %"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 1,
+      "id": "3-meteorologie-letoun-(1)-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Ve které vrstvě atmosféry dochází nejčastěji k meteorologickým jevům?",
+      "options": [
+        "stratosféra",
+        "troposféra",
+        "tropopauza",
+        "termosféra"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 1,
+      "id": "3-meteorologie-letoun-(1)-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Jaká je podle mezinárodní standardní atmosféry hmotnost krychle vzduchu o hraně 1 m?",
+      "options": [
+        "0.01225 kg",
+        "0.1225 kg",
+        "1.225 kg",
+        "12.25 kg"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 2,
+      "id": "3-meteorologie-letoun-(1)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Jak se podle mezinárodní standardní atmosféry mění v troposféře teplota s narůstající výškou?",
+      "options": [
+        "nárůst o 2 °C / 100 m",
+        "pokles o 2 °C / 100 m",
+        "pokles o 2 °C / 1000 ft",
+        "nárůst o 2 °C / 1000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 2,
+      "id": "3-meteorologie-letoun-(1)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Jaká je střední výška tropopauzy podle mezinárodní standardní atmosféry?",
+      "options": [
+        "11.000 ft",
+        "18.000 ft",
+        "36.000 m",
+        "11.000 m"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 2,
+      "id": "3-meteorologie-letoun-(1)-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Pojem tropopauza je definován jako:",
+      "options": [
+        "hraniční vrstva mezi troposférou a stratosférou",
+        "vrstva nad troposférou, kde dochází k nárůstu teploty",
+        "hraniční vrstva mezi mezosférou a stratosférou",
+        "výška, nad kterou se teplota začíná snižovat"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 2,
+      "id": "3-meteorologie-letoun-(1)-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Jaká jednotka se používá pro teploty udávané leteckými meteorologickými službami v Evropě a Africe?",
+      "options": [
+        "Kelvin",
+        "stupně Fahrenheita",
+        "stupně Celsia (° C)",
+        "Gpdam"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 2,
+      "id": "3-meteorologie-letoun-(1)-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Co znamená výraz inverzní vrstva?",
+      "options": [
+        "vrstva v atmosféře, kde teplota roste s rostoucí výškou",
+        "vrstva v atmosféře, kde teplota klesá s rostoucí výškou",
+        "vrstva v atmosféře, kde je teplota konstantní s rostoucí výškou",
+        "hraniční vrstva mezi dvěma jinými vrstvami atmosféry"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 3,
+      "id": "3-meteorologie-letoun-(1)-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Co znamená výraz izotermální vrstva?",
+      "options": [
+        "vrstva v atmosféře, kde teplota roste s rostoucí výškou",
+        "vrstva v atmosféře, kde teplota klesá s rostoucí výškou",
+        "vrstva v atmosféře, kde je teplota s rostoucí výškou konstantní",
+        "hraniční vrstva mezi dvěma jinými vrstvami atmosféry"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 3,
+      "id": "3-meteorologie-letoun-(1)-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Pokles teploty s rostoucí výškou v troposféře je podle mezinárodní standardní atmosféry:",
+      "options": [
+        "3 °C / 100 m",
+        "0.6 °C / 100 m",
+        "1 °C / 100 m",
+        "0.65 °C / 100 m"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 3,
+      "id": "3-meteorologie-letoun-(1)-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Jaký proces může vést ke vzniku inverzní vrstvy ve výš ce přibližně 5000 ft (1500 m)?",
+      "options": [
+        "chladnutí země vyzařováním během noci",
+        "rozlévající se sestupný proud vzduchu v oblasti vysokého tlaku vzduchu",
+        "intenzivní ohřev sluncem během teplého letního dne",
+        "advekce studeného vzduchu v horní troposféře"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 3,
+      "id": "3-meteorologie-letoun-(1)-14"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "5 Přizemní inverzní vrstva může být způsobena:",
+      "options": [
+        "chladnutím země v noci",
+        "nárůstem oblačnosti ve středních výškách",
+        "rozsáhlým stoupáním vzduchu",
+        "zesilujícím nárazovým větrem"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 3,
+      "id": "3-meteorologie-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "6 Jaký je tlak vzduchu ve FL 180 (5500 m) podle mezinárodní standardní atmosféry?",
+      "options": [
+        "1013.25 hPa",
+        "250 hPa",
+        "500 hPa",
+        "300 hPa"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 4,
+      "id": "3-meteorologie-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "7 Tlak měřený pozemní stanicí a přepočítaný na střední hladinu moře (MSL) ve skutečné atmosféře se nazývá:",
+      "options": [
+        "QFF",
+        "QNH",
+        "QFE",
+        "QNE"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 4,
+      "id": "3-meteorologie-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Co způsobuje pokles hustoty vzduchu?",
+      "options": [
+        "nárůst teploty, nárůst tlaku",
+        "pokles teploty, nárůst tlaku",
+        "pokles teploty, pokles tlaku",
+        "nárůst teploty, pokles tlaku"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 4,
+      "id": "3-meteorologie-letoun-(1)-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Tlak na hladině moře podle mezinárodní standardní atmosféry je:",
+      "options": [
+        "1013.25 hPa",
+        "113.25 hPa",
+        "15 hPa",
+        "1123 hPa"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 4,
+      "id": "3-meteorologie-letoun-(1)-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Výška tropopauzy podle mezinárodní standardní atmosféry je:",
+      "options": [
+        "36.000 ft",
+        "11.000 ft",
+        "5.500 ft",
+        "48.000 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 4,
+      "id": "3-meteorologie-letoun-(1)-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Barometrický výškoměr ukazuje výšku nad:",
+      "options": [
+        "střední hladinou moře",
+        "zvolenou referenční tlakovou hladinou",
+        "hladinou standardního tlaku 1013.25 hPa",
+        "zemí"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 5,
+      "id": "3-meteorologie-letoun-(1)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Výškoměr lze přezkoušet na zemi nastavením:",
+      "options": [
+        "QNE a kontrolou, že ukazuje 0",
+        "QFE a porovnáním indikace s nadmořskou výškou letiště",
+        "QFF a porovnáním indikace s nadmořskou výškou letiště",
+        "QNH a porovnáním indikace s nadmořskou výškou letiště"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 5,
+      "id": "3-meteorologie-letoun-(1)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Barometrický výškoměr nastavený na QFE ukazuje:",
+      "options": [
+        "výšku nad standardní tlakovou hladinou 1013.25 hPa",
+        "skutečnou nadmořskou výšku nad střední hladinou moře (MSL)",
+        "výšku nad úrovní tlaku vztaženého k výšce letiště nad mořem",
+        "výšku nad stření hladinou moře (MSL)"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 5,
+      "id": "3-meteorologie-letoun-(1)-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Barometrický výškoměr nastavený na QNH ukazuje:",
+      "options": [
+        "výšku nad hladinou standardního tlaku 1013.25 hPa",
+        "skutečnou nadmořskou výšku nad tlakovou hladinou střední hladiny moře (MSL)",
+        "výšku nad tlakovou hladinou nadmořské výšky letiště",
+        "výšku nad střední hladinou moře (MSL)"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 5,
+      "id": "3-meteorologie-letoun-(1)-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jaká je skutečná nadmořská výška zaokrouhlená na nejbližších 50 ft, je-li dáno: QNH: 983 hPa, FL 85, teplota vnějšího vzduchu: ISA-10°",
+      "options": [
+        "9400 ft",
+        "7300 ft",
+        "7600 ft",
+        "7900 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 5,
+      "id": "3-meteorologie-letoun-(1)-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Jak lze z přízemních meteorologických map odvodit směr a rychlost větru?",
+      "options": [
+        "podle zaoblení a vzdálenosti izobar",
+        "podle tvaru a vzdálenosti izohyps",
+        "podle tvaru teplých a studených front",
+        "z údajů v textové části mapy"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 6,
+      "id": "3-meteorologie-letoun-(1)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Jaká síla způsobuje vítr?",
+      "options": [
+        "C oriolisova síla",
+        "odstředivá síla",
+        "síla tlakového gradientu",
+        "termální síla"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 6,
+      "id": "3-meteorologie-letoun-(1)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Směr větru nad třecí vrstvou s převažujícím tlakovým gradientem je:",
+      "options": [
+        "kolmo na izobary",
+        "kolmo na izohypsy",
+        "pod úhlem 30° k izobarám směrem k tlakové níži",
+        "rovnoběžně s izobarami"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 6,
+      "id": "3-meteorologie-letoun-(1)-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Který z uvedených povrchů nejvíc sníží rychlost větru třením?",
+      "options": [
+        "rovina, množství vegetace",
+        "horský terén pokrytý vegetací",
+        "rovina, poušť, žádná vegetace",
+        "oceán"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 6,
+      "id": "3-meteorologie-letoun-(1)-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Pohyb vzduchu směrem k sobě se nazývá:",
+      "options": [
+        "divergence",
+        "subsidence",
+        "konvergence",
+        "sankordence"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 6,
+      "id": "3-meteorologie-letoun-(1)-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Pohyb vzduchu směrem od sebe se nazývá:",
+      "options": [
+        "divergence",
+        "subsidence",
+        "konvergence",
+        "sankordence"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 7,
+      "id": "3-meteorologie-letoun-(1)-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Jaký vývoj počasí způsobí přízemní konvergence?",
+      "options": [
+        "klesající vzduch a tvorba oblačnosti",
+        "klesající vzduch a rozpouštění oblačnosti",
+        "stoupající vzduch a tvorba oblačnosti",
+        "stoupající vzduch a rozpouštění oblačnosti"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 7,
+      "id": "3-meteorologie-letoun-(1)-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Když se čelně střetnou dvě vzduchové masy, jak se to nazývá a jaký jev bude následovat?",
+      "options": [
+        "divergence s klesajícím vzduchem",
+        "konvergence s klesajícím vzduchem",
+        "divergence se stoupajícím vzduchem",
+        "konvergence se stoupajícím vzduchem"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 7,
+      "id": "3-meteorologie-letoun-(1)-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Jak é vzduchové masy hlavně ovlivňují střední Evropu?",
+      "options": [
+        "tropický a arktický studený vzduch",
+        "arktický a polární studený vzduch",
+        "rovníkový a tropický teplý vzduch",
+        "studený polární a teplý sub tropický vzduch"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 7,
+      "id": "3-meteorologie-letoun-(1)-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "S ohledem globální cirkulaci v atmosféře, kde se setkává studený polární a teplý subtropický vzduch?",
+      "options": [
+        "na polární frontě",
+        "na zeměpisných pólech",
+        "na rovníku",
+        "v subtropickém pásu vyššího tlaku vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 7,
+      "id": "3-meteorologie-letoun-(1)-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Vítr vanoucí do kopce je definován jako:",
+      "options": [
+        "anabatický vítr",
+        "katabatický vítr",
+        "konvergentní vítr",
+        "subsidentní vítr"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 8,
+      "id": "3-meteorologie-letoun-(1)-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Vítr vanoucí směrem dolů z kopce se nazývá:",
+      "options": [
+        "anabatický vítr",
+        "katabatický vítr",
+        "konvergentní vítr",
+        "subsidentní vítr"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 8,
+      "id": "3-meteorologie-letoun-(1)-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Vzduch sestupující za pohořím je definován jako:",
+      "options": [
+        "anabatický vítr",
+        "katabatický vítr",
+        "konvergentní vítr",
+        "divergentní vítr"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 8,
+      "id": "3-meteorologie-letoun-(1)-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Fén obvykle vzniká při:",
+      "options": [
+        "stabilitě, oblasti vysokého tlaku vzduchu a za bezvětří",
+        "instabilitě, oblasti vysokého tlaku vzduchu a za bezvětří",
+        "instabilitě, větru vanoucímu proti pohoří",
+        "stabilitě, větru vanoucímu proti pohoří"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 8,
+      "id": "3-meteorologie-letoun-(1)-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Jaký typ turbulence se typicky vyskytuje v blízkosti země na závětrné straně při fénu?",
+      "options": [
+        "termická turbulence",
+        "r otorové proudění",
+        "inverzní turbulence",
+        "turbulence v čistém vzduchu"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 8,
+      "id": "3-meteorologie-letoun-(1)-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Slabou turbulenci lze vždy očekávat:",
+      "options": [
+        "pod kumulovitou oblačností kvůli termické konvekci",
+        "nad kumulovitou oblačností kvůli termické konvekci",
+        "při vstupu do inverze",
+        "pod stratovitou oblačností ve středních vrstvách"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 9,
+      "id": "3-meteorologie-letoun-(1)-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Střední až silnou turbulenci lze očekávat:",
+      "options": [
+        "pod silnými vrstvami oblačnosti na návětrné straně pohoří",
+        "na závětrné straně pohoří, je-li přítomna rotorová oblačnost",
+        "v blízkosti rozlehlých nízkých stratů (vysoká mlha)",
+        "nad souvislými vrstvami oblačnosti"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 9,
+      "id": "3-meteorologie-letoun-(1)-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Která odpověď obsahuje všechna skupenství vody v atmosféře?",
+      "options": [
+        "kapalné",
+        "kapalné a pevné",
+        "kapalné, pevné a plynné",
+        "plynné a kapalné"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 9,
+      "id": "3-meteorologie-letoun-(1)-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Jak se mění teplota rosného bodu a relativní vlhkost při klesající teplotě vzduchu?",
+      "options": [
+        "teplota rosného bodu zůstává konstantní, relativní vlhkost se zvyšuje",
+        "teplota rosného bodu klesá, relativní vlhkost se zvyšuje",
+        "teplota rosného bodu zůstává konstantní, relativní vlhkost se snižuje",
+        "teplota rosného bodu roste, relativní vlhkost se snižuje"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 9,
+      "id": "3-meteorologie-letoun-(1)-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Jak se mění rozdíl mezi teplotou vzduchu a rosného bodu a relativní vlhkost s rostoucí teplotou vzduchu?",
+      "options": [
+        "rozdíl zůstává stejný, relativní vlhkost se snižuje",
+        "rozdíl se zvětšuje, relativní vlhkost se zmenšuje",
+        "rozdíl se zvětšuje, relativní vlhkost se zvětšuje",
+        "rozdíl zůstává stejný, relativní vlhkost se zvětšuje"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 9,
+      "id": "3-meteorologie-letoun-(1)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Deficit teploty rosného bodu je:",
+      "options": [
+        "vztah mezi skutečnou a maximální možnou vlhkostí vzduchu",
+        "rozdíl mezi skutečnou teplotou a rosným bodem",
+        "rozdíl mezi rosným bodem a kondenzačním bodem",
+        "maximální množství vodní páry, kterou může vzduch obsahovat"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 10,
+      "id": "3-meteorologie-letoun-(1)-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Jsou-li ostatní veličiny konstantní, pokles teploty způsobí:",
+      "options": [
+        "zvětšení rozdílu mezi teplotou rosného bodu a vzduchu, nárůst relativní vlhkosti",
+        "zmenšení rozdílu mezi teplotou rosného bodu a vzduchu a snížení relativní vlhkosti",
+        "zmenšení rozdílu mezi teplotou rosného bodu a vzduchu a nárůst relativní vlhkosti",
+        "zvětšení rozdílu mezi teplotou rosného bodu a vzduchu a pokles relativní vlhkosti"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 10,
+      "id": "3-meteorologie-letoun-(1)-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Co způsobuje uvolňování latentního tepla do horní troposféry?",
+      "options": [
+        "vypařování vody nad rozsáhlými vodními plochami",
+        "rozsáhlé oblasti klesajícího vzduchu",
+        "stabilizace přicházejících vzduchových hmot",
+        "vznik oblačnosti způsobený kondenzací"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 10,
+      "id": "3-meteorologie-letoun-(1)-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Adiabatický teplotní gradient nasyceného vzduchu je:",
+      "options": [
+        "úměrný adiabatickému teplotnímu gradientu suchého vzduchu",
+        "rovný adiabatickému teplotnímu gradientu suchého vzduchu",
+        "větší než adiabatický teplotní gradient suchého vzduchu",
+        "menší než adiabatický teplotní gradient suchého vzduchu"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 10,
+      "id": "3-meteorologie-letoun-(1)-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Adiabatický gradient teploty suchého vzduchu má střední hodnotu:",
+      "options": [
+        "0.65 °C / 100 m",
+        "1.0 °C / 100 m",
+        "0.6 °C / 100 m",
+        "2° / 1000 ft"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 10,
+      "id": "3-meteorologie-letoun-(1)-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Adiabatický teplotní gradient nasyceného vzduchu má střední hodnotu:",
+      "options": [
+        "0 °C / 100 m",
+        "1.0 °C / 100 m",
+        "0.6 °C / 100 m",
+        "2 °C / 1000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 11,
+      "id": "3-meteorologie-letoun-(1)-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Jaké počasí lze očekávat při podmíněně nestabilních podmínkách?",
+      "options": [
+        "věžovité kumuly, izolované dešťové přeháňky nebo bouřky",
+        "vrstevnatá oblačnost až do velkých výšek, trvalý déšť nebo sněžení",
+        "nízké kumuly se základnami ve středních výškách",
+        "obloha bez oblačnosti, slabý nebo mírný vítr"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 11,
+      "id": "3-meteorologie-letoun-(1)-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Jaké podmínky jsou vhodné pro tvorbu advekční mlhy?",
+      "options": [
+        "teplý vlhký vzduch se pohybuje nad studeným zemským povrchem",
+        "studený vlhký vzduch se pohybuje nad teplým oceánem",
+        "teplý vlhký vzduch chladne během noci s oblačností",
+        "vypařování vody z teplého vlhkého povrchu země do studeného vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 11,
+      "id": "3-meteorologie-letoun-(1)-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Na jaké základní druhy se rozděluje oblačnost?",
+      "options": [
+        "bouřková a přeháňková",
+        "vrstevnatá a vertikálně vyvinutá",
+        "kumulovit á, stratovitá a cirrovitá",
+        "stratovitá a námrazová"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 11,
+      "id": "3-meteorologie-letoun-(1)-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Oblačnost ve vysokých vrstvách se nazývá:",
+      "options": [
+        "strato -",
+        "ciro -",
+        "nimbo -",
+        "alto -"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 11,
+      "id": "3-meteorologie-letoun-(1)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Jaký meteorologický jev označený \"2\" lze očekávat na závětrné straně za podmínek na obrázku? Viz obr (MET-001).",
+      "options": [
+        "altokumulus kastelanus",
+        "altokumulus lentikularis",
+        "nimbostratus",
+        "kumulonimbus"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 12,
+      "id": "3-meteorologie-letoun-(1)-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Jaký typ oblačnosti je na obrázku? Viz obr (MET-002).",
+      "options": [
+        "kumulus",
+        "stratus",
+        "cirus",
+        "altus"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 12,
+      "id": "3-meteorologie-letoun-(1)-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Jaký typ oblačnosti je na obrázku? Viz obr (MET-004).",
+      "options": [
+        "kumulus",
+        "stratus",
+        "cirus",
+        "altokumulus"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 12,
+      "id": "3-meteorologie-letoun-(1)-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jaký faktor může ovlivnit výšku vrcholků kumulovité oblačnosti?",
+      "options": [
+        "relativní vlhkost",
+        "rozdíl mezi teplotou vzduchu a rosného bodu",
+        "přítomnost inverzní vrstvy",
+        "absolutní vlhkost"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 12,
+      "id": "3-meteorologie-letoun-(1)-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Jaké okolnosti mohou znamenat tendenci k tvorbě mlhy?",
+      "options": [
+        "nízký tlak, rostoucí teplota",
+        "silný vítr, klesající teplota",
+        "malý rozdíl mezi teplotou vzduchu a rosného bodu, rostoucí teplota",
+        "malý rozdíl mezi teplotou vzduchu a rosného bodu, klesající teplota"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 12,
+      "id": "3-meteorologie-letoun-(1)-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Jaké podmínky mohou zabránit tvorbě radiační mlhy?",
+      "options": [
+        "jasná noc bez oblačnosti",
+        "zataženo",
+        "bezvětří",
+        "žádný odpar ze zemského povrchu"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 13,
+      "id": "3-meteorologie-letoun-(1)-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Co způsobuje tvorbu advekční mlhy?",
+      "options": [
+        "studený vlhký vzduch se pohybuje nad teplým zemským povrchem",
+        "studený vlhký vzduch se mísí s teplým vlhkým vzduchem",
+        "teplý vlhký vzduch se pohybuje nad studeným zemským povrchem",
+        "dlouhé vyzařování tepla v noci bez oblačnosti"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 13,
+      "id": "3-meteorologie-letoun-(1)-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Co způsobuje tvorbu orografické mlhy (mlhy v kopcích)?",
+      "options": [
+        "studený vlhký vzduch se mísí s teplým vlhkým vzduchem",
+        "dlouhé vyzařování tepla v noci bez oblačnosti",
+        "teplý vlhký vzduch se pohybuje v horském terénu přes kopce",
+        "vypařování z teplého vlhkého zemského povrchu do velmi studeného vzduchu"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 13,
+      "id": "3-meteorologie-letoun-(1)-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Co je třeba pro tvorbu srážek v oblačnosti?",
+      "options": [
+        "střední až silné stoupavé proudy",
+        "vysoká vlhkost a vysoké teploty",
+        "přítomnost inverzní vrstvy",
+        "bezvětří a intenzivní sluneční svit"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 13,
+      "id": "3-meteorologie-letoun-(1)-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Tvorba středních až větších částic srážek vyžaduje:",
+      "options": [
+        "silný vítr",
+        "vysokou základnu oblačnosti",
+        "inverzní vrstvu",
+        "silné stoupavé proudy"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 13,
+      "id": "3-meteorologie-letoun-(1)-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Který typ oblačnosti je spojen s trvalým deštěm?",
+      "options": [
+        "nimbostratus",
+        "cirostratus",
+        "kumulonimbus",
+        "altokumulus"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 14,
+      "id": "3-meteorologie-letoun-(1)-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Který typ oblačnosti je spojen s dešťovými přeháňkami?",
+      "options": [
+        "nimbostratus",
+        "cirrostratus",
+        "kumulonimbus",
+        "altostratus"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 14,
+      "id": "3-meteorologie-letoun-(1)-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Jak je popsána vzduchová hmota, která se v zimě pohybuje přes Rusko do střední Evropy?",
+      "options": [
+        "mořský polární vzduch",
+        "mořský tropický vzduch",
+        "kontinentální polární vzduch",
+        "kontinentální tropický vzduch"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 14,
+      "id": "3-meteorologie-letoun-(1)-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Jakými vlastnostmi je dán typ vzduchové hmoty?",
+      "options": [
+        "teplotou v oblasti původu a v oblasti výskytu",
+        "oblastí původu a směrem pohybu",
+        "gradientem teploty v oblasti původu",
+        "rychlostí větru a výškou tropopauzy"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 14,
+      "id": "3-meteorologie-letoun-(1)-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Symbol označený 1 na obrázku je: Viz obr (MET-005)",
+      "options": [
+        "teplá fronta",
+        "výšková fronta",
+        "okluze",
+        "studená fronta"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 14,
+      "id": "3-meteorologie-letoun-(1)-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Symbol označený 2 na obrázku je: Viz obr (MET-005)",
+      "options": [
+        "teplá fronta",
+        "výšková fronta",
+        "okluze",
+        "studená fronta"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 15,
+      "id": "3-meteorologie-letoun-(1)-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Symbol označený 3 na obrázku je: Viz obr (MET-005)",
+      "options": [
+        "teplá fronta",
+        "výšková fronta",
+        "okluze",
+        "studená fronta"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 15,
+      "id": "3-meteorologie-letoun-(1)-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Jaký sled oblačnosti lze typicky pozorovat při přechodu teplé fronty?",
+      "options": [
+        "húlava s dešťovými přeháňkami a bouřky (Cb), nárazový vítr následováno kumulovitou oblačností s izolovanými dešťovými přeháňkami ve dne v pobřežních oblastech vítr od pobřeží a tvorbou kupovité oblačnosti, večer a v noci rozpady oblačnosti",
+        "v létě slábnoucí vítr, rozpady oblačnosti a narůst teploty, v zimě tvorba vysokých vrstev mlhy",
+        "cirus, ztenčující se altostratus a altokumulus, snižující se základna oblačnosti s deštěm, nimbostratus"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 15,
+      "id": "3-meteorologie-letoun-(1)-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Jakou oblačnost a jaké počasí lze typicky pozorovat při přechodu studené fronty?",
+      "options": [
+        "silně vyvinuté kumuly (Cb) s přeháňkami a bouřkami, nárazový vítr a následně kumulovitá oblačnost s izolovanými dešťovými přeháňkami",
+        "v pobřežních oblastech ve dne vítr od pobřeží a tvorba kumulovité oblačnosti, večer a v noci rozpady oblačnosti",
+        "v létě slábnoucí vítr, rozpady oblačnosti a nárůst teploty, v zimě tvorba vysokých vrstev mlhy",
+        "cirus, ztenčující se altostratus a altoku mulus, snižující se základna oblačnosti s deštěm, nimbostratus"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 15,
+      "id": "3-meteorologie-letoun-(1)-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Jakou dohlednost za letu lze očekávat uvnitř teplého sektoru polární fronty v létě?",
+      "options": [
+        "dohlednost menší než 1000 m, země zakrytá oblačností",
+        "dobrá dohlednost, izolovaná vysoká oblačnost",
+        "střední dohlednost, intenzivní přeháňky a bouřky",
+        "střední až dobrá dohlednost, roztrhaná oblačnost"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 15,
+      "id": "3-meteorologie-letoun-(1)-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Jaké podmínky dohlednosti lze očekávat po přechodu studené fronty?",
+      "options": [
+        "dobrá dohlednost, tvorba kumulovité oblačnosti s dešťovými nebo sněhovými přeháňkami",
+        "nízká dohlednost, tvorba stratu až na zataženo nebo pokrývajícího zemský povrch, sněžení",
+        "střední dohlednost se snižující se základnou oblačnosti, nástup dlouhotrvajících srážek",
+        "nesouvislé vrstvy oblačnosti, dohlednost více než 5 km, tvorba nízké kumulovité oblačnosti"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 16,
+      "id": "3-meteorologie-letoun-(1)-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Hranice mezi studenou polární vzduchovou hmotou a teplou subtropickou vzduchovou hmotou bez horizontálního pohybu se nazývá:",
+      "options": [
+        "studená fronta",
+        "teplá fronta",
+        "stacionární fronta",
+        "okluzní fronta"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 16,
+      "id": "3-meteorologie-letoun-(1)-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Jaký je obvyklý směr pohybu polární frontální níže?",
+      "options": [
+        "rovnoběžně s teplou frontou na jih",
+        "rovnoběžně s izobarami teplého sektoru",
+        "v zimě na severovýchod, v létě na jihovýchod",
+        "v zimě na severozápad, v létě na jihozápad"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 16,
+      "id": "3-meteorologie-letoun-(1)-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Jak se mění tlak vzduchu při přechodu polární frontální níže?",
+      "options": [
+        "stoupající tlak před teplou frontou, konstantní tlak v teplém sektoru, stoupající tlak za studenou frontou",
+        "klesající tlak před teplou frontou, konstantní tlak v teplém sektoru, klesající tlak za studenou frontou",
+        "klesající tlak před teplou frontou, konstantní tlak v teplém sektoru, stoupající tlak za studenou frontou",
+        "stoupající tlak před teplou frontou, stoupající tlak v teplém sektoru, klesající tlak za studenou frontou"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 16,
+      "id": "3-meteorologie-letoun-(1)-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Jak se mění tlak vzduchu při přechodu studené fronty?",
+      "options": [
+        "trvalý pokles",
+        "konstantní tlak",
+        "krátký pokles, potom nárůst",
+        "trvalý nárůst"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 16,
+      "id": "3-meteorologie-letoun-(1)-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "Jak se změní směr větru při přechodu polární frontální níže ve střední Evropě?",
+      "options": [
+        "stáčení proti směru hodinových ručiček při přechodu teplé fronty, stáčení proti směru hodinových ručiček při přechodu studené fronty",
+        "stáčení po směru hodinových ručiček při přechodu teplé fronty, stáčení po směru hodinových ručiček při přechodu studené fronty",
+        "stáčení proti směru hodinových ručiček při přechodu teplé fronty, stáčení po směru hodinových ručiček při přechodu studené fr onty",
+        "stáčení po směru hodinových ručiček při přechodu teplé fronty, stáčení proti směru hodinových ručiček při přechodu studené fronty"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 17,
+      "id": "3-meteorologie-letoun-(1)-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Během celého roku se rozsáhlé oblasti vysokého tlaku vzduchu nacházejí:",
+      "options": [
+        "ve středních zeměpisných šířkách podél polární fronty",
+        "v tropických oblastech blízko rovníku",
+        "nad oceánem v zeměpisných šířkách kolem 30°N/S",
+        "v oblastech, kde se nacházejí intenzivní stoupavé proudy"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 17,
+      "id": "3-meteorologie-letoun-(1)-82"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "Jaký typ oblačnosti lze typicky pozorovat v rozsáhlých oblastech tlakových výší v létě?",
+      "options": [
+        "zataženo oblačností Ns",
+        "húlavy a bouřky",
+        "zataženo nízkými straty",
+        "roztrhaná oblačnost Cu"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 17,
+      "id": "3-meteorologie-letoun-(1)-83"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Jak se mění tlak vzduchu při přílivu studeného vzduchu do horních vrstev troposféry?",
+      "options": [
+        "vytvoření tlakové níže v horní troposféře",
+        "vytvoření tlakové výše v horní troposféře",
+        "vytvoření rozsáhlé přízemní tlakové níže",
+        "kolísající tlak"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 17,
+      "id": "3-meteorologie-letoun-(1)-84"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Příliv studeného vzduchu do horních vrstev troposféry může mít za následek:",
+      "options": [
+        "přeháňky a bouřky",
+        "stabilizaci a klidné počasí",
+        "frontální počasí",
+        "klidné počasí a rozpouštění oblačnosti"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 17,
+      "id": "3-meteorologie-letoun-(1)-85"
+    },
+    {
+      "sourceNumber": "86",
+      "question": "Jak ovlivní příliv studeného vzduchu tvar a vertikální vzdálenost mezi tlakovými vrstvami?",
+      "options": [
+        "zvětšení vertikální vzdálenosti, nárůst výšky (vysoký tlak)",
+        "zmenšení vertikální vzdálenosti, nárůst výšky (vysoký tlak)",
+        "zvětšení vertikální vzdálenosti, pokles výšky (nízký tlak)",
+        "zmenšení vertikální vzdálenosti, pokles výšky (nízký tlak)"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 18,
+      "id": "3-meteorologie-letoun-(1)-86"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Jaké meteorologické jevy lze očekávat kolem brázdy nízkého tlaku ve vyšších vrstvách?",
+      "options": [
+        "klidné počasí, tvorba zvýšených vrstev mlhy",
+        "rozvoj přeháněk a bouřek (Cb)",
+        "bezvětří, tvorba nízké kumulovité oblačnosti",
+        "tvorba vysoké stratovité oblačnosti, základny oblačnosti zakrývající povrch země"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 18,
+      "id": "3-meteorologie-letoun-(1)-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Jaká fronta odděluje subtropický vzduch od studeného polárního vzduchu, zejména ve střední Evropě?",
+      "options": [
+        "teplá fronta",
+        "polární fronta",
+        "studená fronta",
+        "okluze"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 18,
+      "id": "3-meteorologie-letoun-(1)-88"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Jaké počasí lze očekávat v oblastech vysokého tlaku vzduchu v létě?",
+      "options": [
+        "klidné počasí a rozpouštění oblačnosti, málo vysokých Cu",
+        "bezvětří a velké oblasti vysoké mlhy",
+        "měnící se počasí s procházejícími frontami",
+        "húlavy a bouřky"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 18,
+      "id": "3-meteorologie-letoun-(1)-89"
+    },
+    {
+      "sourceNumber": "90",
+      "question": "Jaké počasí je typické ve střední Evropě v oblastech vysokého tlaku vzduchu v létě?",
+      "options": [
+        "velké vzdálenosti mezi izobarami a silné převážně západní větry",
+        "malé vzdálenosti mezi izobarami a silné převážně severní větry",
+        "malé vzdálenosti mezi izobarami, bezvětří a tvorba místních větrných systémů",
+        "velké vzdálenosti mezi izobarami, bezvětří a tvorba místních větrných systémů"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 18,
+      "id": "3-meteorologie-letoun-(1)-90"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Jaké počasí lze očekávat v oblastech vysokého tlaku vzduchu v zimě?",
+      "options": [
+        "klidné počasí, rozpouštění oblačnosti, málo Cu ve velkých výškách",
+        "bezvětří a velké oblasti s vysokou mlhou",
+        "proměnlivé počasí s přecházejícími frontami",
+        "húlavy a bouřky"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 19,
+      "id": "3-meteorologie-letoun-(1)-91"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Jaký vítr lze očekávat v oblastech, kde jsou velké vzdálenosti mezi izobarami?",
+      "options": [
+        "slabý proměnlivý vítr, tvorba místních větrných systémů",
+        "tvorba místních systémů větru s převažujícími silnými západními větry",
+        "převažující silné západní větry se silným stáčením větru k severu",
+        "převažující silné východní větry se silným stáčením větru k jihu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 19,
+      "id": "3-meteorologie-letoun-(1)-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "Jaké počasí lze očekávat při fénu na návětrné straně pohoří?",
+      "options": [
+        "rozpouštějící se oblačnost s neobvyklým oteplováním doprovázená silným nárazovým větrem",
+        "bezvětří a tvorba vysoké oblačnosti typu stratus (vysoká mlha)",
+        "zastřená k upovitá oblačnost s přeháňkami a bouřkami",
+        "vrstevnatá oblačnost, zastřené hory, špatná dohlednost, střední nebo intenzivní déšť"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 19,
+      "id": "3-meteorologie-letoun-(1)-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "Který z následujících druhů větru zesílí, prochází-li pohořím?",
+      "options": [
+        "široko",
+        "pasát",
+        "mistrál",
+        "bora"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 19,
+      "id": "3-meteorologie-letoun-(1)-94"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "Jak se nazývá studený, katabatický vítr vanoucí od severozápadu do Jaderského moře?",
+      "options": [
+        "široko",
+        "pasát",
+        "mistrál",
+        "bora"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 19,
+      "id": "3-meteorologie-letoun-(1)-95"
+    },
+    {
+      "sourceNumber": "96",
+      "question": "Které z následujících podmínek jsou nejpříznivější pro tvorbu námrazy?",
+      "options": [
+        "teploty pod 0 °C, silný vítr, obloha bez oblačnosti",
+        "teplota mezi + 10 °C a – 30 °C, přítomnost krup v oblačnosti",
+        "teplota mezi-20 °C a – 40 °C, přítomnost ledových krystalků v oblačnosti typu Ci",
+        "teplota mezi 0 °C až-12 °C, přítomnost podchlazených vodních kapek v oblačnosti"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 20,
+      "id": "3-meteorologie-letoun-(1)-96"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Které teploty jsou nejnebezpečnější z hlediska tvorby námrazy na draku letadla?",
+      "options": [
+        "0 °C až-12 °C",
+        "+ 20 °C až-5 °C",
+        "+5° to-10 °C",
+        "- 20° to-40 °C"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 20,
+      "id": "3-meteorologie-letoun-(1)-97"
+    },
+    {
+      "sourceNumber": "98",
+      "question": "Jaký druh námrazy je tvořen velmi malými vodními kapkami a ledovými krystalky narážejícími na čelní plochy letadla?",
+      "options": [
+        "ledovka",
+        "zrnitá námraza",
+        "jinovatka",
+        "smíšená námraza"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 20,
+      "id": "3-meteorologie-letoun-(1)-98"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "Jaký typ námrazy je tvořen velkými podchlazenými kapkami vody narážejícími na čelní plochy letadla?",
+      "options": [
+        "ledovka",
+        "zrnitá námraza",
+        "jinovatka",
+        "smíšená námraza"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 20,
+      "id": "3-meteorologie-letoun-(1)-99"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "00 Při jaké situaci může nastat silný střih větru?",
+      "options": [
+        "let pod oblačností typu Cu s pokrytím 4 osminy",
+        "let do teplé fronty s viditelnou oblačností typu Ci",
+        "je-li v blízkosti letiště vidět přeháňka",
+        "při konečném přiblížení, 30 min poté, co přes letiště přešla intenzivní přeháňka"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 20,
+      "id": "3-meteorologie-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "01 Jaké podmínky jsou příznivé pro tvorbu bouřky?",
+      "options": [
+        "teplý vlhký vzduch, podmíněně nestabilní gradient teploty",
+        "teplý a suchý vzduch, silná inverzní vrstva",
+        "bezvětří a studený vzduch, zataženo oblačností typu St nebo As",
+        "klidná noc na pevnině, studený vzduch a chuchvalce mlhy"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 21,
+      "id": "3-meteorologie-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "102",
+      "question": "Jaké jsou nutné podmínky pro vznik bouřky z tepla?",
+      "options": [
+        "podmíněně nestabilní atmosféra, nízká teplota a nízká relativní vlhkost",
+        "absolutně stabilní atmosféra, vysoká teplota a vysoká relativní vlhkost",
+        "absolutně stabilní atmosféra, vysoká teplota a nízká relativní vlhkost",
+        "podmíněně nestabilní atmosféra, vysoká teplota a vysoká relativní vlhkost"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 21,
+      "id": "3-meteorologie-letoun-(1)-102"
+    },
+    {
+      "sourceNumber": "103",
+      "question": "Při bouřce se silné stoupavé a klesavé proudy vyskytují:",
+      "options": [
+        "v počátečním st á diu",
+        "v rozvinutém s tá diu",
+        "ve st á diu rozpadu",
+        "ve st á diu bouře"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 21,
+      "id": "3-meteorologie-letoun-(1)-103"
+    },
+    {
+      "sourceNumber": "104",
+      "question": "Ve kterém stadiu bouřky převažují silné stoupavé proudy?",
+      "options": [
+        "ve st á diu kumulu",
+        "v rozvinutém st á diu",
+        "V e stádiu vývinu",
+        "ve st á diu rozpadu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 21,
+      "id": "3-meteorologie-letoun-(1)-104"
+    },
+    {
+      "sourceNumber": "105",
+      "question": "Jaké je největší nebezpečí, udeří-li do letadla blesk?",
+      "options": [
+        "porucha rádiové komunikace, elektrostatické šumy",
+        "výbuch elektrického vybavení v pilotní kabině",
+        "přehřátí povrchu a mechanické poškození zasažených částí draku",
+        "rychlá ztráta přetlaku a dým v kabině"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 21,
+      "id": "3-meteorologie-letoun-(1)-105"
+    },
+    {
+      "sourceNumber": "106",
+      "question": "Silné klesavé proudy a střihy větru v blízkosti země lze očekávat:",
+      "options": [
+        "během studené noci bez oblačnosti s tvorbou radiační mlhy",
+        "během teplých letních dnů s vysokými plochými kumuly",
+        "při přiblížení k letišti na pobřeží při silné mořské bríze",
+        "v blízkosti oblasti intenzivních srážek nebo bouřek"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 22,
+      "id": "3-meteorologie-letoun-(1)-106"
+    },
+    {
+      "sourceNumber": "107",
+      "question": "Jaký jev je způsoben klesavými proudy studeného vzduchu se srážkami z plně rozvinuté bouřkové oblačnosti?",
+      "options": [
+        "elektrostatické výboje",
+        "kovadlinový tvar vrcholku oblačnosti Cb",
+        "húlava",
+        "mrznoucí déšť"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 22,
+      "id": "3-meteorologie-letoun-(1)-107"
+    },
+    {
+      "sourceNumber": "108",
+      "question": "Co je třeba zvážit při vzletu v přízemní inverzi?",
+      "options": [
+        "během stoupání náhlý nárůst rychlosti a stoupavosti",
+        "námrazu kvůli nízkým teplotám v malých výškách",
+        "během stoupání náhlý pokles rychlosti a stoupavosti",
+        "stoupání je třeba provést s nejnižší možnou rychlostí a při maximálním výkonu"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 22,
+      "id": "3-meteorologie-letoun-(1)-108"
+    },
+    {
+      "sourceNumber": "109",
+      "question": "Jaké je nejvýznamnější nebezpečí při přiblížení na letiště umístěné v údolí při silném větru vanoucím kolmo na horský hřeben?",
+      "options": [
+        "silné klesavé proudy s oblastmi deště pod bouřkovou oblačností",
+        "střih větru při sestupu, směr větru se může měnit až o 180°",
+        "snížená dohlednost, možní ztráta vizuálního kontaktu s letištěm během konečného přiblížení",
+        "tvorba mírné až intenzivní námrazy na povrchu letadla"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 22,
+      "id": "3-meteorologie-letoun-(1)-109"
+    },
+    {
+      "sourceNumber": "110",
+      "question": "Jaký druh snížení dohlednosti není příliš citlivý na změny teploty?",
+      "options": [
+        "chuchvalce mlhy (BCFG)",
+        "radiační mlha (FG)",
+        "kouřmo (BR)",
+        "zákal (HZ)"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 22,
+      "id": "3-meteorologie-letoun-(1)-110"
+    },
+    {
+      "sourceNumber": "111",
+      "question": "Ve které mapě lze nalézt informace o tlakových útvarech a poloze front?",
+      "options": [
+        "synoptická mapa",
+        "hypsometrická mapa",
+        "mapa větru",
+        "mapa význačného počasí (SWC)"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 23,
+      "id": "3-meteorologie-letoun-(1)-111"
+    },
+    {
+      "sourceNumber": "112",
+      "question": "Která meteorologická mapa zobrazuje skutečný tlak jako tlak přepočtený na hladinu moře se středy tlakových útvarů a frontami?",
+      "options": [
+        "synoptická mapa",
+        "předpovědní mapa",
+        "hypsometrická mapa",
+        "mapa větru"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 23,
+      "id": "3-meteorologie-letoun-(1)-112"
+    },
+    {
+      "sourceNumber": "113",
+      "question": "Jaké informace lze získat ze satelitních snímků?",
+      "options": [
+        "přehled o pokrytí oblačností a o frontách",
+        "teplota a rosný bod vnějšího vzduchu",
+        "turbulence a námraza",
+        "letová dohlednost, přízemní dohlednost, viditelnost země"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 23,
+      "id": "3-meteorologie-letoun-(1)-113"
+    },
+    {
+      "sourceNumber": "114",
+      "question": "Co ukazuje oblasti srážek?",
+      "options": [
+        "satelitní snímek",
+        "GAFOR",
+        "radarový obraz",
+        "mapa větru"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 23,
+      "id": "3-meteorologie-letoun-(1)-114"
+    },
+    {
+      "sourceNumber": "115",
+      "question": "Která informace se NENACHÁZÍ na mapě význačného počasí v malých hladinách (LLSWC)?",
+      "options": [
+        "informace o podmínkách námrazy",
+        "radarové odrazy srážek",
+        "informace o oblastech turbulence",
+        "polohy a pohyb front"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 23,
+      "id": "3-meteorologie-letoun-(1)-115"
+    },
+    {
+      "sourceNumber": "116",
+      "question": "Naměřené rozložení tlaku při hladině moře a odpovídající frontální systémy jsou zobrazeny na:",
+      "options": [
+        "mapě významného počasí (SWC)",
+        "synoptické mapě",
+        "hypsometrické mapě",
+        "předpovědní mapě"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 24,
+      "id": "3-meteorologie-letoun-(1)-116"
+    },
+    {
+      "sourceNumber": "117",
+      "question": "Ve zprávě METAR je intenzivní déšť označen jako:",
+      "options": [
+        "+SHRA",
+        "SHRA",
+        "+RA",
+        "RA"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 24,
+      "id": "3-meteorologie-letoun-(1)-117"
+    },
+    {
+      "sourceNumber": "118",
+      "question": "Ve zprávě METAR jsou mírné dešťové přeháňky označeny jako:",
+      "options": [
+        "+ TSRA",
+        "TS",
+        "+RA",
+        "SHRA"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 24,
+      "id": "3-meteorologie-letoun-(1)-118"
+    },
+    {
+      "sourceNumber": "119",
+      "question": "Jakou informaci lze nalézt v e zprávě ATIS, ale ne ve zprávě METAR?",
+      "options": [
+        "informace pro přiblížení, např. přízemní dohlednost a základna oblačnosti",
+        "informace o současném počasí, např. typy srážek",
+        "informace o síle větru, případně o síle nárazů větru",
+        "provozní informace, např. vzletová a přistávací dráha v provozu a převodní hladina"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 24,
+      "id": "3-meteorologie-letoun-(1)-119"
+    },
+    {
+      "sourceNumber": "120",
+      "question": "Za letu lze obdržet meteorologické a provozní informace o cílovém letišti:",
+      "options": [
+        "ve zprávě VOLMET",
+        "ve zprávě PIREP",
+        "ve zprávě SIGMET",
+        "ve zprávě ATIS"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 24,
+      "id": "3-meteorologie-letoun-(1)-120"
+    },
+    {
+      "sourceNumber": "121",
+      "question": "Výstrahy SIGMET jsou vydávány pro:",
+      "options": [
+        "letiště",
+        "oblasti FIR / UIR",
+        "zvláštní tratě",
+        "státy"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 25,
+      "id": "3-meteorologie-letoun-(1)-121"
+    },
+    {
+      "sourceNumber": "122",
+      "question": "Inverze je vrstva:",
+      "options": [
+        "kde teplota s rostoucí výškou roste",
+        "kde je teplota s rostoucí výškou konstantní",
+        "kde tlak s rostoucí výškou roste",
+        "kde teplota s rostoucí výškou klesá"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 25,
+      "id": "3-meteorologie-letoun-(1)-122"
+    },
+    {
+      "sourceNumber": "123",
+      "question": "Jaký převládající vítr lze očekávat, jsou-li na synoptické mapě izobary ve velké vzdálenosti?",
+      "options": [
+        "malý tlakový gradient a mírný vítr",
+        "malý tlakový gradient a silný vítr",
+        "velký tlakový gradient a silný vítr",
+        "velký tlakový gradient a mírný vítr"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 25,
+      "id": "3-meteorologie-letoun-(1)-123"
+    },
+    {
+      "sourceNumber": "124",
+      "question": "Co se nazývá horským větrem?",
+      "options": [
+        "vítr vanoucí dolů podél svahu v noci",
+        "vítr vanoucí nahoru z údolí ve dne",
+        "vítr vanoucí nahoru z údolí v noci",
+        "vítr vanoucí dolů podél svahu ve dne"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 25,
+      "id": "3-meteorologie-letoun-(1)-124"
+    },
+    {
+      "sourceNumber": "125",
+      "question": "Co se nazývá údolním větrem?",
+      "options": [
+        "vítr vanoucí dolů podél svahu v noci",
+        "vítr vanoucí nahoru z údolí ve dne",
+        "vítr vanoucí nahoru z údolí v noci",
+        "vítr vanoucí dolů podél svahu ve dne"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 25,
+      "id": "3-meteorologie-letoun-(1)-125"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "26 Jaký vítr je hlášen jako 225/15?",
+      "options": [
+        "jihozápadní 15 kt",
+        "jihozápadní 15 km/h",
+        "severovýchodní 15 kt",
+        "severovýchodní 15 km/h"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 26,
+      "id": "3-meteorologie-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "127",
+      "question": "Jak se mění teplota vzduchu dle mezinárodní standardní atmosféry od MSL do výšky přibližně 10.000 m?",
+      "options": [
+        "od +15° do-50 °C",
+        "od +30° do-40 °C",
+        "od +20° do-40 °C",
+        "od-15° do 50 °C"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 26,
+      "id": "3-meteorologie-letoun-(1)-127"
+    },
+    {
+      "sourceNumber": "128",
+      "question": "Jaké počasí pravděpodobně nastane při fénu v Bavorsku v blízkosti Alp?",
+      "options": [
+        "oblačnost Ns v jižních Alpách, rotorová oblačnost na závětrné straně, teplý a suchý vítr",
+        "oblačnost Ns v severních Alpách, rotorová oblačnost na návětrné straně, teplý a suchý vítr",
+        "oblast vysokého tlaku vzduchu nad Biskajským zálivem a oblast nízkého tlaku vzduchu ve východní Evropě",
+        "studený vlhký vítr vanoucí z hor na závětrné straně Alp, malé změny tlaku vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 26,
+      "id": "3-meteorologie-letoun-(1)-128"
+    },
+    {
+      "sourceNumber": "129",
+      "question": "Stoupavé proudy na úbočích hor mohou být zesíleny:",
+      "options": [
+        "slunečním zářením na návětrné straně",
+        "slunečním zářením na závětrné straně",
+        "vyzařováním tepla na návětrné straně v noci",
+        "ohřevem horních vrstev atmosféry"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Letoun",
+      "sourceFile": "3-Meteorologie-letoun (1).pdf",
+      "page": 26,
+      "id": "3-meteorologie-letoun-(1)-129"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Jaká oblačnost a počasí se objeví při vlhké a nestabilní vzduchové hmotě, která je převládajícím větrem tlačena proti pohoří a nucena stoupat?",
+      "options": [
+        "zastřené Cb s bouřkami a přeháňkami krup anebo deště",
+        "nevysoká, nestrukturovaná oblačnost Ns s mírným mrholením nebo sněžením (v zimě)",
+        "nevysoká oblačnost typu As nebo Cs s mírnými a dlouhotrvajícími srážkami",
+        "zataženo nízkým stratem (vysoká mlha) bez srážek"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 1,
+      "id": "3-meteorologie-vrtulnik-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Jaký typ mlhy vzniká, když vlhký a téměř nasycený vzduch je nucen převládajícím větrem stoupat podél svahu kopců nebo nízkého pohoří?",
+      "options": [
+        "orografická mlha",
+        "mlha z vypařování",
+        "advekční mlha",
+        "radiační mlha"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 1,
+      "id": "3-meteorologie-vrtulnik-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Jaká situace v meteorologii se nazývá přerůstání konvek tivní oblačnosti?",
+      "options": [
+        "vertikální rozvoj kumulů až do dešťových přeháněk",
+        "změna od termiky bez oblačnosti k termice s oblačností v odpoledních hodinách",
+        "nárůst kumulovité oblačnosti až pod vrstvu inverze",
+        "vývoj termické níže až k bouřkové níži"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 1,
+      "id": "3-meteorologie-vrtulnik-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaké je složení vzduchu?",
+      "options": [
+        "kyslík 21 %, dusík 78 %, vzácné plyny / kysličník uhličitý 1 %",
+        "dusík 21 %, kyslík 78 %, vzácné plyny / kysličník uhličitý 1 %",
+        "kyslík 78 %, vodní pára 21 %, dusík 1 %",
+        "kyslík 21 %, vodní pára 78 %, vzácné plyny / kysličník uhličitý 1 %"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 1,
+      "id": "3-meteorologie-vrtulnik-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Ve které vrstvě atmosféry dochází nejčastěji k meteorologickým jevům?",
+      "options": [
+        "stratosféra",
+        "troposféra",
+        "tropopauza",
+        "termosféra"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 1,
+      "id": "3-meteorologie-vrtulnik-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Jaká je podle mezinárodní standardní atmosféry hmotnost krychle vzduchu o hraně 1 m?",
+      "options": [
+        "0.01225 kg",
+        "0.1225 kg",
+        "1.225 kg",
+        "12.25 kg"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 2,
+      "id": "3-meteorologie-vrtulnik-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Jak se podle mezinárodní standardní atmosféry mění v troposféře teplota s narůstající výškou?",
+      "options": [
+        "nárůst o 2 °C / 100 m",
+        "pokles o 2 °C / 100 m",
+        "pokles o 2 °C / 1000 ft",
+        "nárůst o 2 °C / 1000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 2,
+      "id": "3-meteorologie-vrtulnik-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Jaká je střední výška tropopauzy podle mezinárodní standardní atmosféry?",
+      "options": [
+        "11.000 ft",
+        "18.000 ft",
+        "36.000 m",
+        "11.000 m"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 2,
+      "id": "3-meteorologie-vrtulnik-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Pojem tropopauza je definován jako:",
+      "options": [
+        "hraniční vrstva mezi troposférou a stratosférou",
+        "vrstva nad troposférou, kde dochází k nárůstu teploty",
+        "hraniční vrstva mezi mezosférou a stratosférou",
+        "výška, nad kterou se teplota začíná snižovat"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 2,
+      "id": "3-meteorologie-vrtulnik-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Jaká jednotka se používá pro teploty udávané leteckými meteorologickými službami v Evropě a Africe?",
+      "options": [
+        "Kelvin",
+        "stupně Fahrenheita",
+        "stupně Celsia (° C)",
+        "Gpdam"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 2,
+      "id": "3-meteorologie-vrtulnik-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Co znamená výraz inverzní vrstva?",
+      "options": [
+        "vrstva v atmosféře, kde teplota roste s rostoucí výškou",
+        "vrstva v atmosféře, kde teplota klesá s rostoucí výškou",
+        "vrstva v atmosféře, kde je teplota konstantní s rostoucí výškou",
+        "hraniční vrstva mezi dvěma jinými vrstvami atmosféry"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 3,
+      "id": "3-meteorologie-vrtulnik-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Co znamená výraz izotermální vrstva?",
+      "options": [
+        "vrstva v atmosféře, kde teplota roste s rostoucí výškou",
+        "vrstva v atmosféře, kde teplota klesá s rostoucí výškou",
+        "vrstva v atmosféře, kde je teplota s rostoucí výškou konstantní",
+        "hraniční vrstva mezi dvěma jinými vrstvami atmosféry"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 3,
+      "id": "3-meteorologie-vrtulnik-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Pokles teploty s rostoucí výškou v troposféře je podle mezinárodní standardní atmosféry:",
+      "options": [
+        "3 °C / 100 m",
+        "0. 6 °C / 100 m",
+        "1 °C / 100 m",
+        "0. 65 °C / 100 m"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 3,
+      "id": "3-meteorologie-vrtulnik-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Jaký proces může vést ke vzniku inverzní vrstvy ve výše přibližně 5000 ft (1500 m)?",
+      "options": [
+        "chladnutí země vyzařováním během noci",
+        "rozlévající se sestupný proud vzduchu v oblasti vysokého tlaku vzduchu",
+        "intenzivní ohřev sluncem během teplého letního dne",
+        "advekce studeného vzduchu v horní troposféře"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 3,
+      "id": "3-meteorologie-vrtulnik-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Jaké nebezpečí vzniká pro vrtulník při průletu přízemní inverzí v zimě?",
+      "options": [
+        "tvorba námrazy pod inverzí",
+        "tvorba oblačnosti nad inverzí",
+        "nárazový vítr",
+        "elektrostatické výboje"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 3,
+      "id": "3-meteorologie-vrtulnik-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Př í zemní inverzní vrstva může být způsobena:",
+      "options": [
+        "chladnutím země v noci",
+        "nárůstem oblačnosti ve středních výškách",
+        "rozsáhlým stoupáním vzduchu",
+        "zesilujícím nárazovým větrem"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 4,
+      "id": "3-meteorologie-vrtulnik-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Jaký je tlak vzduchu ve FL 180 (5500 m) podle mezinárodní standardní atmosféry?",
+      "options": [
+        "1013.25 hPa",
+        "250 hPa",
+        "500 hPa",
+        "300 hPa"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 4,
+      "id": "3-meteorologie-vrtulnik-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Tlak měřený pozemní stanicí a přepočítaný na střední hladinu moře (MSL) ve skutečné atmosféře se nazývá:",
+      "options": [
+        "QFF",
+        "QNH",
+        "QFE",
+        "QNE"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 4,
+      "id": "3-meteorologie-vrtulnik-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co způsobuje pokles hustoty vzduchu?",
+      "options": [
+        "nárůst teploty, nárůst tlaku",
+        "pokles teploty, nárůst tlaku",
+        "pokles teploty, pokles tlaku",
+        "nárůst teploty, pokles tlaku"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 4,
+      "id": "3-meteorologie-vrtulnik-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Tlak na hladině moře podle mezinárodní standardní atmosféry je:",
+      "options": [
+        "1013.25 hPa",
+        "113.25 hPa",
+        "15 hPa",
+        "1123 hPa"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 4,
+      "id": "3-meteorologie-vrtulnik-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Výška tropopauzy podle mezinárodní standardní atmosféry je:",
+      "options": [
+        "36.000 ft",
+        "11.000 ft",
+        "5.500 ft",
+        "48.000 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 5,
+      "id": "3-meteorologie-vrtulnik-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Barometrický výškoměr ukazuje výšku nad:",
+      "options": [
+        "střední hladinou moře",
+        "zvolenou referenční tlakovou hladinou",
+        "hladinou standardního tlaku 1013.25 hPa",
+        "zemí"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 5,
+      "id": "3-meteorologie-vrtulnik-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Výškoměr lze přezkoušet na zemi nastavením:",
+      "options": [
+        "QNE a kontrolou, že ukazuje 0",
+        "QFE a porovnáním indikace s nadmořskou výškou letiště",
+        "QFF a porovnáním indikace s nadmořskou výškou letiště",
+        "QNH a porovnáním indikace s nadmořskou výškou letiště"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 5,
+      "id": "3-meteorologie-vrtulnik-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Barometrický výškoměr nastavený na QFE ukazuje:",
+      "options": [
+        "výšku nad standardní tlakovou hladinou 1013.25 hPa",
+        "skutečnou výšku nad střední hladinou moře (MSL)",
+        "výšku nad nadmořskou výškou letiště",
+        "výšku nad stření hladinou moře (MSL)"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 5,
+      "id": "3-meteorologie-vrtulnik-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Barometrický výškoměr nastavený na QNH ukazuje:",
+      "options": [
+        "výšku nad hladinou standardního tlaku 1013.25 hPa",
+        "skutečnou nadmořskou výšku nad tlakovou hladinou střední hladiny moře (MSL)",
+        "výšku nad tlakovou hladinou nadmořské výšky letiště",
+        "výšku nad střední hladinou moře (MSL)"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 5,
+      "id": "3-meteorologie-vrtulnik-25"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Jak lze z přízemních meteorologických map odvodit směr a rychlost větru?",
+      "options": [
+        "podle zaoblení a vzdálenosti izobar",
+        "podle tvaru a vzdálenosti izohyps",
+        "podle tvaru teplých a studených front",
+        "z údajů v textové části mapy"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 6,
+      "id": "3-meteorologie-vrtulnik-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Jaká síla způsobuje vítr?",
+      "options": [
+        "C oriolisova síla",
+        "odstředivá síla",
+        "síla tlakového gradientu",
+        "termální síla"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 6,
+      "id": "3-meteorologie-vrtulnik-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Směr větru nad třecí vrstvou s převažujícím tlakovým gradientem je:",
+      "options": [
+        "kolmo na izobary",
+        "kolmo na izohypsy",
+        "pod úhlem 30° k izobarám směrem k tlakové níži",
+        "rovnoběžně s izobarami"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 6,
+      "id": "3-meteorologie-vrtulnik-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Který z uvedených povrchů nejvíc sníží rychlost větru třením?",
+      "options": [
+        "rovina, množství vegetace",
+        "horský terén pokrytý vegetací",
+        "rovina, poušť, žádná vegetace",
+        "oceán"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 6,
+      "id": "3-meteorologie-vrtulnik-30"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Pohyb vzduchu směrem od sebe se nazývá:",
+      "options": [
+        "divergence",
+        "subsidence",
+        "konvergence",
+        "sankordence"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 7,
+      "id": "3-meteorologie-vrtulnik-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Jaký vývoj počasí způsobí přízemní konvergence?",
+      "options": [
+        "klesající vzduch a tvorba oblačnosti",
+        "klesající vzduch a rozpouštění oblačnosti",
+        "stoupající vzduch a tvorba oblačnosti",
+        "stoupající vzduch a rozpouštění oblačnosti"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 7,
+      "id": "3-meteorologie-vrtulnik-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Když se čelně střetnou dvě vzduchové masy, jak se to nazývá a jaký jev bude následovat?",
+      "options": [
+        "divergence s klesajícím vzduchem",
+        "konvergence s klesajícím vzduchem",
+        "divergence se stoupajícím vzduchem",
+        "konvergence se stoupajícím vzduchem"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 7,
+      "id": "3-meteorologie-vrtulnik-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Jaké vzduchové masy hlavně ovlivňují střední Evropu?",
+      "options": [
+        "tropický a arktický studený vzduch",
+        "arktický a polární studený vzduch",
+        "rovníkový a tropický teplý vzduch",
+        "studený polární a teplý sub tropický vzduch"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 7,
+      "id": "3-meteorologie-vrtulnik-35"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Vítr vanoucí do kopce je definován jako:",
+      "options": [
+        "anabatický vítr",
+        "katabatický vítr",
+        "konvergentní vítr",
+        "subsidentní vítr"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 8,
+      "id": "3-meteorologie-vrtulnik-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Vítr vanoucí směrem dolů z kopce se nazývá:",
+      "options": [
+        "anabatický vítr",
+        "katabatický vítr",
+        "konvergentní vítr",
+        "subsidentní vítr"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 8,
+      "id": "3-meteorologie-vrtulnik-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Vzduch sestupující za pohořím je definován jako:",
+      "options": [
+        "anabatický vítr",
+        "katabatický vítr",
+        "konvergentní vítr",
+        "divergentní vítr"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 8,
+      "id": "3-meteorologie-vrtulnik-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Fén obvykle vzniká při:",
+      "options": [
+        "stabilitě, oblasti vysokého tlaku vzduchu a za bezvětří",
+        "instabilitě, oblasti vysokého tlaku vzduchu a za bezvětří",
+        "instabilitě, větru vanoucímu proti pohoří",
+        "stabilitě, větru vanoucímu proti pohoří"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 8,
+      "id": "3-meteorologie-vrtulnik-40"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Slabou turbulenci lze vždy očekávat:",
+      "options": [
+        "pod kumulovitou oblačností kvůli termické konvekci",
+        "nad kumulovitou oblačností kvůli termické konvekci",
+        "při vstupu do inverze",
+        "pod stratovitou oblačností ve středních vrstvách"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 9,
+      "id": "3-meteorologie-vrtulnik-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Střední až silnou turbulenci lze očekávat:",
+      "options": [
+        "pod silnými vrstvami oblačnosti na návětrné straně pohoří",
+        "na závětrné straně pohoří, je-li přítomna rotorová oblačnost",
+        "v blízkosti rozlehlých nízkých stratů (vysoká mlha)",
+        "nad souvislými vrstvami oblačnosti"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 9,
+      "id": "3-meteorologie-vrtulnik-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Která odpověď obsahuje všechna skupenství vody v atmosféře?",
+      "options": [
+        "kapalné",
+        "kapalné a pevné",
+        "kapalné, pevné a plynné",
+        "plynné a kapalné"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 9,
+      "id": "3-meteorologie-vrtulnik-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Jak se mění teplota rosného bodu a relativní vlhkost při klesající teplotě vzduchu?",
+      "options": [
+        "teplota rosného bodu zůstává konstantní, relativní vlhkost se zvyšuje",
+        "teplota rosného bodu klesá, relativní vlhkost se zvyšuje",
+        "teplota rosného bodu zůstává konstantní, relativní vlhkost se snižuje",
+        "teplota rosného bodu roste, relativní vlhkost se snižuje"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 9,
+      "id": "3-meteorologie-vrtulnik-45"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Deficit teploty rosného bodu je:",
+      "options": [
+        "vztah mezi skutečnou a maximální možnou vlhkostí vzduchu",
+        "rozdíl mezi skutečnou teplotou a rosným bodem",
+        "rozdíl mezi rosným bodem a kondenzačním bodem",
+        "maximální množství vodní páry, kterou může vzduch obsahovat"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 10,
+      "id": "3-meteorologie-vrtulnik-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jsou-li ostatní veličiny konstantní, pokles teploty způsobí:",
+      "options": [
+        "zvětšení rozdílu mezi teplotou rosného bodu a vzduchu, nárůst relativní vlhkosti",
+        "zmenšení rozdílu mezi teplotou rosného bodu a vzduchu a snížení relativní vlhkosti",
+        "zmenšení rozdílu mezi teplotou rosného bodu a vzduchu a nárůst relativní vlhkosti",
+        "zvětšení rozdílu mezi teplotou rosného bodu a vzduchu a pokles relativní vlhkosti"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 10,
+      "id": "3-meteorologie-vrtulnik-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Co způsobuje uvolňování latentního tepla do horní troposféry?",
+      "options": [
+        "vypařování vody nad rozsáhlými vodními plochami",
+        "rozsáhlé oblasti klesajícího vzduchu",
+        "stabilizace přicházejících vzduchových hmot",
+        "vznik oblačnosti způsobený kondenzací"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 10,
+      "id": "3-meteorologie-vrtulnik-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Adiabatický teplotní gradient nasyceného vzduchu je:",
+      "options": [
+        "úměrný adiabatickému teplotnímu gradientu suchého vzduchu",
+        "rovný adiabatickému teplotnímu gradientu suchého vzduchu",
+        "větší než adiabatický teplotní gradient suchého vzduchu",
+        "menší než adiabatický teplotní gradient suchého vzduchu"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 10,
+      "id": "3-meteorologie-vrtulnik-50"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Adiabatický teplotní gradient nasyceného vzduchu má střední hodnotu:",
+      "options": [
+        "0 °C / 100 m",
+        "1. 0 °C / 100 m",
+        "0. 6 °C / 100 m",
+        "2 °C / 1000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 11,
+      "id": "3-meteorologie-vrtulnik-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Jaké počasí lze očekávat při podmíněně nestabilních podmínkách?",
+      "options": [
+        "věžovité kumuly, izolované dešťové přeháňky nebo bouřky",
+        "vrstevnatá oblačnost až do velkých výšek, trvalý déšť nebo sněžení",
+        "nízké kumuly se základnami ve středních výškách",
+        "obloha bez oblačnosti, slabý nebo mírný vítr"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 11,
+      "id": "3-meteorologie-vrtulnik-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Jaké podmínky jsou vhodné pro tvorbu advekční mlhy?",
+      "options": [
+        "teplý vlhký vzduch se pohybuje nad studeným zemským povrchem",
+        "studený vlhký vzduch se pohybuje nad teplým oceánem",
+        "teplý vlhký vzduch chladne během noci s oblačností",
+        "vypařování vody z teplého vlhkého povrchu země do studeného vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 11,
+      "id": "3-meteorologie-vrtulnik-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Na jaké základní druhy se rozděluje oblačnost?",
+      "options": [
+        "bouřková a přeháňková",
+        "vrstevnatá a vertikálně vyvinutá",
+        "k umulovit á, stratovitá a cirrovitá",
+        "stratovitá a námrazovitá"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 11,
+      "id": "3-meteorologie-vrtulnik-55"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Jaký meteorologický jev označený \"2\" lze očekávat na závětrné straně za podmínek na obrázku? Viz obr (MET-001).",
+      "options": [
+        "altokumulus kastelanus",
+        "altokumulus lentikularis",
+        "nimbostratus",
+        "kumulonimbus"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 12,
+      "id": "3-meteorologie-vrtulnik-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Jaký typ oblačnosti je na obrázku? Viz obr (MET-002).",
+      "options": [
+        "kumulus",
+        "stratus",
+        "cirus",
+        "altus"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 12,
+      "id": "3-meteorologie-vrtulnik-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jaký typ oblačnosti je na obrázku? Viz obr (MET-004).",
+      "options": [
+        "kumulus",
+        "stratus",
+        "cirus",
+        "altokumulus"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 12,
+      "id": "3-meteorologie-vrtulnik-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Jaký faktor může ovlivnit výšku vrcholků kumulovité oblačnosti?",
+      "options": [
+        "relativní vlhkost",
+        "rozdíl mezi teplotou vzduchu a rosného bodu",
+        "přítomnost inverzní vrstvy",
+        "absolutní vlhkost"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 12,
+      "id": "3-meteorologie-vrtulnik-60"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Jaké podmínky mohou zabránit tvorbě radiační mlhy?",
+      "options": [
+        "jasná noc bez oblačnosti",
+        "zataženo",
+        "bezvětří",
+        "žádný odpar ze zemského povrchu"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 13,
+      "id": "3-meteorologie-vrtulnik-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Co způsobuje tvorbu advekční mlhy?",
+      "options": [
+        "studený vlhký vzduch se pohybuje nad teplým zemským povrchem",
+        "studený vlhký vzduch se mísí s teplým vlhkým vzduchem",
+        "teplý vlhký vzduch se pohybuje nad studeným zemským povrchem",
+        "dlouhé vyzařování tepla v noci bez oblačnosti"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 13,
+      "id": "3-meteorologie-vrtulnik-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Co způsobuje tvorbu orografické mlhy (mlhy v kopcích)?",
+      "options": [
+        "studený vlhký vzduch se mísí s teplým vlhkým vzduchem",
+        "dlouhé vyzařování tepla v noci bez oblačnosti",
+        "teplý vlhký vzduch se pohybuje v horském terénu přes kopce",
+        "vypařování z teplého vlhkého zemského povrchu do velmi studeného vzduchu"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 13,
+      "id": "3-meteorologie-vrtulnik-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Co je třeba pro tvorbu srážek v oblačnosti?",
+      "options": [
+        "střední až silné stoupavé proudy",
+        "vysoká vlhkost a vysoké teploty",
+        "přítomnost inverzní vrstvy",
+        "bezvětří a intenzivní sluneční svit"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 13,
+      "id": "3-meteorologie-vrtulnik-65"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Který typ oblačnosti je spojen s trvalým deštěm?",
+      "options": [
+        "nimbostratus",
+        "cirostratus",
+        "kumulonimbus",
+        "altokumulus"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 14,
+      "id": "3-meteorologie-vrtulnik-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Jak je popsána vzduchová hmota, která se v zimě pohybuje přes Rusko do střední Evropy?",
+      "options": [
+        "mořský polární vzduch",
+        "mořský tropický vzduch",
+        "kontinentální polární vzduch",
+        "kontinentální tropický vzduch"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 14,
+      "id": "3-meteorologie-vrtulnik-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Jakými vlastnostmi je dán typ vzduchové hmoty?",
+      "options": [
+        "teplotou v oblasti původu a v oblasti výskytu",
+        "oblastí původu a směrem pohybu",
+        "gradientem teploty v oblasti původu",
+        "rychlostí větru a výškou tropopauzy"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 14,
+      "id": "3-meteorologie-vrtulnik-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Symbol označený 1 na obrázku je: Viz obr (MET-005)",
+      "options": [
+        "teplá fronta",
+        "výšková fronta",
+        "okluze",
+        "studená fronta"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 14,
+      "id": "3-meteorologie-vrtulnik-70"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Symbol označený 3 na obrázku je: Viz obr (MET-005)",
+      "options": [
+        "teplá fronta",
+        "výšková fronta",
+        "okluze",
+        "studená fronta"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 15,
+      "id": "3-meteorologie-vrtulnik-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Jaký sled oblačnosti lze typicky pozorovat při přechodu teplé fronty?",
+      "options": [
+        "húlava s dešťovými přeháňkami a bouřky (Cb), nárazový vítr následováno kumulovitou oblačností s izolovanými dešťovými přeháňkami",
+        "ve dne v pobřežních oblastech vítr od pobřeží a tvorbou kupovité oblačnosti, večer a v noci rozpady oblačnosti",
+        "v létě slábnoucí vítr, rozpady oblačnosti a narůst teploty, v zimě tvorba vysokých vrstev mlhy",
+        "cirus, ztenčující se altostratus a altokumulus, snižující se základna oblačnosti s deštěm, nimbostratus"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 15,
+      "id": "3-meteorologie-vrtulnik-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Jakou oblačnost a jaké počasí lze typicky pozorovat při přechodu studené fronty?",
+      "options": [
+        "silně vyvinuté kumuly (Cb) s přeháňkami a bouřkami, nárazový vítr a následně kumulovitá oblačnost s izolovanými dešťovými přeháňkami",
+        "v pobřežních oblastech ve dne vítr od pobřeží a tvorba kumulovité oblačnosti, večer a v noci rozpady oblačnosti",
+        "v létě slábnoucí vítr, rozpady oblačnosti a nárůst teploty, v zimě tvorba vysokých vrstev mlhy",
+        "cirus, ztenčující se altostratus a altokumulus, snižující se základna oblačnosti s deštěm, nimbostratus"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 15,
+      "id": "3-meteorologie-vrtulnik-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Jakou dohlednost za letu lze očekávat uvnitř teplého sektoru polární fronty v létě?",
+      "options": [
+        "dohlednost menší než 1000 m, země zakrytá oblačností",
+        "dobrá dohlednost, izolovaná vysoká oblačnost",
+        "střední dohlednost, intenzivní přeháňky a bouřky",
+        "střední až dobrá dohlednost, roztrhaná oblačnost"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 15,
+      "id": "3-meteorologie-vrtulnik-75"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Hranice mezi studenou polární vzduchovou hmotou a teplou subtropickou vzduchovou hmotou bez horizontálního pohybu se nazývá:",
+      "options": [
+        "studená fronta",
+        "teplá fronta",
+        "stacionární fronta",
+        "okluzní fronta"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 16,
+      "id": "3-meteorologie-vrtulnik-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Jaký je obvyklý směr pohybu polární frontální níže?",
+      "options": [
+        "rovnoběžně s teplou frontou na jih",
+        "rovnoběžně s izobarami teplého sektoru",
+        "v zimě na severovýchod, v létě na jihovýchod",
+        "v zimě na severozápad, v létě na jihozápad"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 16,
+      "id": "3-meteorologie-vrtulnik-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Jak se mění tlak vzduchu při přechodu polární frontální níže?",
+      "options": [
+        "stoupající tlak před teplou frontou, konstantní tlak v teplém sektoru, stoupající tlak za studenou frontou",
+        "klesající tlak před teplou frontou, konstantní tlak v teplém sektoru, klesající tlak za studenou frontou",
+        "klesající tlak před teplou frontou, konstantní tlak v teplém sektoru, stoupající tlak za studenou frontou",
+        "stoupající tlak před teplou frontou, stoupající tlak v teplém sektoru, klesající tlak za studenou frontou"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 16,
+      "id": "3-meteorologie-vrtulnik-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Jak se mění tlak vzduchu při přechodu studené fronty?",
+      "options": [
+        "trvalý pokles",
+        "konstantní tlak",
+        "krátký pokles, potom nárůst",
+        "trvalý nárůst"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 16,
+      "id": "3-meteorologie-vrtulnik-80"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Během celého roku se rozsáhlé oblasti vysokého tlaku vzduchu nacházejí:",
+      "options": [
+        "ve středních zeměpisných šířkách podél polární fronty",
+        "v tropických oblastech blízko rovníku",
+        "nad oceánem v zeměpisných šířkách kolem 30°N/S",
+        "v oblastech, kde se nacházejí intenzivní stoupavé proudy"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 17,
+      "id": "3-meteorologie-vrtulnik-82"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "Jaký typ oblačnosti lze typicky pozorovat v rozsáhlých oblastech tlakových výší v létě?",
+      "options": [
+        "zataženo oblačností Ns",
+        "húlavy a bouřky",
+        "zataženo nízkými straty",
+        "roztrhaná oblačnost Cu"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 17,
+      "id": "3-meteorologie-vrtulnik-83"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Jak se mění tlak vzduchu při přílivu studeného vzduchu do horních vrstev troposféry?",
+      "options": [
+        "vytvoření tlakové níže v horní troposféře",
+        "vytvoření tlakové výše v horní troposféře",
+        "vytvoření rozsáhlé přízemní tlakové níže",
+        "kolísající tlak"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 17,
+      "id": "3-meteorologie-vrtulnik-84"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Příliv studeného vzduchu do horních vrstev troposféry může mít za následek:",
+      "options": [
+        "přeháňky a bouřky",
+        "stabilizaci a klidné počasí",
+        "frontální počasí",
+        "klidné počasí a rozpouštění oblačnosti"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 17,
+      "id": "3-meteorologie-vrtulnik-85"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Jaké meteorologické jevy lze očekávat kolem brázdy nízkého tlaku ve vyšších vrstvách?",
+      "options": [
+        "klidné počasí, tvorba zvýšených vrstev mlhy",
+        "rozvoj přeháněk a bouřek (Cb)",
+        "bezvětří, tvorba nízké kumulovité oblačnosti",
+        "tvorba vysoké stratovité oblačnosti, základny oblačnosti zakrývající povrch země"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 18,
+      "id": "3-meteorologie-vrtulnik-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Jaká fronta odděluje subtropický vzduch od studeného polárního vzduchu, zejména ve střední Evropě?",
+      "options": [
+        "teplá fronta",
+        "polární fronta",
+        "studená fronta",
+        "okluze"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 18,
+      "id": "3-meteorologie-vrtulnik-88"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Jaké počasí lze očekávat v oblastech vysokého tlaku vzduchu v létě?",
+      "options": [
+        "klidné počasí a rozpouštění oblačnosti, málo vysokých Cu",
+        "bezvětří a velké oblasti vysoké mlhy",
+        "měnící se počasí s procházejícími frontami",
+        "húlavy a bouřky"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 18,
+      "id": "3-meteorologie-vrtulnik-89"
+    },
+    {
+      "sourceNumber": "90",
+      "question": "Jaké počasí je typické ve střední Evropě v oblastech vysokého tlaku vzduchu v létě?",
+      "options": [
+        "velké vzdálenosti mezi izobarami a silné převážně západní větry",
+        "malé vzdálenosti mezi izobarami a silné převážně severní větry",
+        "malé vzdálenosti mezi izobarami, bezvětří a tvorba místních větrných systémů",
+        "velké vzdálenosti mezi izobarami, bezvětří a tvorba místních větrných systémů"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 18,
+      "id": "3-meteorologie-vrtulnik-90"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Jaký vítr lze očekávat v oblastech, kde jsou velké vzdálenosti mezi izobarami?",
+      "options": [
+        "slabý proměnlivý vítr, tvorba místních větrných systémů",
+        "tvorba místních systémů větru s převažujícími silnými západními větry",
+        "převažující silné západní větry se silným stáčením větru k severu",
+        "převažující silné východní větry se silným stáčením větru k jihu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 19,
+      "id": "3-meteorologie-vrtulnik-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "Jaké počasí lze očekávat při fénu na návětrné straně pohoří?",
+      "options": [
+        "rozpouštějící se oblačnost s neobvyklým oteplováním doprovázená silným nárazovým větrem",
+        "bezvětří a tvorba vysoké oblačnosti typu stratus (vysoká mlha)",
+        "zastřená kumulovitá oblačnost s přeháňkami a bouřkami",
+        "vrstevnatá oblačnost, zastřené hory, špatná dohlednost, střední nebo intenzivní déšť"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 19,
+      "id": "3-meteorologie-vrtulnik-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "Který z následujících druhů větru zesílí, prochází-li pohořím?",
+      "options": [
+        "široko",
+        "pasát",
+        "mistrál",
+        "bora"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 19,
+      "id": "3-meteorologie-vrtulnik-94"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "Jak se nazývá studený, katabatický vítr vanoucí od severozápadu do Jaderského moře?",
+      "options": [
+        "široko",
+        "pasát",
+        "mistrál",
+        "bora"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 19,
+      "id": "3-meteorologie-vrtulnik-95"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Které teploty jsou nejnebezpečnější z hlediska tvorby námrazy na draku letadla?",
+      "options": [
+        "0 °C až-12 °C",
+        "+ 20 °C až-5 °C",
+        "+5° to-10 °C",
+        "- 20° to-40 °C"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 20,
+      "id": "3-meteorologie-vrtulnik-97"
+    },
+    {
+      "sourceNumber": "98",
+      "question": "Jaký druh námrazy je tvořen velmi malými vodními kapkami a ledovými krystalky narážejícími na čelní plochy letadla?",
+      "options": [
+        "ledovka",
+        "zrnitá námraza",
+        "jinovatka",
+        "smíšená námraza"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 20,
+      "id": "3-meteorologie-vrtulnik-98"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "Jaký typ námrazy je tvořen velkými podchlazenými kapkami vody narážejícími na čelní plochy letadla?",
+      "options": [
+        "ledovka",
+        "zrnitá námraza",
+        "jinovatka",
+        "smíšená námraza"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 20,
+      "id": "3-meteorologie-vrtulnik-99"
+    },
+    {
+      "sourceNumber": "100",
+      "question": "Při jaké situaci může nastat silný střih větru?",
+      "options": [
+        "let pod oblačností typu Cu s pokrytím 4 osminy",
+        "let do teplé fronty s viditelnou oblačností typu Ci",
+        "je-li v blízkosti letiště vidět přeháňka",
+        "při konečném přiblížení, 30 min poté, co přes letiště přešla intenzivní přeháňka"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 20,
+      "id": "3-meteorologie-vrtulnik-100"
+    },
+    {
+      "sourceNumber": "102",
+      "question": "Jaké jsou nutné podmínky pro vznik bouřky z tepla?",
+      "options": [
+        "podmíněně nestabilní atmosféra, nízká teplota a nízká relativní vlhkost",
+        "absolutně stabilní atmosféra, vysoká teplota a vysoká relativní vlhkost",
+        "absolutně stabilní atmosféra, vysoká teplota a nízká relativní vlhkost",
+        "podmíněně nestabilní atmosféra, vysoká teplota a vysoká relativní vlhkost"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 21,
+      "id": "3-meteorologie-vrtulnik-102"
+    },
+    {
+      "sourceNumber": "103",
+      "question": "Při bouřce se silné stoupavé a klesavé proudy vyskytují:",
+      "options": [
+        "v počátečním st á diu",
+        "v rozvinutém st á diu",
+        "ve st á diu rozpadu",
+        "ve st á diu bouře"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 21,
+      "id": "3-meteorologie-vrtulnik-103"
+    },
+    {
+      "sourceNumber": "104",
+      "question": "Ve kterém stadiu bouřky převažují silné stoupavé proudy?",
+      "options": [
+        "ve st á diu kumulu",
+        "v rozvinutém st á diu",
+        "V e stádiu vývinu",
+        "ve st á diu rozpadu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 21,
+      "id": "3-meteorologie-vrtulnik-104"
+    },
+    {
+      "sourceNumber": "105",
+      "question": "Jaké je největší nebezpečí, udeří-li do letadla blesk?",
+      "options": [
+        "porucha rádiové komunikace, elektrostatické šumy",
+        "výbuch elektrického vybavení v pilotní kabině",
+        "přehřátí povrchu a mechanické poškození zasažených částí draku",
+        "rychlá ztráta přetlaku a dým v kabině"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 21,
+      "id": "3-meteorologie-vrtulnik-105"
+    },
+    {
+      "sourceNumber": "107",
+      "question": "Jaký jev je způsoben klesavými proudy studeného vzduchu se srážkami z plně rozvinuté bouřkové oblačnosti?",
+      "options": [
+        "elektrostatické výboje",
+        "kovadlinový tvar vrcholku oblačnosti Cb",
+        "húlava",
+        "mrznoucí déšť"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 22,
+      "id": "3-meteorologie-vrtulnik-107"
+    },
+    {
+      "sourceNumber": "108",
+      "question": "Co je třeba zvážit při vzletu v přízemní inverzi?",
+      "options": [
+        "během stoupání náhlý nárůst rychlosti a stoupavosti",
+        "námrazu kvůli nízkým teplotám v malých výškách",
+        "během stoupání náhlý pokles rychlosti a stoupavosti",
+        "stoupání je třeba provést s nejnižší možnou rychlostí a při maximálním výkonu"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 22,
+      "id": "3-meteorologie-vrtulnik-108"
+    },
+    {
+      "sourceNumber": "109",
+      "question": "Jaké je nejvýznamnější nebezpečí při přiblížení na letiště umístěné v údolí při silném větru vanoucím kolmo na horský hřeben?",
+      "options": [
+        "silné klesavé proudy s oblastmi deště pod bouřkovou oblačností",
+        "střih větru při sestupu, směr větru se může měnit až o 180°",
+        "snížená dohlednost, možní ztráta vizuálního kontaktu s letištěm během konečného přiblížení",
+        "tvorba mírné až intenzivní námrazy na povrchu letadla"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 22,
+      "id": "3-meteorologie-vrtulnik-109"
+    },
+    {
+      "sourceNumber": "110",
+      "question": "Jaký druh snížení dohlednosti není příliš citlivý na změny teploty?",
+      "options": [
+        "chuchvalce mlhy (BCFG)",
+        "radiační mlha (FG)",
+        "kouřmo (BR)",
+        "zákal (HZ)"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 22,
+      "id": "3-meteorologie-vrtulnik-110"
+    },
+    {
+      "sourceNumber": "112",
+      "question": "Která meteorologická mapa zobrazuje skutečný tlak jako tlak přepočtený na hladinu moře se středy tlakových útvarů a frontami?",
+      "options": [
+        "synoptická mapa",
+        "předpovědní mapa",
+        "hypsometrická mapa",
+        "mapa větru"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 23,
+      "id": "3-meteorologie-vrtulnik-112"
+    },
+    {
+      "sourceNumber": "113",
+      "question": "Jaké informace lze získat ze satelitních snímků?",
+      "options": [
+        "přehled o pokrytí oblačností a o frontách",
+        "teplota a rosný bod vnějšího vzduchu",
+        "turbulence a námraza",
+        "letová dohlednost, přízemní dohlednost, viditelnost země"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 23,
+      "id": "3-meteorologie-vrtulnik-113"
+    },
+    {
+      "sourceNumber": "114",
+      "question": "Co ukazuje oblasti srážek?",
+      "options": [
+        "satelitní snímek",
+        "GAFOR",
+        "radarový obraz",
+        "mapa větru"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 23,
+      "id": "3-meteorologie-vrtulnik-114"
+    },
+    {
+      "sourceNumber": "115",
+      "question": "Která informace se NENACHÁZÍ na mapě význačného počasí v malých hladinách (LLSWC)?",
+      "options": [
+        "informace o podmínkách námrazy",
+        "radarové odrazy srážek",
+        "informace o oblastech turbulence",
+        "polohy a pohyb front"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 23,
+      "id": "3-meteorologie-vrtulnik-115"
+    },
+    {
+      "sourceNumber": "117",
+      "question": "Ve zprávě METAR je intenzivní déšť označen jako:",
+      "options": [
+        "znak +SHRA",
+        "znak SHRA",
+        "znak +RA",
+        "znak RA"
+      ],
+      "correctIndex": 2,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 24,
+      "id": "3-meteorologie-vrtulnik-117"
+    },
+    {
+      "sourceNumber": "118",
+      "question": "Ve zprávě METAR jsou mírné dešťové přeháňky označeny jako:",
+      "options": [
+        "znak +TSRA",
+        "znak TS",
+        "znak +RA",
+        "znak SHRA"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 24,
+      "id": "3-meteorologie-vrtulnik-118"
+    },
+    {
+      "sourceNumber": "119",
+      "question": "Jakou informaci lze nalézt ve zprávě ATIS, ale ne ve zprávě METAR?",
+      "options": [
+        "informace pro přiblížení, např. přízemní dohlednost a základna oblačnosti",
+        "informace o současném počasí, např. typy srážek",
+        "informace o síle větru, případně o síle nárazů větru",
+        "provozní informace, např. vzletová a přistávací dráha v provozu a převodní hladina"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 24,
+      "id": "3-meteorologie-vrtulnik-119"
+    },
+    {
+      "sourceNumber": "120",
+      "question": "Za letu lze obdržet meteorologické a provozní informace o cílovém letišti:",
+      "options": [
+        "ve zprávě VOLMET",
+        "ve zprávě PIREP",
+        "ve zprávě SIGMET",
+        "ve zprávě ATIS"
+      ],
+      "correctIndex": 3,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 24,
+      "id": "3-meteorologie-vrtulnik-120"
+    },
+    {
+      "sourceNumber": "121",
+      "question": "Výstrahy SIGMET jsou vydávány pro:",
+      "options": [
+        "letiště",
+        "oblasti FIR / UIR"
+      ],
+      "correctIndex": 1,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 24,
+      "id": "3-meteorologie-vrtulnik-121"
+    },
+    {
+      "sourceNumber": "122",
+      "question": "Inverze je vrstva:",
+      "options": [
+        "kde teplota s rostoucí výškou roste",
+        "kde je teplota s rostoucí výškou konstantní",
+        "kde tlak s rostoucí výškou roste",
+        "kde teplota s rostoucí výškou klesá"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 25,
+      "id": "3-meteorologie-vrtulnik-122"
+    },
+    {
+      "sourceNumber": "123",
+      "question": "Jaký převládající vítr lze očekávat, jsou-li na přízemní meteorologické mapě izobary ve velké vzdálenosti?",
+      "options": [
+        "malý tlakový gradient a mírný vítr",
+        "malý tlakový gradient a silný vítr",
+        "velký tlakový gradient a silný vítr",
+        "velký tlakový gradient a mírný vítr"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 25,
+      "id": "3-meteorologie-vrtulnik-123"
+    },
+    {
+      "sourceNumber": "124",
+      "question": "Co se nazývá horským větrem?",
+      "options": [
+        "vítr vanoucí dolů podél svahu v noci",
+        "vítr vanoucí nahoru z údolí ve dne",
+        "vítr vanoucí nahoru z údolí v noci",
+        "vítr vanoucí dolů podél svahu ve dne"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 25,
+      "id": "3-meteorologie-vrtulnik-124"
+    },
+    {
+      "sourceNumber": "125",
+      "question": "Jaký vítr je hlášen jako 225/ 15?",
+      "options": [
+        "jihozápadní 15 kt",
+        "jihozápadní 15 km/h",
+        "severovýchodní 15 kt",
+        "severovýchodní 15 km/h"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 25,
+      "id": "3-meteorologie-vrtulnik-125"
+    },
+    {
+      "sourceNumber": "126",
+      "question": "Jak se mění teplota vzduchu dle mezinárodní standardní atmosféry od MSL do výšky přibližně 10.000 m?",
+      "options": [
+        "od +15° do-50 °C",
+        "od +30° do-40 °C"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 25,
+      "id": "3-meteorologie-vrtulnik-126"
+    },
+    {
+      "sourceNumber": "127",
+      "question": "Jaké počasí pravděpodobně nastane při fénu v Bavorsku v blízkosti Alp?",
+      "options": [
+        "oblačnost Ns v jižních Alpách, rotorová oblačnost na závětrné straně, teplý a suchý vítr",
+        "oblačnost Ns v severních Alpách, rotorová oblačnost na návětrné straně, teplý a suchý vítr oblast vysokého tlaku vzduchu nad Biskajským zálivem a oblast nízkého tlaku vzduchu ve východní Evropě",
+        "studený vlhký vítr vanoucí z hor na závětrné straně Alp, malé změny tlaku vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 26,
+      "id": "3-meteorologie-vrtulnik-127"
+    },
+    {
+      "sourceNumber": "128",
+      "question": "Stoupavé proudy na úbočích hor mohou být zesíleny:",
+      "options": [
+        "slunečním zářením na návětrné straně",
+        "slunečním zářením na závětrné straně",
+        "vyzařováním tepla na návětrné straně v noci",
+        "ohřevem horních vrstev atmosféry"
+      ],
+      "correctIndex": 0,
+      "category": "Meteorologie",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "3-Meteorologie-vrtulnik.pdf",
+      "page": 26,
+      "id": "3-meteorologie-vrtulnik-128"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Osa rotace Země prochází:",
+      "options": [
+        "zeměpisným severním pólem a zeměpisným jižním pólem",
+        "magnetickým severním pólem a zeměpisným jižním pólem",
+        "zeměpisným severním pólem a magnetickým jižním pólem",
+        "magnetickým severním pólem a magnetickým jižním pólem"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 1,
+      "id": "9-navigace-letoun-(1)-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Který výrok o polární ose Země je pravdivý?",
+      "options": [
+        "polární osa Země prochází magnetickým jižním pólem a magnetickým severním pólem a je kolmá na rovinu rovníku",
+        "polární osa Země prochází zeměpisným jižním pólem a zeměpisným severním pólem a je kolmá na rovinu rovníku",
+        "polární osa Země prochází magnetickým severním pólem a magnetickým jižním pólem a s rovinou rovníku svírá úhel 66.5°",
+        "polární osa Země prochází zeměpisným severním pólem a zeměpisným jižním pólem a s rovinou rovníku svírá úhel 23.5°"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 1,
+      "id": "9-navigace-letoun-(1)-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Jaký geometrický útvar nejlépe pro navigační systémy popisuje přibližně tvar Země?",
+      "options": [
+        "ideální koule",
+        "koule eliptického tvaru",
+        "elipsoid",
+        "plochá rovina"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 1,
+      "id": "9-navigace-letoun-(1)-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Který výrok o loxodromě je pravdivý?",
+      "options": [
+        "loxodroma je velká kružnice protínající rovník pod úhlem 45°",
+        "loxodroma protíná všechny poledníky pod stejným úhlem",
+        "loxodroma je nejkratší spojnice mezi dvěma body na povrchu Země",
+        "středem kružnice proložené loxodromou je střed Země"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 1,
+      "id": "9-navigace-letoun-(1)-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Nejkratší spojnice dvou bodů na Zemi je částí:",
+      "options": [
+        "malé kružnice",
+        "velké kružnice",
+        "loxodromy",
+        "rovnoběžky"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 1,
+      "id": "9-navigace-letoun-(1)-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Obvod Země na rovníku je přibližně: (viz obrázek NAV-002)",
+      "options": [
+        "40000 NM.",
+        "10800 km.",
+        "21600 NM.",
+        "12800 km."
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 2,
+      "id": "9-navigace-letoun-(1)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Jaký je rozdíl zeměpisné šířky mezi body A (12°53'30''N) a B (07°34'30''S)?",
+      "options": [
+        "20,28°",
+        "05°19'00''",
+        "05,19°",
+        "20°28'00''"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 2,
+      "id": "9-navigace-letoun-(1)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Kde se nacházejí polární kruhy?",
+      "options": [
+        "20.5° jižně od pólů",
+        "23.5° severně a jižně od rovníku",
+        "na zeměpisné šířce 20.5°S a 20.5°N",
+        "23.5° severně a jižně od pólů"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 2,
+      "id": "9-navigace-letoun-(1)-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Jaká je vzdálenost mezi rovnoběžkami 48°N a 49°N podél poledníku?",
+      "options": [
+        "1 NM",
+        "60 NM",
+        "111 NM",
+        "10 NM"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 2,
+      "id": "9-navigace-letoun-(1)-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Jaká vzdálenost odpovídá rozdílu jednoho stupně zeměpisné šířky podél kteréhokoliv poledníku?",
+      "options": [
+        "60 NM",
+        "1 NM",
+        "60 km",
+        "30 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 2,
+      "id": "9-navigace-letoun-(1)-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Bod A leží přesně na rovnoběžce 47°50'27''N. Jaký bod je přesně 240 NM severně od A?",
+      "options": [
+        "51°50'27'N'",
+        "49°50'27''N",
+        "43°50'27''N",
+        "53°50'27''N"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 3,
+      "id": "9-navigace-letoun-(1)-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Jaká je vzdálenost podél rovníku mezi poledníky 150°E a 151°E?",
+      "options": [
+        "1 NM",
+        "60 km",
+        "60 NM",
+        "111 NM"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 3,
+      "id": "9-navigace-letoun-(1)-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Jaká je vzdálenost po ortodromě mezi body A a B na rovníku, je-li rozdíl mezi příslušnými poledníky přesně jeden stupeň zeměpisné délky?",
+      "options": [
+        "60 NM",
+        "120 NM",
+        "216 NM",
+        "400 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 3,
+      "id": "9-navigace-letoun-(1)-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Předpokládejte dva libovolné body A a B na stejné rovnoběžce, ale ne na rovníku. Bod A se nachází na 10°E a bod B na 20°E. Vzdálenost po loxodromě mezi A a B je vždy:",
+      "options": [
+        "menší než 600 NM",
+        "větší než 600 NM",
+        "menší než 300 NM",
+        "větší než 300 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 3,
+      "id": "9-navigace-letoun-(1)-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Jak dlouho trvá, než se Slunce posune o 20° zeměpisné délky?",
+      "options": [
+        "1:00 h",
+        "0:40 h",
+        "1:20 h",
+        "0:20 h"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 3,
+      "id": "9-navigace-letoun-(1)-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Jak dlouho trvá, než se Slunce posune o 10° zeměpisné délky?",
+      "options": [
+        "0:40 h",
+        "1:00 h",
+        "0:04 h",
+        "0:30 h"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 4,
+      "id": "9-navigace-letoun-(1)-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Jak dlouho trvá, než se Slunce posune o 10° zeměpisné délky?",
+      "options": [
+        "0.66 h",
+        "1 h",
+        "0.33 h",
+        "0.4 h"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 4,
+      "id": "9-navigace-letoun-(1)-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Pro Středoevropský letní čas (CEST) platí UTC+2. Jaký čas UTC odpovídá 1600 CEST?",
+      "options": [
+        "1500 UTC",
+        "1600 UTC",
+        "1700 UTC",
+        "1400 UTC"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 4,
+      "id": "9-navigace-letoun-(1)-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "UTC je:",
+      "options": [
+        "místní čas ve střední Evropě",
+        "k oordinovaný světový čas používaný v letectví",
+        "pásmový čas",
+        "místní střední čas v určitém bodu na Zemi"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 4,
+      "id": "9-navigace-letoun-(1)-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Pro středoevropský čas (CET) platí: CET = UTC+1. Jaký UTC odpovídá 1700 CET?",
+      "options": [
+        "1500 UTC",
+        "1800 UTC",
+        "1600 UTC",
+        "1700 UTC"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 4,
+      "id": "9-navigace-letoun-(1)-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Vídeň (LOWW) se nachází na 016° 34'E, Salzburg (LOWS) na 013° 00'E. Jejich zeměpisnou šířku lze považovat za stejnou. Jaký je rozdíl mezi časy východu a z á p a du slunce vyjádřený v UTC mezi Vídní a Salzburkem?",
+      "options": [
+        "ve Vídni je východ a západ slunce asi o 14 minut dříve než v Salzburku",
+        "ve Vídni je východ a západ slunce asi o 4 minuty později než v Salzburku",
+        "ve Vídni je východ slunce o 14 minut dříve a západ o 14 minut později než v Salzburku",
+        "ve Vídni je východ slunce o 4 minuty později a západ o 4 minuty dříve než v Salzburku"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 5,
+      "id": "9-navigace-letoun-(1)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Pojem \"občanský soumrak\" je definován jako:",
+      "options": [
+        "doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod zeměpisným horizontem",
+        "doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod viditelným horizontem",
+        "doba po západu slunce, během které je střed slunečního disku 12° nebo méně pod zeměpisným horizontem",
+        "doba po západu slunce, během které je střed slu nečního disku 12° nebo méně pod viditelným horizontem"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 5,
+      "id": "9-navigace-letoun-(1)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Je dáno: Oprava snosu větru:-012°, zeměpisný kurz: 125°, magnetická trať: 139°, deviace: 002°E. Stanovte zeměpisnou trať a magnetický a kompasový kurz.",
+      "options": [
+        "zeměpisná trať: 137°. Magnetický kurz: 139°. Kompasový kurz: 125°.",
+        "zeměpisná trať: 137°. Magnetický kurz: 127°. Kompasový kurz: 125°.",
+        "zeměpisná trať: 113°. Magnetický kurz: 127°. Kompasový kurz: 129°.",
+        "zeměpisná trať: 113°. Magnetický kurz: 139°. Kompasový kurz: 129°."
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 5,
+      "id": "9-navigace-letoun-(1)-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Je dáno: Zeměpisná trať: 179°, oprava snosu větru:-12°, deklinace: 004° E, deviace: +002°. Stanovte magnetický kurz a magnetickou trať.",
+      "options": [
+        "magnetický kurz: 163°. Magnetická trať: 175°.",
+        "magnetický kurz: 163°. Magnetická trať: 161°.",
+        "magnetický kurz: 167°. Magnetická trať: 175°.",
+        "magnetický kurz: 167°. Magnetická trať: 161°."
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 5,
+      "id": "9-navigace-letoun-(1)-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Úhel mezi zeměpisnou tratí a zeměpisným kurzem se nazývá:",
+      "options": [
+        "deviace",
+        "snos větru",
+        "inklinace",
+        "deklinace"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 6,
+      "id": "9-navigace-letoun-(1)-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Úhel mezi magnetickou a zeměpisnou tratí se nazývá:",
+      "options": [
+        "deviace",
+        "inklinace",
+        "snos větru",
+        "deklinace"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 6,
+      "id": "9-navigace-letoun-(1)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Pojem \"magnetická trať\" je definován jako:",
+      "options": [
+        "úhel mezi magnetickým severem a tratí",
+        "úhel mezi zeměpisným severem a tratí",
+        "směr od libovolného bodu na Zemi k magnetickému severnímu pólu",
+        "směr od libovolného bodu na Zemi k zeměpisnému severnímu pólu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 6,
+      "id": "9-navigace-letoun-(1)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Pojem \"zeměpisná trať\" (TC) je definován jako:",
+      "options": [
+        "úhel mezi zeměpisným severem a tratí",
+        "úhel mezi magnetickým severem a tratí",
+        "směr od libovolného bodu na Zemi k magnetickému severnímu pólu",
+        "směr od libovolného bodu na Zemi k zeměpisnému severnímu pólu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 6,
+      "id": "9-navigace-letoun-(1)-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Je dáno: Zeměpisná trať: 183°, oprava snosu větru: +011°, magnetický kurz: 198°, kompasový kurz: 200°. Stanovte zeměpisný kurz a deklinaci.",
+      "options": [
+        "zeměpisný kurz: 194°. deklinace: 004° E",
+        "zeměpisný kurz: 172°. deklinace: 004° E",
+        "zeměpisný kurz: 194°. deklinace: 004° W",
+        "zeměpisný kurz 172°. deklinace: 004° W"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 6,
+      "id": "9-navigace-letoun-(1)-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Je dáno: Zeměpisná trať: 183°, oprava snosu větru: +011°, magnetický kurz: 198°, kompasový kurz: 200°. Stanovte zeměpisný kurz a deviaci.",
+      "options": [
+        "zeměpisný kurz: 194°. deviace: +002°.",
+        "zeměpisný kurz: 172°. deviace:-002°.",
+        "zeměpisný kurz: 194°. deviace:-002°.",
+        "zeměpisný kurz: 172°. deviace: +002°."
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 7,
+      "id": "9-navigace-letoun-(1)-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Je dáno: Zeměpisná trať: 183°, oprava snosu větru: +011°, magnetický kurz: 198°, kompasový kurz: 200°. Stanovte deklinaci a deviaci.",
+      "options": [
+        "deklinace: 004° E. deviace:-002°.",
+        "deklinace: 004° E. deviace: +002°.",
+        "deklinace: 004° W. deviace:-002°.",
+        "deklinace: 004° W. deviace: +002°."
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 7,
+      "id": "9-navigace-letoun-(1)-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Kde má inklinace nejmenší hodnotu?",
+      "options": [
+        "na zeměpisném rovníku",
+        "na magnetickém rovníku",
+        "na magnetických pólech",
+        "na zeměpisných pólech"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 7,
+      "id": "9-navigace-letoun-(1)-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Úhel mezi kompasovým severem a magnetickým severem se nazývá:",
+      "options": [
+        "deviace",
+        "oprava snosu větru",
+        "deklinace",
+        "inklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 7,
+      "id": "9-navigace-letoun-(1)-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Který směr odpovídá kompasovému severu (CN)?",
+      "options": [
+        "severu, který ukazuje kompas s přímým čtením vlivem magnetického pole Země a letadla",
+        "úhlu mezi kurzem letadla a magnetickým severem",
+        "nejsevernější části ukazatele magnetického kompasu v letadle",
+        "směru od libovolného bodu na Zemi k zeměpisnému severnímu pólu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 7,
+      "id": "9-navigace-letoun-(1)-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Pojem \"izogóna\" je definován jako spojnice dvou bodů na mapě, které mají stejnou hodnotu:",
+      "options": [
+        "deklinace",
+        "deviace",
+        "inklinace",
+        "kurzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 8,
+      "id": "9-navigace-letoun-(1)-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Pojem \"agóna\" je definován jako spojnice dvou bodů na mapě nebo na Zemi, které:",
+      "options": [
+        "mají deklinaci 0°",
+        "mají deviaci 0°",
+        "mají inklinaci 0°",
+        "mají kurz 0°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 8,
+      "id": "9-navigace-letoun-(1)-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jaké oficiální základní jednotky a jejich zkratky se používají v letecké navigaci pro měření vodorovných vzdáleností?",
+      "options": [
+        "námořní míle (NM), kilometry (km)",
+        "statutární míle (SM), námořní míle (NM)",
+        "yardy (yd), metry (m)",
+        "stopy (ft), palce (in)"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 8,
+      "id": "9-navigace-letoun-(1)-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "1000 ft rovná se:",
+      "options": [
+        "300 m",
+        "30 m",
+        "3000 m",
+        "30 km"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 8,
+      "id": "9-navigace-letoun-(1)-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "5500 m rovná se:",
+      "options": [
+        "7500 ft",
+        "10000 ft",
+        "18000 ft",
+        "30000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 8,
+      "id": "9-navigace-letoun-(1)-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Která z položek na přiloženém seznamu úkonů se vztahuje ke kompasu s přímým čtením? Viz příloha (NAV-004)",
+      "options": [
+        "g yro (gyroskopické) a t urning Instruments (přístroje indikující zatáčku)",
+        "pouze turning instruments (přístroje indikující zatáčku)",
+        "g yro (gyroskopické) a c ircuit b reaker (jistič)",
+        "turning Instruments (přístroje indikující zatáčku) a c ircuit b reaker (jistič)"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 9,
+      "id": "9-navigace-letoun-(1)-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Co může být důvodem pro změnu magnetického směru vzletové a přistávací dráhy na letišti (např. z RWY 06 na RWY 07)?",
+      "options": [
+        "změnila se deklinace na místě dráhy",
+        "změnila se deviace na místě dráhy",
+        "změnil se zeměpisný směr dráhy",
+        "změnila se trajektorie přiblížení na dráhu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 9,
+      "id": "9-navigace-letoun-(1)-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Elektronická zařízení na palubě letadla ovlivňují indikaci:",
+      "options": [
+        "umělého horizontu",
+        "zatáčkoměru",
+        "kompasu s přímým čtením",
+        "rychloměru"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 9,
+      "id": "9-navigace-letoun-(1)-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Jaké jsou vlastnosti mapy s Mercatorovým zobrazením?",
+      "options": [
+        "měřítko se zvětšuje se zeměpisnou šířkou, velké kružnice jsou zobrazeny jako křivky, loxodromy jsou zobrazeny jako přímky",
+        "měřítko se zvětšuje se zeměpisnou šířkou, velké kružnice jsou zobrazeny jako přímky, loxodromy jsou zobrazeny jako křivky",
+        "měřítko je konstantní, velké kružnice jsou zobrazeny jako křivky, loxodromy jsou zobrazeny jako přímky",
+        "měřítko je konstantní, v elké kružnice jsou zobrazeny jako přímky, loxodromy jsou zobrazeny jako křivky"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 9,
+      "id": "9-navigace-letoun-(1)-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Jak jsou zobrazeny loxodromy a ortodr o my na mapě s přímým Mercatorovým zobrazením?",
+      "options": [
+        "loxodromy – přímky, ortodr o my – křivky",
+        "loxodromy – křivky, ortodr o my – přímky",
+        "loxodromy – křivky, ortodr o my – křivky",
+        "loxodromy – přímky, ortodr o my – přímky"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 9,
+      "id": "9-navigace-letoun-(1)-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Jaké jsou vlastnosti mapy s Lambertovým konformním zobrazením?",
+      "options": [
+        "mapa je konformní a měřítko je přibližně stejné",
+        "mapa je konformní a projekce nezkresluje velikost ploch",
+        "ortodr o my jsou zobrazeny jako přímky a projekce nezkresluje velikost ploch",
+        "loxodromy jsou přímky a mapa je konformní"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 10,
+      "id": "9-navigace-letoun-(1)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Které čáry má pilot použít pro stanovení polohy letadla?",
+      "options": [
+        "zeměpisné směrníky (QTE)",
+        "magnetické směrníky (QDR)",
+        "relativní směrníky (RB)",
+        "magnetické kurzy (MH)"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 10,
+      "id": "9-navigace-letoun-(1)-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Jaký je radiál od VOR Brünkendorf (BKD) (53°02′N, 011°33′E) směrem do Pritzwalk (EDBU) (53°11'N, 12°11'E)? Viz příloha (NAV-031)",
+      "options": [
+        "068°",
+        "248°",
+        "024°",
+        "204°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 10,
+      "id": "9-navigace-letoun-(1)-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Vzdálenost mezi dvěma letišti je 220 NM. Na letecké navigační mapě mezi nimi pilot naměřil vzdálenost 40.7 cm. Měřítko mapy je:",
+      "options": [
+        "1: 1000000",
+        "1: 500000",
+        "1: 2000000",
+        "1: 250000"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 10,
+      "id": "9-navigace-letoun-(1)-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Jaká je poloha letadla při křížovém zaměření, je-li dáno následující: VOR Hamburg (HAM) (53°41′N, 010°12′E): Radiál 119°, VOR Brünkendorf (BKD) (53°02′N, 011°33′E): Radiál 320 ° Viz obr. (NAV-031)",
+      "options": [
+        "53°20'N, 11°10'E",
+        "54°40'N, 12°50'E",
+        "52°20'N, 10°10'E",
+        "52°10'N, 10°20'E"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 10,
+      "id": "9-navigace-letoun-(1)-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Jaká je vzdálenost od VOR Brünkendorf (BKD) (53°02′N, 011°33′E) do Pritzwalk (EDBU) (53°11'N, 12°11'E)? Viz příloha (NAV-031)",
+      "options": [
+        "24 NM",
+        "24 km",
+        "42 NM",
+        "42 km"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 11,
+      "id": "9-navigace-letoun-(1)-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Vzdálenost 7.5 cm na letecké mapě představuje skutečnou vzdálenost 60.745 NM. Jaké je měřítko mapy?",
+      "options": [
+        "1: 1500000",
+        "1: 1 000000",
+        "1: 500000",
+        "1: 150000"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 11,
+      "id": "9-navigace-letoun-(1)-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Pro krátký let z A do B získal pilot z letecké mapy následující informace: Zeměpisná trať 245°, deklinace: 7° W. Jaká je magnetická trať?",
+      "options": [
+        "252°",
+        "238°",
+        "245°",
+        "007°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 11,
+      "id": "9-navigace-letoun-(1)-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Letadlo letí v 8000 ft AMSL indikovanou rychlostí (IAS) 150 kt. Pravá vzdušná rychlost (TAS) je:",
+      "options": [
+        "174 kt",
+        "142 kt",
+        "150 kt",
+        "208 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 11,
+      "id": "9-navigace-letoun-(1)-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Je dáno: Zeměpisná trať z A do B: 250°. vzdálenost: 210 NM. Pravá vzdušná rychlost: 130 kt. Čelní složka větru: 15 kt. Očekávaný čas odletu (ETD): 0915 UTC. Očekávaný čas příletu (ETA) je:",
+      "options": [
+        "1105 UTC",
+        "1115 UTC",
+        "1052 UTC",
+        "1005 UTC"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 12,
+      "id": "9-navigace-letoun-(1)-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Je dáno: Zeměpisná trať z A do B: 283°. vzdálenost: 75 NM. Pravá vzdušná rychlost: 105 kt. Čelní složka větru: 12 kt. Očekávaný čas odletu (ETD): 1242 UTC. Očekávaný čas příletu (ETA) je:",
+      "options": [
+        "1320 UTC",
+        "1330 UTC",
+        "1356 UTC",
+        "1430 UTC"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 12,
+      "id": "9-navigace-letoun-(1)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Je dáno: Zeměpisná trať z A do B: 352°. vzdálenost: 100 NM. Traťová rychlost (GS): 107 kt. Očekávaný čas odletu (ETD): 0933 UTC. Očekávaný čas příletu (ETA) je:",
+      "options": [
+        "1045 UTC",
+        "1146 UTC",
+        "1029 UTC",
+        "1129 UTC"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 12,
+      "id": "9-navigace-letoun-(1)-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Letadlo uletí 100 km za 56 minut. Traťová rychlost (GS) je:",
+      "options": [
+        "58 km/h",
+        "93 kt",
+        "107 km/h",
+        "198 kt"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 12,
+      "id": "9-navigace-letoun-(1)-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Letadlo uletí 110 NM za 01:25 hod. Traťová rychlost (GS) je:",
+      "options": [
+        "78 kt",
+        "86 kt",
+        "160 km/h",
+        "120 km/h"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 12,
+      "id": "9-navigace-letoun-(1)-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jaká je doba letu traťovou rychlostí 134 kt na vzdálenost 236 NM?",
+      "options": [
+        "0:34 h",
+        "1:34 h",
+        "1:46 h",
+        "0:46 h"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 13,
+      "id": "9-navigace-letoun-(1)-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Letadlo letí pravou vzdušnou rychlostí (TAS) 120 kt se zadní složkou větru 35 kt. Za jak dlouho uletí vzdálenost 185 NM?",
+      "options": [
+        "1 h 12 min",
+        "1 h 32 min",
+        "2 h 11 min",
+        "0 h 50 min"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 13,
+      "id": "9-navigace-letoun-(1)-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Letadlo letí pravou vzdušnou rychlostí (TAS) 180 kt. Čelní složka větru je 25 kt. Doba letu: 2 hodiny a 25 minut. Uletěná vzdálenost je:",
+      "options": [
+        "375 NM",
+        "693 NM",
+        "202 NM",
+        "435 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 13,
+      "id": "9-navigace-letoun-(1)-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Ja dáno: Kalibrovaná rychlost (CAS): 155 kt. Letová hladina (FL) 80. teplota vnějšího vzduchu (OAT): +15° C. Pravá vzdušná rychlost (TAS) je:",
+      "options": [
+        "134 kts",
+        "155 kts",
+        "170 kts",
+        "180 kts"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 13,
+      "id": "9-navigace-letoun-(1)-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Jaká je zeměpisná trať (TC) z Uelzen (EDVU) (52°59′N, 10°28′E) do Neustadt (EDAN) (53°22'N, 011°37'E)? Viz příloha (NAV-031)",
+      "options": [
+        "061°",
+        "241°",
+        "055°",
+        "235°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 13,
+      "id": "9-navigace-letoun-(1)-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Letadlo letí ve FL 75, kde je teplota vnějšího vzduchu (OAT)-9°C. Výškoměr nastavený na QNH indikuje výšku letu 6500 ft. Jaká je skutečná výška letu?",
+      "options": [
+        "6250 ft",
+        "6500 ft",
+        "6750 ft",
+        "7000 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 14,
+      "id": "9-navigace-letoun-(1)-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Jaká je vzdálenost z Neustadt (EDAN) (53°22'N, 011°37'E) do Uelzen (EDVU) (52°59′N, 10°28′E)? Viz příloha (NAV-031)",
+      "options": [
+        "46 NM",
+        "46 km",
+        "78 NM",
+        "78 km"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 14,
+      "id": "9-navigace-letoun-(1)-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Letadlo letí v tlakové výšce 7000 ft při teplotě vnějšího vzduchu (OAT) +11°C. Výškoměr nastavený na QNH indikuje 6500 ft. Skutečná nadmořská výška je:",
+      "options": [
+        "6250 ft",
+        "6500 ft",
+        "6750 ft",
+        "7000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 14,
+      "id": "9-navigace-letoun-(1)-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Letadlo letí v tlakové výšce 7000 ft při teplotě vnějšího vzduchu (OAT) +21°C. Výškoměr nastavený na QNH indikuje 6500 ft. Jaká je skutečná nadmořská výška?",
+      "options": [
+        "6250 ft",
+        "6500 ft",
+        "6750 ft",
+        "7000 ft"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 14,
+      "id": "9-navigace-letoun-(1)-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Je dáno: Zeměpisná trať: 255°. Pravá vzdušná rychlost: 100 kt. vítr: 200°/10 kt. Jaký je zeměpisný kurz?",
+      "options": [
+        "245°",
+        "250°",
+        "265°",
+        "275°"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 14,
+      "id": "9-navigace-letoun-(1)-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Je dáno: Zeměpisná trať: 165°. Pravá vzdušná rychlost: 90 kt. vítr: 130°/20 kt. vzdálenost: 153 NM. Zeměpisný kurz je:",
+      "options": [
+        "152°",
+        "165°",
+        "126°",
+        "158°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 15,
+      "id": "9-navigace-letoun-(1)-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Je dáno: Traťová rychlost (GS): 160 kt. Zeměpisná trať (TC): 177°. vítr (W/WS): 140°/20 kt. Zeměpisný kurz (TH) je:",
+      "options": [
+        "173°",
+        "180°",
+        "184°",
+        "169°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 15,
+      "id": "9-navigace-letoun-(1)-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Letadlo letí po zeměpisné trati (TC) 220° konstantní pravou vzdušnou rychlostí 220 kt. Vítr je 270°/50 kt. Traťová rychlost je:",
+      "options": [
+        "185 kt",
+        "255 kt",
+        "170 kt",
+        "135 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 15,
+      "id": "9-navigace-letoun-(1)-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Letadlo letí po zeměpisné trati (TC) 040° konstantní pravou vzdušnou rychlostí (TAS) 180 kt. Vítr je 350°/30 kt. Traťová rychlost (GS) je:",
+      "options": [
+        "159 kt",
+        "168 kt",
+        "172 kt",
+        "155 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 15,
+      "id": "9-navigace-letoun-(1)-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Letadlo letí po zeměpisné trati (TC) 040° konstantní pravou vzdušnou rychlostí (TAS) 180 kt. Vítr je 350°/30 kt. Oprava snosu větru (WCA) je:",
+      "options": [
+        "- 7°",
+        "- 9°",
+        "+ 5°",
+        "+ 11°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 16,
+      "id": "9-navigace-letoun-(1)-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Je dáno: Zeměpisná trať: 270°. Pravá vzdušná rychlost: 100 kt. vítr: 090°/25 kt. vzdálenost: 100 NM. Traťová rychlost (GS) je:",
+      "options": [
+        "120 kt",
+        "125 kt",
+        "117 kt",
+        "131 kt"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 16,
+      "id": "9-navigace-letoun-(1)-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Je dáno: Zeměpisná trať: 270°. Pravá vzdušná rychlost: 100 kt. vítr: 090°/25 kt. vzdálenost: 100 NM. Doba letu je:",
+      "options": [
+        "62 min",
+        "48 min",
+        "37 min",
+        "84 min"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 16,
+      "id": "9-navigace-letoun-(1)-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Letadlo letí po zeměpisné trati (TC) 040° konstantní pravou vzdušnou rychlostí (TAS) 180 kt. Vítr je 350°/30 kt. Oprava snosu větru (WCA) je:",
+      "options": [
+        "7° doleva",
+        "7° doprava",
+        "3° doleva",
+        "3° doprava"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 16,
+      "id": "9-navigace-letoun-(1)-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Je dáno: Zeměpisná trať: 120°. Pravá vzdušná rychlost: 120 kt. vítr: 150°/12 kt. Oprava snosu větru (WCA) je:",
+      "options": [
+        "6° doprava",
+        "3° doleva",
+        "3° doprava",
+        "6° doleva"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 16,
+      "id": "9-navigace-letoun-(1)-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Vzdálenost z A do B je 120 NM. Ve vzdálenosti 55 NM z A se letadlo nachází 7 NM vpravo od tratě. Jakou opravu kurzu musí pilot provést, aby doletěl přímo do B?",
+      "options": [
+        "14° doleva",
+        "6° doleva",
+        "8° doleva",
+        "15° doleva"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 17,
+      "id": "9-navigace-letoun-(1)-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Letadlo letí kurzem 090°. Má uletět vzdálenost 90 NM. Po 45 NM je 4.5 NM severně od plánované tratě. Jaká je oprava kurzu, aby letadlo doletělo přímo do cíle?",
+      "options": [
+        "6° doprava",
+        "9° doprava",
+        "18° doprava",
+        "12° doprava"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 17,
+      "id": "9-navigace-letoun-(1)-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Co znamená pravidlo 1:60?",
+      "options": [
+        "odchylka od tratě 1 NM při snosu 1° po uletění 60 NM",
+        "odchylka od tratě 10 NM při snosu 1° po uletění 60 NM",
+        "odchylka od tratě 60 NM při snosu 1° po uletění 1 NM",
+        "odchylka od tratě 6 NM při snosu 1° po uletění 10 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 17,
+      "id": "9-navigace-letoun-(1)-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "Letadlo letí z A do B na vzdálenost 220 NM. Plánovaná traťová rychlost (GS) je 120 kt. Odlet z A je ve 1200 UTC. Po uletění 70 NM z A je letadlo o 5 minut před plánovaným časem. Jaký je opravený očekávaný čas příletu do B, poletí-li stále stejnou skutečnou traťovou rychlostí?",
+      "options": [
+        "1335 UTC",
+        "1340 UTC",
+        "1345 UTC",
+        "1330 UTC"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 17,
+      "id": "9-navigace-letoun-(1)-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Letadlo klesá za bezvětří z 9000 ft do 1500 ft. Rychlost klesání (ROD) je 1200 ft/min. Za jak dlouho bude ve výšce 1500 ft?",
+      "options": [
+        "6 min",
+        "12 min",
+        "8 min",
+        "15 min"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 17,
+      "id": "9-navigace-letoun-(1)-82"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "Letadlo za bezvětří klesá ze 7500 ft do 1200 ft pravou vzdušnou rychlostí (TAS) 105 kt. Rychlost klesání (ROD) je 800 ft/min. Jaká je doba klesání?",
+      "options": [
+        "6 min",
+        "12 min",
+        "8 min",
+        "15 min"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 18,
+      "id": "9-navigace-letoun-(1)-83"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Jakou hodnotou je třeba doplnit plán letu (označená pole)? Viz obr. (NAV-014)",
+      "options": [
+        "zeměpisný kurz (TH): 185°. Magnetický kurz (MH): 184°. Magnetická trať (MC): 178°",
+        "zeměpisný kurz (TH): 173°. Magnetický kurz (MH): 174°. Magnetická trať (MC): 178°",
+        "zeměpisný kurz (TH): 185°. Magnetický kurz (MH): 185°. Magnetická trať (MC): 180°",
+        "zeměpisný kurz (TH): 173°. Magnetický kurz (MH): 184°. Magnetická trať (MC): 178°"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 18,
+      "id": "9-navigace-letoun-(1)-84"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Z jaké radionavigační pomůcky lze přijímat signál anténou v příloze? Viz příloha (NAV-017)",
+      "options": [
+        "NDB",
+        "VOR",
+        "DME",
+        "VDF"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 18,
+      "id": "9-navigace-letoun-(1)-85"
+    },
+    {
+      "sourceNumber": "86",
+      "question": "Přibližná rychlost šíření elektromagnetických vln je:",
+      "options": [
+        "300000 m/s",
+        "300000 km/s",
+        "300000 NM/s",
+        "300000 ft/s"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 18,
+      "id": "9-navigace-letoun-(1)-86"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Dlouhé (LF) a střední (MF) radiové vlny (např. NDB) se šíří jako:",
+      "options": [
+        "přímá vlna",
+        "prostorová vlna (kvazi-optická)",
+        "povrchová vlna",
+        "povrchová a prostorová vlna"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 18,
+      "id": "9-navigace-letoun-(1)-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Rádiové vlny v pásmu VKV (např. VOR) se šíří jako:",
+      "options": [
+        "přímá vlna",
+        "prostorová vlna (kvazi-optická)",
+        "povrchová vlna",
+        "prostorová a povrchová vlna"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 19,
+      "id": "9-navigace-letoun-(1)-88"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Kvazi-optické vlny se šíří:",
+      "options": [
+        "podél povrchu Země",
+        "prostorem přímo od vysílače k přijímači",
+        "prostorem a jsou ovlivněny (např. odraženy) ionosférou",
+        "podél povrchu Země, ale jsou absorbovány mořem"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 19,
+      "id": "9-navigace-letoun-(1)-89"
+    },
+    {
+      "sourceNumber": "90",
+      "question": "Pomocí zaměřovače VHF (VDF) lze zjistit:",
+      "options": [
+        "šikmou vzdálenost",
+        "rychlost přiblížení",
+        "magnetický směrník",
+        "zeměpisnou trať"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 19,
+      "id": "9-navigace-letoun-(1)-90"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Jaké zařízení na palubě letadla je třeba pro využití zaměřovače VHF (VDF)?",
+      "options": [
+        "přijímač VDF",
+        "rádio VHF",
+        "nejméně 2 antény VHF",
+        "ukazatel relativního směrníku (RBI)"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 19,
+      "id": "9-navigace-letoun-(1)-91"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Je dáno: QDM: 138° deklinace: 10° E QUJ je:",
+      "options": [
+        "328°",
+        "318°",
+        "168°",
+        "148°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 19,
+      "id": "9-navigace-letoun-(1)-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "Je dáno: QTE: 229° deklinace: 10° W. QDM je:",
+      "options": [
+        "049°",
+        "239°",
+        "059°",
+        "039°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 20,
+      "id": "9-navigace-letoun-(1)-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "Je dáno: QDR: 022° deklinace: 10° E. QTE je:",
+      "options": [
+        "032°",
+        "212°",
+        "202°",
+        "052°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 20,
+      "id": "9-navigace-letoun-(1)-94"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "Je dáno: QDM: 248° deklinace: 10° W. QTE je:",
+      "options": [
+        "058°",
+        "238°",
+        "078°",
+        "258°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 20,
+      "id": "9-navigace-letoun-(1)-95"
+    },
+    {
+      "sourceNumber": "96",
+      "question": "Je dáno: QDR: 067° deklinace: 5° E. QDM je:",
+      "options": [
+        "072°",
+        "252°",
+        "247°",
+        "257°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 20,
+      "id": "9-navigace-letoun-(1)-96"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Je dáno: QDR: 152° deklinace: 5° W deviace: 5° E. QUJ je:",
+      "options": [
+        "147°",
+        "332°",
+        "327°",
+        "317°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 20,
+      "id": "9-navigace-letoun-(1)-97"
+    },
+    {
+      "sourceNumber": "98",
+      "question": "Je dáno: QTE: 203° deklinace: 10° E. QDR je:",
+      "options": [
+        "023°",
+        "193°",
+        "013°",
+        "213°"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 21,
+      "id": "9-navigace-letoun-(1)-98"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "Je dáno: QTE: 248° deklinace: 10° W. QDR je:",
+      "options": [
+        "068°",
+        "078°",
+        "238°",
+        "258°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 21,
+      "id": "9-navigace-letoun-(1)-99"
+    },
+    {
+      "sourceNumber": "100",
+      "question": "Je dáno: QDM: 134° deklinace: 5° W. QTE je:",
+      "options": [
+        "129°",
+        "314°",
+        "309°",
+        "299°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 21,
+      "id": "9-navigace-letoun-(1)-100"
+    },
+    {
+      "sourceNumber": "101",
+      "question": "Pilot od zaměřovače VDF obdržel QDR 225°. Kde se nachází letadlo vzhledem k pozemní stanici?",
+      "options": [
+        "severozápadně",
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 21,
+      "id": "9-navigace-letoun-(1)-101"
+    },
+    {
+      "sourceNumber": "102",
+      "question": "Kód QDR znamená:",
+      "options": [
+        "zeměpisný směrník od letadla ke stanici",
+        "zeměpisný směrník od stanice k letadlu",
+        "magnetický směrník od letadla ke stanici",
+        "magnetický směrník od stanice k letadlu"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 21,
+      "id": "9-navigace-letoun-(1)-102"
+    },
+    {
+      "sourceNumber": "103",
+      "question": "Kód QTE znamená:",
+      "options": [
+        "zeměpisný směrník od letadla ke stanici",
+        "zeměpisný směrník od stanice k letadlu",
+        "magnetický směrník od letadla ke stanici",
+        "magnetický směrník od stanice k letadlu"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 22,
+      "id": "9-navigace-letoun-(1)-103"
+    },
+    {
+      "sourceNumber": "104",
+      "question": "Pilot obdržel od zaměřovače VDF QDR 135°. Kde se nachází letadlo vzhledem k zaměřovači?",
+      "options": [
+        "severozápadně",
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 22,
+      "id": "9-navigace-letoun-(1)-104"
+    },
+    {
+      "sourceNumber": "105",
+      "question": "Pilot obdržel od zaměřovače VDF QDR 315°. Kde se nachází letadlo vzhledem k zaměřovači?",
+      "options": [
+        "severozápadně",
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 22,
+      "id": "9-navigace-letoun-(1)-105"
+    },
+    {
+      "sourceNumber": "106",
+      "question": "Dosah VDF závisí na:",
+      "options": [
+        "nadmořské výšce letadla",
+        "rychlosti letadla",
+        "stavu ionosféry",
+        "dosahu vln šířených podél zemského povrchu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 22,
+      "id": "9-navigace-letoun-(1)-106"
+    },
+    {
+      "sourceNumber": "107",
+      "question": "Jaké je třeba vybavení na palubě letadla pro příjem signálu z nesměrového majáku (NDB)?",
+      "options": [
+        "indikátor odchylky od tratě (CDI)",
+        "radiokompas (ADF)",
+        "odpovídač sekundárního radaru (SSR)",
+        "indikátor horizontální situace (HSI)"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 22,
+      "id": "9-navigace-letoun-(1)-107"
+    },
+    {
+      "sourceNumber": "108",
+      "question": "V jakém vlnovém pásmu vysílá nesměrový maják (NDB)?",
+      "options": [
+        "krátké vlny (HF)",
+        "velmi krátké vlny (VHF)",
+        "dlouhé (LF) a střední (MF) vlny",
+        "velmi dlouhé (VLF) a dlouhé (LF) vlny"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 23,
+      "id": "9-navigace-letoun-(1)-108"
+    },
+    {
+      "sourceNumber": "109",
+      "question": "Pilot chce přiletět k NDB na QDM 090°. Letadlo letí přibližně 5 minut magnetickým kurzem (MH) 095° a indikace relativního směrníku je 355°. Po 6 minutách je indikace relativního směrníku 358°. Který výrok je pravdivý?",
+      "options": [
+        "zvětšila se boční složka větru, je třeba zvětšit hodnotu magnetického kurzu",
+        "zmenšila se boční složka větru, je třeba zvětšit hodnotu magnetického kurzu",
+        "zvětšila se boční složka větru, je třeba zmenšit hodnotu magnetického kurzu",
+        "zmenšila se složka bočního větru, je třeba zmenšit hodnotu magnetického kurzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 23,
+      "id": "9-navigace-letoun-(1)-109"
+    },
+    {
+      "sourceNumber": "110",
+      "question": "Pilot chce letět přímo k majáku. Je bezvětří. Měl by držet QDM: Viz. Obr. (NAV-019)",
+      "options": [
+        "200°",
+        "230°",
+        "080°",
+        "260°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 23,
+      "id": "9-navigace-letoun-(1)-110"
+    },
+    {
+      "sourceNumber": "111",
+      "question": "Jaký je rozdíl mezi zařízením lokátor a majákem NDB?",
+      "options": [
+        "lokátor má menší dosah než maják NDB",
+        "lokátor má větší dosah než maják NDB",
+        "lokátor vysílá přesněji",
+        "lokátor vysílá pouze na základě impulzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 23,
+      "id": "9-navigace-letoun-(1)-111"
+    },
+    {
+      "sourceNumber": "112",
+      "question": "Dosah majáku NDB, který vysílá v pásmu středních vln, je největší:",
+      "options": [
+        "ve dne",
+        "v poledne",
+        "v noci",
+        "před půlnocí"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 23,
+      "id": "9-navigace-letoun-(1)-112"
+    },
+    {
+      "sourceNumber": "113",
+      "question": "Pobřežní efekt je největší při šíření rádiových vln směrem:",
+      "options": [
+        "pod ostrým úhlem k pobřeží, letadlo je pod 6000 ft",
+        "kolmo na pobřeží, letadlo je pod 6000 ft",
+        "pod ostrým úhlem k pobřeží, letadlo je nad 6000 ft",
+        "kolmo k pobřeží, letadlo je nad 6000 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 24,
+      "id": "9-navigace-letoun-(1)-113"
+    },
+    {
+      "sourceNumber": "114",
+      "question": "Občasná ztráta signálu (fading) v pásmu dlouhých nebo středních vln nastává zejména:",
+      "options": [
+        "ve dne",
+        "v poledne",
+        "pozdě odpoledne",
+        "v noci"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 24,
+      "id": "9-navigace-letoun-(1)-114"
+    },
+    {
+      "sourceNumber": "115",
+      "question": "Průběh elektromagnetické oscilace může být popsán jako:",
+      "options": [
+        "frekvenční úhel",
+        "amplitudový úhel",
+        "fázový úhel",
+        "vlnový úhel"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 24,
+      "id": "9-navigace-letoun-(1)-115"
+    },
+    {
+      "sourceNumber": "116",
+      "question": "Když se vysílač a přijímač blíží k sobě:",
+      "options": [
+        "vnímaná frekvence se zvětšuje",
+        "vnímaná frekvence se rovná vysílané frekvenci",
+        "vnímaná frekvence se zmenšuje",
+        "frekvence se mění, ale vlnová délka zůstává stejná"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 24,
+      "id": "9-navigace-letoun-(1)-116"
+    },
+    {
+      "sourceNumber": "117",
+      "question": "Když se vysílač a přijímač pohybují od sebe:",
+      "options": [
+        "vnímaná frekvence se zvětšuje",
+        "vnímaná frekvence se rovná vysílané frekvenci",
+        "vnímaná frekvence se zmenšuje",
+        "frekvence se mění, ale vlnová délka zůstává stejná"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 24,
+      "id": "9-navigace-letoun-(1)-117"
+    },
+    {
+      "sourceNumber": "118",
+      "question": "Radiály VOR jsou definovány na principu:",
+      "options": [
+        "porovnání fáze 2 signálů",
+        "porovnání amplitudy 2 signálů",
+        "porovnání frekvence 2 signálů",
+        "porovnání pulzů 2 signálů"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 25,
+      "id": "9-navigace-letoun-(1)-118"
+    },
+    {
+      "sourceNumber": "119",
+      "question": "Který Q-kód odpovídá radiálu VOR?",
+      "options": [
+        "QDM",
+        "QDR",
+        "QTE",
+        "QUJ"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 25,
+      "id": "9-navigace-letoun-(1)-119"
+    },
+    {
+      "sourceNumber": "120",
+      "question": "Plná výchylka ukazatele odchylky od tratě (CDI) znamená, že letadlo se nachází:",
+      "options": [
+        "10° od zvolené tratě",
+        "2° od zvolené tratě",
+        "10 NM od zvolené tratě",
+        "2 NM od zvolené tratě"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 25,
+      "id": "9-navigace-letoun-(1)-120"
+    },
+    {
+      "sourceNumber": "121",
+      "question": "Kde se nachází letadlo vzhledem ke stanici VOR? Viz příloha (NAV-022)",
+      "options": [
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně",
+        "severozápadně"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 25,
+      "id": "9-navigace-letoun-(1)-121"
+    },
+    {
+      "sourceNumber": "122",
+      "question": "Letadlo je na radiálu: Viz příloha (NAV-024)",
+      "options": [
+        "234°",
+        "246°",
+        "060°",
+        "066°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 25,
+      "id": "9-navigace-letoun-(1)-122"
+    },
+    {
+      "sourceNumber": "123",
+      "question": "Na dosah stanice VOR má vliv:",
+      "options": [
+        "interference denního světla",
+        "nadmořská výška vysílače a přijímače",
+        "vícesměrové šíření pozemní vlny",
+        "odrazy vln od ionosféry"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 26,
+      "id": "9-navigace-letoun-(1)-123"
+    },
+    {
+      "sourceNumber": "124",
+      "question": "Měřič vzdálenosti (DME) měří vzdálenost na principu:",
+      "options": [
+        "porovnání fází",
+        "měření laserem",
+        "Dopplerova efektu",
+        "měření času"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 26,
+      "id": "9-navigace-letoun-(1)-124"
+    },
+    {
+      "sourceNumber": "125",
+      "question": "Údaj vzdálenosti z DME je:",
+      "options": [
+        "vzdálenost na zemi",
+        "šikmá vzdálenost",
+        "vzdálenost ve vzduchu",
+        "radiální vzdálenost"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 26,
+      "id": "9-navigace-letoun-(1)-125"
+    },
+    {
+      "sourceNumber": "126",
+      "question": "Rozdíl mezi indikovanou šikmou vzdáleností z DME a horizontální vzdáleností od stanice DME se zvětšuje při:",
+      "options": [
+        "příletu k DME",
+        "odletu od DME",
+        "kroužení kolem DME",
+        "klesání"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 26,
+      "id": "9-navigace-letoun-(1)-126"
+    },
+    {
+      "sourceNumber": "127",
+      "question": "S využitím pozemního primárního radaru lze stanovit směr od antény k letadlu:",
+      "options": [
+        "orientací antény",
+        "měřením času",
+        "intervalem páru pulzů",
+        "posunem frekvence přijímaného pulzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 26,
+      "id": "9-navigace-letoun-(1)-127"
+    },
+    {
+      "sourceNumber": "128",
+      "question": "Jakou okamžitou informaci lze získat z pozemního radaru?",
+      "options": [
+        "pravou vzdušnou rychlost letadla (TAS) a vzdálenost",
+        "vzdálenost a směr",
+        "pravou vzdušnou rychlost (TAS) a kurz",
+        "rychlost a pravou vzdušnou rychlost (TAS)"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 27,
+      "id": "9-navigace-letoun-(1)-128"
+    },
+    {
+      "sourceNumber": "129",
+      "question": "Palubní vybavení pro sekundární přehledový radar (SSR) se nazývá:",
+      "options": [
+        "traťový indikátor",
+        "odpovídač",
+        "dotazovač",
+        "dekodér"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 27,
+      "id": "9-navigace-letoun-(1)-129"
+    },
+    {
+      "sourceNumber": "130",
+      "question": "Jaký je rozdíl mezi primárním a sekundárním radarem?",
+      "options": [
+        "pulzy primárního radaru mají proměnnou amplitudovou modulaci, pulzy sekundárního radaru mají statickou pulzní modulaci",
+        "pulzy primárního radaru mají proměnnou pulzní modulaci, pulzy sekundárního radaru mají statickou amplitudovou modulaci",
+        "pulzy primárního radaru odráží povrch letadla, na pulzy sekundárního radaru odpovídá odpovídač",
+        "primární radar zobrazuje cíle na obrazovce, sekundární radar na stripu řídícího letového provozu"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 27,
+      "id": "9-navigace-letoun-(1)-130"
+    },
+    {
+      "sourceNumber": "131",
+      "question": "Kód odpovídače sekundárního radaru pro únos je:",
+      "options": [
+        "7000",
+        "7500",
+        "7600",
+        "7700"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 27,
+      "id": "9-navigace-letoun-(1)-131"
+    },
+    {
+      "sourceNumber": "132",
+      "question": "Kód odpovídače sekundárního radaru pro ztrátu spojení je:",
+      "options": [
+        "7000",
+        "7500",
+        "7600",
+        "7700"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 27,
+      "id": "9-navigace-letoun-(1)-132"
+    },
+    {
+      "sourceNumber": "133",
+      "question": "Jakou výšku vysílá odpovídač sekundárního radaru v módu C?",
+      "options": [
+        "nadmořskou výšku",
+        "výšku nad zemí",
+        "tlakovou výšku",
+        "rádiovou výšku"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 28,
+      "id": "9-navigace-letoun-(1)-133"
+    },
+    {
+      "sourceNumber": "134",
+      "question": "Příjem signálu od kolika satelitů je nezbytný pro přesné a ověřené stanovení polohy ve třírozměrném prostoru?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 28,
+      "id": "9-navigace-letoun-(1)-134"
+    },
+    {
+      "sourceNumber": "135",
+      "question": "Při použití GPS pro let k dalšímu traťovému bodu je indikována odchylka od tratě vertikálním břevnem a tečkami vlevo a vpravo od středu ukazatele. Který výrok o takovém přístroji je pravdivý?",
+      "options": [
+        "o dchylka břevna od středu znázorňuje odchylku od tratě jako absolutní vzdálenost v NM. Velikost odchylky odpovídající plné výchylce břevna závisí na režimu práce GPS",
+        "výchylka břevna od středu odpovídá úhlové odchylce od tratě ve stupních. Velikost odchylky odpovídající plné výchylce břevna závisí na režimu práce GPS",
+        "výchylka břevna od středu odpovídá odchylce od tratě v absolutní vzdálenosti v NM. Plná výchylka bře vna odpovídá odchylce +-10 NM",
+        "výchylka břevna od středu odpovídá úhlové odchylce od tratě ve stupních. Plné výchylce břevna odpovídá odchylka +-10°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 28,
+      "id": "9-navigace-letoun-(1)-135"
+    },
+    {
+      "sourceNumber": "136",
+      "question": "Co znamená pojem \"srovnávací navigace\"?",
+      "options": [
+        "navigace podle orientačních bodů na zemi při letu za vidu",
+        "orientace podle nebeských objektů při letu za vidu",
+        "orientace podle navigačních přístrojů při letu za vidu",
+        "orientace podle GPS při letu za vidu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 28,
+      "id": "9-navigace-letoun-(1)-136"
+    },
+    {
+      "sourceNumber": "137",
+      "question": "Jaké pozemní objekty se mají používat přednostně při srovnávající navigaci?",
+      "options": [
+        "řeky, železnice, dálnice",
+        "vedlejší silnice a údolí",
+        "elektrická vedení",
+        "hranice"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Letoun",
+      "sourceFile": "9-Navigace-letoun (1).pdf",
+      "page": 29,
+      "id": "9-navigace-letoun-(1)-137"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Osa rotace Země prochází:",
+      "options": [
+        "zeměpisným severním pólem a zeměpisným jižním pólem",
+        "magnetickým severním pólem a zeměpisným jižním pólem",
+        "zeměpisným severním pólem a magnetickým jižním pólem",
+        "magnetickým severním pólem a magnetickým jižním pólem"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 1,
+      "id": "9-navigace-vrtulnik-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Který výrok o polární ose Země je pravdivý?",
+      "options": [
+        "polární osa Země prochází magnetickým jižním pólem a magnetickým severním pólem a je kolmá na rovinu rovníku",
+        "polární osa Země prochází zeměpisným jižním pólem a zeměpisným severním pólem a je kolmá na rovinu rovníku",
+        "polární osa Země prochází magnetickým severním pólem a magnetickým jižním pólem a s rovinou rovníku svírá úhel 66.5°",
+        "polární osa Země prochází zeměpisným severním pólem a zeměpisným jižním pólem a s rovinou rovníku svírá úhel 23.5°"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 1,
+      "id": "9-navigace-vrtulnik-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Jaký geometrický útvar nejlépe pro navigační systémy popisuje přibližně tvar Země?",
+      "options": [
+        "ideální koule",
+        "koule eliptického tvaru",
+        "elipsoid",
+        "plochá rovina"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 1,
+      "id": "9-navigace-vrtulnik-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Který výrok o loxodromě je pravdivý?",
+      "options": [
+        "loxodroma je velká kružnice protínající rovník pod úhlem 45°",
+        "loxodroma protíná všechny poledníky pod stejným úhlem",
+        "loxodroma je nejkratší spojnice mezi dvěma body na povrchu Země",
+        "středem kružnice proložené loxodromou je střed Země"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 1,
+      "id": "9-navigace-vrtulnik-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Nejkratší spojnice dvou bodů na Zemi je částí:",
+      "options": [
+        "malé kružnice",
+        "velké kružnice",
+        "loxodromy",
+        "rovnoběžky"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 1,
+      "id": "9-navigace-vrtulnik-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Obvod Země na rovníku je přibližně: (viz obrázek NAV-002)",
+      "options": [
+        "40000 NM.",
+        "10800 km.",
+        "21600 NM.",
+        "12800 km."
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 2,
+      "id": "9-navigace-vrtulnik-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Jaký je rozdíl zeměpisné šířky mezi body A (12°53'30''N) a B (07°34'30''S)?",
+      "options": [
+        "20,28°",
+        "05°19'00''",
+        "05,19°",
+        "20°28'00''"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 2,
+      "id": "9-navigace-vrtulnik-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Kde se nacházejí polární kruhy?",
+      "options": [
+        "20.5° jižně od pólů",
+        "23.5° severně a jižně od rovníku",
+        "na zeměpisné šířce 20.5°S a 20.5°N",
+        "23.5° severně a jižně od pólů"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 2,
+      "id": "9-navigace-vrtulnik-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Jaká je vzdálenost mezi rovnoběžkami 48°N a 49°N podél poledníku?",
+      "options": [
+        "1 NM",
+        "60 NM",
+        "111 NM",
+        "10 NM"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 2,
+      "id": "9-navigace-vrtulnik-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Jaká vzdálenost odpovídá rozdílu jednoho stupně zeměpisné šířky podél kteréhokoliv poledníku?",
+      "options": [
+        "60 NM",
+        "1 NM",
+        "60 km",
+        "30 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 2,
+      "id": "9-navigace-vrtulnik-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Bod A leží přesně na rovnoběžce 47°50'27''N. Jaký bod je přesně 240 NM severně od A?",
+      "options": [
+        "51°50'27'N'",
+        "49°50'27''N",
+        "43°50'27''N",
+        "53°50'27''N"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 3,
+      "id": "9-navigace-vrtulnik-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Jaká je vzdálenost podél rovníku mezi poledníky 150°E a 151° E?",
+      "options": [
+        "1 NM",
+        "60 km",
+        "60 NM",
+        "111 NM"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 3,
+      "id": "9-navigace-vrtulnik-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Jaká je vzdálenost po ortodromě mezi body A a B na rovníku, je-li rozdíl mezi příslušnými poledníky přesně jeden stupeň zeměpisné délky?",
+      "options": [
+        "60 NM",
+        "120 NM",
+        "216 NM",
+        "400 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 3,
+      "id": "9-navigace-vrtulnik-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Předpokládejte dva libovolné body A a B na stejné rovnoběžce, ale ne na rovníku. Bod A se nachází na 10°E a bod B na 20°E. Vzdálenost po loxodromě mezi A a B je vždy:",
+      "options": [
+        "menší než 600 NM",
+        "větší než 600 NM",
+        "menší než 300 NM",
+        "větší než 300 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 3,
+      "id": "9-navigace-vrtulnik-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Jak dlouho trvá, než se Slunce posune o 20° zeměpisné délky?",
+      "options": [
+        "1:00 h",
+        "0:40 h",
+        "1:20 h",
+        "0:20 h"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 3,
+      "id": "9-navigace-vrtulnik-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Jak dlouho trvá, než se Slunce posune o 10° zeměpisné délky?",
+      "options": [
+        "0:40 h",
+        "1:00 h",
+        "0:04 h",
+        "0:30 h"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 4,
+      "id": "9-navigace-vrtulnik-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Jak dlouho trvá, než se Slunce posune o 10° zeměpisné délky?",
+      "options": [
+        "0.66 h",
+        "1 h",
+        "0.33 h",
+        "0.4 h"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 4,
+      "id": "9-navigace-vrtulnik-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Pro Středoevropský letní čas (CEST) platí UTC+2. Jaký čas UTC odpovídá 1600 CEST?",
+      "options": [
+        "1500 UTC",
+        "1600 UTC",
+        "1700 UTC",
+        "1400 UTC"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 4,
+      "id": "9-navigace-vrtulnik-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "UTC je:",
+      "options": [
+        "místní čas ve střední Evropě",
+        "koordinovaný světový čas používaný v letectví",
+        "pásmový čas",
+        "místní střední čas v určitém bodu na Zemi"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 4,
+      "id": "9-navigace-vrtulnik-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Pro středoevropský čas (CET) platí: CET = UTC+1. Jaký UTC odpovídá 1700 CET?",
+      "options": [
+        "1500 UTC",
+        "1800 UTC",
+        "1600 UTC",
+        "1700 UTC"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 4,
+      "id": "9-navigace-vrtulnik-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Vídeň (LOWW) se nachází na 016° 34'E, Salzburg (LOWS) na 013° 00'E. Jejich zeměpisnou šířku lze považovat za stejnou. Jaký je rozdíl mezi časy východu a západu slunce vyjádřený v UTC mezi Vídní a Salzburkem?",
+      "options": [
+        "ve Vídni je východ a západ slunce asi o 14 minut dříve než v Salzburku",
+        "ve Vídni je východ a západ slunce asi o 4 minuty později než v Salzburku",
+        "ve Vídni je východ slunce o 14 minut dříve a západ o 14 minut později než v Salzburku",
+        "ve Vídni je východ slunce o 4 minuty později a západ o 4 minuty dříve než v Salzburku"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 5,
+      "id": "9-navigace-vrtulnik-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Pojem \"občanský soumrak\" je definován jako:",
+      "options": [
+        "doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod zeměpisným horizontem doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod viditelným horizontem doba po západu slunce, během které je střed slunečního disku 12° nebo méně pod zeměpisným horizontem",
+        "doba po západu slunce, během které je střed slunečního disku 12° nebo méně pod viditelným horizontem"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 5,
+      "id": "9-navigace-vrtulnik-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Je dáno: Oprava snosu větru:-012°, zeměpisný kurz: 125°, magnetická trať: 139°, deviace: 002°E. Stanovte zeměpisnou trať a magnetický a kompasový kurz.",
+      "options": [
+        "zeměpisná trať: 137°. Magnetický kurz: 139°. Kompasový kurz: 125°.",
+        "zeměpisná trať: 137°. Magnetický kurz: 127°. Kompasový kurz: 125°.",
+        "zeměpisná trať: 113°. Magnetický kurz: 127°. Kompasový kurz: 129°.",
+        "zeměpisná trať: 113°. Magnetický kurz: 139°. Kompasový kurz: 129°."
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 5,
+      "id": "9-navigace-vrtulnik-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Je dáno: Zeměpisná trať: 179°, oprava snosu větru:-12°, deklinace: 004° E, deviace: +002°. Stanovte magnetický kurz a magnetickou trať.",
+      "options": [
+        "magnetický kurz: 163°. Magnetická trať: 175°.",
+        "magnetický kurz: 163°. Magnetická trať: 161°.",
+        "magnetický kurz: 167°. Magnetická trať: 175°.",
+        "magnetický kurz: 167°. Magnetická trať: 161°."
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 5,
+      "id": "9-navigace-vrtulnik-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Úhel mezi zeměpisnou tratí a zeměpisným kurzem se nazývá:",
+      "options": [
+        "deviace",
+        "snos větru",
+        "inklinace",
+        "deklinace"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 6,
+      "id": "9-navigace-vrtulnik-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Úhel mezi magnetickou a zeměpisnou tratí se nazývá:",
+      "options": [
+        "deviace",
+        "inklinace",
+        "snos větru",
+        "deklinace"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 6,
+      "id": "9-navigace-vrtulnik-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Pojem \"magnetická trať\" je definován jako:",
+      "options": [
+        "úhel mezi magnetickým severem a tratí",
+        "úhel mezi zeměpisným severem a tratí",
+        "směr od libovolného bodu na Zemi k magnetickému severnímu pólu",
+        "směr od libovolného bodu na Zemi k zeměpisnému severnímu pólu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 6,
+      "id": "9-navigace-vrtulnik-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Pojem \"zeměpisná trať\" (TC) je definován jako:",
+      "options": [
+        "úhel mezi zeměpisným severem a tratí",
+        "úhel mezi magnetickým severem a tratí",
+        "směr od libovolného bodu na Zemi k magnetickému severnímu pólu",
+        "směr od libovolného bodu na Zemi k zeměpisnému severnímu pólu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 6,
+      "id": "9-navigace-vrtulnik-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Je dáno: Zeměpisná trať: 183°, oprava snosu větru: +011°, magnetický kurz: 198°, kompasový kurz: 200°. Stanovte zeměpisný kurz a deklinaci.",
+      "options": [
+        "zeměpisný kurz: 194°. deklinace: 004° E",
+        "zeměpisný kurz: 172°. deklinace: 004° E",
+        "zeměpisný kurz: 194°. deklinace: 004° W",
+        "zeměpisný kurz 172°. deklinace: 004° W"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 6,
+      "id": "9-navigace-vrtulnik-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Je dáno: Zeměpisná trať: 183°, oprava snosu větru: +011°, magnetický kurz: 198°, kompasový kurz: 200°. Stanovte zeměpisný kurz a deviaci.",
+      "options": [
+        "zeměpisný kurz: 194°. deviace: +002°.",
+        "zeměpisný kurz: 172°. deviace:-002°.",
+        "zeměpisný kurz: 194°. deviace:-002°.",
+        "zeměpisný kurz: 172°. deviace: +002°."
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 7,
+      "id": "9-navigace-vrtulnik-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Je dáno: Zeměpisná trať: 183°, oprava snosu větru: +011°, magnetický kurz: 198°, kompasový kurz: 200°. Stanovte deklinaci a deviaci.",
+      "options": [
+        "deklinace: 004° E. deviace:-002°.",
+        "deklinace: 004° E. deviace: +002°.",
+        "deklinace: 004° W. deviace:-002°.",
+        "deklinace: 004° W. deviace: +002°."
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 7,
+      "id": "9-navigace-vrtulnik-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Kde má inklinace nejmenší hodnotu?",
+      "options": [
+        "na zeměpisném rovníku",
+        "na magnetickém rovníku",
+        "na magnetických pólech",
+        "na zeměpisných pólech"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 7,
+      "id": "9-navigace-vrtulnik-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Úhel mezi kompasovým severem a magnetickým severem se nazývá:",
+      "options": [
+        "deviace",
+        "oprava snosu větru",
+        "deklinace",
+        "inklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 7,
+      "id": "9-navigace-vrtulnik-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Který směr odpovídá kompasovému severu (CN)?",
+      "options": [
+        "severu, který ukazuje kompas s přímým čtením vlivem magnetického pole Země a letadla",
+        "úhlu mezi kurzem letadla a magnetickým severem",
+        "nejsevernější části ukazatele magnetického kompasu v letadle",
+        "směru od libovolného bodu na Zemi k zeměpisnému severnímu pólu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 7,
+      "id": "9-navigace-vrtulnik-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Pojem \"izogóna\" je definován jako spojnice dvou bodů na mapě, které mají stejnou hodnotu:",
+      "options": [
+        "deklinace",
+        "deviace",
+        "inklinace",
+        "kurzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 8,
+      "id": "9-navigace-vrtulnik-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Pojem \"agóna\" je definován jako spojnice dvou bodů na mapě nebo na Zemi, které:",
+      "options": [
+        "mají deklinaci 0°",
+        "mají deviaci 0°",
+        "mají inklinaci 0°",
+        "mají kurz 0°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 8,
+      "id": "9-navigace-vrtulnik-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jaké oficiální základní jednotky a jejich zkratky se používají v letecké navigaci pro měření vodorovných vzdáleností?",
+      "options": [
+        "námořní míle (NM), kilometry (km)",
+        "statutární míle (SM), námořní míle (NM)",
+        "yardy (yd), metry (m)",
+        "stopy (ft), palce (in)"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 8,
+      "id": "9-navigace-vrtulnik-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "1000 ft rovná se:",
+      "options": [
+        "300 m",
+        "30 m",
+        "3000 m",
+        "30 km"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 8,
+      "id": "9-navigace-vrtulnik-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "5500 m rovná se:",
+      "options": [
+        "7500 ft",
+        "10000 ft",
+        "18000 ft",
+        "30000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 8,
+      "id": "9-navigace-vrtulnik-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Co může být důvodem pro změnu magnetického směru vzletové a přistávací dráhy na letišti (např. z RWY 06 na RWY 07)?",
+      "options": [
+        "změnila se deklinace na místě dráhy",
+        "změnila se deviace na místě dráhy",
+        "změnil se zeměpisný směr dráhy",
+        "změnila se trajektorie přiblížení na dráhu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 9,
+      "id": "9-navigace-vrtulnik-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Elektronická zařízení na palubě letadla ovlivňují indikaci:",
+      "options": [
+        "umělého horizontu",
+        "zatáčkoměru",
+        "kompasu s přímým čtením",
+        "rychloměru"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 9,
+      "id": "9-navigace-vrtulnik-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Jaké jsou vlastnosti mapy s Mercatorovým zobrazením?",
+      "options": [
+        "měřítko se zvětšuje se zeměpisnou šířkou, velké kružnice jsou zobrazeny jako křivky, loxodromy jsou zobrazeny jako přímky",
+        "měřítko se zvětšuje se zeměpisnou šířkou, velké kružnice jsou zobrazeny jako přímky, loxodromy jsou zobrazeny jako křivky",
+        "měřítko je konstantní, velké kružnice jsou zobrazeny jako křivky, loxodromy jsou zobrazeny jako přímky",
+        "měřítko je konstantní, velké kružnice jsou zobrazeny jako přímky, loxodromy jsou zobrazeny jako křivky"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 9,
+      "id": "9-navigace-vrtulnik-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Jak jsou zobrazeny loxodromy a ortodr o my na mapě s přímým Mercatorovým zobrazením?",
+      "options": [
+        "loxodromy – přímky, ortodr o my – křivky",
+        "loxodromy – křivky, ortodr o my – přímky",
+        "loxodromy – křivky, ortodr o my – křivky",
+        "loxodromy – přímky, ortodr o my – přímky"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 9,
+      "id": "9-navigace-vrtulnik-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Jaké jsou vlastnosti mapy s Lambertovým konformním zobrazením?",
+      "options": [
+        "mapa je konformní a měřítko je přibližně stejné",
+        "mapa je konformní a projekce nezkresluje velikost ploch",
+        "ortodr o my jsou zobrazeny jako přímky a projekce nezkresluje velikost ploch",
+        "loxodromy jsou přímky a mapa je konformní"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 9,
+      "id": "9-navigace-vrtulnik-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Které čáry má pilot použít pro stanovení polohy letadla?",
+      "options": [
+        "zeměpisné směrníky (QTE)",
+        "magnetické směrníky (QDR)",
+        "relativní směrníky (RB)",
+        "magnetické kurzy (MH)"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 10,
+      "id": "9-navigace-vrtulnik-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Jaký je radiál od VOR Brünkendorf (BKD) (53°02′N, 011°33′E) směrem do Pritzwalk (EDBU) (53°11'N, 12°11'E)? Viz příloha (NAV-031)",
+      "options": [
+        "068°",
+        "248°",
+        "024°",
+        "204°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 10,
+      "id": "9-navigace-vrtulnik-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Vzdálenost mezi dvěma letišti je 220 NM. Na letecké navigační mapě mezi nimi pilot naměřil vzdálenost 40.7 cm. Měřítko mapy je:",
+      "options": [
+        "1: 1000000",
+        "1: 500000",
+        "1: 2000000",
+        "1: 250000"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 10,
+      "id": "9-navigace-vrtulnik-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jaká je poloha letadla při křížovém zaměření, je-li dáno následující: VOR Hamburg (HAM) (53°41′N, 010°12′E): Radiál 119°, VOR Brünkendorf (BKD) (53°02′N, 011°33′E): Radiál 320° Viz obr. (NAV-031)",
+      "options": [
+        "53°20'N, 11°10'E",
+        "54°40'N, 12°50'E",
+        "52°20'N, 10°10'E",
+        "52°10'N, 10°20'E"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 10,
+      "id": "9-navigace-vrtulnik-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Jaká je vzdálenost od VOR Brünkendorf (BKD) (53°02′N, 011°33′E) do Pritzwalk (EDBU) (53°11'N, 12°11'E)? Viz příloha (NAV-031)",
+      "options": [
+        "24 NM",
+        "24 km",
+        "42 NM",
+        "42 km"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 10,
+      "id": "9-navigace-vrtulnik-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Vzdálenost 7.5 cm na letecké mapě představuje skutečnou vzdálenost 60.745 NM. Jaké je měřítko mapy?",
+      "options": [
+        "1: 1500000",
+        "1: 1 000000",
+        "1: 500000",
+        "1: 150000"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 11,
+      "id": "9-navigace-vrtulnik-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Pro krátký let z A do B získal pilot z letecké mapy následující informace: Zeměpisná trať 245°, deklinace: 7° W. Jaká je magnetická trať?",
+      "options": [
+        "252°",
+        "238°",
+        "245°",
+        "007°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 11,
+      "id": "9-navigace-vrtulnik-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Letadlo letí v 8000 ft AMSL indikovanou rychlostí (IAS) 150 kt. Pravá vzdušná rychlost (TAS) je:",
+      "options": [
+        "174 kt",
+        "142 kt",
+        "150 kt",
+        "208 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 11,
+      "id": "9-navigace-vrtulnik-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Je dáno: Zeměpisná trať z A do B: 250°. vzdálenost: 210 NM. Pravá vzdušná rychlost: 130 kt. Čelní složka větru: 15 kt. Očekávaný čas odletu (ETD): 0915 UTC. Očekávaný čas příletu (ETA) je:",
+      "options": [
+        "1105 UTC",
+        "1115 UTC",
+        "1052 UTC",
+        "1005 UTC"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 11,
+      "id": "9-navigace-vrtulnik-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Je dáno: Zeměpisná trať z A do B: 283°. vzdálenost: 75 NM. Pravá vzdušná rychlost: 105 kt. Čelní složka větru: 12 kt. Očekávaný čas odletu (ETD): 1242 UTC. Očekávaný čas příletu (ETA) je:",
+      "options": [
+        "1320 UTC",
+        "1330 UTC",
+        "1356 UTC",
+        "1430 UTC"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 12,
+      "id": "9-navigace-vrtulnik-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Je dáno: Zeměpisná trať z A do B: 352°. vzdálenost: 100 NM. Traťová rychlost (GS): 107 kt. Očekávaný čas odletu (ETD): 0933 UTC. Očekávaný čas příletu (ETA) je:",
+      "options": [
+        "1045 UTC",
+        "1146 UTC",
+        "1029 UTC",
+        "1129 UTC"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 12,
+      "id": "9-navigace-vrtulnik-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Letadlo uletí 100 km za 56 minut. Traťová rychlost (GS) je:",
+      "options": [
+        "58 km/h",
+        "93 kt",
+        "107 km/h",
+        "198 kt"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 12,
+      "id": "9-navigace-vrtulnik-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Letadlo uletí 110 NM za 01:25 hod. Traťová rychlost (GS) je:",
+      "options": [
+        "78 kt",
+        "86 kt",
+        "160 km/h",
+        "120 km/h"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 12,
+      "id": "9-navigace-vrtulnik-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Jaká je doba letu traťovou rychlostí 134 kt na vzdálenost 236 NM?",
+      "options": [
+        "0:34 h",
+        "1:34 h",
+        "1:46 h",
+        "0:46 h"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 12,
+      "id": "9-navigace-vrtulnik-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Letadlo letí pravou vzdušnou rychlostí (TAS) 120 kt se zadní složkou větru 35 kt. Za jak dlouho uletí vzdálenost 185 NM?",
+      "options": [
+        "1 h 12 min",
+        "1 h 32 min",
+        "2 h 11 min",
+        "0 h 50 min"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 13,
+      "id": "9-navigace-vrtulnik-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Letadlo letí pravou vzdušnou rychlostí (TAS) 180 kt. Čelní složka větru je 25 kt. Doba letu: 2 hodiny a 25 minut. Uletěná vzdálenost je:",
+      "options": [
+        "375 NM",
+        "693 NM",
+        "202 NM",
+        "435 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 13,
+      "id": "9-navigace-vrtulnik-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Ja dáno: Kalibrovaná rychlost (CAS): 155 kt. Letová hladina (FL) 80. teplota vnějšího vzduchu (OAT): +15° C. Pravá vzdušná rychlost (TAS) je:",
+      "options": [
+        "134 kts",
+        "155 kts",
+        "170 kts",
+        "180 kts"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 13,
+      "id": "9-navigace-vrtulnik-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Jaká je zeměpisná trať (TC) z Uelzen (EDVU) (52°59′N, 10°28′E) do Neustadt (EDAN) (53°22'N, 011°37'E)? Viz příloha (NAV-031)",
+      "options": [
+        "061°",
+        "241°",
+        "055°",
+        "235°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 13,
+      "id": "9-navigace-vrtulnik-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Letadlo letí ve FL 75, kde je teplota vnějšího vzduchu (OAT)-9°C. Výškoměr nastavený na QNH indikuje výšku letu 6500 ft. Jaká je skutečná výška letu?",
+      "options": [
+        "6250 ft",
+        "6500 ft",
+        "6750 ft",
+        "7000 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 13,
+      "id": "9-navigace-vrtulnik-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Jaká je vzdálenost z Neustadt (EDAN) (53°22'N, 011°37'E) do Uelzen (EDVU) (52°59′N, 10°28′E)? Viz příloha (NAV-031)",
+      "options": [
+        "46 NM",
+        "46 km",
+        "78 NM",
+        "78 km"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 14,
+      "id": "9-navigace-vrtulnik-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Letadlo letí v tlakové výšce 7000 ft při teplotě vnějšího vzduchu (OAT) +11°C. Výškoměr nastavený na QNH indikuje 6500 ft. Skutečná nadmořská výška je:",
+      "options": [
+        "6250 ft",
+        "6500 ft",
+        "6750 ft",
+        "7000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 14,
+      "id": "9-navigace-vrtulnik-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Letadlo letí v tlakové výšce 7000 ft při teplotě vnějšího vzduchu (OAT) +21°C. Výškoměr nastavený na QNH indikuje 6500 ft. Jaká je skutečná nadmořská výška?",
+      "options": [
+        "6250 ft",
+        "6500 ft",
+        "6750 ft",
+        "7000 ft"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 14,
+      "id": "9-navigace-vrtulnik-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Je dáno: Zeměpisná trať: 255°. Pravá vzdušná rychlost: 100 kt. vítr: 200°/10 kt. Jaký je zeměpisný kurz?",
+      "options": [
+        "245°",
+        "250°",
+        "265°",
+        "275°"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 14,
+      "id": "9-navigace-vrtulnik-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Je dáno: Zeměpisná trať: 165°. Pravá vzdušná rychlost: 90 kt. vítr: 130°/20 kt. vzdálenost: 153 NM. Zeměpisný kurz je:",
+      "options": [
+        "152°",
+        "165°",
+        "126°",
+        "158°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 14,
+      "id": "9-navigace-vrtulnik-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Je dáno: Traťová rychlost (GS): 160 kt. Zeměpisná trať (TC): 177°. vítr (W/WS): 140°/20 kt. Zeměpisný kurz (TH) je:",
+      "options": [
+        "173°",
+        "180°",
+        "184°",
+        "169°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 15,
+      "id": "9-navigace-vrtulnik-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Letadlo letí po zeměpisné trati (TC) 220° konstantní pravou vzdušnou rychlostí 220 kt. Vítr je 270°/50 kt. Traťová rychlost je:",
+      "options": [
+        "185 kt",
+        "255 kt",
+        "170 kt",
+        "135 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 15,
+      "id": "9-navigace-vrtulnik-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Letadlo letí po zeměpisné trati (TC) 040° konstantní pravou vzdušnou rychlostí (TAS) 180 kt. Vítr je 350°/30 kt. Traťová rychlost (GS) je:",
+      "options": [
+        "159 kt",
+        "168 kt",
+        "172 kt",
+        "155 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 15,
+      "id": "9-navigace-vrtulnik-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Letadlo letí po zeměpisné trati (TC) 040° konstantní pravou vzdušnou rychlostí (TAS) 180 kt. Vítr je 350°/30 kt. Oprava snosu větru (WCA) je:",
+      "options": [
+        "- 7°",
+        "- 9°",
+        "+ 5°",
+        "+ 11°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 15,
+      "id": "9-navigace-vrtulnik-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Je dáno: Zeměpisná trať: 270°. Pravá vzdušná rychlost: 100 kt. vítr: 090°/25 kt. vzdálenost: 100 NM. Traťová rychlost (GS) je:",
+      "options": [
+        "120 kt",
+        "125 kt",
+        "117 kt",
+        "131 kt"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 16,
+      "id": "9-navigace-vrtulnik-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Je dáno: Zeměpisná trať: 270°. Pravá vzdušná rychlost: 100 kt. vítr: 090°/25 kt. vzdálenost: 100 NM. Doba letu je:",
+      "options": [
+        "62 min",
+        "48 min",
+        "37 min",
+        "84 min"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 16,
+      "id": "9-navigace-vrtulnik-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Letadlo letí po zeměpisné trati (TC) 040° konstantní pravou vzdušnou rychlostí (TAS) 180 kt. Vítr je 350°/30 kt. Oprava snosu větru (WCA) je:",
+      "options": [
+        "7° doleva",
+        "7° doprava",
+        "3° doleva",
+        "3° doprava"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 16,
+      "id": "9-navigace-vrtulnik-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Je dáno: Zeměpisná trať: 120°. Pravá vzdušná rychlost: 120 kt. vítr: 150°/12 kt. Oprava snosu větru (WCA) je:",
+      "options": [
+        "6° doprava",
+        "3° doleva",
+        "3° doprava",
+        "6° doleva"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 16,
+      "id": "9-navigace-vrtulnik-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Vzdálenost z A do B je 120 NM. Ve vzdálenosti 55 NM z A se letadlo nachází 7 NM vpravo od tratě. Jakou opravu kurzu musí pilot provést, aby doletěl přímo do B?",
+      "options": [
+        "14° doleva",
+        "6° doleva",
+        "8° doleva",
+        "15° doleva"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 16,
+      "id": "9-navigace-vrtulnik-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Letadlo letí kurzem 090°. Má uletět vzdálenost 90 NM. Po 45 NM je 4.5 NM severně od plánované tratě. Jaká je oprava kurzu, aby letadlo doletělo přímo do cíle?",
+      "options": [
+        "6° doprava",
+        "9° doprava",
+        "18° doprava",
+        "12° doprava"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 17,
+      "id": "9-navigace-vrtulnik-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Co znamená pravidlo 1:60?",
+      "options": [
+        "odchylka od tratě 1 NM při snosu 1° po uletění 60 NM",
+        "odchylka od tratě 10 NM při snosu 1° po uletění 60 NM",
+        "odchylka od tratě 60 NM při snosu 1° po uletění 1 NM",
+        "odchylka od tratě 6 NM při snosu 1° po uletění 10 NM"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 17,
+      "id": "9-navigace-vrtulnik-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Letadlo letí z A do B na vzdálenost 220 NM. Plánovaná traťová rychlost (GS) je 120 kt. Odlet z A je ve 1200 UTC. Po uletění 70 NM z A je letadlo o 5 minut před plánovaným časem. Jaký je opravený očekávaný čas příletu do B, poletí-li stále stejnou skutečnou traťovou rychlostí?",
+      "options": [
+        "1335 UTC",
+        "1340 UTC",
+        "1345 UTC",
+        "1330 UTC"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 17,
+      "id": "9-navigace-vrtulnik-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "Jakou hodnotou je třeba doplnit plán letu (označená pole)? Viz obr. (NAV-014)",
+      "options": [
+        "zeměpisný kurz (TH): 185°. Magnetický kurz (MH): 184°. Magnetická trať (MC): 178°",
+        "zeměpisný kurz (TH): 173°. Magnetický kurz (MH): 174°. Magnetická trať (MC): 178°",
+        "zeměpisný kurz (TH): 185°. Magnetický kurz (MH): 185°. Magnetická trať (MC): 180°",
+        "zeměpisný kurz (TH): 173°. Magnetický kurz (MH): 184°. Magnetická trať (MC): 178°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 17,
+      "id": "9-navigace-vrtulnik-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Přibližná rychlost šíření elektromagnetických vln je:",
+      "options": [
+        "300000 m/s",
+        "300000 km/s",
+        "300000 NM/s",
+        "300000 ft/s"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 17,
+      "id": "9-navigace-vrtulnik-82"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "Dlouhé (LF) a střední (MF) radiové vlny (např. NDB) se šíří jako:",
+      "options": [
+        "přímá vlna",
+        "prostorová vlna (kvazi-optická)",
+        "povrchová vlna",
+        "povrchová a prostorová vlna"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 18,
+      "id": "9-navigace-vrtulnik-83"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Rádiové vlny v pásmu VKV (např. VOR) se šíří jako:",
+      "options": [
+        "přímá vlna",
+        "prostorová vlna (kvazi-optická)",
+        "povrchová vlna",
+        "prostorová a povrchová vlna"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 18,
+      "id": "9-navigace-vrtulnik-84"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Kvazi-optické vlny se šíří:",
+      "options": [
+        "podél povrchu Země",
+        "prostorem přímo od vysílače k přijímači",
+        "prostorem a jsou ovlivněny (např. odraženy) ionosférou",
+        "podél povrchu Země, ale jsou absorbovány mořem"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 18,
+      "id": "9-navigace-vrtulnik-85"
+    },
+    {
+      "sourceNumber": "86",
+      "question": "Pomocí zaměřovače VHF (VDF) lze zjistit:",
+      "options": [
+        "šikmou vzdálenost",
+        "rychlost přiblížení",
+        "magnetický směrník",
+        "zeměpisnou trať"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 18,
+      "id": "9-navigace-vrtulnik-86"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Jaké zařízení na palubě letadla je třeba pro využití zaměřovače VHF (VDF)?",
+      "options": [
+        "přijímač VDF",
+        "rádio VHF",
+        "nejméně 2 antény VHF",
+        "ukazatel relativního směrníku (RBI)"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 18,
+      "id": "9-navigace-vrtulnik-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Je dáno: QDM: 138° deklinace: 10° E QUJ je:",
+      "options": [
+        "328°",
+        "318°",
+        "168°",
+        "148°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 19,
+      "id": "9-navigace-vrtulnik-88"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Je dáno: QTE: 229° deklinace: 10° W. QDM je:",
+      "options": [
+        "049°",
+        "239°",
+        "059°",
+        "039°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 19,
+      "id": "9-navigace-vrtulnik-89"
+    },
+    {
+      "sourceNumber": "90",
+      "question": "Je dáno: QDR: 022° deklinace: 10° E. QTE je:",
+      "options": [
+        "032°",
+        "212°",
+        "202°",
+        "052°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 19,
+      "id": "9-navigace-vrtulnik-90"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Je dáno: QDM: 248° deklinace: 10° W. QTE je:",
+      "options": [
+        "058°",
+        "238°",
+        "078°",
+        "258°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 19,
+      "id": "9-navigace-vrtulnik-91"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Je dáno: QDR: 067° deklinace: 5° E. QDM je:",
+      "options": [
+        "072°",
+        "252°",
+        "247°",
+        "257°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 19,
+      "id": "9-navigace-vrtulnik-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "Je dáno: QDR: 152° deklinace: 5° W deviace: 5° E. QUJ je:",
+      "options": [
+        "147°",
+        "332°",
+        "327°",
+        "317°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 20,
+      "id": "9-navigace-vrtulnik-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "Je dáno: QTE: 203° deklinace: 10° E. QDR je:",
+      "options": [
+        "023°",
+        "193°",
+        "013°",
+        "213°"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 20,
+      "id": "9-navigace-vrtulnik-94"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "Je dáno: QTE: 248° deklinace: 10° W. QDR je:",
+      "options": [
+        "068°",
+        "078°",
+        "238°",
+        "258°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 20,
+      "id": "9-navigace-vrtulnik-95"
+    },
+    {
+      "sourceNumber": "96",
+      "question": "Je dáno: QDM: 134° deklinace: 5° W. QTE je:",
+      "options": [
+        "129°",
+        "314°",
+        "309°",
+        "299°"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 20,
+      "id": "9-navigace-vrtulnik-96"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Pilot od zaměřovače VDF obdržel QDR 225°. Kde se nachází letadlo vzhledem k pozemní stanici?",
+      "options": [
+        "severozápadně",
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 20,
+      "id": "9-navigace-vrtulnik-97"
+    },
+    {
+      "sourceNumber": "98",
+      "question": "Kód QDR znamená:",
+      "options": [
+        "zeměpisný směrník od letadla ke stanici",
+        "zeměpisný směrník od stanice k letadlu",
+        "magnetický směrník od letadla ke stanici",
+        "magnetický směrník od stanice k letadlu"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 21,
+      "id": "9-navigace-vrtulnik-98"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "Kód QTE znamená:",
+      "options": [
+        "zeměpisný směrník od letadla ke stanici",
+        "zeměpisný směrník od stanice k letadlu",
+        "magnetický směrník od letadla ke stanici",
+        "magnetický směrník od stanice k letadlu"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 21,
+      "id": "9-navigace-vrtulnik-99"
+    },
+    {
+      "sourceNumber": "100",
+      "question": "Pilot obdržel od zaměřovače VDF QDR 135°. Kde se nachází letadlo vzhledem k zaměřovači?",
+      "options": [
+        "severozápadně",
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 21,
+      "id": "9-navigace-vrtulnik-100"
+    },
+    {
+      "sourceNumber": "101",
+      "question": "Pilot obdržel od zaměřovače VDF QDR 315°. Kde se nachází letadlo vzhledem k zaměřovači?",
+      "options": [
+        "severozápadně",
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 21,
+      "id": "9-navigace-vrtulnik-101"
+    },
+    {
+      "sourceNumber": "102",
+      "question": "Dosah VDF závisí na:",
+      "options": [
+        "nadmořské výšce letadla",
+        "rychlosti letadla",
+        "stavu ionosféry",
+        "dosahu vln šířených podél zemského povrchu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 21,
+      "id": "9-navigace-vrtulnik-102"
+    },
+    {
+      "sourceNumber": "103",
+      "question": "Jaké je třeba vybavení na palubě letadla pro příjem signálu z nesměrového majáku (NDB)?",
+      "options": [
+        "indikátor odchylky od tratě (CDI)",
+        "radiokompas (ADF)",
+        "odpovídač sekundárního radaru (SSR)",
+        "indikátor horizontální situace (HSI)"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 22,
+      "id": "9-navigace-vrtulnik-103"
+    },
+    {
+      "sourceNumber": "104",
+      "question": "V jakém vlnovém pásmu vysílá nesměrový maják (NDB)?",
+      "options": [
+        "krátké vlny (HF)",
+        "velmi krátké vlny (VHF)",
+        "dlouhé (LF) a střední (MF) vlny",
+        "velmi dlouhé (VLF) a dlouhé (LF) vlny"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 22,
+      "id": "9-navigace-vrtulnik-104"
+    },
+    {
+      "sourceNumber": "105",
+      "question": "Pilot chce přiletět k NDB na QDM 090°. Letadlo letí přibližně 5 minut magnetickým kurzem (MH) 095° a indikace relativního směrníku je 355°. Po 6 minutách je indikace relativního směrníku 358°. Který výrok je pravdivý?",
+      "options": [
+        "zvětšila se boční složka větru, je třeba zvětšit hodnotu magnetického kurzu",
+        "zmenšila se boční složka větru, je třeba zvětšit hodnotu magnetického kurzu",
+        "zvětšila se boční složka větru, je třeba zmenšit hodnotu magnetického kurzu",
+        "zmenšila se složka bočního větru, je třeba zmenšit hodnotu magnetického kurzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 22,
+      "id": "9-navigace-vrtulnik-105"
+    },
+    {
+      "sourceNumber": "106",
+      "question": "Pilot chce letět přímo k majáku. Je bezvětří. Měl by držet QDM: Viz. Obr. (NAV-019)",
+      "options": [
+        "200°",
+        "230°",
+        "080°",
+        "260°"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 22,
+      "id": "9-navigace-vrtulnik-106"
+    },
+    {
+      "sourceNumber": "107",
+      "question": "Jaký je rozdíl mezi zařízením lokátor a majákem NDB?",
+      "options": [
+        "lokátor má menší dosah než maják NDB",
+        "lokátor má větší dosah než maják NDB",
+        "lokátor vysílá přesněji",
+        "lokátor vysílá pouze na základě impulzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 22,
+      "id": "9-navigace-vrtulnik-107"
+    },
+    {
+      "sourceNumber": "108",
+      "question": "Dosah majáku NDB, který vysílá v pásmu středních vln, je největší:",
+      "options": [
+        "ve dne",
+        "v poledne",
+        "v noci",
+        "před půlnocí"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 23,
+      "id": "9-navigace-vrtulnik-108"
+    },
+    {
+      "sourceNumber": "109",
+      "question": "Pobřežní efekt je největší při šíření rádiových vln směrem:",
+      "options": [
+        "pod ostrým úhlem k pobřeží, letadlo je pod 6000 ft",
+        "kolmo na pobřeží, letadlo je pod 6000 ft",
+        "pod ostrým úhlem k pobřeží, letadlo je nad 6000 ft",
+        "kolmo k pobřeží, letadlo je nad 6000 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 23,
+      "id": "9-navigace-vrtulnik-109"
+    },
+    {
+      "sourceNumber": "110",
+      "question": "Občasná ztráta signálu (fading) v pásmu dlouhých nebo středních vln nastává zejména:",
+      "options": [
+        "ve dne",
+        "v poledne",
+        "pozdě odpoledne",
+        "v noci"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 23,
+      "id": "9-navigace-vrtulnik-110"
+    },
+    {
+      "sourceNumber": "111",
+      "question": "Průběh elektromagnetické oscilace může být popsán jako:",
+      "options": [
+        "frekvenční úhel",
+        "amplitudový úhel",
+        "fázový úhel",
+        "vlnový úhel"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 23,
+      "id": "9-navigace-vrtulnik-111"
+    },
+    {
+      "sourceNumber": "112",
+      "question": "Když se vysílač a přijímač blíží k sobě:",
+      "options": [
+        "vnímaná frekvence se zvětšuje",
+        "vnímaná frekvence se rovná vysílané frekvenci",
+        "vnímaná frekvence se zmenšuje",
+        "frekvence se mění, ale vlnová délka zůstává stejná"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 23,
+      "id": "9-navigace-vrtulnik-112"
+    },
+    {
+      "sourceNumber": "113",
+      "question": "Když se vysílač a přijímač pohybují od sebe:",
+      "options": [
+        "vnímaná frekvence se zvětšuje",
+        "vnímaná frekvence se rovná vysílané frekvenci",
+        "vnímaná frekvence se zmenšuje",
+        "frekvence se mění, ale vlnová délka zůstává stejná"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 24,
+      "id": "9-navigace-vrtulnik-113"
+    },
+    {
+      "sourceNumber": "114",
+      "question": "Radiály VOR jsou definovány na principu:",
+      "options": [
+        "porovnání fáze 2 signálů",
+        "porovnání amplitudy 2 signálů",
+        "porovnání frekvence 2 signálů",
+        "porovnání pulzů 2 signálů"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 24,
+      "id": "9-navigace-vrtulnik-114"
+    },
+    {
+      "sourceNumber": "115",
+      "question": "Který Q-kód odpovídá radiálu VOR?",
+      "options": [
+        "QDM",
+        "QDR",
+        "QTE",
+        "QUJ"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 24,
+      "id": "9-navigace-vrtulnik-115"
+    },
+    {
+      "sourceNumber": "116",
+      "question": "Plná výchylka ukazatele odchylky od tratě (CDI) znamená, že letadlo se nachází:",
+      "options": [
+        "10° od zvolené tratě",
+        "2° od zvolené tratě",
+        "10 NM od zvolené tratě",
+        "2 NM od zvolené tratě"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 24,
+      "id": "9-navigace-vrtulnik-116"
+    },
+    {
+      "sourceNumber": "117",
+      "question": "Kde se nachází letadlo vzhledem ke stanici VOR? Viz příloha (NAV-022)",
+      "options": [
+        "severovýchodně",
+        "jihovýchodně",
+        "jihozápadně",
+        "severozápadně"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 24,
+      "id": "9-navigace-vrtulnik-117"
+    },
+    {
+      "sourceNumber": "118",
+      "question": "Letadlo je na radiálu: Viz příloha (NAV-024)",
+      "options": [
+        "234°",
+        "246°",
+        "060°",
+        "066°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 25,
+      "id": "9-navigace-vrtulnik-118"
+    },
+    {
+      "sourceNumber": "119",
+      "question": "Na dosah stanice VOR má vliv:",
+      "options": [
+        "interference denního světla",
+        "nadmořská výška vysílače a přijímače",
+        "vícesměrové šíření pozemní vlny",
+        "odrazy vln od ionosféry"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 25,
+      "id": "9-navigace-vrtulnik-119"
+    },
+    {
+      "sourceNumber": "120",
+      "question": "Měřič vzdálenosti (DME) měří vzdálenost na principu:",
+      "options": [
+        "porovnání fází",
+        "měření laserem",
+        "Dopplerova efektu",
+        "měření času"
+      ],
+      "correctIndex": 3,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 25,
+      "id": "9-navigace-vrtulnik-120"
+    },
+    {
+      "sourceNumber": "121",
+      "question": "Údaj vzdálenosti z DME je:",
+      "options": [
+        "vzdálenost na zemi",
+        "šikmá vzdálenost",
+        "vzdálenost ve vzduchu",
+        "radiální vzdálenost"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 25,
+      "id": "9-navigace-vrtulnik-121"
+    },
+    {
+      "sourceNumber": "122",
+      "question": "Rozdíl mezi indikovanou šikmou vzdáleností z DME a horizontální vzdáleností od stanice DME se zvětšuje při:",
+      "options": [
+        "příletu k DME",
+        "odletu od DME",
+        "kroužení kolem DME",
+        "klesání"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 25,
+      "id": "9-navigace-vrtulnik-122"
+    },
+    {
+      "sourceNumber": "123",
+      "question": "S využitím pozemního primárního radaru lze stanovit směr od antény k letadlu:",
+      "options": [
+        "orientací antény",
+        "měřením času",
+        "intervalem páru pulzů",
+        "posunem frekvence přijímaného pulzu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 26,
+      "id": "9-navigace-vrtulnik-123"
+    },
+    {
+      "sourceNumber": "124",
+      "question": "Jakou okamžitou informaci lze získat z pozemního radaru?",
+      "options": [
+        "pravou vzdušnou rychlost letadla (TAS) a vzdálenost",
+        "vzdálenost a směr",
+        "pravou vzdušnou rychlost (TAS) a kurz",
+        "rychlost a pravou vzdušnou rychlost (TAS)"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 26,
+      "id": "9-navigace-vrtulnik-124"
+    },
+    {
+      "sourceNumber": "125",
+      "question": "Palubní vybavení pro sekundární přehledový radar (SSR) se nazývá:",
+      "options": [
+        "traťový indikátor",
+        "odpovídač",
+        "dotazovač",
+        "dekodér"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 26,
+      "id": "9-navigace-vrtulnik-125"
+    },
+    {
+      "sourceNumber": "126",
+      "question": "Jaký je rozdíl mezi primárním a sekundárním radarem?",
+      "options": [
+        "pulzy primárního radaru mají proměnnou amplitudovou modulaci, pulzy sekundárního radaru mají statickou pulzní modulaci",
+        "pulzy primárního radaru mají proměnnou pulzní modulaci, pulzy sekundárního radaru mají statickou amplitudovou modulaci",
+        "pulzy primárního radaru odráží povrch letadla, na pulzy sekundárního radaru odpovídá odpovídač",
+        "primární radar zobrazuje cíle na obrazovce, sekundární radar na stripu řídícího letového provozu"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 26,
+      "id": "9-navigace-vrtulnik-126"
+    },
+    {
+      "sourceNumber": "127",
+      "question": "Kód odpovídače sekundárního radaru pro únos je:",
+      "options": [
+        "7000",
+        "7500",
+        "7600",
+        "7700"
+      ],
+      "correctIndex": 1,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 26,
+      "id": "9-navigace-vrtulnik-127"
+    },
+    {
+      "sourceNumber": "128",
+      "question": "Kód odpovídače sekundárního radaru pro ztrátu spojení je:",
+      "options": [
+        "7000",
+        "7500",
+        "7600",
+        "7700"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 27,
+      "id": "9-navigace-vrtulnik-128"
+    },
+    {
+      "sourceNumber": "129",
+      "question": "Jakou výšku vysílá odpovídač sekundárního radaru v módu C?",
+      "options": [
+        "nadmořskou výšku",
+        "výšku nad zemí",
+        "tlakovou výšku",
+        "rádiovou výšku"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 27,
+      "id": "9-navigace-vrtulnik-129"
+    },
+    {
+      "sourceNumber": "130",
+      "question": "Příjem signálu od kolika satelitů je nezbytný pro přesné a ověřené stanovení polohy ve třírozměrném prostoru?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 2,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 27,
+      "id": "9-navigace-vrtulnik-130"
+    },
+    {
+      "sourceNumber": "131",
+      "question": "Při použití GPS pro let k dalšímu traťovému bodu je indikována odchylka od tratě vertikálním břevnem a tečkami vlevo a vpravo od středu ukazatele. Který výrok o takovém přístroji je pravdivý?",
+      "options": [
+        "Odchylka břevna od středu znázorňuje odchylku od tratě jako absolutní vzdálenost v NM. Velikost odchylky odpovídající plné výchylce břevna závisí na režimu práce GPS",
+        "výchylka břevna od středu odpovídá úhlové odchylce od tratě ve stupních. Velikost odchylky odpovídající plné výchylce břevna závisí na režimu práce GPS",
+        "výchylka břevna od středu odpovídá odchylce od tratě v absolutní vzdálenosti v NM. Plná výchylka břevna odpovídá odchylce +-10 NM",
+        "výchylka břevna od středu odpovídá úhlové odchylce od tratě ve stupních. Plné výchylce břevna odpovídá odchylka +-10°"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 27,
+      "id": "9-navigace-vrtulnik-131"
+    },
+    {
+      "sourceNumber": "132",
+      "question": "Co znamená pojem \"srovnávací navigace\"?",
+      "options": [
+        "navigace podle orientačních bodů na zemi při letu za vidu",
+        "orientace podle nebeských objektů při letu za vidu",
+        "orientace podle navigačních přístrojů při letu za vidu",
+        "orientace podle GPS při letu za vidu"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 28,
+      "id": "9-navigace-vrtulnik-132"
+    },
+    {
+      "sourceNumber": "133",
+      "question": "Jaké pozemní objekty se mají používat přednostně při srovnávající navigaci?",
+      "options": [
+        "řeky, železnice, dálnice",
+        "vedlejší silnice a údolí",
+        "elektrická vedení",
+        "hranice"
+      ],
+      "correctIndex": 0,
+      "category": "Navigace",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "9-Navigace-vrtulnik.pdf",
+      "page": 28,
+      "id": "9-navigace-vrtulnik-133"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Maximální t loušťka křídla je definována jako vzdálenost mezi spodní m a horní m povrchem křídla:",
+      "options": [
+        "v nejtlustší části křídla",
+        "v nejštíhlejší části křídla",
+        "na nejvzdálenější části křídla",
+        "na nejvnitřnější části křídla"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Jak se nazývá trubková ocelová konstrukce s nenosným potahem?",
+      "options": [
+        "příhradová",
+        "poloskořepinová",
+        "skořepinová",
+        "voštinová"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Z jakých částí je obvykle složena dřevěná nebo kovová primární konstrukce trupu?",
+      "options": [
+        "nosníky, žebra a podélníky",
+        "kryty, podélníky a tvarové části",
+        "žebra, přepážky a kryty",
+        "přepážky a podélníky"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaká konfigurace křídla je zobrazena v příloze? Viz obr. (AGK-002)",
+      "options": [
+        "dolnoplošník",
+        "středoplošník",
+        "hornoplošník",
+        "vzpěrový hornoplošník"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Konstrukce z přepážek a podélníků s nosným potahem se nazývá:",
+      "options": [
+        "gridová konstrukce",
+        "dřevěná nebo smíšená konstrukce",
+        "voštinová konstrukce",
+        "poloskořepinová konstrukce"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Jaký tvar ocasních ploch je znázorněn v příloze? Viz obr. (AGK-003)",
+      "options": [
+        "tvaru T",
+        "křížové ocasní plochy",
+        "tvaru V",
+        "ocasní plochy spojené s trupem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Jaké jsou hlavní díly ocasních ploch letadla?",
+      "options": [
+        "řiditelné kolo a pedály",
+        "křidélka a výškové kormidlo",
+        "směrové kormidlo a křidélka",
+        "vodorovné a svislé ocasní plochy"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Sendvičová konstrukce se skládá ze dvou:",
+      "options": [
+        "tenkých vrstev a lehké výplně",
+        "tlustých vrstev a lehké výplně",
+        "tenkých vrstev a těžké výplně",
+        "tlustých vrstev a těžké výplně"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Jak é konstrukční prv ky tvoří tvar profilu křídla?",
+      "options": [
+        "nosník",
+        "žebra",
+        "bednění",
+        "koncový oblouk"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Násobek n popisuje vztah mezi:",
+      "options": [
+        "vztlakem a tíhou",
+        "tahem a odporem",
+        "tíhou a tahem",
+        "odporem a vztlakem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Jaké jsou výhody sendvičové konstrukce?",
+      "options": [
+        "nízká hmotnost, vysoká tuhost, velká stabilita, vysoká pevnost",
+        "velká odolnost vůči vysokým teplotám a malá hmotnost",
+        "vysoká pevnost a dobrá tvarovatelnost",
+        "dobrá tvarovatelnost a dobrá odolnost vůči vysokým teplotám"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Který z uvedených materiálů je nejpevnější?",
+      "options": [
+        "dřevo",
+        "hliník",
+        "kompozit",
+        "hořčík"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Co je třeba učinit, byla-li překročena povolená provozní omezení?",
+      "options": [
+        "před dalším letem musí být letadlo prohlédnut o kvalifikovaným technikem",
+        "letadlo musí být prohlédnut o velitelem letadla a není-li zjištěna závada, není třeba žádný zvláštní zápis do technického deníku",
+        "letadlo musí být prohlédnut o alespoň dvěma piloty s typovou kvalifikací, jeden z nich musí být velitel letadla",
+        "letadlo musí být dvakrát prohlédnut o dvěma techniky"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Trhliny v konstrukci letadla mohou být způsobeny:",
+      "options": [
+        "poruchami materiálu nebo starou barvou",
+        "tvrdým přistáním nebo nadměrným zatížením",
+        "intenzivní korozí nebo vysokým opotřebením",
+        "Střetem vrtule se zemí"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Jaký druh hydraulických olejů se používá v systémech současných letadel?",
+      "options": [
+        "minerální oleje",
+        "syntetické oleje",
+        "rostlinné oleje",
+        "bio-oleje"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Číslo 1 na podvozku označuje: Viz obr. (AGK-005)",
+      "options": [
+        "vzpěru",
+        "vidlici",
+        "nůžky",
+        "vnitřní tlumič"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Konstrukce trupu může být poškozena:",
+      "options": [
+        "překročením maximální manévrovací rychlosti v silných poryvech",
+        "pádem po překročení maximálního úhlu náběhu",
+        "zásahy do řízení pro udržení stabilizovaného letu",
+        "poklesem rychlosti letu pod určitou hodnotu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Číslo 2 na podvozku označuje: Viz obr. (AGK-005)",
+      "options": [
+        "těleso tlumiče",
+        "vidlici",
+        "nůžky",
+        "Pístnici tlumiče"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Jak je na malých letadlech a motorových kluzácích obvykle řízeno příďové nebo ocasní kolo?",
+      "options": [
+        "pedály",
+        "sloupkem řízení",
+        "volantem řízení",
+        "posunem hmotnosti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Kde je instalován brzdový systém brzdící letadlo na zemi?",
+      "options": [
+        "pouze na příďovém podvozku",
+        "pouze na hlavním podvozku",
+        "na ocasním kole",
+        "na příďovém i hlavním podvozku"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Jaká řídící plocha je spojena s příďovým kolem?",
+      "options": [
+        "křidélka",
+        "směrovka",
+        "výškovka",
+        "trim směrovky"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Co se kontroluje značkou v příloze? Viz obr. (AGK-006)",
+      "options": [
+        "správná poloha pneumatiky vzhledem k ráfku",
+        "sjetí pneumatiky",
+        "pracovní tlak v duši kola",
+        "správná poloha vnějších izolačních vrstev"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Kolem kolika os se pohybuje letadlo a jak se tyto osy nazývají?",
+      "options": [
+        "3, svislá, příčná, podélná",
+        "3, x, y, z",
+        "4, vertikální, příčná, podélná, rychlostní",
+        "4, optická, imaginární, předozadní, pravolevá"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Pohyb kolem podélné osy je primárně způsoben:",
+      "options": [
+        "křidélky",
+        "směrovkou",
+        "výškovkou",
+        "trimem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jak jsou řídící plochy na malém pístovém letounu normálně ovládány?",
+      "options": [
+        "ručně pomocí táhel a lan",
+        "pomocí posilovačů poháněných hydraulickými čerpadly nebo elektromotory",
+        "hydraulicky pomocí hydraulických čerpadel a pracovních válců",
+        "elektricky systémem fly-by-wire"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Jaký je primární a sekundární účinek vychýlení směrovky doleva?",
+      "options": [
+        "primární: bočení doleva, sekundární: klonění doleva",
+        "primární: bočení doleva, sekundární: klonění doprava",
+        "primární: bočení doprava, sekundární: klonění doleva",
+        "primární: bočení doprava, sekundární: klonění doprava"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Co způsobí přitažení řídící páky k sobě?",
+      "options": [
+        "na ocasních plochách působí zvětšená síla směrem dolů a způsobí pohyb přídě směrem nahoru",
+        "na ocasních plochách působí zvětšená síla směrem dolů a způsobí pokles přídě letadla",
+        "na ocasních plochách působí zvětšená síla směrem nahoru a způsobí pohyb přídě směrem nahoru",
+        "na ocasních plochách působí zvětšená síla směrem nahoru a způsobí pokles přídě"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Co způsobí přitažení sloupku řízení nebo řídící páky směrem k sobě?",
+      "options": [
+        "na ocasních plochách působí zvětšená síla směrem dolů a způsobí pohyb přídě směrem nahoru",
+        "na ocasních plochách působí zvětšená síla dolů a způsobí pokles přídě",
+        "na ocasních plochách působí zvětšená síla směrem nahoru a způsobí pohyb přídě směrem nahoru",
+        "na ocasních plochách působí zvětšená síla směrem nahoru a způsobí pokles přídě"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Co se stane za letu, je-li řídící páka posunuta směrem dopředu bez dalších korekcí?",
+      "options": [
+        "rychlost vzroste, úhel klesání vzroste",
+        "rychlost klesne, úhel klesání vzroste",
+        "rychlost vzroste, úhel klesání se zmenší",
+        "rychlost klesne, úhel klesání se zmenší"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Která z následujících možností uvádí všechny primární řídící plochy letadla?",
+      "options": [
+        "výškovka, směrovka, křidélka",
+        "klapky, sloty, spoilery",
+        "výškovka, směrovka, křidélka, trimy, zařízení pro zvýšení vztlaku křídla, ovládání výkonu",
+        "všechny pohyblivé díly na letadle pomáhající řídit letadlo"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Jaký účel mají sekundární prvky řízení?",
+      "options": [
+        "zlepšit výkonnostní charakteristiky letadla a trvale snižovat síly v řízení",
+        "umožnit pilotovi řídit pohyb letadla kolem všech tří os",
+        "zlepšit vlastnosti letadla při malých rychlostech v zatáčce při přiblížení a přistání",
+        "vytvořit systém zpětné vazby pro prvky primárního řízení"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Jaký účel mají na zemi nastavitelné vyvažovací plošky?",
+      "options": [
+        "je to nepohyblivá kovová ploška na řídící ploše, která se nastavuje na zemi pro snížení trvalých sil v řízení při určitém režimu letu",
+        "je přednastavena na zemi a dále nastavována za letu, aby se zmenšila potřeba pořád vyvažovat trimem letadlo",
+        "je nastavena na zemi pro opravu režimů letu, které by nešly jinak vyvážit kvůli poloze těžiště",
+        "používá se pro optimalizaci vlastností letadla při manipulaci s letadlem na zemi"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Pilot pohne dozadu páčkou nebo kolečkem trimu v pilotní kabině. Co to způsobí na plošce trimu a na výškovce?",
+      "options": [
+        "ploška trimu se pohne nahoru, výškovka se pohne dolů",
+        "ploška trimu se pohne nahoru, výškovka se pohne nahoru",
+        "ploška trimu se pohne dolů, výškovka se pohne dolů",
+        "ploška trimu se pohne dolů, výškovka se pohne nahoru"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Kterým směrem se pohybuje ploška trimu při vyvažování letadla na \"těžký na ocas\"?",
+      "options": [
+        "pohybuje se dolů",
+        "pohybuje se nahoru",
+        "to závisí na poloze těžiště",
+        "pohybuje se ve směru výchylky směrovky",
+        "Jakým směrem se pohybuje odlehčovací ploška vzhledem k výchylce řídící plochy, ke které je"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "připevněna?",
+      "options": [
+        "v opačném směru",
+        "ve stejném směru",
+        "do úhlu 90°",
+        "do úhlu 45°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Trim se používá:",
+      "options": [
+        "pro potlačení neřízených bočních kmitů",
+        "pro odstranění trvalých sil v řízení",
+        "pro změnu polohy těžiště",
+        "pro uzamčení prvků řízení"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Co z následujícího jsou prvky sekundárního řízení?",
+      "options": [
+        "klapky, zařízení na náběžných hranách křídel, spoilery, trimovací plošky",
+        "výškovka, směrovka, křidélka",
+        "výškovka, směrovka, křidélka, trimovací plošky, zařízení pro zvýšení vztlaku, ovládání výkonu",
+        "všechny pohyblivé části na letadle, které pomáhají řídit letadlo"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Co je třeba provést při plnění paliva?",
+      "options": [
+        "uzemnit letadlo, zapnout hlavní vypínač a magneta",
+        "nepoužívat otevřený oheň, nekouřit a uzemnit letadlo",
+        "plnit přes sítko a zapnout hlavní vypínač",
+        "kontrolovat obsah nádrže svítilnou"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Nastřikovací čerpadlo je:",
+      "options": [
+        "mechanický přepínač v pilotní kabině, kterým se zapíná turbokompresor",
+        "pomocné čerpadlo v palivovém systému, které usnadňuje spouštění motoru",
+        "ventil v systému řízení dodávky paliva pro automatické nastavování bohatosti směsi",
+        "tryska ve Venturiho trubici karburátoru pro rozstřikování paliva"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "K čemu slouží odvětrání nádrže?",
+      "options": [
+        "zabraňuje podtlaku způsobenému spotřebou paliva",
+        "z a braňuje přetékání paliva z plnícího otvoru při plnění",
+        "zabraňuje vstřebávání vody do paliva při parkování letadla",
+        "za letu rozděluje palivo z jedné palivové nádrže do dalších"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Elektrickou energii do sítě letounu dodává: 1. baterie 2. generátor 3. relé 4. jistič",
+      "options": [
+        "1 a 4",
+        "1 a 2",
+        "2 a 3",
+        "3 a 4"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Co je jednotka napětí?",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampér",
+        "Watt"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Co je jednotka elektrického výkonu?",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampér",
+        "Watt"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Jaký účel mají vyzařovače statické elektřiny na letadle?",
+      "options": [
+        "vybíjet za letu statický náboj",
+        "bránit elektrickému rušení při intenzivním rádiovém provozu",
+        "zajisti uzemnění při plnění paliva",
+        "zlepšit kvalitu rádiového vysílání ve velkých výškách"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Co se stane, vysadí-li alternátor za letu?",
+      "options": [
+        "vysadí všechny přístroje a varovné systémy",
+        "vysadí pouze spotřebiče s vysokou spotřebou",
+        "motor bude běžet tvrdě a bude náchylný k nepravidelnému chodu",
+        "nic se nezmění, dokud bude baterie dodávat dostatek energie"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Elektricky poháněné palubní přístroje, které používají stejnosměrný proud, jsou označeny:",
+      "options": [
+        "DC",
+        "EL",
+        "CO",
+        "AL"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Které zařízení může být ovlivněno vysazením elektrického systému?",
+      "options": [
+        "radiové vybavení, navigační vybavení a magnetický kompas",
+        "ukazatel množství paliva, rádiové vybavení a výškoměr",
+        "rychloměr, výškoměr a umělý horizont",
+        "rádiové vybavení, navigační vybavení a gyroskopické přístroje"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jaké je nejčastější uspořádání válců v motorech malých letadel a motorových kluzáků?",
+      "options": [
+        "řadové",
+        "hvězdicové",
+        "vodorovné",
+        "vidlicové"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Jaká část pracovního cyklu čtyřdobého zážehového motoru je znázorněna v příloze? Viz obr. (AGK-007)",
+      "options": [
+        "sání",
+        "stlačení",
+        "výbuch",
+        "výfuk"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Jaká část pracovního cyklu čtyřdobého zážehového motoru je znázorněna v příloze? Viz obr. (AGK-008)",
+      "options": [
+        "sání",
+        "stlačení",
+        "výbuch",
+        "výfuk"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Co je pravděpodobně příčinou, běží-li motor neobvykle tvrdě při kontrole magnet?",
+      "options": [
+        "vadný startér",
+        "zkrat na zemnícím kabelu",
+        "vadná zapalovací svíčka",
+        "vadný přepínač zapalování"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Ve které situaci dochází k největšímu vstřebávání vlhkosti do paliva?",
+      "options": [
+        "téměř plné nádrže",
+        "téměř prázdné nádrže",
+        "při stání na vlhké travnaté ploše",
+        "při stání na studených plochách"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Kde se v nádrži shromažďuje zkondenzovaná voda?",
+      "options": [
+        "v nejnižší části",
+        "na hladině paliva",
+        "je smíchána s palivem",
+        "poblíž plnícího otvoru nádrže"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Co popisuje oktanové číslo paliva?",
+      "options": [
+        "odolnost proti samovznícení",
+        "rychlost šíření plamene",
+        "spalovací teplotu",
+        "pře d stih zapalování"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Jakou barvu má palivo Avgas 100 LL?",
+      "options": [
+        "zelenou",
+        "červenou",
+        "žlutou",
+        "modrou"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Jaký vliv má zapnutí ohřevu karburátoru na chod motoru s pevnou vrtulí?",
+      "options": [
+        "nárůst otáček",
+        "pokles otáček",
+        "zvýšení úhlu náběhu",
+        "snížení úhlu náběhu"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Co je hlavním úkolem karburátoru?",
+      "options": [
+        "vytvářet palivovou směs vzduch / palivo",
+        "zajisti dodatečné palivo pro chlazení motoru",
+        "čerpat palivo z nádrží do válců",
+        "pomocí přípustě paliva řídit rychlost letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Ve které fázi letu musí být ohřev karburátoru vypnut, i když lze očekávat tvorbu námrazy?",
+      "options": [
+        "při pojíždění",
+        "při stoupání",
+        "při letu po trati",
+        "při vzletu"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Při které teplotě vnějšího vzduchu je největší pravděpodobnost tvorby námrazy?",
+      "options": [
+        "mezi-5 °C a +20 °C",
+        "mezi-15 °C a 0 °C",
+        "mezi-10 °C a +10 °C",
+        "mezi-20 °C a +5 °C"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Co je úkolem chladících žeber na válcích motorů chlazených vzduchem?",
+      "options": [
+        "přivádění proudu vzduchu na části, které mají být chlazeny",
+        "rychlý přenos tepla do okolního proudu vzduchu zvětšením povrchu",
+        "chlazení proudu vzduchu v okolí válce a přivádění ho na horké části motoru",
+        "urychlení proudu vzduchu a tím zlepšení chlazení částí válců"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Teplota hlav válců se měří na:",
+      "options": [
+        "kritickém válci",
+        "náhodném válci",
+        "všech válcích",
+        "je průměrem teploty všech válců"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Co se stane, ucpe-li se olejový filtr?",
+      "options": [
+        "otevře se obtokový ventil a umožní cirkulaci oleje, nečistoty se nefiltrují",
+        "otevře se obtokový ventil a umožní cirkulaci oleje, nečistoty se filtrují náhradním filtrem",
+        "cirkulace oleje skončí za 30 minut a potom není zaručen správný chod motoru",
+        "cirkulace oleje skončí za 15 minut a potom není zaručen správný chod motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-62"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "3 Zážehové letecké motory mají:",
+      "options": [
+        "dva zdvojené systémy zapalování",
+        "dva nezávislé systémy zapalování",
+        "jeden elektrický systém zapalování",
+        "jeden systém zapalování s magnety"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "4 Jak se nazývá směs paliva se vzduchem, kde je nadměrné množství paliva?",
+      "options": [
+        "chudá",
+        "bohatá",
+        "plná",
+        "prázdná"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "5 Úhel zobrazený šipkou č. 1 znázorňuje: Viz obr. (AGK-011) D: směr nabíhajícího proudu vzduchu C: tětiva R: směr otáčení",
+      "options": [
+        "úhel náběhu",
+        "úhel nastavení vrtule",
+        "geometrické zkroucení listu",
+        "aerodynamické zkroucení listu"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "6 Jak má být provedeno zvýšení výkonu motoru s vrtulí konstantních otáček, není-li v letové příručce popsán žádný jiný postup?",
+      "options": [
+        "1) zvýšit otáčky 2) zvýšit plnící tlak",
+        "1) zvýšit plnící tlak 2) zvýšit otáčky",
+        "1) snížit plnící tlak 2) zvýšit otáčky",
+        "1) snížit otáčky 2) zvýšit plnící tlak"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "7 Jak má být provedeno snížení výkonu motoru s vrtulí konstantních otáček, není-li v letové příručce popsán jiný postup?",
+      "options": [
+        "1) snížit otáčky 2) snížit plnící tlak",
+        "1) snížit plnící tlak 2) snížit otáčky",
+        "1) snížit plnící tlak 2) zvýšit otáčky",
+        "1)snížit otáčky 2) zvýšit plnící tlak"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "8 Výkon pístového motoru bez turbokompresoru klesá s rostoucí výškou, protože:",
+      "options": [
+        "klesá teplota vzduchu",
+        "klesá hustota vzduchu",
+        "klesá vlhkost vzduchu",
+        "klesá atmosférický tlak"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Výkon motoru s karburátorem s rostoucí nadmořskou výškou:",
+      "options": [
+        "se zvětšuje",
+        "klesá",
+        "zůstává stejný",
+        "nejprve klesá a od 5000 ft se zvětšuje"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-69"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "0 Během zkoušky zapalování je přepínač zapalování krátce nastaven do polohy OFF a hned potom do polohy BOTH. Co se stane s otáčkami motoru, je-li systém zapalování správně uzemněn?",
+      "options": [
+        "při přepnutí na OFF se otáčky zvýší a po přepnutí na BOTH se otáčky vrátí na původní hodnotu",
+        "po přepnutí na OFF se otáčky sníží a po přepnutí na BOTH se otáčky vrátí na původní hodnotu",
+        "po přepnutí na OFF se otáčky zvýší a po přepnutí na BOTH zůstanou vyšší",
+        "po přepnutí na OFF se otáčky sníží a po přepnutí na BOTH zůstanou nižší"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "1 Jaké přístroje měří v letadle teplotu?",
+      "options": [
+        "teploměr oleje, teploměr chladící kapaliny motoru, teploměr hlav válců, teploměr výstupních plynů, teploměr vnějšího vzduchu, teploměr vzduchu v kabině",
+        "teploměr oleje, teploměr hlav válců, teploměr výstupních plynů, teploměr vzduchu v sání, teploměr vnějšího vzduchu, teploměr vzduchu v kabině",
+        "teploměr oleje, teploměr hlav válců, teploměr výstupních plynů, výškoměr, rychloměr, variometr",
+        "teploměr oleje, teploměr výstupních plynů, teploměr vnějšího vzduchu, teploměr vzduchu v kabině, směrový setrvačník"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "2 Množství paliva se v malých letadlech většinou měří pomocí snímače hladiny. Evropské Certifikační specifikace CS 23 požadují:",
+      "options": [
+        "aby ukazatel množství paliva byl k dispozici pro každou nádrž, ukazatel musí být kalibrován tak, aby ukazoval nulu při rovném letu, když je množství zbývajícího paliva v nádrži rovné nevyčerpatelnému zbytku",
+        "musí být k dispozici alespoň jeden ukazatel množství paliva ukazující celkové množství paliva na palubě letadla. Tento ukazatel musí být kalibrovaný tak, aby ukazoval správné množství paliva ve všech fázích letu",
+        "pokud pilot nemá za letu k dispozici uka zatel stavu paliva, musí kontrolovat stav paliva před zahájením letu a přepočítávat zbytek paliva na palubě za letu v pravidelných intervalech",
+        "selže-li ukazatel stavu paliva, pilot musí přistát na nejbližším vhodném letišti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "3 Který z uvedených přístrojů získává údaje měřením tlaku?",
+      "options": [
+        "tlakoměr oleje, tlakoměr paliva, ukazatel plnícího tlaku, výškoměr, variometr, rychloměr, ukazatel tlaku sání",
+        "tlakoměr oleje, tlakoměr paliva, palivoměr, ukazatel plnícího tlaku, ukazatel rozdílu tlaku, výškoměr",
+        "rychloměr, variometr, výškoměr, směrový setrvačník, zatáčkoměr, tlakoměr oleje, tlakoměr paliva",
+        "rychloměr, variometr, výškoměr, magnetický kompas, tlakoměr oleje, tlakoměr paliva"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "4 Pitot-statický systém:",
+      "options": [
+        "měří celkový a statický tlak",
+        "brání zamrznutí Pitotovy trubice",
+        "opravuje indikaci rychloměru na nulu, stojí-li letadlo na zemi",
+        "brání možnému nárůstu statického tlaku v letadle"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "5 Jaký tlak měří Pitotova trubice?",
+      "options": [
+        "celkový tlak",
+        "statický tlak",
+        "dynamický tlak",
+        "kabinový tlak"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "6 QFE je:",
+      "options": [
+        "barometrický tlak měřený od hladiny moře s využitím mezinárodní standardní atmosféry",
+        "barometrický tlak měřený od referenčního bodu, typicky od prahu dráhy",
+        "výška nad referenční takovou hladinou 1013.25 hPa",
+        "magnetický směrník ke stanici"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "7 QNE je:",
+      "options": [
+        "barometrický tlak měřený od hladiny moře s využitím mezinárodní standardní atmosféry",
+        "barometrický tlak měřený od referenčního bodu, typicky od prahu dráhy",
+        "výška nad referenční tlakovou hladinou 1013.25 hPa",
+        "magnetický směrník ke stanici"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "8 Co je účelem pomocné stupnice výškoměru?",
+      "options": [
+        "nastavit výškoměr na stanovenou tlakovou hladinu, např. hladinu moře, úroveň letiště, tlakovou hladinu 1013.25 hPa",
+        "opravit indikaci výškoměru o nestandardní teploty",
+        "opravit indikaci výškoměru o systémové chyby",
+        "nastavit referenční hladinu pro dekodér výšky odpovídače sekundárního radaru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Jak může nesprávně nastavené QNH na výškoměru vést k nesprávné indikaci výškoměru?",
+      "options": [
+        "Je-li nastaven vyšší tlak než správný, indikace je příliš vysoká. To může vést k větší blízkosti země, než bylo zamýšleno",
+        "je-li nastaven nižší tlak než správný, indikace je příliš nízká. To může vést k větší blízkosti země, než bylo zamýšleno",
+        "je-li nastaven vyšší tlak než správný, indikace je příliš nízká. To může vést k mnohem větším výškám letu nad zemí, než bylo zamýšleno",
+        "je-li nastaven nižší tlak než správný, indikace je příliš vysoká. To může vést k mnohem větší blízkosti země, než bylo zam ýšleno"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-79"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "0 Teplota nižší než standardní může vést:",
+      "options": [
+        "k příliš vysoké indikaci výšky",
+        "k příliš nízké indikaci výšky",
+        "ke správné indikaci výšky, je-li sekundární stupnice výškoměru nastavena na správnou nestandardní teplotu",
+        "k zablokování Pitotovy trubice ledem, a to způsobí stále stejnou indikaci výškoměru na stejné hodnotě"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "1 Letová hladina je:",
+      "options": [
+        "tlaková výška",
+        "skutečná výška nad mořem",
+        "hustotní výška nad mořem",
+        "výška nad zemí"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "2 Skutečná výška je:",
+      "options": [
+        "výška nad střední hladinou moře opravená o nestandardní teplotu",
+        "výška nad zemí opravená o nestandardní teplotu",
+        "výška nad hladinou země opravená o nestandardní teplotu",
+        "tlaková výška opravená o nestandardní teplotu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "3 Za letu ve vzduchu chladnějším než je Mezinárodní standardní atmosféra je indikovaná výška letu:",
+      "options": [
+        "větší než skutečná",
+        "menší než skutečná",
+        "stejná jako skutečná",
+        "stejná jako standardní výška Za letu ve vzduchu, jehož teplota je stejná jako dle Mezinárodní standardní atmosféry, a se"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "4 správně nastaveným QNH, je indikovaná výška:",
+      "options": [
+        "větší než skutečná",
+        "menší než skutečná",
+        "stejná jako skutečná",
+        "stejná jako standardní atmosféra"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "5 Který přístroj je výrazně ovlivněn hysterezní chybou?",
+      "options": [
+        "variometr",
+        "otáčkoměr",
+        "výškoměr",
+        "kompas s přímým čtením"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "6 Měření výšky je založeno na změně:",
+      "options": [
+        "celkového tlaku",
+        "statického tlaku",
+        "dynamického tlaku",
+        "diferenciálního tlaku"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "7 Která z následujících možností popisuje princip práce variometru?",
+      "options": [
+        "měření současného statického tlaku a jeho porovnávání se statickým tlakem uvnitř přístroje",
+        "měření celkového tlaku a jeho porovnávání se statickým tlakem",
+        "měření statického tlaku a jeho porovnávání s vakuem",
+        "měření vertikálního zrychlení pomocí přemístění hmoty zavěšené na otočeném závěsu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "8 Variometr měří rozdíl tlaku mezi:",
+      "options": [
+        "současným statickým tlakem a předcházejícím statickým tlakem",
+        "současným dynamickým tlakem a předcházejícím dynamickým tlakem",
+        "současným celkovým tlakem a předcházejícím celkovým tlakem",
+        "současným dynamickým tlakem a předcházejícím statickým tlakem"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Kalibrovaná rychlost (CAS) se rovná:",
+      "options": [
+        "indikované rychlosti (IAS) opravené o polohovou chybu",
+        "pravé vzdušné rychlosti (TAS) opravené o vítr",
+        "ekvivalentní rychlosti (EAS) opravené o nadmořskou výšku",
+        "traťové rychlosti (GS) opravené o přístrojovou a polohovou chybu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-89"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "0 Ve velkých nadmořských výškách má pravá vzdušná rychlost (TAS) tendenci být vyšší než kalibrovaná rychlost (CAS). Hrubý odhad pravé vzdušné rychlosti (TAS) lze získat:",
+      "options": [
+        "přidáním 2 % CAS na každých 1000 ft výšky",
+        "odečtením 2 % CAS na každých 1000 ft výšky",
+        "přidáním 10 % CAS na každých 1000 ft výšky",
+        "odečtením 10 % CAS na každých 1000 ft výšky"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "1 Letadlo letí při zemi kurzem 180° při teplotě cca 15°C pravou vzdušnou rychlostí 100 kt. Vítr vane ze 180° rychlostí 30 kt. Jaká bude přibližná indikovaná rychlost při zanedbání přístrojové a polohové chyby?",
+      "options": [
+        "100 kt",
+        "70 kt",
+        "130 kt",
+        "30 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "2 Který z následujících faktorů může způsobit chybnou indikaci rychlosti?",
+      "options": [
+        "kabel uzemnění je stále připojen",
+        "letadlo je pokryto samolepícími fóliemi",
+        "byl zapnut jistič",
+        "je závada na potrubí plnícího vzduchu"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "3 Co z následujícího popisuje princip práce rychloměru?",
+      "options": [
+        "je měřen celkový tlak a porovnáván se statickým tlakem",
+        "je měřen statický tlak a porovnáván s vakuem",
+        "Pitotovou trubicí je měřen dynamický tlak a rychloměrem převáděn na indikaci rychlosti",
+        "statickými snímači je měřen celkový tlak a výškoměrem převáděn na indikaci rychlosti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "4 Jaké hodnoty jsou obvykle na přístrojích vyznačeny červenou barvou?",
+      "options": [
+        "provozní omezení",
+        "provozní oblasti",
+        "oblasti varování",
+        "doporučené oblasti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "5 Podle čeho ukazuje rychloměr rychlost?",
+      "options": [
+        "rozdíl mezi celkovým a statickým tlakem",
+        "rozdíl mezi dynamickým a statickým tlakem",
+        "rozdíl mezi celkovým a dynamickým tlakem",
+        "rozdíl mezi standardním a celkovým tlakem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "6 Co znamená bílý oblouk na rychloměru?",
+      "options": [
+        "rozsah rychlostí s vysunutými vztlakovými klapkami",
+        "rozsah rychlostí v klidném vzduchu",
+        "rozsah rychlostí v turbulenci",
+        "rozsah rychlostí, které nesmějí být překročeny"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "7 Co znamená červená čára na rychloměru?",
+      "options": [
+        "rychlost, která nesmí být překročena za žádných okolností",
+        "rychlost, která nesmí být překročena v turbulentním vzduchu",
+        "rychlost, která nesmí být překročena s vysunutými vztlakovými klapkami",
+        "rychlost, která nesmí být překročena v zatáčkách s náklonem větším než 45°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "8 Chyba kompasu způsobená magnetickým polem letadla se nazývá:",
+      "options": [
+        "deviace",
+        "deklinace",
+        "variace",
+        "inklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "Jaká chyba způsobuje, že se indikace magnetického kompasu liší od směru k magnetickému severu?",
+      "options": [
+        "deviace, zatáčky a chyby při akceleraci letadla",
+        "inklinace a deklinace zemského magnetického pole",
+        "variace, zatáčky a chyby při akceleraci letadla",
+        "gravitace a magnetismus"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-99"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "0 Který z přístrojů je připojen k Pitotově trubici?",
+      "options": [
+        "rychloměr",
+        "výškoměr",
+        "kompas s přímým čtením",
+        "variometr"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "1 Které palubní přístroje jsou připojeny ke snímači statického tlaku?",
+      "options": [
+        "výškoměr, variometr, rychloměr",
+        "rychloměr, výškoměr, kompas s přímým čtením",
+        "rychloměr, kompas s přímým čtením, skluzoměr",
+        "výškoměr, skluzoměr, navigační počítač"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "2 Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 270° na kurz 360°. Při přibližně jaké indikaci kurzu je třeba zatáčku zastavit?",
+      "options": [
+        "330°",
+        "030°",
+        "360°",
+        "270°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "3 Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 360°na kurz 270°. Na přibližně jakém kurzu je třeba zatáčku zastavit?",
+      "options": [
+        "270°",
+        "240°",
+        "360°",
+        "300°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "4 Pojem statický tlak je definován jako:",
+      "options": [
+        "tlak nerozrušeného proudu vzduchu",
+        "tlak uvnitř kabiny letadla",
+        "tlak způsobený prouděním vzduchových částic",
+        "tlak měřený Pitotovou trubicí"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "5 Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 030° na kurz 180°. Na přibližně jakém kurzu je třeba zatáčku zastavit?",
+      "options": [
+        "210°",
+        "150°",
+        "360°",
+        "180°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "6 Na čem přímo závisí dynamický tlak?",
+      "options": [
+        "na hustotě vzduchu a čtverci rychlosti proudu vzduchu",
+        "na tlaku a teplotě",
+        "na součiniteli vztlaku a odporu",
+        "na hustotě vzduchu a součiniteli vztlaku"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "7 Co je příčinou decelerační a akcelerační chyby kompasu s přímým čtením?",
+      "options": [
+        "inklinace siločar zemského magnetického pole",
+        "deviace v pilotní kabině",
+        "změny teploty",
+        "deklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "8 Jak reaguje rotující setrvačník v prostoru?",
+      "options": [
+        "má tendenci udržet svou polohu v prostoru",
+        "kývá se od východu na západ jako kyvadlo",
+        "pohybuje se v kruzích se stále rostoucím poloměrem",
+        "pohybuje se podle tělesa, které ho obklopuje"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "09 Setrvačník rotující v prostoru odpovídá na sílu vyvolanou precesním pohybem letadla:",
+      "options": [
+        "pod úhlem 90° na sílu od precesního pohybu",
+        "pod úhlem 180° na sílu od precesního pohybu",
+        "pod úhlem 45° na sílu od precesního pohybu",
+        "v severním směru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-1"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "0 Náklon zatáčky o 360° trvající 2 minuty závisí na:",
+      "options": [
+        "indikované rychlosti",
+        "kalibrované rychlosti",
+        "pravé vzdušné rychlosti",
+        "traťové rychlosti"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "1 Zatáčkoměr se skluzoměrem poskytují informaci o:",
+      "options": [
+        "úhlové rychlosti zatáčení a skluzu nebo výkluzu",
+        "úhlové rychlosti zatáčení a náklonu",
+        "koordinaci zatáčky a úhlu skluzu",
+        "úhlu podélného sklonu a náklonu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "2 Rychloměr neukazuje. Letoun smí být provozován jen:",
+      "options": [
+        "je-li rychloměr znovu plně funkční",
+        "pro lety po okruhu letiště",
+        "není-li v dosahu organizace údržby letadel",
+        "lze-li za letu použít GPS s indikací rychlosti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "3 Která barva na table nebo přístroji sděluje pilotovi, že a si bude třeba provést opravnou akci?",
+      "options": [
+        "červen á",
+        "oranžov á",
+        "modr á",
+        "zelená"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "4 Jakou barvou je na rychloměru vyznačena oblast zvýšené pozornosti?",
+      "options": [
+        "žlutou",
+        "červenou",
+        "bílou",
+        "zelenou"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "5 Polohový směrový indikátor (ADI) kombinuje informace poskytované:",
+      "options": [
+        "umělým horizontem, směrovým indikátorem a zatáčkoměrem",
+        "směrovým setrvačníkem a rychlostním setrvačníkem",
+        "ukazatelem polohy a ukazatelem relativních směrníků",
+        "ukazatelem polohy a radiomagnetickým indikátorem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "6 Co znamená zkratka HSI?",
+      "options": [
+        "indikátor horizontální situace",
+        "indikátor horizontálního skluzu",
+        "systém hibernační indikace",
+        "nebezpečná prudká inklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "7 Indikátor horizontální situace (HSI) kombinuje informace z:",
+      "options": [
+        "směrového gyrokompasu a radionavigačního přijímače VHF",
+        "indikátoru polohy a povelového ukazatele",
+        "směrového gyrokompasu a skluzoměru",
+        "směrového gyrokompasu a povelového ukazatele"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "8 Jaký rozdíl výšek ukáže výškoměr, je-li nastavení tlaku změněno z 1000 hPa na 1010 hPa?",
+      "options": [
+        "o 80 m více",
+        "hodnoty závisí na QNH",
+        "nulu",
+        "o 80 m méně"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "19 Kdy je třeba nastavit tlak na výškoměru?",
+      "options": [
+        "před každým letem a při navigačním letu",
+        "před prvním letem toho dne",
+        "jednou za měsíc před letovým provozem",
+        "poté, co byla dokončena údržba"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-1"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "0 Výškoměr je nastaven na letištní tlak (QFE). Co ukazuje za letu?",
+      "options": [
+        "výšku nad letištěm",
+        "nadmořskou výšku letiště",
+        "tlakovou výšku",
+        "výšku nad střední hladinou moře"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "1 Variometr připojený na příliš velkou vyrovnávací nádobu ukazuje:",
+      "options": [
+        "větší hodnoty než skutečné",
+        "neukazuje nic",
+        "je mechanicky přetížen",
+        "menší hodnoty než skutečné"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "2 Variometr měří rozdíl mezi:",
+      "options": [
+        "celkovým a statickým tlakem",
+        "dynamickým a celkovým tlakem",
+        "okamžitým celkovým a předcházejícím celkovým tlakem",
+        "okamžitým statickým a předcházejícím statickým tlakem"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "3 Pojem inklinace znamená:",
+      "options": [
+        "úhel mezi siločárami zemského magnetického pole a horizontální rovinou",
+        "úhel mezi podélnou osou letadla a zeměpisným severem",
+        "deviaci indukovanou elektrickým polem",
+        "úhel mezi magnetickým a zeměpisným severem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "4 Co ukazuje relativní sklonoměr?",
+      "options": [
+        "relativní vertikálu",
+        "vertikálu vzhledem k zemskému horizontu",
+        "náklon letadla",
+        "úhlovou rychlost zatáčení"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "5 Kulička relativního sklonoměru je v pravé zatáčce vychýlena vpravo. Jak ji lze přivést do neutrálu?",
+      "options": [
+        "zmenšit náklon, zvětšit úhlovou rychlost zatáčení",
+        "zvětšit náklon, zvětšit úhlovou rychlost zatáčení",
+        "snížit rychlost, zvětšit náklon",
+        "zmenšit úhlovou rychlost zatáčení, zmenšit náklon"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "6 Co je účelem vingletů?",
+      "options": [
+        "snížení indukovaného odporu",
+        "zvýšení vztlaku a zlepšení manévrovatelnosti v zatáčkách",
+        "zvýšení klouzavosti při vysokých rychlostech",
+        "snížení účinku štíhlosti křídla"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "7 Jaké motory se většinou požívají v turistických motorových kluzácích (TMG)?",
+      "options": [
+        "čtyřválcové čtyřtakty",
+        "čtyřválcové dvoutakty",
+        "dvouválcové diesely",
+        "dvoukomorové wankely"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "8 Co je účelem motorového oleje v pístovém motoru?",
+      "options": [
+        "chlazení a mazání motoru a ukládání jemných otěrů",
+        "chlazení a mazání motoru a zvýšení výkonu motoru",
+        "chlazení motoru a mazání vrtulového hřídele",
+        "zmenšení a opora vrtulového hřídele"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Letoun",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Jaké jsou výhody gyrodynu v porovnání s vrtulníkem?",
+      "options": [
+        "širší meze polohy těžiště",
+        "vyšší rychlost při letu po trati",
+        "nízká spotřeba paliva",
+        "není třeba žádná redukční skříň"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Jak se nazývá trubková ocelová konstrukce s nenosným potahem?",
+      "options": [
+        "příhradová",
+        "poloskořepinová",
+        "skořepinová",
+        "voštinová"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Sendvičová konstrukce se skládá ze dvou:",
+      "options": [
+        "tenkých vrstev a lehké výplně",
+        "tlustých vrstev a lehké výplně",
+        "tenkých vrstev a těžké výplně",
+        "tlustých vrstev a těžké výplně"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Násobek n popisuje vztah mezi:",
+      "options": [
+        "vztlakem a tíhou",
+        "tahem a odporem",
+        "tíhou a tahem",
+        "odporem a vztlakem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Jaké jsou výhody sendvičové konstrukce?",
+      "options": [
+        "nízká hmotnost, vysoká tuhost, velká stabilita, vysoká pevnost",
+        "velká odolnost vůči vysokým teplotám a malá hmotnost",
+        "vysoká pevnost a dobrá tvarovatelnost",
+        "dobrá tvarovatelnost a dobrá odolnost vůči vysokým teplotám"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 1,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Který z uvedených materiálů je nejpevnější?",
+      "options": [
+        "dřevo",
+        "hliník",
+        "komposit",
+        "hořčík"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Co je třeba učinit, byla-li překročena p rovozní omezení?",
+      "options": [
+        "před dalším letem musí být vrtulník prohlédnut kvalifikovaným technikem",
+        "vrtulník musí být prohlédnut velitelem letadla a není-li zjištěna závada, není třeba žádný zvláštní zápis do technického deníku",
+        "vrtulník musí být prohlédnut alespoň dvěma piloty s typovou kvalifikací pro daný vrtulník, jeden z nich musí být velitel let adla",
+        "vrtulník musí být dvakrát prohlédnut dvěma techniky"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Co mohlo způsobit škrábance na ocasním nosníku?",
+      "options": [
+        "stará barva",
+        "dotyk se zemí",
+        "intenzivní otěr",
+        "kontakt s rotorovým listem"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Jaký druh hydraulických olejů se používá v systémech současných letadel?",
+      "options": [
+        "minerální oleje",
+        "syntetické oleje",
+        "rostlinné oleje",
+        "bio-oleje"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Hydraulické čerpadlo systému řízení je poháněno:",
+      "options": [
+        "hlavním reduktorem",
+        "motorem",
+        "alternátorem",
+        "zvláštním agregátem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 2,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Co zmenšuje opotřebení lyžinového podvozku?",
+      "options": [
+        "zalomení lyžin",
+        "duté ohnuté trubky",
+        "kluzné patky lyžin",
+        "pružné tvarovky"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Jak je nastavován úhel nastavení rotorového listu vrtulníku?",
+      "options": [
+        "řídícími táhly",
+        "elektromotory",
+        "výstředníky a táhly",
+        "elektrickými impulsy"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Co způsobí pohyb páky cykliky?",
+      "options": [
+        "řídící deska se vychýlí, a to způsobí periodické změny úhlu nastavení rotorových listů",
+        "posuvný kroužek se posune, a to způsobí stejnou změnu úhlu nastavení všech rotorových listů",
+        "trimovací ploška se vychýlí a způsobí kroutící moment na rotorových listech",
+        "spodní nůžky se natočí, a to způsobí periodické změny úhlu nastavení rotorových listů"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Co se stane za letu, je-li řídící páka posunuta směrem dopředu bez dalších korekcí?",
+      "options": [
+        "rychlost vzroste, úhel klesání vzroste",
+        "rychlost klesne, úhel klesání vzroste",
+        "rychlost vzroste, úhel klesání se zmenší",
+        "rychlost klesne, úhel klesání se zmenší"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Směšovací jednotka řízení:",
+      "options": [
+        "uvolňuje volnoběžnou spojku a brání zastavení rotoru motorem",
+        "převádí zásahy do kolektivního a cyklického řízení na změny úhlu nastavení rotorových listů",
+        "ovládá výkon motoru a zvyšuje ho při pohybu páky kolektivu směrem dolů",
+        "zajišťuje konstantní rozdělení tlaku v hydraulickém řízení vrtulníku"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 3,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Pavoukové řízení:",
+      "options": [
+        "mění předstih zapalování magnet při spouštění motoru",
+        "brání slučování kolektivních a periodických zásahů do řízení při jejich přenosu na hlavní rotor",
+        "mění úhel nastavení listů rotoru pomocí vnitřního řídícího táhla",
+        "dodává palivo rotačním pohybem pístů s různou délkou zdvihu"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Trim se používá:",
+      "options": [
+        "pro potlačení neřízených bočních kmitů",
+        "pro nastavení síly na řízení",
+        "pro změnu polohy těžiště",
+        "pro uzamčení prvků řízení"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Korelátor (pro kompenzaci úhlu nastavení rotorových listů):",
+      "options": [
+        "odpojuje motor pomocí zařízení s pružinovým odporem",
+        "skládá dohromady periodické a kolektivní zásahy pilota do řízení",
+        "zvyšuje výkon motoru při nadzdvihnutí páky kolektivu",
+        "zvyšuje otáčky rotoru, je-li zapnut ohřev karburátoru"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co je třeba provést při plnění paliva?",
+      "options": [
+        "uzemnit letadlo, zapnout hlavní vypínač a magneta",
+        "nepoužívat otevřený oheň, nekouřit a uzemnit letadlo",
+        "plnit přes sítko a mít k dispozici hasící přístroj",
+        "kontrolovat obsah nádrže svítilnou"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Nastřikovací čerpadlo je:",
+      "options": [
+        "mechanický přepínač v pilotní kabině, kterým se zapíná turbokompresor",
+        "pomocné čerpadlo v palivovém systému, které usnadňuje spouštění motoru",
+        "ventil v systému řízení dodávky paliva pro automatické nastavování bohatosti směsi",
+        "tryska ve Venturiho trubici karburátoru pro rozstřikování paliva"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 4,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "K čemu slouží odvětrání nádrže?",
+      "options": [
+        "zabraňuje podtlaku způsobenému spotřebou paliva",
+        "zbraňuje přetékání paliva z plnícího otvoru při plnění",
+        "zabraňuje vstřebávání vody do paliva při parkování letadla",
+        "za letu rozděluje palivo z jedné palivové nádrže do dalších"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Elektrickou energii do sítě letounu dodává: 1. baterie 2. generátor 3. relé 4. jistič",
+      "options": [
+        "1 a 4",
+        "1 a 2",
+        "2 a 3",
+        "3 a 4"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Co je jednotka napětí?",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampér",
+        "Watt"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Co je jednotka elektrického výkonu?",
+      "options": [
+        "Ohm",
+        "Volt",
+        "Ampér",
+        "Watt"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jaký účel mají vyzařovače statické elektřiny na letadle?",
+      "options": [
+        "vybíjet za letu statický náboj",
+        "bránit elektrickému rušení při intenzivním rádiovém provozu",
+        "zajisti uzemnění při plnění paliva",
+        "zlepšit kvalitu rádiového vysílání ve velkých výškách"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 5,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Co se stane, vysadí-li alternátor za letu?",
+      "options": [
+        "vysadí všechny přístroje a varovné systémy",
+        "vysadí pouze spotřebiče s vysokou spotřebou",
+        "motor bude běžet tvrdě a bude náchylný k nepravidelnému chodu",
+        "nic se nezmění, dokud bude baterie dodávat dostatek energie"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Elektricky napájené palubní přístroje, které používají stejnosměrný proud, jsou označeny:",
+      "options": [
+        "DC",
+        "EL",
+        "CO",
+        "AL"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Které zařízení může být ovlivněno vysazením elektrického systému?",
+      "options": [
+        "radiové vybavení, navigační vybavení a magnetický kompas",
+        "ukazatel množství paliva, rádiové vybavení a výškoměr",
+        "rychloměr, výškoměr a umělý horizont",
+        "rádiové vybavení, navigační vybavení a gyroskopické přístroje"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Jaké je nejčastější uspořádání válců v motorech pístových vrtulníků?",
+      "options": [
+        "řadové",
+        "hvězdicové",
+        "vodorovné (boxer)",
+        "vidlicové"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Jaká část pracovního cyklu čtyřdobého zážehového motoru je znázorněna v příloze? Viz obr. (AGK-007)",
+      "options": [
+        "sání",
+        "stlačení",
+        "výbuch",
+        "výfuk Jaká část pracovního cyklu čtyřdobého zážehového motoru je znázorněna v příloze? Viz obr."
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 6,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "(AGK-008)",
+      "options": [
+        "sání",
+        "stlačení",
+        "výbuch",
+        "výfuk"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Co je pravděpodobně příčinou, běží-li motor neobvykle tvrdě při kontrole magnet?",
+      "options": [
+        "vadný startér",
+        "zkrat na uzemnění",
+        "vadná zapalovací svíčka",
+        "vadný přepínač zapalování"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Pilot doplnil palivo do vrtulníku brzy ráno po chladné noci. Co je třeba zkontrolovat před spuštěním motoru?",
+      "options": [
+        "ohřev karburátoru",
+        "prvky řízení a jejich upevnění na levém sedadle",
+        "palivo na obsah vody a nečistot",
+        "vysílání VHF rádiostanicí"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Ve které situaci dochází k největšímu vstřebávání vlhkosti do paliva?",
+      "options": [
+        "téměř plné nádrže",
+        "téměř prázdné nádrže",
+        "při stání na vlhké travnaté ploše",
+        "při stání na studených plochách"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Kde se v nádrži shromažďuje zkondenzovaná voda?",
+      "options": [
+        "v nejnižší části",
+        "na hladině paliva",
+        "je smíchána s palivem",
+        "poblíž plnícího otvoru nádrže"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 7,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Co popisuje oktanové číslo paliva?",
+      "options": [
+        "odolnost proti samovznícení",
+        "rychlost šíření plamene",
+        "spalovací teplotu",
+        "předstih zapalování"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jakou barvu má palivo Avgas 100 LL?",
+      "options": [
+        "zelenou",
+        "červenou",
+        "žlutou",
+        "modrou"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Co je hlavním úkolem karburátoru?",
+      "options": [
+        "vytvářet hořlavou směs vzduch / palivo",
+        "zajisti t dodatečné palivo pro chlazení motoru",
+        "čerpat palivo z nádrží do válců",
+        "pomocí přípustě paliva řídit rychlost letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Jak vyrovná pilot ztrátu výkonu motoru při zapnutí ohřevu karburátoru během visení mimo přízemní efekt s maximálním výkonem motoru?",
+      "options": [
+        "změnou výšky visení",
+        "obohacením směsi",
+        "otevřením ventilů odvzdušnění",
+        "zapnutím elektrického palivového čerpadla"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Ve které fázi letu musí být ohřev karburátoru vypnut, i když lze očekávat tvorbu námrazy?",
+      "options": [
+        "při pojíždění",
+        "při stoupání",
+        "při letu po trati",
+        "při vzletu"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 8,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Při které teplotě vnějšího vzduchu je největší pravděpodobnost tvorby námrazy?",
+      "options": [
+        "mezi-5 °C a +20 °C",
+        "mezi-15 °C a 0 °C",
+        "mezi-10 °C a +10 °C",
+        "mezi-20 °C a +5 °C"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Co je úkolem chladících žeber na válcích motorů chlazených vzduchem?",
+      "options": [
+        "přivádění proudu vzduchu na části, které mají být chlazeny",
+        "rychlý přenos tepla do okolního proudu vzduchu zvětšením povrchu",
+        "chlazení proudu vzduchu v okolí válce a přivádění ho na horké části motoru",
+        "urychlení proudu vzduchu a tím zlepšení chlazení částí válců"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Teplota hlav válců se měří na:",
+      "options": [
+        "kritickém válci",
+        "náhodném válci",
+        "všech válcích",
+        "je průměrem teploty všech válců"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Co se stane, ucpe-li se olejový filtr?",
+      "options": [
+        "otevře se obtokový ventil a umožní cirkulaci oleje, nečistoty se nefiltrují",
+        "otevře se obtokový ventil a umožní cirkulaci oleje, nečistoty se filtrují náhradním filtrem",
+        "cirkulace oleje skončí za 30 minut a potom není zaručen správný chod motoru",
+        "cirkulace oleje skončí za 15 minut a potom není zaručen správný chod motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Co je třeba udělat, klesá-li tlak oleje v motoru postupně až na nulu?",
+      "options": [
+        "snížit výkon motoru a pokračovat na cílové letiště",
+        "okamžitě přistát ve vhodném terénu a být připraven na autorotaci",
+        "sledovat teplotu oleje a přistát na nejbližším letišti",
+        "obohatit směs paliva"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 9,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Zážehové letecké motory mají:",
+      "options": [
+        "dva zdvojené systémy zapalování",
+        "dva nezávislé systémy zapalování",
+        "jeden elektrický systém zapalování",
+        "jeden systém zapalování s magnety"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Co je nepravděpodobnější příčinou toho, že startér neotáčí motorem, když je spuštěn?",
+      "options": [
+        "závada alternátoru",
+        "závada magnet",
+        "zkrat v zapalování",
+        "brzda rotoru je zabrzděna"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jak se nazývá směs paliva se vzduchem, kde je velké množství paliva?",
+      "options": [
+        "chudá",
+        "bohatá",
+        "plná",
+        "prázdná"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Proč je u vrtulníku velmi nebezpečné ochuzovat směs paliva bez ukazatele EGT (teplota výstupních plynů)?",
+      "options": [
+        "elektrické palivové čerpadlo se může přehřát",
+        "existuje riziko zastavení motoru",
+        "existuje riziko parního zámku v pomocné nádrži",
+        "rychle vzroste výkon motoru"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "S rostoucí nadmořskou výškou a stejným nastavením bohatosti směsi, směs vzduch / palivo:",
+      "options": [
+        "se stává bohatší",
+        "se stává chudší",
+        "zůstává stejná",
+        "stává se kapalnou"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 10,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Výkon motoru s karburátorem s rostoucí nadmořskou výškou:",
+      "options": [
+        "se zvětšuje",
+        "klesá",
+        "zůstává stejný",
+        "nejprve klesá a od 5000 ft se zvětšuje"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Co způsobí, že po letu v létě je pod vrtulníkem louže vody?",
+      "options": [
+        "bubliny páry z palivového potrubí zkondenzovaly",
+        "vrtulník při traťovém letu namrzl",
+        "došlo k úniku kapaliny pro ostřik čelního skla",
+        "za letu byla zapnuta klimatizace"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Doraz mávání rotorového listu:",
+      "options": [
+        "snižuje riziko kontaktu listu hlavního rotoru s ocasním nosníkem při nízkých otáčkách rotoru",
+        "brání kontaktu listů hlavního rotoru s ocasním rotorem při vypínání motoru",
+        "snižuje zatížení rotorových listů ohybem a tahem za letu",
+        "omezuje mávání listů a brání přetažení rotorových listů"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Jaký materiál rotorových listů umožňuje konstrukci bezzávěsové rotorové hlavy?",
+      "options": [
+        "dřevo",
+        "hliník",
+        "kompozit",
+        "titan"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Co umožňuje odstranit odporové závěsy z polotuhého rotorového systému?",
+      "options": [
+        "použití kulového kroužku na centrálním mávacím závěsu",
+        "geometrické nebo aerodynamické zkroucení rotorových listů",
+        "přídavné kuželové závěsy na rotorové hlavě",
+        "zavěšení rotorového listu pod centrálním mávacím závěsem"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 11,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Jaké jsou výhody bezzávěsového rotoru?",
+      "options": [
+        "výborné vedení listů",
+        "je třeba málo dílů",
+        "dobré vlastnosti při autorotaci",
+        "lepší rozdělení vztlaku"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Úhel předstihu je úhel:",
+      "options": [
+        "mezi pevným řídícím táhlem a spodními nůžkami",
+        "mezi trojitým delta mávacím závěsem a podélnou osou listu rotoru",
+        "mezi po stupujícím a ustupujícím listem rotoru",
+        "mezi obvodovým řídícím táhlem a podélnou osou listu rotoru"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Jaký druh vrtulníku potřebuje ocasní rotor?",
+      "options": [
+        "jednorotorový vírník",
+        "dvourotorový vírník s protiběžnými hlavními rotory",
+        "dvourotorový vrtulník s protiběžnými rotory",
+        "jednoroto ro vý vrtulník s pohonem hřídele rotoru"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jaká je výhoda tlačného ocasního rotoru před tažným?",
+      "options": [
+        "menší ztráta tahu způsobená volným odtokem urychleného vzduchu",
+        "samovyvažovací provoz eliminující kroutící moment hlavního rotoru s využitím úhlu srázu",
+        "účinné proudění kolem listů ocasního rotoru s využitím srázu",
+        "zisk tahu využitím Coandova a Magnusova efektu způsobeným prouděním vzduchu kolem ocasního nosníku"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Proč je reduktor hlavního rotoru limitujícím prvkem u většiny vrtulníků poháněných pístovým motorem?",
+      "options": [
+        "hnací hřídel v reduktoru je vyroben z pevného materiálu náchylného k praskání při velkých kroutících momentech",
+        "dodávka tlakového oleje pro mazání reduktoru je navržena na průměrné zatížení",
+        "ozubená kola reduktoru se při vysokém kroutícím momentu posunou a poškodí ložiska reduktoru",
+        "elektronický monitorovací systém reduktoru reaguje při vysokých kroutících momentech"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 12,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Brzda rotoru má být zapnuta (není-li v letové příručce popsán jiný postup):",
+      "options": [
+        "při spouštění motoru do dosažení předepsaných otáček rotoru",
+        "při parkování vrtulníku v hangáru",
+        "při parkování vrtulníku venku",
+        "během všech předepsaných předletových kontrol na zemi"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Hřídel hlavního rotoru a hlavní rotorová hlava jsou spojeny:",
+      "options": [
+        "svárem",
+        "lepidlem",
+        "šrouby",
+        "zalisováním"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Ložisko rotorového hřídele na horním výstupu z reduktoru přenáší:",
+      "options": [
+        "tahové a ohybové síly",
+        "kroutící moment",
+        "napětí způsobené zkrutem",
+        "kontaktní tlak"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Jaký je účel spojky řemenu v systému pohonu?",
+      "options": [
+        "brání mechanickém zablokování hlavního rotoru při autorotaci",
+        "umožňuje změnu předstihu zapalování při spouštění motoru",
+        "spojuje a rozpojuje náhon z motoru do reduktoru hlavního rotoru",
+        "brání pohybům rotorových listů při poryvech blokováním hnacího hřídele"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Proč jsou spojovací příruby hlavního hřídele pružné?",
+      "options": [
+        "aby kompenzovaly tepelnou roztažnost a nepřesnosti při montáži",
+        "kvůli rozložení zatížení tlakem a napětím",
+        "kvůli třecímu spojení s hlavním hřídelem reduktoru",
+        "aby tvořily vrub pro případ poškození motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 13,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Jak se spíná řemenová spojka?",
+      "options": [
+        "přiblížením dvou rotujících přírub",
+        "zvýšením otáček motoru",
+        "roztažením pneumatického válce",
+        "zvětšením vzdálenosti k hnacímu hřídeli"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Kde má geometricky zkroucený rotorový list největší úhel náběhu?",
+      "options": [
+        "u konce",
+        "u kořene",
+        "po celé délce",
+        "mezi koncem a kořenem"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Ocelový nebo olověný nosník rotorového listu:",
+      "options": [
+        "zlepšuje vlastnosti při autorotaci zvýšením momentu setrvačnosti",
+        "zajišťuje stejnoměrné zatížení listu rozložením vztlaku podél jeho délky",
+        "je nezbytný pro připojení listu k hlavě hlavního rotoru",
+        "brání vysokofrekvenčním vibracím systému hlavního rotoru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Z jakých dílů se skládá dřevěný rotorový list?",
+      "options": [
+        "kovový nosník, dřevěná výplň a kovová ochrana proti otěru",
+        "dřevěný nosník, dřevěná výplň a vnější kompozitový potah",
+        "dřevěný nosník, kompozitová výplň a dřevěný vnější potah",
+        "kovový nosník, kovová výplň a dřevěná ochrana proti otěru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Jaké díly obsahují kovové rotorové listy?",
+      "options": [
+        "ocelový nosník, hliníková výplň a hliníkový potah",
+        "olověný nosník, ocelová výplň a potah z nerezové oceli",
+        "titanový nosník, výplň z nerezové oceli a ocelový potah",
+        "hliníkový nosník, titanová výplň a hliníkový potah"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 14,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Jak é díly obsahují rotorové listy vyrobené ze syntetických materiálů?",
+      "options": [
+        "nosník z hliníku a syntetických materiálů, výplň, potah a ochrana proti otěru ze syntetických materiálů",
+        "nosník ze syntetického materiálu, výplň a potah ze syntetického materiálu, ochrana proti otěru z hliníku",
+        "nosník z olova a syntetického materiálu, výplň a potah ze syntetického materiálu, ochrana proti otěru z nerezové oceli",
+        "nosník z nerezové oceli, výplň, potah a ochrana proti otěru ze syntetického materiálu"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Listy zakrytého ocasního rotoru mohou být upořádány asymetricky:",
+      "options": [
+        "kvůli snížení hluku",
+        "kvůli zvýšení vytvářeného vztlaku",
+        "kvůli využití Coandova efektu",
+        "kvůli snížení výrobních nákladů"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Jaké přístroje měří v letadle teplotu?",
+      "options": [
+        "teploměr oleje, teploměr chladící kapaliny motoru, teploměr hlav válců, teploměr výstupních plynů, teploměr vnějšího vzduchu, teploměr vzduchu v kabině",
+        "teploměr oleje, teploměr hlav válců, teploměr výstupních plynů, teploměr vzduchu v sání, teploměr vnějšího vzduchu, teploměr vzduchu v kabině",
+        "teploměr oleje, teploměr hlav válců, teploměr výstupních plynů, výškoměr, rychloměr, variometr",
+        "teploměr oleje, teploměr výstupních plynů, teploměr vnějšího vzduchu, teploměr vzduchu v kabině, směrový setrvačník"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Množství paliva se v malých letadlech většinou měří pomocí snímače hladiny. Evropské Certifikační specifikace CS 23 požadují:",
+      "options": [
+        "aby ukazatel množství paliva byl k dispozici pro každou nádrž, ukazatel musí být kalibrován tak, aby ukazoval nulu při rovném letu, když je množství zbývajícího paliva v nádrži rovné nevyčerpatelnému zbytku",
+        "musí být k dispozici alespoň jeden ukazatel množství paliva ukazující celkové množství paliva na palubě letadla. Tento ukazatel musí být kalibrovaný tak, aby ukazoval správné množství paliva ve všech fázích letu",
+        "pokud pilot nemá za letu k dispozici uka zatel stavu paliva, musí kontrolovat stav paliva před zahájením letu a přepočítávat zbytek paliva na palubě za letu v pravidelných intervalech",
+        "selže-li ukazatel stavu paliva, pilot musí přistát na nejbližším vhodném letišti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 15,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Jaká metoda se většinou používá na vrtulnících pro měření stavu paliva?",
+      "options": [
+        "měření kapacity",
+        "měření ponornou tyčí",
+        "indukční měření",
+        "měření průtoku"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Co je třeba udělat, selže-li ukazatel otáček rotoru za letu po trati?",
+      "options": [
+        "provést nouzové přistání do vhodného terénu",
+        "pokračovat v letu, dokud ukazuje ukazatel otáček motoru",
+        "zkusit obnovit funkci ukazatele zvyšováním a snižováním výkonu motoru",
+        "zvýšit výkon motoru a pokračovat v letu na nejbližší letiště"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Otáčkoměr ukazuje:",
+      "options": [
+        "otáčky za minutu klikového nebo vrtulového hřídele",
+        "dopřednou rychlost letadla",
+        "výkon motoru na hřídeli vrtule konstantních otáček",
+        "vertikální rychlost letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Který z uvedených přístrojů získává údaje měřením tlaku?",
+      "options": [
+        "tlakoměr oleje, tlakoměr paliva, ukazatel plnícího t l aku, výškoměr, variometr, rychloměr, ukazatel tlaku sání",
+        "tlakoměr oleje, tlakoměr paliva, palivoměr, ukazatel plnícího tlaku, ukazatel rozdílu tlaku, výškoměr",
+        "rychloměr, variometr, výškoměr, směrový setrvačník, zatáčkoměr, tlakoměr oleje, tlakoměr paliva",
+        "rychloměr, variometr, výškoměr, magnetický kompas, tlakoměr oleje, tlakoměr paliva"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Pitot-statický systém:",
+      "options": [
+        "měří celkový a statický tlak",
+        "brání zamrznutí Pitotovy trubice",
+        "opravuje indikaci rychloměru na nulu, stojí-li letadlo na zemi",
+        "brání možnému nárůstu statického tlaku v letadle"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 16,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Jaký tlak měří Pitotova trubice?",
+      "options": [
+        "celkový tlak",
+        "statický tlak",
+        "dynamický tlak",
+        "kabinový tlak"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "QFE je:",
+      "options": [
+        "barometrický tlak měřený od hladiny moře s využitím mezinárodní standardní atmosféry",
+        "barometrický tlak měřený od referenčního bodu, typicky od prahu dráhy",
+        "výška nad referenční takovou hladinou 1013.25 hPa",
+        "magnetický směrník ke stanici"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "QNE je:",
+      "options": [
+        "barometrický tlak měřený od hladiny moře s využitím mezinárodní standardní atmosféry",
+        "barometrický tlak měřený od referenčního bodu, typicky od prahu dráhy",
+        "výška nad referenční tlakovou hladinou 1013.25 hPa",
+        "magnetický směrník ke stanici"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-82"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "Co je účelem pomocné stupnice výškoměru?",
+      "options": [
+        "nastavit výškoměr na stanovenou tlakovou hladinu, např. hladinu moře, úroveň letiště, tlakovou hladinu 1013.25 hPa",
+        "opravit indikaci výškoměru o nestandardní teploty",
+        "opravit indikaci výškoměru o systémové chyby",
+        "nastavit referenční hladinu pro dekodér výšky odpovídače sekundárního radaru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-83"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Jak může nesprávně nastavené QNH na výškoměru vést k nesprávné indikaci výškoměru?",
+      "options": [
+        "Je-li nastaven vyšší tlak než správný, indikace je příliš vysoká. To může vést k větší blízkosti země, než bylo zamýšleno",
+        "je-li nastaven nižší tlak než správný, indikace je příliš nízká. To může vést k větší blízkosti země, než bylo zamýšleno",
+        "je-li nastaven vyšší tlak než správný, indikace je příliš nízká. To může vést k mnohem větším výškám letu nad zemí, než bylo zamýšleno",
+        "je-li nastaven nižší tlak než správný, indikace je příliš vysoká. To může vést k mnohem větší blízkosti země, než byl o zamýšleno"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 17,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-84"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Teplota nižší než standardní může vést:",
+      "options": [
+        "k příliš vysoké indikaci výšky",
+        "k příliš nízké indikaci výšky",
+        "ke správné indikaci výšky, je-li sekundární stupnice výškoměru nastavena na správnou nestandardní teplotu",
+        "k zablokování Pitotovy trubice ledem, a to způsobí stále stejnou indikaci výškoměru na stejné hodnotě"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-85"
+    },
+    {
+      "sourceNumber": "86",
+      "question": "Letová hladina je:",
+      "options": [
+        "tlaková výška vzhledem ke standardnímu tlaku",
+        "skutečná výška nad mořem",
+        "hustotní výška nad mořem",
+        "výška nad zemí"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-86"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Skutečná výška je:",
+      "options": [
+        "výška nad střední hladinou moře opravená o nestandardní teplotu",
+        "výška nad zemí opravená o nestandardní teplotu",
+        "výška nad hladinou země opravená o nestandardní teplotu",
+        "tlaková výška opravená o nestandardní teplotu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Za letu ve vzduchu chladnějším než je Mezinárodní standardní atmosféra je indikovaná výška letu:",
+      "options": [
+        "větší než skutečná",
+        "menší než skutečná",
+        "stejná jako skutečná",
+        "stejná jako standardní výška"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-88"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Za letu ve vzduchu, jehož teplota je stejná jako dle Mezinárodní standardní atmosféry, a se správně nastaveným QNH, je indikovaná výška:",
+      "options": [
+        "větší než skutečná",
+        "menší než skutečná",
+        "stejná jako skutečná",
+        "stejná jako standardní atmosféra"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 18,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-89"
+    },
+    {
+      "sourceNumber": "90",
+      "question": "Který přístroj může být výrazně ovlivněn hysterezní chybou?",
+      "options": [
+        "variometr",
+        "otáčkoměr",
+        "výškoměr",
+        "kompas s přímým čtením"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-90"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Indikace výšky je založen a na měření:",
+      "options": [
+        "celkového tlaku",
+        "statického tlaku",
+        "dynamického tlaku",
+        "diferenciálního tlaku"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-91"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Která z následujících možností popisuje princip práce variometru?",
+      "options": [
+        "měření současného statického tlaku a jeho porovnávání se statickým tlakem uvnitř přístroje",
+        "měření celkového tlaku a jeho porovnávání se statickým tlakem",
+        "měření statického tlaku a jeho porovnávání s vakuem",
+        "měření vertikálního zrychlení pomocí přemístění hmoty zavěšené na otočeném závěsu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "Variometr měří rozdíl tlaku mezi:",
+      "options": [
+        "současným statickým tlakem a předcházejícím statickým tlakem",
+        "současným dynamickým tlakem a předcházejícím dynamickým tlakem",
+        "současným celkovým tlakem a předcházejícím celkovým tlakem",
+        "současným dynamickým tlakem a předcházejícím statickým tlakem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "Kalibrovaná rychlost (CAS) se rovná:",
+      "options": [
+        "indikované rychlosti (IAS) opravené o přístrojovou a polohovou chybu",
+        "pravé vzdušné rychlosti (TAS) opravené o vítr",
+        "ekvivalentní rychlosti (EAS) opravené o nadmořskou výšku",
+        "traťové rychlosti (GS) opravené o přístrojovou a polohovou chybu Ve velkých nadmořských výškách má pravá vzdušná rychlost (TAS) tendenci být vyšší než"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 19,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-94"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "kalibrovaná rychlost (CAS). Hrubý odhad pravé vzdušné rychlosti (TAS) lze získat:",
+      "options": [
+        "přidáním 2 % CAS na každých 1000 ft výšky",
+        "odečtením 2 % CAS na každých 1000 ft výšky",
+        "přidáním 10 % CAS na každých 1000 ft výšky",
+        "odečtením 10 % CAS na každých 1000 ft výšky"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-95"
+    },
+    {
+      "sourceNumber": "96",
+      "question": "Letadlo letí při zemi kurzem 180° pravou vzdušnou rychlostí 100 kt. Vítr vane ze 180° rychlostí 30 kt. Jaká bude přibližná indikovaná rychlost při zanedbání přístrojové a polohové chyby?",
+      "options": [
+        "100 kt",
+        "70 kt",
+        "130 kt",
+        "30 kt"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-96"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Který z následujících faktorů může způsobit chybnou indikaci rychlosti?",
+      "options": [
+        "kabel uzemnění je stále připojen",
+        "letadlo je pokryto samolepícími fóliemi",
+        "byl zapnut jistič",
+        "je závada na potrubí plnícího vzduchu"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-97"
+    },
+    {
+      "sourceNumber": "98",
+      "question": "Jaké hodnoty jsou obvykle na přístrojích vyznačeny červenou barvou?",
+      "options": [
+        "provozní omezení",
+        "provozní oblasti",
+        "oblasti varování",
+        "doporučené oblasti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-98"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "Podle čeho ukazuje rychloměr rychlost?",
+      "options": [
+        "rozdíl mezi celkovým a statickým tlakem",
+        "rozdíl mezi dynamickým a statickým tlakem",
+        "rozdíl mezi celkovým a dynamickým tlakem",
+        "rozdíl mezi standardním a celkovým tlakem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 20,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-99"
+    },
+    {
+      "sourceNumber": "100",
+      "question": "Co znamená červená čára na rychloměru?",
+      "options": [
+        "rychlost, která nesmí být překročena za žádných okolností",
+        "rychlost, která nesmí být překročena v turbulentním vzduchu",
+        "rychlost, která nesmí být překročena s vysunutými vztlakovými klapkami",
+        "rychlost, která nesmí být překročena v zatáčkách s náklonem větším než 45°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-100"
+    },
+    {
+      "sourceNumber": "101",
+      "question": "Chyba kompasu způsobená magnetickým polem letadla se nazývá:",
+      "options": [
+        "deviace",
+        "deklinace",
+        "variace",
+        "inklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-101"
+    },
+    {
+      "sourceNumber": "102",
+      "question": "Jaká chyba způsobuje, že se indikace magnetického kompasu liší od směru k magnetickému severu?",
+      "options": [
+        "deviace, zatáčky a chyby při akceleraci letadla",
+        "inklinace a deklinace zemského magnetického pole",
+        "variace, zatáčky a chyby při akceleraci letadla",
+        "gravitace a magnetismus"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-102"
+    },
+    {
+      "sourceNumber": "103",
+      "question": "Který z přístrojů je připojen k Pitotově trubici?",
+      "options": [
+        "rychloměr",
+        "výškoměr",
+        "kompas s přímým čtením",
+        "variometr"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-103"
+    },
+    {
+      "sourceNumber": "104",
+      "question": "Které palubní přístroje jsou připojeny ke snímači statického tlaku?",
+      "options": [
+        "výškoměr, variometr, rychloměr",
+        "rychloměr, výškoměr, kompas s přímým čtením",
+        "rychloměr, kompas s přímým čtením, skluzoměr",
+        "výškoměr, skluzoměr, navigační počítač Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 270°na kurz 360°. Při přibližně jaké"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 21,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-104"
+    },
+    {
+      "sourceNumber": "105",
+      "question": "indikaci kurzu je třeba zatáčku zastavit?",
+      "options": [
+        "330°",
+        "030°",
+        "360°",
+        "270°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-105"
+    },
+    {
+      "sourceNumber": "106",
+      "question": "Pojem statický tlak je definován jako:",
+      "options": [
+        "tlak nerušený proudem vzduchu",
+        "tlak uvnitř kabiny letadla",
+        "tlak způsobený prouděním vzduchových částic",
+        "tlak měřený Pitotovou trubicí"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-106"
+    },
+    {
+      "sourceNumber": "107",
+      "question": "Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 030° na kurz 180°. Na přibližně jakém kurzu je třeba zatáčku zastavit?",
+      "options": [
+        "210°",
+        "150°",
+        "360°",
+        "180°"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-107"
+    },
+    {
+      "sourceNumber": "108",
+      "question": "Na čem přímo závisí dynamický tlak?",
+      "options": [
+        "na hustotě vzduchu a čtverci rychlosti proudu vzduchu",
+        "na tlaku a teplotě",
+        "na součiniteli vztlaku a odporu",
+        "na hustotě vzduchu a součiniteli vztlaku"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-108"
+    },
+    {
+      "sourceNumber": "109",
+      "question": "Co je příčinou decelerační a akcelerační chyby kompasu s přímým čtením?",
+      "options": [
+        "inklinace siločar zemského magnetického pole",
+        "deviace v pilotní kabině",
+        "změny teploty",
+        "deklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 22,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-109"
+    },
+    {
+      "sourceNumber": "110",
+      "question": "Jak reaguje rotující setrvačník v prostoru?",
+      "options": [
+        "má tendenci udržet svou polohu v prostoru",
+        "kývá se od východu na západ jako kyvadlo",
+        "pohybuje se v kruzích se stále rostoucím poloměrem",
+        "pohybuje se podle tělesa, které ho obklopuje"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-110"
+    },
+    {
+      "sourceNumber": "111",
+      "question": "Setrvačník rotující v prostoru odpovídá na sílu, která ho vychýlila precesním momentem:",
+      "options": [
+        "pod úhlem 90° k síle, která ho vychýlila",
+        "pod úhlem 180° k síle, která ho vychýlila",
+        "pod úhlem 45° k síle, která ho vychýlila",
+        "v severním směru"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-111"
+    },
+    {
+      "sourceNumber": "112",
+      "question": "V zatáčce o 360° trvající 2 minuty závisí náklon na:",
+      "options": [
+        "indikované rychlosti",
+        "kalibrované rychlosti",
+        "pravé vzdušné rychlosti",
+        "traťové rychlosti"
+      ],
+      "correctIndex": 2,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-112"
+    },
+    {
+      "sourceNumber": "113",
+      "question": "Zatáčkoměr s relativním sklonoměrem poskytují informaci o:",
+      "options": [
+        "úhlové rychlosti zatáčení a skluzu nebo výkluzu",
+        "úhlové rychlosti zatáčení a náklonu",
+        "koordinaci zatáčky a úhlu skluzu",
+        "úhlu podélného sklonu a náklonu"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-113"
+    },
+    {
+      "sourceNumber": "114",
+      "question": "Rychloměr neukazuje. Letoun smí být provozován jen:",
+      "options": [
+        "je-li rychloměr znovu plně funkční",
+        "pro lety po okruhu letiště",
+        "není-li v dosahu organizace údržby letadel",
+        "lze-li za letu použít GPS s indikací rychlosti"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 23,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-114"
+    },
+    {
+      "sourceNumber": "115",
+      "question": "Jaká barva signálního světla sděluje pilotovi, že asi bude třeba provést opravnou akci?",
+      "options": [
+        "červen á",
+        "oranžov á",
+        "modr á",
+        "zelen á"
+      ],
+      "correctIndex": 1,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-115"
+    },
+    {
+      "sourceNumber": "116",
+      "question": "Jakou barvou je na rychloměru vyznačena oblast zvýšené pozornosti?",
+      "options": [
+        "žlutou",
+        "červenou",
+        "bílou",
+        "zelenou"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-116"
+    },
+    {
+      "sourceNumber": "117",
+      "question": "Polohový směrový indikátor (ADI) kombinuje informace poskytované:",
+      "options": [
+        "umělým horizontem a směrovým povelovým přístrojem",
+        "směrovým setrvačníkem a rychlostním setrvačníkem",
+        "ukazatelem polohy a ukazatelem relativních směrníků",
+        "ukazatelem polohy a radiomagnetickým indikátorem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-117"
+    },
+    {
+      "sourceNumber": "118",
+      "question": "Co znamená zkratka HSI?",
+      "options": [
+        "indikátor horizontální situace",
+        "indikátor horizontálního skluzu",
+        "systém hibernační indikace",
+        "nebezpečná prudká inklinace"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-118"
+    },
+    {
+      "sourceNumber": "119",
+      "question": "Indikátor horizontální situace (HSI) kombinuje informace z:",
+      "options": [
+        "směrového gyrokompasu a radionavigačního přijímače VHF",
+        "indikátoru polohy a povelového ukazatele",
+        "směrového gyrokompasu a skluzoměru",
+        "směrového gyrokompasu a povelového ukazatele"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 24,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-119"
+    },
+    {
+      "sourceNumber": "120",
+      "question": "Jaký rozdíl výšek ukáže výškoměr, je-li nastavení tlaku změněno z 1000 hPa na 1010 hPa?",
+      "options": [
+        "o 80 m více",
+        "hodnoty závisí na QNH",
+        "nulu",
+        "o 80 m méně"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-120"
+    },
+    {
+      "sourceNumber": "121",
+      "question": "Kdy je třeba nastavit tlak na výškoměru?",
+      "options": [
+        "před každým letem a při navigačním letu",
+        "před prvním letem toho dne",
+        "jednou za měsíc před letovým provozem",
+        "poté, co byla dokončena údržba"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-121"
+    },
+    {
+      "sourceNumber": "122",
+      "question": "Výškoměr je nastaven na letištní tlak (QFE). Co ukazuje za letu?",
+      "options": [
+        "výšku nad letištěm",
+        "nadmořskou výšku letiště",
+        "tlakovou výšku",
+        "výšku nad střední hladinou moře"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-122"
+    },
+    {
+      "sourceNumber": "123",
+      "question": "Variometr měří rozdíl mezi:",
+      "options": [
+        "celkovým a statickým tlakem",
+        "dynamickým a celkovým tlakem",
+        "okamžitým celkovým a předcházejícím celkovým tlakem",
+        "okamžitým statickým a předcházejícím statickým tlakem"
+      ],
+      "correctIndex": 3,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-123"
+    },
+    {
+      "sourceNumber": "124",
+      "question": "Pojem inklinace znamená:",
+      "options": [
+        "úhel mezi siločárami zemského magnetického pole a horizontální rovinou",
+        "úhel mezi podélnou osou letadla a zeměpisným severem",
+        "deviaci indukovanou elektrickým polem",
+        "úhel mezi magnetickým a zeměpisným severem"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 25,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-124"
+    },
+    {
+      "sourceNumber": "125",
+      "question": "Co ukazuje relativní sklonoměr?",
+      "options": [
+        "relativní vertikálu",
+        "vertikálu vzhledem k zemskému horizontu",
+        "náklon letadla",
+        "úhlovou rychlost zatáčení"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-125"
+    },
+    {
+      "sourceNumber": "126",
+      "question": "Kulička relativního sklonoměru je v pravé zatáčce vychýlena vpravo. Jak ji lze přivést do středové polohy?",
+      "options": [
+        "zmenšit náklon, zvětšit úhlovou rychlost zatáčení",
+        "zvětšit náklon, zvětšit úhlovou rychlost zatáčení",
+        "snížit rychlost, zvětšit náklon",
+        "zmenšit úhlovou rychlost zatáčení, zmenšit náklon"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-126"
+    },
+    {
+      "sourceNumber": "127",
+      "question": "Co je účelem motorového oleje v pístovém motoru?",
+      "options": [
+        "chlazení a mazání motoru a odvod jemných otěrů",
+        "chlazení a mazání motoru a zvýšení výkonu motoru",
+        "chlazení motoru a mazání vrtulového hřídele",
+        "zmenšení a opora vrtulového hřídele"
+      ],
+      "correctIndex": 0,
+      "category": "Obecna znalost o letadle",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
+      "page": 26,
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-127"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Který z následujících dokumentů musí být na palubě při mezinárodním letu? a) Osvědčení o zápisu do leteckého rejstříku b) Osvědčení letové způsobilosti c) Osvědčení kontroly letové způsobilosti d) EASA Form 1 e) Palubní deník f) Doklady každého člena posádky g) Technický deník letadla",
+      "options": [
+        "a, b, c, e, f",
+        "b, c, d, e, f, g",
+        "d, f, g a, b, e, g"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Jaký prostor je možno proletět s určitými omezeními?",
+      "options": [
+        "zakázaný prostor",
+        "omezený prostor nebezpečný prostor bezletová zóna"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Kde lze nalézt druh omezení pro omezený prostor? mapa ICAO 1:500000",
+      "options": [
+        "AIP",
+        "AIC",
+        "NOTAM"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaké je postavení pravidel a postupů vytvořených v EAS A, jako např. Part-SFCL, PART-MED? mají stejné postavení jako Annexy ICAO",
+      "options": [
+        "nejsou právně závazné, slouží pouze jako návod",
+        "jsou částí nařízení EU a právně závazné ve všech členských státech EU jsou právně závazné pouze po ratifikaci v jednotlivých členských státech EU"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-4"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "let",
+      "options": [
+        "12 let",
+        "neomezenou"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 2,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Co znamená zkratka ARC?",
+      "options": [
+        "Airworthiness Recurring Control = Řízení zachování letové způsobilosti Airspace Restriction Criteria = Kritéria omezeného prostoru",
+        "Airworthiness Review Certificate = Osvědčení kontroly letové způsobilosti",
+        "Airspace Rulemaking Committee = Výbor pro tvorbu pravidel vzdušného prostoru"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 2,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Osvědčení letové způsobilosti vydává stát:",
+      "options": [
+        "kde je letadlo zapsáno do leteckého rejstříku",
+        "kde bylo letadlo vyrobeno",
+        "kde sídlí vlastník letadla",
+        "ve kterém se provádí kontrola letové způsobilosti"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 2,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Průkaz pilot vydaný podle standardů ICAO je platný:",
+      "options": [
+        "ve všech státech ICAO",
+        "ve státu, kde byl průkaz získán ve státu vydání průkazu ve státech, které na základě žádosti tento průkaz uznaly"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 2,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "měsíců",
+      "options": [
+        "60 měsíců",
+        "neomezená"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-60"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Práva držitele evropského průkazu soukromého pilota letounů (PPL(A)) jsou:",
+      "options": [
+        "působit jako velitel letadla při neobchodních letech bez úplaty a přijímat úplatu jako letový instruktor působit jako velitel letadla, ale pouze na letadlech s MTOW maximálně 2000 kg lze obdržet úplatu působit jako velitel letadla při obchodních a neobchodních letech na jednomotorových letadlech",
+        "působit jako pilot při obchodních letech, kdy jsou na palubě maximálně 4 osoby"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-15"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Co znamená zkratka SERA?",
+      "options": [
+        "standardizovaná evropská pravidla létání",
+        "selektivní radiovýškoměr",
+        "zvláštní radarové přiblížení standardní evropské letecké tratě"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-17"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co je třeba provést při vstupu do oblasti s povinným rádiovým spojením (RMZ)?",
+      "options": [
+        "stále sledovat rádio a je-li to možné, navázat rádiové spojení obdržet povolení pro vstup do této oblasti odpovídač sekundárního radaru přepnout na mód C a 7000",
+        "obdržet povolení od místního leteckého úřadu"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Jakou podmínku je třeba splnit při zvláštním letu VFR?",
+      "options": [
+        "viditelnost země",
+        "minimální vzdálenost 2000 m od oblačnosti minimální přízemní dohlednost 500 m rychlost ne vyšší než 115 kt IAS"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Co musíte udělat při vstupu do oblasti s povinným odpovídače m sekundárního radaru (TMZ)?",
+      "options": [
+        "zapnout odpovídač sekundárního radaru a nastavit mód A a C nebo mód S zapnout odpovídač sekundárního radaru, nastavit mód A a stisknout tlačítko IDENT",
+        "vyžádat povolení ke vstupu",
+        "před letem podat letový plán"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Co znamená oblast označená TMZ?",
+      "options": [
+        "oblast s povinným odpovídače m sekundárního radaru",
+        "oblast uspořádání letového provozu",
+        "oblast turistických motorových kluzáků",
+        "oblast řízení dopravy"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Co znamená zkratka IFR?",
+      "options": [
+        "podmínky pro let podle přístrojů",
+        "pravidla pro let podle přístrojů pravidla pro obchodní lety pravidla pro lety za špatného počasí"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-23"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Co znamená zkratka VMC?",
+      "options": [
+        "meteorologické podmínky pro let za viditelnosti",
+        "vizuální pravidla letu měnící se meteorologické podmínky podmínky pro let podle přístrojů"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Dvoumotorová letadla letí ve stejné výšce na prot isměrných tratích. Které z nich se má vyhnout?",
+      "options": [
+        "obě mají uhnout doprava to těžší má stoupat",
+        "obě mají uhnout doleva",
+        "to lehčí má stoupat"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Dva letouny letí po křižujících se tratích. Který z nich má uhnout?",
+      "options": [
+        "letadlo letící zprava doleva má přednost",
+        "letadlo letící zleva doprava má přednost",
+        "obě letadla mají uhnout doprava",
+        "obě letadla mají uhnout doleva"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Ve třídě vzdušného p r osto r u třídy D letí Boeing 737 a Cessna 152 po protínajících se tratích. Které z letadel se má vyhnout?",
+      "options": [
+        "letoun letící zprava doleva má přednost, ten druhý se má vyhnout",
+        "Cessna 152, protože lety IFR a obchodní lety mají přednost Boeing 737, protože dopravní letadlo má větší rezervu výkonnosti řízení letového provozu (ATC) má rozhodnout, které z letadel se má vyhnout"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-28"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "kurz, aby se vyhnul srážce?",
+      "options": [
+        "turbovrtulový letoun má dát přednost jednomotorovému pístovému letounu",
+        "obě letadla mají uhnout doprava jednomotorový pístový letoun má dát přednost turbovrtulovému letounu obě letadla mají uhnout doleva"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 7,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-30"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jaká je minimální vzdálenost od oblačnosti pro let VFR ve třídě vzdušného prostoru B?",
+      "options": [
+        "horizontálně 1.500 m, vertikálně 300 m",
+        "horizontálně 1.000 m, vertikálně 1.500 ft",
+        "horizontálně 1.000 m, vertikálně 300 m",
+        "horizontálně 1.500 m, vertikálně 1.000 m"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 8,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-37"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Jaký je význam následujícího signálu při zakročování vojenským letadlem ve dne? Mávání křídly, normálně vlevo od zakročujícího letadla, následováno mírnou zatáčkou doleva.",
+      "options": [
+        "vstupujete do omezeného prostoru, okamžitě opusťte tento vzdušný prostor",
+        "následujte mě připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru",
+        "jste vzdálen od všech omezených nebo vyhrazených prostorů, můžete pokračovat stávajícím kurzem"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-41"
+    },
+    {
+      "sourceNumber": "90° nebo více a přitažení letadla bez překřižování dráhy letadla, proti kterému je zakročováno.",
+      "question": "vstupujete do omezeného prostoru, opusťte okamžitě tento prostor",
+      "options": [
+        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru",
+        "následujte mě, přivedu Vás na nejbližší vhodné letiště",
+        "můžete pokračovat v letu"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-90° nebo více a přitažení letadla bez překřižování dráhy letadla, proti kterému je zakročováno."
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Výškoměr má být přestaven z místního QNH na 1013.25 hPa:",
+      "options": [
+        "ve 4000 ft",
+        "ve výšce rozhodnutí",
+        "ve stoupání nad převodní výšku při klesání pod FL 100"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-43"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Jaký je účel půlkruhového pravidla?",
+      "options": [
+        "zabránit srážkám snížením pravděpodobnosti protisměrného provozu ve stejných výškách",
+        "umožnit bezpečné stoupání nebo klesání ve vyčkávacím obrazci zabránit srážkám omezením manévrů zatáčení létat bez podaného letového plánu ve stanovených zónách publikovaných v AIP"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 10,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Jaké jsou možné módy odpovídače sekundárního radaru?",
+      "options": [
+        "A, C, R B, C, V B, R, S",
+        "A, C, S"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 10,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Odpovídač sekundárního radaru schopný vysílat tlakovou hladinu letu je: odpovídač módu A",
+      "options": [
+        "tlakový dekodér",
+        "odpovídač schválený pro třídu vzdušného prostu B",
+        "odpovídač módu C nebo S"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 10,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-47"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Jaká letová provozní služba je odpovědná za bezpečné provedení letů?",
+      "options": [
+        "řízení letového provozu (ATC) letová informační služba (FIS)",
+        "pohotovostní služba (ALR)",
+        "letecká informační služba (AIS)"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Jaké služby poskytují řízení letového provozu? letová informační služba (FIS) letecká informační služba (AIS) letecká pevná telekomunikační služba (AFS)",
+      "options": [
+        "pohotovostní služba (ALR) služba pátrání a záchrany (SAR) letištní služba řízení (TWR)",
+        "přibližovací služba řízení (APP) oblastní služba řízení (ACC) letová informační služba (FIS)",
+        "letištní služba řízení (TWR) přibližovací služba řízení (APP) oblastní služba řízení (ACC)"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Jaká odpověď o rozstupech ve vzdušném prostoru třídy E je správná?",
+      "options": [
+        "provozu VFR jsou zajištěny rozstupy pouze od provozu IFR",
+        "provozu IFR jsou zajištěny rozstupy pouze od provozu VFR",
+        "provozu VFR nejsou zajištěny rozstupy od žádného provozu provozu VFR jsou zajištěny rozstupy od provozu VFR i IFR"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-53"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Pilot se může spojit s letovou informační službou (FIS):",
+      "options": [
+        "telefonicky",
+        "internetem",
+        "rádiem osobní návštěvou"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Jaká je správná fráze o turbulenci v úplavu označující, že lehké letadlo letí za letadlem vyšší kategorie turbulence v úplavu? pozor, výstupní plyny za proudovým motorem pozor, proud vzduchu za vrtulí",
+      "options": [
+        "pozor, turbulence v úplavu",
+        "dávejte pozor na vítr v úplavu"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Která z následujících možností znamená správné hlášení polohy?",
+      "options": [
+        "OKABC, \"N\", 2500 ft",
+        "OKABC nad \"N\" v letové hladině 2500 ft",
+        "OKABC prolétávám nad \"N\"",
+        "OKABC nad \"N\" ve 35"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Co znamená zkratka AIREP?",
+      "options": [
+        "letecká informační zpráva",
+        "hlášení z letadla zpráva o požadavcích na letecké přístroje zpráva automatické identifikace"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-58"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Jaké jsou části Letecké informační příručky (AIP)?",
+      "options": [
+        "GEN AGA COM",
+        "GEN COM MET GEN MET RAC",
+        "GEN ENR AD"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-60"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Předletový informační bulletin (PIB) je prezentací platných:",
+      "options": [
+        "informací Letecké informační příručky významných pro provoz připravených před letem",
+        "informací NOTAM významných pro provoz připravených před letem informací leteckých informačních oběžníků (AIC) významných pro provoz připravených po letu informací ICAO významných pro provoz připravených po letu"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-63"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Pojem vzletová a přistávací dráha je definován jako:",
+      "options": [
+        "kruhová oblast letiště u pravená na přistání a vzlety letadel",
+        "obdélníková plocha na zemi nebo na vodě u pravená pro přistání a vzlety letadel",
+        "obdélníková plocha na pozemním letišti u pravená pro přistání a vzlety letadel obdélníková plocha na pozemním letišti u pravená na přistání a vzlety vrtulníků"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Jaký výrok o vyčkávacím bodu při pojíždění je pravdivý?",
+      "options": [
+        "vyčkávací bod při pojíždění je oblast, kde musí letadlo zastavit, dokud nedostane povolení pokračovat",
+        "vyčkávací bod při pojíždění je bod, ve kterém musí letadlo zastavit, dokud nedostane povolení pokračovat vyčkávací bod při pojíždění je navržen, aby označil začátek bezpečnostní oblasti a může být přejet, když bylo vydáno povolení pojíždět",
+        "vyčkávací bod při pojíždění slouží pouze pro provoz IFR, když převažují podmínky pro let podle přístrojů"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Co znamená, je-li hlášen stav dráhy \"mokrá\" (wet)?",
+      "options": [
+        "povrch dráhy je na sycen, ale nejsou tam žádné významné louže nebo stojící voda",
+        "velká část povrchu dráhy je zatopena vodou",
+        "na povrchu dráhy jsou vidět kaluže vody",
+        "na povrchu dráhy není voda ani led nebo sníh"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Co znamená, je-li hlášen stav dráhy \"vlhká\" (damp)?",
+      "options": [
+        "mokrý povrch, ale nejsou vidět význačné louže",
+        "velká část povrchu je zatopená vodou",
+        "změna barvy povrchu kvůli vlhkosti na dráze není voda ani sníh nebo led"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-68"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Jak může být označen ukazatel směru větru, aby byl lépe vidět?",
+      "options": [
+        "může být vyroben ze zeleného materiálu",
+        "může být umístěn na vrchol řídící věže",
+        "může být obklopen bílým kruhem může být umístěn na velké černé ploše"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Co znamená signál letadlu na řízeném letišti blikajícím červeným světlem? vraťte se na přistání, je-li následován signálem stálým zeleným světlem dejte přednost jinému letadlu a pokračujte v letu po okruhu",
+      "options": [
+        "letiště není bezpečné, nepřistávejte",
+        "přistání povoleno"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Co znamená signál letadlu na řízeném letišti blikajícím zeleným světlem?",
+      "options": [
+        "vraťte se na přistání, je-li následován signálem stálým zeleným světlem",
+        "dejte přednost jinému letadlu a pokračujte v letu po okruhu",
+        "letiště není bezpečné, nepřistávejte",
+        "přistání povoleno"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Co znamená signál letadlu na řízeném letišti stálým zeleným světlem?",
+      "options": [
+        "vraťte se na přistání, je-li následován signálem stálým zeleným světlem",
+        "dejte přednost jinému letadlu a pokračujte v letu po okruhu letiště není bezpečné, nepřistávejte",
+        "přistání povoleno"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-73"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím červeným světlem?",
+      "options": [
+        "vzlet povolen",
+        "vraťte se zpět na odbavovací plochu",
+        "okamžitě pojíždějte mimo dráhu v použití pojíždění schváleno"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím zeleným světlem? vzlet povolen vraťte se zpět na odbavovací plochu",
+      "options": [
+        "přistaňte na tomto letišti a pojíždějte na odbavovací lochu",
+        "pojíždění povoleno"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Jaký tvar má ukazatel směru přistání? L",
+      "options": [
+        "přímá šipka",
+        "T",
+        "zalomená šipka"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Jaký je účel signálního čtverce na letišti?",
+      "options": [
+        "je to osvětlená plocha, na které jsou umístěna vozidla pátrání a záchrany a hasičů",
+        "je to zvlášť označená plocha pro vyzvedávání a shazování předmětů vlečených za letadly",
+        "obsahuje zvláštní symboly označující vizuálně podmínky na letišti pro letící letadla letadla pojíždějí na tuto plochu, aby získala světelné signály pro pojíždění a pro povolení vzletu"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-78"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Co znamená stálé červené světlo jako signál letadlu na zemi na řízeném letišti?",
+      "options": [
+        "opusťte pojížděcí / vzletovou / přistávací dráhu",
+        "vraťte se na odbavovací plochu přistaňte na tomto letišti a pokračujte na odbavovací plochu",
+        "zastavte"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "Jak jsou značeny dvě paralelní dráhy? levá dráha má příponu \"-1\", pravá \"-2\" levá dráha má příponu \"L\", označení pravé dráhy se nemění",
+      "options": [
+        "označení levé dráhy se nemění, označení pravé dráhy se zvětší o 1",
+        "levá dráha má příponu \"L\", pravá \"R\""
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Jaká je barva zna čení vzletov é a přistávací dráh y podle Anexu 14 ICAO? žlutá",
+      "options": [
+        "modrá",
+        "bílá",
+        "zelená"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-82"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "Co znamená obrazec podélných pruhů stejných rozměrů rozložený symetricky po obou stranách osy vzletové a přistávací dráhy?",
+      "options": [
+        "před nimi neprovádějte dotyk se zemí",
+        "za nimi neprovádějte dotyk se zemí v tomto bodu je průsečík sestupové osy ILS s povrchem dráhy z této polohy lze zahájit rozjezd při vzletu"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-83"
+    },
+    {
+      "sourceNumber": "86",
+      "question": "Letištní maják (ABN) je:",
+      "options": [
+        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu rotující maják umístěný na začátku konečného přiblížení a označující jeho polohu pilotům letadel za letu",
+        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel za letu"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-86"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Jakou barvu mají postranní dráhová návěstidla?",
+      "options": [
+        "bílou",
+        "červenou",
+        "zelenou",
+        "modr o u"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Jakou barvu mají koncová návěstidla dráhy?",
+      "options": [
+        "bílou",
+        "červenou zelenou modrou"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-88"
+    },
+    {
+      "sourceNumber": "2500",
+      "question": "m v daném směru do dosažení parkovací plochy",
+      "options": [
+        "2500 m v daném směru do dosažení parkovací plochy",
+        "od této křižovatky je použitelná délka dráhy v daném směru 2500 m celková použitelná délka dráhy je v daném směru 2500 m"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-2500"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Co znamená tento znak na letišti? Viz obr. (ALW-011) pozor, manévrovací plocha je špatná po delší dobu je přistání zakázáno",
+      "options": [
+        "probíhají lety kluzáků",
+        "po vzletu a před přistáním mají být všechny zatáčky provedeny doprava"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-91"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Co znamená zobrazená pozemní značka v signální ploše letiště? Viz obr. (ALW-012) pozor, manévrovací plocha je špatná",
+      "options": [
+        "zákaz přistání na delší dobu",
+        "pohyb po zemi omezen na zpevněné povrchy",
+        "po vzletu a před přistáním je třeba provádět všechny zatáčky doprava"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "Co znamená zkratka DETRESFA?",
+      "options": [
+        "údobí tísně",
+        "údobí pohotovosti údobí nejistoty údobí záchrany"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-93"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "Jak může pilot za letu potvrdit signál pátrání a záchrany na zemi?",
+      "options": [
+        "zamáváním křídel",
+        "několikerým vysunutím a zasunutím vztlakových klapek několikanásobnou oboustrannou výchylkou směrového kormidla opakovaným letem po parabolické trajektorii"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-95"
+    },
+    {
+      "sourceNumber": "96",
+      "question": "Jaké jsou z hlediska zjišťování příčin nehod a incidentů tři kategorie událostí?",
+      "options": [
+        "incident, vážný incident, nehoda příhoda, případ, vážný případ",
+        "příhoda, vážná příhoda, nehoda",
+        "případ, havárie, katastrofa"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-96"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Co je hlavním účelem zjišťování příčin leteckých nehod? stanovit viníka a navrhnout právní důsledky",
+      "options": [
+        "práce pro státního žalobce a následná pomoc při nehodě",
+        "vyjasnit otázky pojištění vzhledem k odškodnění cestujících",
+        "stanovit důvody a zpracovat bezpečnostní doporučení"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-97"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Jakou má platnost Osvědčení letové způsobilosti?",
+      "options": [
+        "6 měsíců",
+        "12 let",
+        "neomezenou",
+        "12 měsíců"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 2,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Co znamená zkratka ARC?",
+      "options": [
+        "Airworthiness Recurring Control = Řízení zachování letové způsobilosti",
+        "Airspace Restriction Criteria = Kritéria omezeného prostoru",
+        "Airworthiness Review Certificate = Osvědčení kontroly letové způsobilosti",
+        "Airspace Rulemaking Committee = Výbor pro tvorbu pravidel vzdušného prostoru"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Osvědčení letové způsobilosti vydává stát:",
+      "options": [
+        "kde je letadlo zapsáno do leteckého rejstříku",
+        "kde bylo letadlo vyrobeno",
+        "kde sídlí vlastník letadla",
+        "ve kterém se provádí kontrola letové způsobilosti"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Průkaz pilot a vydaný podle standardů ICAO je platný:",
+      "options": [
+        "ve všech státech ICAO",
+        "ve státu, kde byl průkaz získán",
+        "ve státu vydání průkazu",
+        "ve státech, které na základě žádosti tento průkaz uznaly"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-8"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Jaká je doba platnosti průkazu soukromého pilota (PPL)?",
+      "options": [
+        "24 měsíců",
+        "60 měsíců",
+        "neomezená",
+        "48 měsíců"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "V jakém minimálním věku lze získat průkaz soukromého pilota?",
+      "options": [
+        "16 let",
+        "17 let",
+        "18 let",
+        "21 let"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Doba platnosti Osvědčení zdravotní způsobilosti 2. třídy pro 62 letého pilota je:",
+      "options": [
+        "12 měsíců",
+        "60 měsíců",
+        "48 měsíců",
+        "24 měsíců"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Jaká práva má držitel průkazu soukromého pilota (PPL) s typovou kvalifikací pro vrtulník?",
+      "options": [
+        "provádět obchodní lety, je-li vrtulník schválen pro ne více než 4 sedadla a působit jako instruktor v komerční letecké škole",
+        "provádět neobchodní lety s cestujícími, provedl-li pilot během posledních 120 dnů alespoň 5 vzletů a přistání",
+        "provádět neobchodní lety s cestujícími, provedl-li velitel letadla během posledních 90 dnů nejméně 3 vzlety a přistání",
+        "provádět obchodní lety, je-li vrtulník schválen pro ne více než 6 sedadel a působit jako instruktor v komerční letecké škole"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-14"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Jaký je minimální věk pro první samostatný let v letecké škole?",
+      "options": [
+        "16 let",
+        "17 let",
+        "18 let",
+        "21 let"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Co znamená zkratka SERA?",
+      "options": [
+        "standardizovaná evropská pravidla létání (Standardized European Rules of the Air)",
+        "selektivní radiovýškoměr (Selective Radar Altimeter)",
+        "zvláštní radarové přiblížení (Specialized Radar Approach)",
+        "standardní evropské letecké tratě (Standard European Routes of the Air)"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Co znamená zkratka TRA?",
+      "options": [
+        "dočasně vyhrazený vzdušný prostor (Temporary Reserved Airspace)",
+        "oblast odpovídače sekundárního radaru (Transponder Area)",
+        "dočasná oblast radarových tratí (Temporary Radar Routing Area)",
+        "koncová oblast (Terminal Area)"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-18"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Co musíte udělat při vstupu do oblasti s povinn ým odpovídače m sekundárního radaru (TMZ)?",
+      "options": [
+        "zapnout odpovídač sekundárního radaru a nastavit mód A a C nebo mód S",
+        "zapnout odpovídač sekundárního radaru, nastavit mód A a stisknout tlačítko IDENT",
+        "vyžádat povolení ke vstupu",
+        "před letem podat letový plán"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Co znamená oblast označená TMZ?",
+      "options": [
+        "oblast s povinným odpovídače m",
+        "oblast uspořádání letového provozu",
+        "oblast turistických motorových kluzáků",
+        "oblast řízení dopravy"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Co znamená zkratka IFR?",
+      "options": [
+        "podmínky pro let podle přístrojů",
+        "pravidla pro let podle přístrojů",
+        "pravidla pro obchodní lety",
+        "pravidla pro lety za špatného počasí"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-23"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Dvoumotorová letadla letí ve stejné nadmořské výšce na prot isměrných tratích. Které z nich se má vyhnout?",
+      "options": [
+        "obě mají uhnout doprava",
+        "to těžší má stoupat",
+        "obě mají uhnout doleva",
+        "to lehčí má stoupat"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 7,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Dva letouny letí po křižujících se tratích. Který z nich má uhnout?",
+      "options": [
+        "letadlo letící zprava doleva má přednost zprava",
+        "letadlo letící zleva doprava má přednost",
+        "obě letadla mají uhnout doprava",
+        "obě letadla mají uhnout doleva"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 7,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Ve třídě vzdušného p r osto r u třídy D letí Boeing 737 a Cessna 152 po protínajících se tratích. Které z letadel se má vyhnout?",
+      "options": [
+        "letoun letící zprava doleva má přednost, ten druhý se má vyhnout",
+        "Cessna 152, protože lety IFR a obchodní lety mají přednost",
+        "Boeing 737, protože dopravní letadlo má větší rezervu výkonnosti řízení letového provozu (ATC) má rozhodnout, které z letadel se má vyhnout"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 7,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-28"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Minimální letová dohlednost pro letadlo letící za VFR ve vzdušném prostoru třídy C ve FL 125 je:",
+      "options": [
+        "8000 m",
+        "5000 m",
+        "3000 m",
+        "1500 m"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jaká je minimální vzdálenost od oblačnosti pro let VFR ve třídě vzdušného prostoru B?",
+      "options": [
+        "horizontálně 1.500 m, vertikálně 300 m",
+        "horizontálně 1.000 m, vertikálně 1.500 ft",
+        "horizontálně 1.000 m, vertikálně 300 m",
+        "horizontálně 1.500 m, vertikálně 1.000 m"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Jaká je minimální dohlednost za letu ve vzdušném prostoru třídy C pod FL 100 pro let za VFR?",
+      "options": [
+        "8 km",
+        "5 km 1.5 km 10 km"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-38"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Pojem základna nejnižší význačné vrstvy oblačnosti je definován jako:",
+      "options": [
+        "nadmořská výška základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 20000 ft",
+        "výška nad zemí základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 20000 ft",
+        "výška nad zemí základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 10000 ft",
+        "nadmořská výška základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 10000 ft"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 10,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Jaký je význam následujícího signálu při zakročování vojenským letadlem ve dne? Mávání křídly, normálně vlevo od zakročujícího letadla, následováno mírnou zatáčkou doleva.",
+      "options": [
+        "vstupujete do omezeného prostoru, okamžitě opusťte tento vzdušný prostor",
+        "následujte mě",
+        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru jste vzdálen od všech omezených nebo vyhrazených prostorů, můžete pokračovat stávajícím kurzem"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 10,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Jaký je význam následujícího signálu při zakročování vojenským letadlem ve dne? Náhlá změna kurzu o 90° nebo více a přitažení letadla bez překřižování dráhy letadla, proti kterému je zakročováno.",
+      "options": [
+        "vstupujete do omezeného prostoru, opusťte okamžitě tento prostor",
+        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru následujte mě, přivedu Vás na nejbližší vhodné letiště",
+        "můžete pokračovat v letu"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 10,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-42"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Při letu ve FL 80 má být výškoměr nastaven na:",
+      "options": [
+        "místní QNH",
+        "místní QFE",
+        "1013.25 hPa",
+        "1030.25 hPa"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Jaký je účel půlkruhového pravidla? zabránit srážkám snížením pravděpodobnosti protisměrného provozu ve stejných nadmořských výškách",
+      "options": [
+        "umožnit bezpečné stoupání nebo klesání ve vyčkávacím obrazci",
+        "zabránit srážkám omezením manévrů zatáčení",
+        "létat bez podaného letového plánu ve stanovených zónách publikovaných v AIP"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Jaké jsou možné módy odpovídače sekundárního radaru?",
+      "options": [
+        "A, C, R",
+        "B, C, V",
+        "B, R, S",
+        "A, C, S"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Odpovídač sekundárního radaru schopný vysílat tlakovou hladinu letu je:",
+      "options": [
+        "odpovídač módu A",
+        "tlakový dekodér odpovídač schválený pro třídu vzdušného prostu B",
+        "odpovídač módu C nebo S"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-47"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Jaký kód odpovídače sekundárního radaru má být nastaven při poruše rádia bez jakéhokoliv dalšího pokynu?",
+      "options": [
+        "7600",
+        "7500",
+        "7700",
+        "7000"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Jaký kód odpovídače sekundárního radaru má být nastaven bez vyžádání při stavu nouze?",
+      "options": [
+        "7600",
+        "7500",
+        "7700",
+        "7000"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Jaká letová provozní služba je odpovědná za bezpečné provedení letů?",
+      "options": [
+        "řízení letového provozu (ATC)",
+        "letová informační služba (FIS)",
+        "pohotovostní služba (ALR)",
+        "letecká informační služba (AIS)"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Jaké služby poskytují řízení letového provozu?",
+      "options": [
+        "letová informační služba (FIS) letecká informační služba (AIS) letecká pevná telekomunikační služba (AFS) pohotovostní služba (ALR) služba pátrání a záchrany (SAR) letištní služba řízení (TWR) přibližovací služba řízení (APP) oblastní služba řízení (ACC) letová informační služba (FIS)",
+        "letištní řídící služba (TWR) přibližovací služba řízení (APP) oblastní služba řízení (ACC)"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-52"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Jak é letové provozní služby lze očekávat v letové informační oblasti (FIR)?",
+      "options": [
+        "řízení letového provozu (ATC) letová informační služba (FIS)",
+        "letová informační služba (FIS) pohotovostní služba (ALR)",
+        "letecká informační služba (AIS) služba pátrání a záchrany (SAR)",
+        "řízení letového provozu (ATC) letecká informační služba (AIS)"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Pilot se může spojit s letovou informační službou (FIS):",
+      "options": [
+        "telefonicky",
+        "internetem",
+        "rádiem",
+        "osobní návštěvou"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Jaká je správná fráze o turbulenci v úplavu označující, že lehké letadlo letí za letadlem vyšší kategorie turbulence v úplavu?",
+      "options": [
+        "pozor, výstupní plyny za proudovým motorem",
+        "pozor, proud vzduchu za vrtulí",
+        "pozor, turbulence v úplavu dávejte pozor na vítr v úplavu"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-56"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jaké informace obsahuje část GEN (všeobecně) Letecké informační příručky (AIP)?",
+      "options": [
+        "m apové značky, seznam radionavigačních pomůcek, časy východu a západu slunce, letištní poplatky, poplatky služeb řízení letového provozu",
+        "letecké výstrahy, vzdušné prostory a tratě, omezené a nebezpečné prostory",
+        "obsah, seznam letišť s příslušnými mapami, přibližovací mapy, mapy pro pojíždění, omezené a nebezpečné prostory",
+        "omezení přístupu na letištích, kontroly cestujících, požadavky na piloty, vzory průkazů a doby jejich platnosti"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Jaké jsou části Letecké informační příručky (AIP)?",
+      "options": [
+        "GEN AGA COM",
+        "GEN COM MET",
+        "GEN MET RAC",
+        "GEN ENR AD"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Jaké informace jsou v části AD Letecké informační příručky (AIP)?",
+      "options": [
+        "mapové značky, seznam radionavigačních příruček, časy východu a západu slunce, letištní poplatky, poplatky služeb řízení letového provozu letecké výstrahy, prostory a tratě služeb letového provozu, omezené a nebezpečné prostory",
+        "obsah, seznam letišť s příslušnými mapami, přibližovací mapy, mapy pro pojíždění",
+        "omezení přístupu na letiště, kontroly cestujících, požadavky na piloty, vzory průkazů a doby jejich platnosti"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-61"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Předletový informační buletin (PIB) je prezentací platných:",
+      "options": [
+        "informací Letecké informační příručky významných pro provoz připravených před letem",
+        "informací NOTAM významných pro provoz připravených před letem",
+        "informací leteckých informačních oběžníků (AIC) významných pro provoz připravených po letu",
+        "informací ICAO významných pro provoz připravených po letu"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Pojem výška letiště nad mořem je definován jako:",
+      "options": [
+        "nejvyšší bod na odbavovací ploše",
+        "nejvyšší bod přistávací plochy",
+        "nejnižší bod přistávací plochy",
+        "průměrná hodnota nadmořské výšky pohybové plochy"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Pojem vzletová a přistávací dráha je definován jako:",
+      "options": [
+        "kruhová oblast letiště u pravená na přistání a vzlety letadel",
+        "obdélníková plocha na zemi nebo na vodě u pravená pro přistání a vzlety letadel",
+        "obdélníková plocha na pozemním letišti u pravená pro přistání a vzlety letadel",
+        "obdélníková plocha na pozemním letišti u pravená na přistání a vzlety vrtulníků"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Jaký výrok o vyčkávacím bodu při pojíždění je pravdivý? vyčkávací bod při pojíždění je oblast, kde musí letadlo zastavit, dokud nedostane povolení pokračovat",
+      "options": [
+        "vyčkávací bod při pojíždění je bod, ve kterém musí letadlo zastavit, dokud nedostane povolení pokračovat",
+        "vyčkávací bod při pojíždění je navržen, aby označil začátek bezpečnostní oblasti, a může být přejet, když bylo vydáno povolení pojíždět vyčkáva cí bod při pojíždění slouží pouze pro provoz IFR, když převažují podmínky pro let podle přístrojů"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-66"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Co znamená, je-li hlášen stav dráhy \"vlhká\" (damp)?",
+      "options": [
+        "mokrý povrch, ale nejsou vidět význačné louže",
+        "velká část povrchu je zatopená vodou",
+        "změna barvy povrchu kvůli vlhkosti",
+        "na dráze není voda ani sníh nebo led"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Co znamená, je-li ohlášen stav dráhy \" mokré pásy \" (water patches)?",
+      "options": [
+        "mokrý povrch, ale nejsou vidět kaluže",
+        "velká část povrchu j e zatopená vodou",
+        "jsou vidět kaluže stojící vody",
+        "na dráze není voda ani led nebo sníh"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Jak může být označen ukazatel směru větru, aby byl lépe vidět?",
+      "options": [
+        "může být vyroben ze zeleného materiálu",
+        "může být umístěn na vrchol řídící věže",
+        "může být obklopen bílým kruhem",
+        "může být umístěn na velké černé ploše"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-70"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Co znamená signál letadlu na řízeném letišti stálým zeleným světlem?",
+      "options": [
+        "vraťte se na přistání, je-li následován signálem stálým zeleným světlem",
+        "dejte přednost jinému letadlu a pokračujte v letu po okruhu",
+        "letiště není bezpečné, nepřistávejte",
+        "přistání povoleno"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím bílým světlem?",
+      "options": [
+        "vzlet povolen",
+        "vraťte se zpět na odbavovací plochu",
+        "opusťte pojížděcí / vzletovou dráhu",
+        "pojíždění schváleno"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím červeným světlem?",
+      "options": [
+        "vzlet povolen",
+        "vraťte se zpět na odbavovací plochu",
+        "okamžitě pojíždějte mimo dráhu v použití",
+        "pojíždění schváleno"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-75"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Jaký je účel signálního čtverce na letišti?",
+      "options": [
+        "je to osvětlená plocha, na které jsou umístěna vozidla pátrání a záchrany a hasičů",
+        "je to zvlášť označená plocha pro vyzvedávání a shazování předmětů vlečených za letadly",
+        "obsahuje zvláštní symboly označující vizuálně podmínky na letišti pro letící letadla",
+        "letadla pojíždějí na tuto plochu, aby získala světelné signály pro pojíždění a pro povolení vzletu"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Jak pilot potvrzuje přijetí světelných signálů za letu?",
+      "options": [
+        "zamáváním křídly (ve dne)",
+        "střídavými výchylkami směrovky",
+        "změnami otáček motoru",
+        "rychlými změnami podélného sklonu"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Co znamená stálé červené světlo jako signál letadlu na zemi na řízeném letišti?",
+      "options": [
+        "opusťte pojížděcí / vzletovou / přistávací dráhu",
+        "vraťte se na odbavovací plochu",
+        "přistaňte na tomto letišti a pokračujte na odbavovací plochu",
+        "zastavte"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-80"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "Co znamená obrazec podélných pruhů stejných rozměrů rozložený symetricky po obou stranách osy vzletové a přistávací dráhy?",
+      "options": [
+        "před nimi neprovádějte dotyk se zemí",
+        "za nimi neprovádějte dotyk se zemí",
+        "v tomto bodu je průsečík sestupové osy ILS s povrchem dráhy",
+        "z této polohy lze zahájit rozjezd při vzletu"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-83"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Jaké je správné označení dvou paralelních drah?",
+      "options": [
+        "06L a 06R",
+        "18 a 18-2",
+        "24 a 25",
+        "26 a 26R"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-84"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Co je PAPI (světelná sestupová soustava pro vizuální přiblížení)?",
+      "options": [
+        "přístrojov é zařízení poskytující informace, které pilotovi pomáhají dosáhnout a udržet správné přiblížení k letišti",
+        "V izuální zařízení poskytující informace, které pilotovi pomáhají dosáhnout a udržet správnou odletovou trať při odletu z letiště",
+        "vizuální zařízení poskytující informace, které pomáhají řídícímu letového provozu na věži dosáhnout a udržet správné přiblížení na letiště",
+        "vizuální zařízení poskytující informace, které pomáhají pilotovi dosáhnout a udržet správnou sestupovou rovinu při přiblížení k letišti"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-85"
+    },
+    {
+      "sourceNumber": "86",
+      "question": "Letištní maják (ABN) je: rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu",
+      "options": [
+        "rotující maják umístěný na začátku konečného přiblížení a označující jeho polohu pilotům letadel za letu",
+        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel za letu"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-86"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Jakou barvu mají postranní dráhová návěstidla?",
+      "options": [
+        "bílou",
+        "červenou",
+        "zelenou",
+        "modrou"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Jakou barvu mají koncová návěstidla dráhy?",
+      "options": [
+        "bílou",
+        "červenou",
+        "zelenou",
+        "modrou"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-88"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Co znamená znak v příloze? Viz obr. (ALW-019)",
+      "options": [
+        "poj ezdová dráha A",
+        "část A vzletové a přistávací dráhy",
+        "bod A na pojížděcí dráze",
+        "parkovací místo A"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-89"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Co znamená zobrazená pozemní značka v signální ploše letiště? Viz obr. (ALW-012)",
+      "options": [
+        "pozor, manévrovací plocha je špatná",
+        "zákaz přistání na delší dobu",
+        "pohyb po zemi omezen na zpevněné povrchy",
+        "po vzletu a před přistáním je třeba provádět všechny zatáčky doprava"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 21,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "Co znamená zkratka DETRESFA?",
+      "options": [
+        "údobí tísně",
+        "údobí pohotovosti",
+        "údobí nejistoty",
+        "údobí záchrany"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 21,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "Kdo poskytuje služby pátrání a záchrany?",
+      "options": [
+        "pouze vojenské organizace",
+        "pouze civilní organizace",
+        "jak vojenské tak civilní organizace",
+        "mezinárodní schválené organizace"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 21,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-94"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Co je hlavním účelem zjišťování příčin leteckých nehod?",
+      "options": [
+        "stanovit viníka a navrhnout právní důsledky",
+        "práce pro státního žalobce a následná pomoc při nehodě",
+        "vyjasnit otázky pojištění vzhledem k odškodnění cestujících",
+        "Stanovit důvody a zpracovat bezpečnostní doporučení"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 22,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-97"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Byl podán letový plán pro odlet z neřízeného letiště. Kdy má být odvysílán skutečný čas vzletu službám letového provozu?",
+      "options": [
+        "okamžitě po vzletu",
+        "je-li odchylka od doby čekávaného zahájení letu větší než 15 minut",
+        "na vyžádání služeb řízení letového provozu",
+        "když je potvrzeno přistání"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 1,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Za letu s podaným letovým plánem je provedeno přistání na jiném letišti než cílovém dle podaného letového plánu. S kým se musí pilot okamžitě spojit?",
+      "options": [
+        "let ová informační služba (F IS)",
+        "místní oddělení policie",
+        "letový manažer letiště ve službě",
+        "místní letecký úřad"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 1,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Překročení maximální povolené hmotnosti letadla:",
+      "options": [
+        "je možné výjimečně, aby se zabránilo zpožděním",
+        "je možné pouze, není-li omezení překročeno o více než 10 %",
+        "je možné kompenzovat zásahy pilota do řízení",
+        "není povoleno a je zvlášť nebezpečné"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 1,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Těžiště se musí nacházet:",
+      "options": [
+        "před jeho přední mezí",
+        "za jeho zadní mezí",
+        "mezi jeho přední a zadní mezí",
+        "vpravo od jeho příčné meze"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 1,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Letadlo musí být naloženo a provozováno tak, aby těžiště bylo ve schválených mezích během všech fází letu, aby:",
+      "options": [
+        "byla zajištěna jeho stabilita a řiditelnost",
+        "se letadlo nepřevážilo na ocas, když je nakládáno",
+        "nedošlo k přetažení letadla",
+        "letadlo při sestupu nepřekročilo maximální povolenou rychlost"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 1,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Vrtulník musí být naložen a provozován tak, aby jeho těžiště bylo ve všech fázích letu v povolených mezích, aby:",
+      "options": [
+        "byla zajištěna jeho stabilita a řiditelnost",
+        "se vrtulník nepřevážil na ocas při nakládání",
+        "nedošlo k přetažení vrtulníku",
+        "vrtulník při klesání nepřekročil maximální povolenou rychlost"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 2,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Důsledkem přední polohy těžiště je: 1. zvýšená stabilita 2. zvýšená spotřeba paliva 3. vyšší pádová rychlost 4. zvětšený dolet",
+      "options": [
+        "1, 2",
+        "2, 4",
+        "1, 2, 3",
+        "2, 3, 4"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 2,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Základní prázdná hmotnost letadla zahrnuje: hmotnost letadla plus standardní položky jako nevyčerpatelný zbytek paliva a dalších kapalin,",
+      "options": [
+        "olej v motoru a pomocných agregátech, hasicí přístroje, pyrotechnika, nouzové kyslíkové vybavení, doplňkové elektronické vybavení celkovou hmotnost letadla připraveného pro určitý druh provozu kromě nevyužitelného zbytku",
+        "paliva a provozního zatížení. Tato hmotnost zahrnuje takové položky jako posádku a její zavazadla",
+        "celkovou hmotnost letadla připraveného pro určitý druh provozu včetně požadovaného paliva a posádky, ale bez provozního zatížení",
+        "celkovou hmotnost letadla připraveného pro určitý druh provozu včetně posádky, navigačních přístrojů a krytu motorů"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 2,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Prázdná hmotnost a odpovídající poloha těžiště letadla jsou původně stanoveny:",
+      "options": [
+        "vážením",
+        "výpočtem",
+        "pomocí dat dodaných výrobcem letadla",
+        "pouze pro jedno letadlo daného typu, protože všechna letadla stejného typu mají stejnou hmotnost a polohu těžiště"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 2,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Hustota paliva AVGAS 100LL při teplotě 15 °C je:",
+      "options": [
+        "0.72 kg/l",
+        "0.82 kg/l",
+        "0.68 kg/l",
+        "1.0 kg/l"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 3,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Jaký je převodní poměr kilogramů (kg) na libry (lb)?",
+      "options": [
+        "kg x 2.205 = lb",
+        "kg x 0.454 = lb",
+        "kg / 2.205 = lb",
+        "kg x 2 = lb"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 3,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Zavazadla a náklad musí být řádně uloženy a upevněny, protože posun nákladu by mohl způsobit:",
+      "options": [
+        "poškození konstrukce, stabilní úhel náběhu, stabilní rychlost",
+        "vypoč i tatelnou změnu polohy těžiště, je-li pohyb těžiště menší než o 10 %",
+        "plynulé změny podélného sklonu, které mohou být vyrovnány pilotovými zásahy do řízení",
+        "neřiditelné změny podélného sklonu, poškození konstrukce, riziko zranění"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 3,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Náklad musí být řádně upevněn:",
+      "options": [
+        "aby bylo možné načerpat dodatečné palivo",
+        "aby se zabránilo pohybům těžiště",
+        "aby se zabránilo překročení povoleného násobku při podrovnání při přistání",
+        "aby bylo možné provádět ostré zatáčky"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 3,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Celková hmotnost let adla působí vertikálně v:",
+      "options": [
+        "středu tlaku",
+        "těžišti",
+        "stagnačním bodu",
+        "neutrálním bodu"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 3,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Pojem těžiště je definován jako:",
+      "options": [
+        "nejtěžší bod na letounu",
+        "bod, ve kterém působí celková hmotnost letounu",
+        "jiný název neutrálního bodu",
+        "poloviční vzdálenost mezi neutrálním bodem a počátkem"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 4,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Těžiště je definováno jako:",
+      "options": [
+        "bod, ve kterém působí celková tíha",
+        "bod na podélné ose letadla, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "výslednice násobku hmotnosti a ramena",
+        "vzdálenost od počátku k polohám různých hmotností"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 4,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Při nezrychleném stoupavém letu:",
+      "options": [
+        "vertikální složka tahu působí proti tíze, horizontální složka tahu působí proti odporu",
+        "vertikální složka tahu působí proti horizontální složce tahu a odpor působí proti tíze",
+        "vertikální složka tahu působí proti odporu a horizontální složka tahu působí proti tíze",
+        "horizontální složka tahu působí proti součtu odporu a tíhy"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 4,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Co je třeba udělat pro posunutí těžiště vrtulníku směrem dopředu?",
+      "options": [
+        "přidat další palivo do palivové nádrže před hřídelem hlavního rotoru",
+        "odstranit nepotřebné vybavení z pilotní kabiny",
+        "přidat dodatečný náklad do přední části kabiny vrtulníku",
+        "odstranit všechny nepotřebné úchyty a kryty"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 4,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Při odpoutání od země při vzletu vrtulník rotuje více než lze očekávat. To znamená, že:",
+      "options": [
+        "těžiště je více vzadu než dle očekávání",
+        "vrtulník je přetížen",
+        "požadovaný výkon se rovná použitelnému výkonu",
+        "střed rotorové hlavy je nad těžištěm"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 4,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Termín počátek při výpočtech hmotnosti a vyvážení znamená:",
+      "options": [
+        "bod na podélné ose letounu, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "bod na příčné ose letounu, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "bod na vertikální ose letounu, od kterého se měří vzdálenosti všech těžišť hmotností",
+        "vzdálenost od počáteční roviny k těžišti letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 5,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Termín moment při výpočtech hmotnosti a vyvážení znamená:",
+      "options": [
+        "součin hmotnosti a ramena",
+        "součet hmotnosti a ramena",
+        "rozdíl hmotnosti a ramena",
+        "kvocient hmotnosti a ramena"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 5,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Termín rameno při výpočtech hmotnosti a centráže znamená:",
+      "options": [
+        "vzdálenost od počátku k těžišti dané hmotnosti",
+        "bod na podélné ose letounu, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "bod, ve kterém působí tíha",
+        "vzdálenost hmotnosti od těžiště"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 5,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Vzdálenost od těžiště k počátku se nazývá:",
+      "options": [
+        "rameno",
+        "páka",
+        "krut",
+        "rozpětí"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 5,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Rameno je horizontální vzdálenost mezi:",
+      "options": [
+        "přední a zadní mezí těžiště",
+        "těžištěm hmotnosti a zadní mezí těžiště",
+        "těžištěm hmotnosti a počátkem",
+        "přední mezí těžiště a počátkem"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 5,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Potřebné údaje pro výpočet hmotnosti a vyvážení včetně hmotností a ramen lze nalézt:",
+      "options": [
+        "v kapitole hmotnost a vyvážení letové příručky příslušného letadla",
+        "v kapitole výkonnost letové příručky příslušného letadla",
+        "v osvědčení letové způsobilosti letadla",
+        "v dokumentaci o ročních prohlídkách letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 6,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Co je třeba udělat při přípravě vážení letadla?",
+      "options": [
+        "vypustit všechny náplně olejů z motoru",
+        "vypustit všechno vyčerpatelné palivo",
+        "odnést baterie",
+        "odstranit obslužné vybavení"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 6,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Která kapitola letové příručky popisuje základní prázdnou hmotnost letadla?",
+      "options": [
+        "výkonnost",
+        "normální postupy",
+        "omezení",
+        "hmotnost a vyvážení"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 6,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Která kapitola letové příručky vrtulníku popisuje omezení centráže?",
+      "options": [
+        "výkonnost",
+        "normální postupy",
+        "omezení",
+        "dodatky"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 6,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Poloha těžiště je: Viz obr. (PFP-052e)",
+      "options": [
+        "137.5 in",
+        "145.7 in",
+        "142 in",
+        "147.5 in"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 6,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Jakou hmotnost má 102 litrů paliva Avgas 100LL?",
+      "options": [
+        "142 kg",
+        "142 lbs",
+        "74 kg",
+        "74 lbs"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 7,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Vypočítaná vzletová hmotnost: 2300 lbs, vypočítaná poloha těžiště: CG = 95.75 in, spotřebované palivo: 170 lbs na rameni: 87.00 in. Jaká je poloha těžiště po přistání?",
+      "options": [
+        "96.45 in",
+        "96.57 in",
+        "97.39 in",
+        "94.11 in"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 7,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Je dáno: vypočítaná vzletová hmotnost: 746 kg vypočítaná poloha těžiště (CG): 37.1 cm spotřebované palivo: 30.5 l na rameni: 45 cm. Jaká je poloha těžiště (CG) po přistání?",
+      "options": [
+        "36.9 cm",
+        "37.5 cm",
+        "37.2 cm",
+        "36.3 cm"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 7,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Vypočítaná vzletová hmotnost: 1082 kg, vypočítaná poloha těžiště (CG): 0.254 m, spotřebované palivo: 55 l na rameni: 0.40 m. Jaká je poloha těžiště po přistání?",
+      "options": [
+        "24.6 cm",
+        "24.8 cm",
+        "25.2 cm",
+        "25.4 cm"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 7,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Poloha těžiště (včetně paliva) je: Viz obr. (PFP-053e)",
+      "options": [
+        "37.1 cm",
+        "37.3 cm",
+        "0.401 m",
+        "0.403 m"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 7,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "mmkg. Jaká je poloha těžiště (CG)? Viz obr. (PFP-003)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 8,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Při předletové přípravě pilot vypočítal vzletovou hmotnost 725 kg a celkový moment 650 mmkg. Jaká je poloha těžiště (CG)? Viz obr. (PFP-004)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 8,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Při předletové přípravě pilot vypočítal vzletovou hmotnost 775 kg a celkový moment 700 mmkg. Jaká je poloha těžiště (CG)? Viz obr. (PFP-005)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 8,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Jaká je naposledy stanovená prázdná hmotnost a poloha těžiště (CG) z dokumentace letadla? Viz obr. (PFP-006)",
+      "options": [
+        "512 kg, 285.39 m",
+        "400 kg, 1.1 m",
+        "498 kg, 280.59 m",
+        "500 kg, 1.3 m"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 8,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Pojem maximální hodnota nadmořské výšky terénu (maximum elevation figure – MEF) je definován jako:",
+      "options": [
+        "nejvyšší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva, zaokrouhleno na nejbližších vyšších 100 ft nejvyšší nadmořská výška terénu pokrývající oblast 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva 1000 ft (305 m), zaokrouhleno na nejbližších vyšších 100 ft",
+        "největší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky",
+        "největší nadmořská výška terénu pokrývající oblast 1 stupně zeměpisné šířky a délky plus bezpečnostní rezerva zaokrouhlená na nejbližších nižších 100 ft"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 9,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Jaký je účel čar protínajících trať letu při srovnávací navigaci?",
+      "options": [
+        "pro vizualizaci omezení doletu od letiště odletu",
+        "slouží jako snadno rozpoznatelná pomůcka při možné ztrátě orientace",
+        "za letu označují další použitelné letiště na trati",
+        "pomáhají pokračovat v letu, klesne-li dohlednost pod minima pro let podle pravidel letu za viditelnosti"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 9,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Polokruhové pravidlo pro lety VFR je založeno na:",
+      "options": [
+        "magnetické trati (MC)",
+        "zeměpisném kurzu (TH)",
+        "magnetickém kurzu (MH)",
+        "zeměpisné trati (TC)"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 9,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Jaká je nejnižší možná letová hladina za VFR po zeměpisné trati 181° při deklinaci 3° na východ?",
+      "options": [
+        "FL 055",
+        "FL 050",
+        "FL 065",
+        "FL 060"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 9,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Horní hranice LO R 16 je: Viz obr. (PFP-056)",
+      "options": [
+        "FL 150",
+        "1,500 m MSL",
+        "1,500 ft MSL",
+        "1,500 ft GND"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 10,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Horní hranice LO R 4 je: Viz obr. (PFP-030)",
+      "options": [
+        "4,500 ft MSL",
+        "4,500 ft AGL",
+        "1,500 ft MSL",
+        "1,500 ft AGL"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 10,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Zkratka FATO je definována jako:",
+      "options": [
+        "oblast pro konečné přiblížení a vzlet vrtulníků",
+        "dohoda mezi federálními organizacemi",
+        "postup nezdařeného přiblížení pro základní provoz",
+        "postupy pro snížení hluku pro provoz VFR"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 10,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Kolik paliva pro pojíždění musí být spotřebováno před vzletem, aby se snížila hmotnost letadla na maximální vzletovou hmotnost? Maximální hmotnost při zahájení letu: 1150 kg, skutečná hmotnost při zahájení vzletu: 1148 kg, maximální vzletová hmotnost: 1145 kg.",
+      "options": [
+        "4 litry",
+        "3 litry",
+        "5 litrů",
+        "2 litry"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 10,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Jaký dokument obsahuje informace o spotřebě paliva?",
+      "options": [
+        "letová příručka",
+        "osvědčení letové způsobilosti",
+        "hlášení o hmotnosti a vyvážení",
+        "palubní deník"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 10,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jsou-li dány následující údaje, jaké je množství traťového paliva? Palivo pro pojíždění: 5 litrů, palivo pro vzlet a stoupání: 12 litrů, palivo pro let po trati: 25 litrů, palivo pro klesání, přiblížení a přistání: 7 litrů, palivo pro pojíždění a zajetí na místo stání: 3 litry, palivo pro let na náhradní letiště: 13 litrů, konečná záloha paliva: 10 litrů.",
+      "options": [
+        "4 4 litrů",
+        "75 litrů",
+        "52 litrů",
+        "49 litrů"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 11,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Co znamená tato zpráva NOTAM? B7938/11 NOTAMN Q) LECB/QMRLC/IV/NBO/A /000/999/3933N00244E005 A) LEPA B) 1111212200 C) 1111220500 E) RWY 24L/06R CLOSED",
+      "options": [
+        "vzletová a přistávací dráha 24L/06R v Palma de Mallorca (LEPA) bude od 21. listopadu 2011 22:00 UTC uzavřena až do 22. listopadu 2011 05:00 UTC",
+        "vzletová a přistávací dráha 24L/06R v Palma de Mallorca (LEPA) bude uzavřena od 21. listopadu 2011 22:00 místního času do 22. listopadu 2011 05:00 místního času",
+        "vzletová a přistávací dráha 24L/06R v Cataluña/Barcelona (LECB) bude uzavřena od 21. listop adu 2011 22:00 UTC do 22. listopadu 2011 05:00 UTC",
+        "vzletová a přistávací dráha 24L/06R v Palma de Mallorca (LEPA) bude uzavřena od současné doby (000) na neurčito (999)"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 11,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Podle letecké mapy má letiště Friesach/Hirt (LOKH) travnatou vzletovou a přistávací dráhu dlouhou 707 m. Dráha v provozu je 17 při větru 180 10KT. Požadovaná délka přistání pro Vaše letadlo je za současných podmínek 550 m. Vezmete-li v úvahu uvedený NOTAM, je bezpečné plánovat LOKH jako náhradní l etiště? Viz obr. (PFP-026)",
+      "options": [
+        "ne",
+        "ano",
+        "možná",
+        "nevím"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 11,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Do jaké výšky jsou zakázány přelety podle uvedené zprávy NOTAM? Viz obr. (PFP-024)",
+      "options": [
+        "nadmořská výška 9500 ft MSL",
+        "FL 95",
+        "nadmořská výška 9500 m MSL",
+        "výška 9500 ft nad zemí"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 11,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "EOBT (předpokládaný čas zahájení letu) se uvádí do letového plánu jako:",
+      "options": [
+        "středoevropský čas (CET)",
+        "místní střední čas (LMT)",
+        "koordinovaný světový čas (UTC)",
+        "standardní čas (ST)"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 12,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Podle plánu letu, o jaký druh letu se jedná? Viz obr. (PFP-051a)",
+      "options": [
+        "let v noci podle pravidel letu za vidu",
+        "let podle pravidel letu podle přístrojů",
+        "okruhy podle pravidel letu za vidu",
+        "přeshraniční let"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 12,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Rychlost uvedená v letovém plánu je: Viz obr. (PFP-051)",
+      "options": [
+        "100 m/h",
+        "100 km/h",
+        "100 kt",
+        "1000 kt"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 12,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Co je třeba provést při mezinárodním letu?",
+      "options": [
+        "schválit výjimku",
+        "vysílat zprávy o nebezpečí",
+        "podat letový plán",
+        "podávat pravidelně hlášení o poloze"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 12,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Komu může být za letu podán letový plán?",
+      "options": [
+        "letové informační službě (FIS)",
+        "letecké informační službě (AIS)",
+        "službě pátrání a záchrany (SAR)",
+        "provozovateli dalšího letiště na trati"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 12,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Co je třeba učinit při ztrátě orientace během provozu vrtulníku?",
+      "options": [
+        "je třeba letět podle orientačních trojúhelníků v souladu s Varšavskou úmluvou",
+        "pokračovat v letu jakýmkoli kurzem, dokud nebude orientace obnovena",
+        "vráti t se nad letiště odletu a odsud dále pokračovat s obnovenou orientací",
+        "pokračovat plánovaným kurzem k další významné čáře protínající trasu letu a odtud se orientovat"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 13,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Co je třeba sledovat při letu za horkého dne?",
+      "options": [
+        "obzvláště teplotu vnějšího vzduchu a tlakovou výšku",
+        "směs paliva se vzduchem má být při stoupání a traťovém letu plně obohacena",
+        "termické stoupavé proudy se budou vyskytovat nad neobydlenými oblastmi",
+        "při plnění paliva je třeba věnovat zvláštní po zornost jeho nízké hustotě"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 13,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jaký faktor má pozitivní vliv na požadovaný výkon?",
+      "options": [
+        "čisté rotorové listy",
+        "námraza na draku vrtulníku",
+        "velká hustotní výška",
+        "bezolovnaté palivo"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 13,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Jaká je maximální tlaková výška pro visení vrtulníku za vlivu země při hmotnosti vrtulníku 2400 lbs a teplotě vnějšího vzduchu + 20 °C? Viz obr. (PFP-045)",
+      "options": [
+        "8600 ft",
+        "11000 ft",
+        "9000 ft",
+        "9500 ft"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 13,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Jaká je nepřekročitelná rychlost (vNE) v tlakové výšce 4000 ft při teplotě vnějšího vzduchu + 10 °C a hmotnosti vrtulníku 2300 lbs? Viz obr. (PFP-046)",
+      "options": [
+        "130 KIAS",
+        "126 KIAS",
+        "116 KIAS",
+        "96 KIAS"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 13,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Jaká část letové příručky popisuje požadovaný výkon vrtulníku při visení?",
+      "options": [
+        "výkonnost",
+        "normální postupy",
+        "omezení",
+        "dodatky"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 14,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Výkon pístového motoru je omezen:",
+      "options": [
+        "odstředivou spojkou",
+        "klikovou skříní",
+        "výfukovým systémem",
+        "reduktorem hlavního rotoru"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 14,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Výkon turbínového motoru je omezen:",
+      "options": [
+        "druhem paliva, směsí paliva a vzduchu a výfukovým systémem",
+        "otáčkami kompresoru, teplotou na vstupu do turbíny a reduktorem hlavního rotoru",
+        "setrvačníkem a reduktorem hlavního rotoru u jednohřídelových turbínových motorů",
+        "skříní náhonů a výfukovým systémem u vícehřídelových turbínových motorů"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 14,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Jak výrobci omezují výkon motorů vrtulníků?",
+      "options": [
+        "omezením průtoku paliva",
+        "zmenšením spalovací komory",
+        "nastavením předstihu zapalování",
+        "snížením otáček hřídele"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 14,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Jaký bod označuje rychlost pro maximální výdrž? Viz obr. (PFP-044)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 14,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Jaký bod označuje rychlost pro maximální dolet? Viz obr. (PFP-044)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 15,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Co je třeba sledovat, je-li při visení zapnut ohřev karburátoru?",
+      "options": [
+        "pokles výkonu",
+        "nárůst výkonu",
+        "pokles předzapalování",
+        "nárůst otáček rotoru"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 15,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Jaký faktor je při odletu ovlivněn čelním větrem?",
+      "options": [
+        "úhel trajektorie stoupání",
+        "Vy",
+        "Vx",
+        "stoupavost"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 15,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Proč se snižuje rychlost vNE s rostoucí tlakovou výškou?",
+      "options": [
+        "pravá vzdušná rychlost (TAS) se zvyšuje",
+        "traťová rychlost (GS) se snižuje",
+        "tah rotoru překračuje povolené zatížení konstrukce",
+        "účinnost ocasního rotoru přestane zajišťovat směrovou stabilitu"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 15,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Jaké jsou fyzikální vlastnosti atmosféry, které ovlivňují výkonnost vrtulníku?",
+      "options": [
+        "teplota, tlak a obsah uhlíku",
+        "tlak, vlhkost a obsah dusíku",
+        "teplota, tlak a vlhkost",
+        "tlak, vlhkost a specifická hmotnost"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 15,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Jak se za letu projeví tvorba námrazy?",
+      "options": [
+        "nárůst hmotnosti a pokles odporu",
+        "nárůst hmotnosti a odporu a významný pokles vztlaku",
+        "nárůst součinitele vztlaku i odporu kvůli zvýšení hmotnosti",
+        "nárůst hmotnosti a pokles klesavosti"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 16,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Zvýšení hmotnosti vrtulníku způsobí:",
+      "options": [
+        "zvýšení součinitele vztlaku",
+        "zmenšení stoupavosti",
+        "snížení použitelného výkonu",
+        "zvětšení úhlu stoupání"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 16,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Vrtulník dosáhne maximální výdrže při letu:",
+      "options": [
+        "nižší rychlostí než pro maximální dolet a v nejnižší možné výšce s ohledem na bezpečnost",
+        "stejnou rychlostí jako pro maximální dolet a v optimální výšce letu",
+        "vyšší rychlostí než pro maximální dolet a v nejnižší možné výšce letu s ohledem na bezpečnost",
+        "nižší rychlostí než pro maximální dolet a na provozním dostupu"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 16,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Přistání vrtulníku se provádí proti větru, protože:",
+      "options": [
+        "to zvyšuje pravou vzdušnou rychlost a zmenšuje délku přistání",
+        "to zajišťuje lepší ovladatelnost při nízkých rychlostech vůči zemi",
+        "se tím pilot vyhýbá turbulenci v úplavu v dotykové zóně",
+        "to snižuje rychlost vůči zemi a zvětšuje délku přistání"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 16,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Při přistání, je-li pravá vzdušná rychlost (TAS) výrazně nižší než traťová rychlost (GS), máte:",
+      "options": [
+        "čelní vítr",
+        "boční vítr",
+        "inverzi",
+        "vítr do zad"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 16,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Hmotnost vrtulníku se zvýší o další palivo na palubě při zahájení letu.",
+      "options": [
+        "požadovaný výkon se nezmění",
+        "normální spotřeba paliva se nezmění",
+        "škodlivý odpor se nezmění",
+        "maximální dolet se sníží"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 17,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Jaká je maximální hmotnost vrtulníku pro odlet v 8000 ft tlakové výšky při teplotě vnějšího vzduchu + 20 °C? Maximální celková hmotnost: 2500 lbs. Minimální celková hmotnost 1600 lbs. Viz obr. (PFP-045)",
+      "options": [
+        "2500 lbs",
+        "2460 lbs",
+        "1550 lbs",
+        "1950 lbs"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 17,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Jaká je maximální hmotnost vrtulníku pro visení v přízemním efektu v tlakové výšce 9000 ft při teplotě vnějšího vzduchu + 10 °C? Viz obr. (PFP-045)",
+      "options": [
+        "2410 lb",
+        "2360 lb",
+        "2410 kg",
+        "2360 kg"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 17,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "(Pro tuto otázku použijte přílohu PFP-061) Jaký symbol dle ICAO označuje skupinu neosvětlených překážek?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 17,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "(Pro tuto otázku použijte přílohu PFP-062) Jaký symbol dle ICAO označuje civilní letiště (ne mezinárodní) se zpevněnou vzletovou a přistávací drahou?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 18,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "(Pro tuto otázku použijte přílohu PFP-063) Jaký symbol dle ICAO označuje nadmořskou výšku bodu?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
+      "page": 18,
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-82"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Byl podán letový plán pro odlet z neřízeného letiště. Kdy má být odvysílán skutečný čas vzletu službám letového provozu?",
+      "options": [
+        "okamžitě po vzletu",
+        "je-li odchylka od doby čekávaného zahájení letu větší než 15 minut",
+        "na vyžádání služeb řízení letového provozu",
+        "když je potvrzeno přistání"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 1,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Za letu s podaným letovým plánem je provedeno přistání na jiném letišti než cílovém dle podaného letového plánu. S kým se musí pilot okamžitě spojit?",
+      "options": [
+        "letová informační služba (F IS)",
+        "místní oddělení policie",
+        "letový manažer letiště ve službě",
+        "místní letecký úřad"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 1,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Překročení maximální povolené hmotnosti letadla:",
+      "options": [
+        "je možné výjimečně, aby se zabránilo zpožděním",
+        "je možné pouze, není-li omezení překročeno o více než 10 %",
+        "je možné kompenzovat zásahy pilota do řízení",
+        "není povoleno a je zvlášť nebezpečné"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 1,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Těžiště se musí nacházet:",
+      "options": [
+        "před jeho přední mezí",
+        "za jeho zadní mezí",
+        "mezi jeho přední a zadní mezí",
+        "vpravo od jeho příčné meze"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 1,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Zadní poloha těžiště má za následek:",
+      "options": [
+        "zmenšení stability",
+        "zmenšení doletu",
+        "zvýšenou spotřebu paliva",
+        "zvýšenou pádovou rychlost"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 1,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Letadlo musí být naloženo a provozováno tak, aby těžiště bylo ve schválených mezích během všech fází letu, aby:",
+      "options": [
+        "byla zajištěna jeho stabilita a řiditelnost",
+        "se letadlo nepřevážilo na ocas, když je nakládáno",
+        "nedošlo k přetažení letadla",
+        "letadlo při sestupu nepřekročilo maximální povolenou rychlost"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 2,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Důsledkem přední polohy těžiště je: 1. zvýšená stabilita 2. zvýšená spotřeba paliva 3. vyšší pádová rychlost 4. zvětšený dolet",
+      "options": [
+        "1, 2",
+        "2, 4",
+        "1, 2, 3",
+        "2, 3, 4"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 2,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Základní prázdná hmotnost letadla zahrnuje: hmotnost letadla plus standardní položky jako nevyčerpatelný zbytek paliva a dalších kapalin,",
+      "options": [
+        "olej v motoru a pomocných agregátech, hasicí přístroje, pyrotechnika, nouzové kyslíkové vybavení, doplňkové elektronické vybavení celkovou hmotnost letadla připraveného pro určitý druh provozu kromě nevyužitelného zbytku",
+        "paliva a provozního zatížení. Tato hmotnost zahrnuje takové položky jako posádku a její zavazadla",
+        "celkovou hmotnost letadla připraveného pro určitý druh provozu včetně požadovaného paliva a posádky, ale bez provozního zatížení",
+        "celkovou hmotnost letadla připraveného pro určitý druh provozu včetně posádky, navigačních přístrojů a krytu motorů"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 2,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Prázdná hmotnost a odpovídající poloha těžiště letadla jsou původně stanoveny:",
+      "options": [
+        "vážením",
+        "výpočtem",
+        "pomocí dat dodaných výrobcem letadla",
+        "pouze pro jedno letadlo daného typu, protože všechna letadla stejného typu mají stejnou hmotnost a polohu těžiště"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 2,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Hustota paliva AVGAS 100LL při teplotě 15 °C je:",
+      "options": [
+        "0.72 kg/l",
+        "0.82 kg/l",
+        "0.68 kg/l",
+        "1.0 kg/l"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 3,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Jaký je převodní poměr kilogramů (kg) na libry (lb)?",
+      "options": [
+        "kg x 2.205 = lb",
+        "kg x 0.454 = lb",
+        "kg / 2.205 = lb",
+        "kg x 2 = lb"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 3,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Zavazadla a náklad musí být řádně uloženy a upevněny, protože posun nákladu by mohl způsobit:",
+      "options": [
+        "poškození konstrukce, stabilní úhel náběhu, stabilní rychlost",
+        "vypočitatelnou změnu polohy těžiště, je-li pohyb těžiště menší než o 10 %",
+        "plynulé změny podélného sklonu, které mohou být vyrovnány pilotovými zásahy do řízení",
+        "neřiditelné změny podélného sklonu, poškození konstrukce, riziko zranění"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 3,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Náklad musí být řádně upevněn:",
+      "options": [
+        "aby bylo možné načerpat dodatečné palivo",
+        "aby se zabránilo pohybům těžiště",
+        "aby se zabránilo překročení povoleného násobku při podrovnání při přistání",
+        "aby bylo možné provádět ostré zatáčky"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 3,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Celková hmotnost letounu působí vertikálně v:",
+      "options": [
+        "středu tlaku",
+        "těžišti",
+        "stagnačním bodu",
+        "neutrálním bodu"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 3,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Pojem těžiště je definován jako:",
+      "options": [
+        "nejtěžší bod na letounu",
+        "bod, ve kterém působí celková hmotnost letounu",
+        "jiný název neutrálního bodu",
+        "poloviční vzdálenost mezi neutrálním bodem a počátkem"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 4,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Těžiště je definováno jako:",
+      "options": [
+        "bod, ve kterém působí celková tíha",
+        "bod na podélné ose letadla, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "výslednice násobku hmotnosti a ramena",
+        "vzdálenost od počátku k polohám různých hmotností"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 4,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Za letu bez zrychlení:",
+      "options": [
+        "tah rovná se odporu a vztlak rovná se tíze",
+        "tah rovná se vztlaku a odpor rovná se tíze",
+        "odpor rovná se vztlaku a tah rovná se tíze",
+        "tah rovná se součtu odporu a tíhy"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 4,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Termín počátek při výpočtech hmotnosti a vyvážení znamená:",
+      "options": [
+        "bod na podélné ose letounu, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "bod na příčné ose letounu, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "bod na vertikální ose letounu, od kterého se měří vzdálenosti všech těžišť hmotností",
+        "vzdálenost od počáteční roviny k těžišti letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 4,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Termín moment při výpočtech hmotnosti a vyvážení znamená:",
+      "options": [
+        "součin hmotnosti a ramena",
+        "součet hmotnosti a ramena",
+        "rozdíl hmotnosti a ramena",
+        "kvocient hmotnosti a ramena"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 4,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Termín rameno při výpočtech hmotnosti a centráže znamená:",
+      "options": [
+        "vzdálenost od počátku k těžišti dané hmotnosti",
+        "bod na podélné ose letounu, od kterého se měří vzdálenosti těžišť všech hmotností",
+        "bod, ve kterém působí tíha",
+        "vzdálenost hmotnosti od těžiště"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 5,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Vzdálenost od těžiště k počátku se nazývá:",
+      "options": [
+        "rameno",
+        "páka",
+        "krut",
+        "rozpětí"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 5,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Rameno je horizontální vzdálenost mezi:",
+      "options": [
+        "přední a zadní mezí těžiště",
+        "těžištěm hmotnosti a zadní mezí těžiště",
+        "těžištěm hmotnosti a počátkem",
+        "přední mezí těžiště a počátkem"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 5,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Potřebné údaje pro výpočet hmotnosti a vyvážení včetně hmotností a ramen lze nalézt:",
+      "options": [
+        "v kapitole hmotnost a vyvážení letové příručky příslušného letadla",
+        "v kapitole výkonnost letové příručky příslušného letadla",
+        "v osvědčení letové způsobilosti letadla",
+        "v dokumentaci o ročních prohlídkách letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 5,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Co je třeba udělat při přípravě vážení letadla?",
+      "options": [
+        "vypustit všechny náplně olejů z motoru",
+        "vypustit všechno vyčerpatelné palivo",
+        "odnést baterie",
+        "odstranit obslužné vybavení"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 5,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Která kapitola letové příručky popisuje základní prázdnou hmotnost letadla?",
+      "options": [
+        "výkonnost",
+        "normální postupy",
+        "omezení",
+        "hmotnost a vyvážení"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 6,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Poloha těžiště je: Viz obr. (PFP-052e)",
+      "options": [
+        "137.5 in",
+        "145.7 in",
+        "142 in",
+        "147.5 in"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 6,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Jakou hmotnost má 102 litrů paliva Avgas 100LL?",
+      "options": [
+        "142 kg",
+        "142 lbs",
+        "74 kg",
+        "74 lbs"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 6,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Vypočítaná vzletová hmotnost: 2300 lbs, vypočítaná poloha těžiště: CG = 95.75 in, spotřebované palivo: 170 lbs na rameni: 87.00 in. Jaká je poloha těžiště po přistání?",
+      "options": [
+        "96.45 in",
+        "96.57 in",
+        "97.39 in",
+        "94.11 in"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 6,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Je dáno: vypočítaná vzletová hmotnost: 746 kg vypočítaná poloha těžiště (CG): 37.1 cm spotřebované palivo: 30.5 l na rameni: 45 cm. Jaká je poloha těžiště (CG) po přistání?",
+      "options": [
+        "36.9 cm",
+        "37.5 cm",
+        "37.2 cm",
+        "36.3 cm"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 6,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Vypočítaná vzletová hmotnost: 1082 kg, vypočítaná poloha těžiště (CG): 0.254 m, spotřebované palivo: 55 l na rameni: 0.40 m. Jaká je poloha těžiště po přistání?",
+      "options": [
+        "24.6 cm",
+        "24.8 cm",
+        "25.2 cm",
+        "25.4 cm"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 7,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Poloha těžiště (včetně paliva) je: Viz obr. (PFP-053e)",
+      "options": [
+        "37.1 cm",
+        "37.3 cm",
+        "0.401 m",
+        "0.403 m"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 7,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Při předletové přípravě pilot vypočítal vzletovou hmotnost 750 kg a celkový moment 625 m mkg. Jaká je poloha těžiště (CG)? Viz obr. (PFP-003)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 7,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Při předletové přípravě pilot vypočítal vzletovou hmotnost 725 kg a celkový moment 650 mmkg. Jaká je poloha těžiště (CG)? Viz obr. (PFP-004)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 7,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Při předletové přípravě pilot vypočítal vzletovou hmotnost 775 kg a celkový moment 700 mmkg. Jaká je poloha těžiště (CG)? Viz obr. (PFP-005)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 7,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Viz obr. (PFP-006)",
+      "options": [
+        "512 kg, 285.39 m",
+        "400 kg, 1.1 m",
+        "498 kg, 280.59 m",
+        "500 kg, 1.3 m"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 8,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Jak konfigurace letadla ovlivní jeho výkonnost při vzletu, jsou-li ostatní parametry stejné? Viz obr. (PFP-007)",
+      "options": [
+        "letadlo A má větší vysunutí klapek než letadlo B",
+        "letadlo B má větší vysunutí klapek než letadlo A",
+        "letadlo A má větší tlak v pneumatikách než letadlo B",
+        "letadlo B má větší tlak v pneumatikách než letadlo A"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 8,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Jaký vliv má nastavení vztlakových klapek na výkonnost letadla při vzletu?",
+      "options": [
+        "větší výchylka klapek zkracuje rozjezd po zemi, snižuje rychlost odpoutání, ale zhoršuje výkonnost při stoupání",
+        "větší výchylka klapek zkracuje rozjezd po zemi, snižuje rychlost odpoutání a zvyšuje výkonnost při stoupání",
+        "větší výchylka klapek zkracuje rozjezd po zemi, zvyšuje rychlost odpoutání a výkonnost při stoupání",
+        "větší výchylka klapek prodlužuje rozjezd po zemi, zvyšuje rychlost odpoutání a výkonnost při stoupání"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 8,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Jaký vliv na výkonnost při vzletu má vítr?",
+      "options": [
+        "vítr do zad snižuje relativní rychlost na profilu, a tak se délka vzletu zvětší",
+        "čelní vítr zvyšuje relativní rychlost na profilu, a tak se délka vzletu zvětší",
+        "čelní vítr zvětšuje odpor letadla, a tak zvětšuje délku vzletu",
+        "vítr do zad pomáhá letadlu překonat odpor při zahájení rozjezdu, a tak zmenšuje délku vzletu"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 8,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Přízemní vítr na letišti může být kvůli tření slabší než výškový. Co může pilot očekávat, když po vzletu s mírným větrem do zad stoupá?",
+      "options": [
+        "pokles rychlosti a stoupavosti kvůli zesílení větru do zad",
+        "nárůst rychlosti a stoupavosti kvůli zesílení větru do zad",
+        "pokles rychlosti a stoupavosti kvůli zeslábnutí větru do zad",
+        "nárůst rychlosti a stoupavosti kvůli zeslabení větru do zad"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 9,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Co zkracuje délku přistání?",
+      "options": [
+        "silný čelní vítr",
+        "velká hustotní výška",
+        "velká tlaková výška",
+        "intenzivní déšť"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 9,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Pokud pro to letadlo není schváleno a odpovídajícím způsobem vybaveno:",
+      "options": [
+        "let do známých podmínek námrazy je zakázán a vstoupí-li do takových podmínek neúmyslně, má je neprodleně opustit",
+        "let ve známých podmínkách námrazy je povolen pouze po dobu, během které nenastane pokles jeho výkonnosti",
+        "let do oblastí srážek je zakázán",
+        "let do známých podmínek námrazy je zakázán a vstoupí-li do takových podmínek letadlo neúmyslně, lze v nich pokračovat, dokud existují podmínky pro let za vidu"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 9,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Rychlost vX znamená:",
+      "options": [
+        "daná výška je dosažena na minimální vzdálenosti",
+        "daná výška je dosažena za minimální čas",
+        "daná výška je dosažena s minimální spotřebou paliva",
+        "maximální nadmořská výška dosažená s výkonem 10 %"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 9,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Úhel sestupu je definován jako:",
+      "options": [
+        "úhel mezi horizontální rovinou a trajektorií letu, vyjádřeno ve stupních (°)",
+        "poměr mezi změnou výšky nad zemí a uletěnou horizontální vzdáleností za stejný čas, vyjádřeno v procentech (%)",
+        "úhel mezi horizontální rovinou a trajektorií letu, vyjádřeno v procentech (%)",
+        "poměr mezi změnou výšky nad zemí a uletěnou horizontální vzdáleností za stejný čas, vyjádřeno ve stupních (°)"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 9,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Pojem ustálený let je definován jako:",
+      "options": [
+        "nezrychlený let, kdy čtyři síly, tah-odpor a vztlak-tíha jsou v rovnováze",
+        "stoupání nebo klesání konstantní vertikální rychlostí v klidném ovzduší",
+        "let v klidném vzduchu bez turbulence a s dokonale vyváženým letadlem",
+        "let s konstantním nastavením výkonu beze změny kurzu"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 10,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Rychlost vY je definována jako:",
+      "options": [
+        "rychlost pro největší úhel stoupání",
+        "rychlost pro největší vertikální rychlost stoupání",
+        "nejlepší rychlost stoupání",
+        "nejlepší vzdálenost stoupání"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 10,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Rychlost vFE je definována jako:",
+      "options": [
+        "maximální rychlost s vysunutými klapkami",
+        "pádová nebo minimální ustálená rychlost s vysunutými klapkami",
+        "maximální rychlost s vysunutým podvozkem",
+        "pádová nebo minimální ustálená rychlost se zasunutými klapkami"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 10,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Rychlost vS0 je definována jako:",
+      "options": [
+        "pádová nebo minimální ustálená rychlost v určité konfiguraci",
+        "pádová nebo minimální ustálená rychlost v přistávací konfiguraci",
+        "maximální rychlost s vysunutým podvozkem",
+        "nepřekročitelná maximální rychlost"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 10,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jakou rychlost znamená začátek zeleného oblouku (2) na rychloměru? Viz obr. (PFP-008)",
+      "options": [
+        "vS0: pádová rychlost v přistávací konfiguraci",
+        "vS1: pádová rychlost se zasunutými klapkami",
+        "vFE: maximální rychlost s vysunutými klapkami",
+        "vNO: maximální rychlost pro normální provoz"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 10,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Jakou rychlost znamená konec zeleného oblouku (4) na rychloměru? Viz obr. (PFP-008)",
+      "options": [
+        "vNE: nepřekročitelná maximální rychlost",
+        "vS1: pádová rychlost se zasunutými klapkami",
+        "vFE: maximální rychlost s vysunutými klapkami",
+        "vNO: maximální rychlost pro normální provoz"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 11,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Jakou rychlost znamená červená značka na konci žlutého oblouku (5) na rychloměru? Viz obr. (PFP-008)",
+      "options": [
+        "vNE: nepřekročitelná maximální rychlost",
+        "vS1: pádová rychlost se zasunutými klapkami",
+        "vFE: maximální rychlost s vysunutými klapkami",
+        "vNO: maximální rychlost pro normální provoz"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 11,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Jakou rychlostí je třeba letět pro optimalizaci stoupavosti (tj. dosáhnout požadované výšky za minimální čas)?",
+      "options": [
+        "Vx, rychlost pro největší úhel stoupání",
+        "Vy, rychlost pro největší vertikální rychlost stoupání",
+        "Vy, rychlost pro největší úhel stoupání",
+        "Vx, rychlost pro největší vertikální rychlost stoupání"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 11,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Jaká je čelní / zdaní složka větru pro vzlet z dráhy 22 a vítr 250°/10 kt?",
+      "options": [
+        "5 kt čelní",
+        "5 kt do zad",
+        "9 kt čelní",
+        "9 kt do zad"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 11,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Je dáno: Teplota vnějšího vzduchu:-20 °C tlaková výška: 5000 ft hmotnost letounu: 750 kg čelní složka větru: 10 kt. Jaká je délka vzletu? Viz obr. (PFP-009)",
+      "options": [
+        "410 m",
+        "310 m",
+        "450 m",
+        "380 m"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 11,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Pilot má provést vzlet z dráhy 36, vítr je 240°, 12 kts. Jaké jsou složky větru působící na letadlo při vzletu a přistání?",
+      "options": [
+        "boční vítr zleva 10.4 kt, vítr do zad 6 kt",
+        "boční vítr zleva 6 kt, vítr do zad 10.4 kt",
+        "boční vítr zprava 10.4 kt, vítr do zad 6 kt",
+        "boční vítr zprava 6 kt, čelní vítr 10.4 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 12,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Jaká je délka vzletu při vzletové hmotnosti: 750 kg, podmínkách standardní atmosféry (ISA) nadmořské výšce letiště 4000 ft s větrem do zad 5 kt? Viz obr. (PFP-009)",
+      "options": [
+        "900 m",
+        "480 m",
+        "630 m",
+        "320 m"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 12,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Jaká je délka vzletu při vzletové hmotnosti 705 kg, OAT 20 °C, QNH 1013 hPa a nadmořské výšce letiště 3500 ft s větrem do zad 5 kt? Viz obr. (PFP-009)",
+      "options": [
+        "820 m",
+        "790 m",
+        "720 m",
+        "880 m"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 12,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Vzlet z dráhy 36, vítr 240°/12kts. Jaké jsou složky větru při vzletu a přistání?",
+      "options": [
+        "boční vítr zleva 10.4 kt, vítr do zad 6 kt",
+        "boční vítr zleva 6 kt, vítr do zad 10.4 kt",
+        "boční vítr zprava 10.4 kt, vítr do zad 6 kt",
+        "boční vítr zprava 6 kt, čelní vítr 10.4 kt"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 12,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Je dáno: Tlaková výška 2000 ft, teplota 31 °C, otáčky 2400, Jaká je spotřeba paliva (FF)? Viz obr. (PFP-012)",
+      "options": [
+        "22.8 l/h",
+        "21.7 l/h",
+        "19.1 l/h",
+        "19.5 l/h"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 12,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Je dáno: Teplota vnějšího vzduchu:-20°C tlaková výška 10.000 ft. Jaká je rychlost stoupání? Viz obr. (PFP-011)",
+      "options": [
+        "200 ft/min",
+        "350 ft/min",
+        "390 ft/min",
+        "450 ft/min"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 13,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Jaký je dolet za následujících podmínek? Teplota vnějšího vzduchu: 6 °C tlaková výška: 6000 ft výkon: 65 %. Viz obr. (PFP-013)",
+      "options": [
+        "503 NM",
+        "457 NM",
+        "482 NM",
+        "444 NM"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 13,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Jaký je dolet za následují cí ch podmínek? Teplota vnějšího vzduchu: 22 °C tlaková výška: 2000 ft výkon. 55 %. Viz obr. (PFP-013)",
+      "options": [
+        "450 NM",
+        "500 NM",
+        "480 NM",
+        "550 NM"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 13,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Je dáno: Teplota vnějšího vzduchu: 10 °C tlaková výška: 6000 ft výkon: 65 %. Jaká je pravá vzdušná rychlost (TAS)? Viz obr. (PFP-014)",
+      "options": [
+        "88 kt",
+        "96 kt",
+        "100 kt",
+        "92 kt"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 13,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-62"
+    },
+    {
+      "sourceNumber": "63",
+      "question": "Je dáno: Teplota vnějšího vzduchu:-2 °C tlaková výška: 8000 ft výkon: 75 %. Jaká je pravá vzdušná rychlost (TAS)? Viz obr. (PFP-014)",
+      "options": [
+        "100 kt",
+        "104 kt",
+        "110 kt",
+        "95 kt"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 13,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Jakou maximální stoupavost může dosáhnout letadlo v 9000 ft tlakové výšky při teplotě vnějšího vzduchu 12 °C? Viz obr. (PFP-011)",
+      "options": [
+        "200 ft/min",
+        "300 ft/min",
+        "350 ft/min",
+        "250 ft/min"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 14,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Jaká je maximální stoupavost letadla v tlakové výšce 6500 ft při teplotě vnějšího vzduchu 0 °C? Viz obr. (PFP-011)",
+      "options": [
+        "520 ft / min",
+        "480 ft / min",
+        "400 ft / min",
+        "800 ft / min"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 14,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-65"
+    },
+    {
+      "sourceNumber": "66",
+      "question": "Jaká je pravá vzdušná rychlost (TAS) (kt) a spotřeba paliva (l/h) při traťovém letu s výkonem 60 % ve FL 60 za následují cí ch podmínek? Teplota: ISA-20 °C QNH: 980 hPa. Viz obr. (PFP-012)",
+      "options": [
+        "95 kt. 19.6 l/h",
+        "95,75 kt. 19.8 l/h",
+        "96 kt. 19.1 l/h",
+        "110 kt. 25.1 l/h"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 14,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Jaká je pravá vzdušná rychlost (TAS) (kt) a spotřeba paliva při letu se 70 % výkonu v letové hladině 60 za následujících podmínek? Teplota: ISA-20 °C QNH: 980 hPa. Viz obr. (PFP-012)",
+      "options": [
+        "95 kt. 19.6 l/h",
+        "100 kt. 19.3 l/h",
+        "105 kt. 21.5 l/h",
+        "110 kt. 23.9 l/h"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 14,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-67"
+    },
+    {
+      "sourceNumber": "68",
+      "question": "Jaká je spotřeba paliva a pravá vzdušná rychlost při letu se 60 % výkonu v letové hladině 85 a při teplotě vnějšího vzduchu-25 °C? Viz obr. (PFP-014)",
+      "options": [
+        "spotřeba paliva: 20 l. TAS: 89 kt",
+        "spotřeba paliva: 18.5 l. TAS: 85 kt",
+        "spotřeba paliva: 17 l. TAS: 81 kt",
+        "spotřeba paliva: 17.5 l. TAS: 83 kt"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 15,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Jakou rychlostí je třeba stoupat do letové hladiny (FL) 75 po odletu z letiště s tlakovou výškou 3000 ft při vzletové hmotnosti 3000 lbs? OAT na letišti: 25 °C OAT ve FL 75: 0° C. Viz obr. (PFP-023)",
+      "options": [
+        "90 kt",
+        "100 kt",
+        "110 kt",
+        "120 kt"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 15,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-69"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Jaká je spotřeba paliva pro nastoupání z FL 65 do FL 95 za následujících podmínek? Hmotnost letadla: 3000 lb. OAT ve FL 65:-5° C OAT ve FL 95:-15° C. Viz obr. (PFP-023)",
+      "options": [
+        "2 GAL",
+        "1 GAL",
+        "3 GAL",
+        "6 GAL"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 15,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Jaká je uletěná vzdálenost pro nas t oupání z FL 65 do FL 95 za následujících podmínek: Hmotnost letadla: 3000 lb. OAT ve FL 65:-5 °C OAT ve FL 95:-15° C. Viz obr. (PFP-023)",
+      "options": [
+        "10 NM",
+        "6 NM",
+        "16 NM",
+        "3 NM"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 15,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Jaká je uletěná vzdálenost pro nastoupání do letové hladiny (FL) 75 po odletu z letiště s tlakovou výškou 3000 ft při vzletové hmotnosti 3000 lbs? OAT na letišti: 25 °C OAT ve FL 75: 0° C. Viz obr. (PFP-023)",
+      "options": [
+        "10 NM",
+        "6 NM",
+        "7 NM",
+        "4 NM"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 16,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-72"
+    },
+    {
+      "sourceNumber": "73",
+      "question": "Pojem maximální hodnota nadmořské výšky terénu (maximum elevation figure – MEF) je definován jako:",
+      "options": [
+        "nejvyšší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva, zaokrouhleno na nejbližších vyšších 100 ft",
+        "nejvyšší nadmořská výška terénu pokrývající oblast 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva 1000 ft (305 m), zaokrouhleno na nejbližších vyšších 100 ft",
+        "největší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky největší nadmořská výška terénu pokrývající oblast 1 stupně zeměpisné šířky a délky plus bezpečnostní rezerva zaokrouhlená na nejbližších nižších 100 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 16,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Jaký je účel čar protínajících trať letu při srovnávací navigaci?",
+      "options": [
+        "pro vizualizaci omezení doletu od letiště odletu",
+        "slouží jako snadno rozpoznatelná pomůcka při možné ztrátě orientace",
+        "za letu označují další použitelné letiště na trati",
+        "pomáhají pokračovat v letu, klesne-li dohlednost pod minima pro let podle pravidel letu za viditelnosti"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 16,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Polokruhové pravidlo pro lety VFR je založeno na:",
+      "options": [
+        "magnetické trati (MC)",
+        "zeměpisném kurzu (TH)",
+        "magnetickém kurzu (MH)",
+        "zeměpisné trati (TC)"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 16,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Jaká je nejnižší možná letová hladina za VFR po zeměpisné trati 181° při deklinaci 3° na východ?",
+      "options": [
+        "FL 055",
+        "FL 050",
+        "FL 065",
+        "FL 060"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 16,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Horní hranice LO R 16 je: Viz obr. (PFP-056)",
+      "options": [
+        "FL 150",
+        "1,500 m MSL",
+        "1,500 ft MSL",
+        "1,500 ft GND"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 17,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Horní hranice LO R 4 je: Viz obr. (PFP-030)",
+      "options": [
+        "4,500 ft MSL",
+        "4,500 ft AGL",
+        "1,500 ft MSL",
+        "1,500 ft AGL"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 17,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Kolik paliva pro pojíždění musí být spotřebováno před vzletem, aby se snížila hmotnost letadla na maximální vzletovou hmotnost? Maximální hmotnost při zahájení letu: 1150 kg, skutečná hmotnost při zahájení letu: 1148 kg, maximální vzletová hmotnost: 1145 kg.",
+      "options": [
+        "4 litry",
+        "3 litry",
+        "5 litrů",
+        "2 litry"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 17,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-79"
+    },
+    {
+      "sourceNumber": "80",
+      "question": "Jsou-li dány následující údaje, jaké je množství traťového paliva? Palivo pro pojíždění: 5 litrů, palivo pro vzlet a stoupání: 12 litrů, palivo pro let po trati: 25 litrů, palivo pro klesání, přiblížení a přistání: 7 litrů, palivo pro pojíždění a zajetí na místo stání: 3 litry, palivo pro let na náhradní letiště: 13 litrů, konečná záloha paliva: 10 litrů.",
+      "options": [
+        "4 4 litrů",
+        "75 litrů",
+        "52 litrů",
+        "49 litrů"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 17,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "Podle letecké mapy má letiště Friesach/Hirt (LOKH) travnatou vzletovou a přistávací dráhu dlouhou 707 m. Dráha v provozu je 17 při větru 180 10 kt. Požadovaná délka přistání pro Vaše letadlo je za současných podmínek 550 m. Vezmete-li v úvahu uvedený NOTAM, je bezpečné plánovat LOKH jako náhradní letiště? Viz obr. (PFP-026)",
+      "options": [
+        "ne",
+        "ano",
+        "možná",
+        "nevím"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 18,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Do jaké výšky jsou zakázány přelety podle uvedené zprávy NOTAM? Viz obr. (PFP-024)",
+      "options": [
+        "nadmořská výška 9500 ft MSL",
+        "FL 95",
+        "nadmořská výška 9500 m MSL",
+        "výška 9500 ft nad zemí"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 18,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-82"
+    },
+    {
+      "sourceNumber": "83",
+      "question": "EOBT (předpokládaný čas zahájení letu) se uvádí do letového plánu jako:",
+      "options": [
+        "středoevropský čas (CET)",
+        "místní střední čas (LMT)",
+        "koordinovaný světový čas (UTC)",
+        "standardní čas (ST)"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 18,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-83"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Podle plánu letu o jaký druh letu se jedná? Viz obr. (PFP-051a)",
+      "options": [
+        "let v noci podle pravidel letu za vidu",
+        "let podle pravidel letu podle přístrojů",
+        "okruhy podle pravidel letu za vidu",
+        "přeshraniční let"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 18,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-84"
+    },
+    {
+      "sourceNumber": "85",
+      "question": "Rychlost uvedená v letovém plánu je: Viz obr. (PFP-051)",
+      "options": [
+        "100 m/h",
+        "100 km/h",
+        "100 kt",
+        "1000 kt"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 18,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-85"
+    },
+    {
+      "sourceNumber": "86",
+      "question": "Co je třeba provést při mezinárodním letu?",
+      "options": [
+        "schválit výjimku",
+        "vysílat zprávy o nebezpečí",
+        "podat letový plán",
+        "podávat pravidelně hlášení o poloze"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 19,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-86"
+    },
+    {
+      "sourceNumber": "87",
+      "question": "Komu může být za letu podán letový plán?",
+      "options": [
+        "letové informační službě (FIS)",
+        "letecké informační službě (AIS)",
+        "službě pátrání a záchrany (SAR)",
+        "provozovateli dalšího letiště na trati"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 19,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-87"
+    },
+    {
+      "sourceNumber": "88",
+      "question": "Jaký je rozdíl mezi pravou vzdušnou rychlostí v silném větru do zad a v klidném vzduchu?",
+      "options": [
+        "pro maximální dolet jsou stejné",
+        "pro maximální výdrž je v silném větru do zad mírně vyšší",
+        "pro maximální výdrž je v silném větru do zad výrazně nižší",
+        "pro maximální dolet je v silném větru do zad mírně nižší"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 19,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-88"
+    },
+    {
+      "sourceNumber": "89",
+      "question": "Jak se chová pravá vzdušná rychlost při letu konstantní indikovanou rychlostí ve stoupání?",
+      "options": [
+        "roste",
+        "klesá",
+        "nad 5000 ft zůstává konstantní",
+        "pod 5000 ft zůstává konstantní"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 19,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-89"
+    },
+    {
+      "sourceNumber": "90",
+      "question": "Je dáno: Palivo při vzletu = 200 lbs, palivo pro let na náhradní letiště = 40 lbs, konečná záloha paliva = 30 lbs. Po 25 minutách letu je zbývající palivo 120 lbs. Pokud se spotřeba paliva nezmění, zbývající doba letu na cílové letiště by neměla překročit:",
+      "options": [
+        "15.6 min",
+        "37.5 min",
+        "59.4 min",
+        "20.0 min"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 19,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-90"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Pro let VFR je dáno: Palivo při vzletu je 180 kg včetně záložního paliva, které je 30 % z paliva při vzletu. Po uletění poloviny vzdálenosti je zbývající palivo 100 kg. Podmínky při dokončení letu se nezmění. Stanovte zbytek paliva po přistání na cílovém letišti:",
+      "options": [
+        "20 kg",
+        "40 kg",
+        "10 kg",
+        "80 kg"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 20,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-91"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Při letu VFR je na kontrolním bodu zbývající využitelné palivo 80 USG. Záloha paliva je 20 USG. Zbývající doba letu dle letového plánu je 2h 20min. Jaká je největší přijatelná spotřeba paliva (FF) pro zbytek letu?",
+      "options": [
+        "FF = 25.7 USG/hod",
+        "FF = 34.3 USG/hod",
+        "FF = 42.9 USG/hod",
+        "FF = 8.6 USG/hod"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 20,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-92"
+    },
+    {
+      "sourceNumber": "93",
+      "question": "(Pro tuto otázku použijte přílohu nebo CAP697 SEP1 obr. 2.2 tabulka 2.2.3). Je plánován let z EDWF (Leer Papenburg) do EDWH (Oldenburg Hatten) za následujících podmínek: Výška letu po trati = FL 75, teplota = ISA, traťová hmotnost = 3400 lbs, nastavení výkonu = 23.0 in. HG @ 2300 RPM. Stanovte pravou vzdušnou rychlost (TAS) a spotřebu paliva (FF):",
+      "options": [
+        "TAS = 160 kt FF = 11.9 GPH",
+        "TAS = 145 kt FF = 71.1 GPH",
+        "TAS = 160 kt FF = 12.3 GPH",
+        "TAS = 145 kt FF = 11.9 GPH"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 20,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "(Pro tuto otázku použijte přílohu nebo CAP697 SEP1 obr. 2.2 tabulka 2.2.3) Při plánování letu z EDWH (Oldenburg Hatten) do EDWF (Leer Papenburg) je dáno: Letová hladina = FL 65, teplota = ISA+20, hmotnost = 3400 lbs, nastavení výkonu = 23.0 in. HG @ 2300 R PM. Jaká bude indikovaná rychlost (IAS) a spotřeba paliva?",
+      "options": [
+        "IAS = 142 kt FF = 1 1.5 galonů za hodinu",
+        "IAS = 145 kt FF = 11. 0 galonů za hodinu",
+        "IAS = 158kt FF = 11. 0 galonů za hodinu",
+        "IAS = 150 kt FF = 12. 0 galonů za hodinu"
+      ],
+      "correctIndex": 3,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 20,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-94"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "(Pro tuto otázku použijte přílohu nebo CAP697 SEP1 obr. 2.2 tabulka 2.2.3) Pro plánování letu je dáno: Doba letu \"nad-nad\" = 2h 43min, tlaková výška = 6.500 ft, teplota = ISA-20, nastavení výkonu = 2300 RPM, palivo pro pojíždění = 2 USG, dodatečný čas na stoupání = 7 min, dodatečný čas na přiblížení a přistání = 10 min. Záložní palivo má být 30% traťového paliva. Stanovte minimální množství paliva při zahájení letu.",
+      "options": [
+        "50.4 USG",
+        "39.2 USG",
+        "47.3 USG",
+        "43.8 USG"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 21,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-95"
+    },
+    {
+      "sourceNumber": "96",
+      "question": "(Pro tuto otázku použijte přílohu nebo CAP697 SEP1 obr. 2.2 tabulka 2.2.3) Pro pláno vání letu je dáno: Doba letu \"nad-nad\" = 2h 42min, tlaková výška = 7.500 ft, teplota = ISA, nastavení výkonu = 2300 RPM, palivo pro pojíždění = 2 USG, dodatečný čas na stoupání = 8 min, dodatečný čas na přiblížení a přistání = 10 min. Záloha paliva má být 30 % traťového paliva. Stanovte minimální množství paliva při zahájení letu.",
+      "options": [
+        "48.4 USG",
+        "37.7 USG",
+        "51.8 USG",
+        "46.4 USG"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 21,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-96"
+    },
+    {
+      "sourceNumber": "97",
+      "question": "Pro let je dáno: Traťové palivo = 70 US galonů, palivo pro mimořádné okolnosti = 5 % traťového paliva, palivo pro let na náhradní letiště a konečná záloha paliva = 20 US galonů, využitelné palivo při vzletu = 95 US galonů. Po uletění poloviny vzdálenosti bylo spotřebováno 40 US galonů. Předpokládejte, že se spotřeba paliva nezmění. Který výrok je pravdivý?",
+      "options": [
+        "zbývající palivo nestačí pro přistání na cílovém letišti se zbývajícím palivem pro let na náhradní letiště a s konečnou zálohou paliva",
+        "po přistání zbyde 15.0 US galonů paliva plus palivo pro let na náhradní letiště a konečná záloha paliva",
+        "po přistání zbyde 5.0 US galonů plus palivo pro let na náhradní letiště a konečná záloha paliva",
+        "po přistání zbyde celkem 40.0 US galonů paliva"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 21,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-97"
+    },
+    {
+      "sourceNumber": "98",
+      "question": "Pro let je dáno: Traťové palivo = 70 US galonů, palivo pro mimořádné okolnosti = 5 % traťového paliva, palivo pro let na náhradní letiště a konečná zásoba paliva = 20 US galonů. Využitelné palivo při vzletu = 90 US galonů. Po uletění poloviny vzdálenosti bylo spotřebováno 30 US galonů. Předpokládejte, že spotřeba paliva zůstane nezměněna. Který výrok je pravdivý? po přistání bude zbytek paliva 10.0 US galonů plus palivo pro let na náhradní letiště a konečná záloha paliva",
+      "options": [
+        "zbývající palivo nestačí pro přistání na cílovém letišti se zbytkem paliva pro let na náhradní letiště a konečnou zálohou paliva",
+        "po přistání zbyde 30.0 US galonů plus palivo pro let na náhradní letiště a konečná záloha paliva",
+        "po přistání zbyde celkem 10.0 US galonů paliva"
+      ],
+      "correctIndex": 1,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 22,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-98"
+    },
+    {
+      "sourceNumber": "99",
+      "question": "(Pro tuto otázku použijte přílohu PFP-061) Jaký symbol dle ICAO označuje skupinu neosvětlených překážek?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 22,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-99"
+    },
+    {
+      "sourceNumber": "100",
+      "question": "(Pro tuto otázku použijte přílohu PFP-062) Jaký symbol dle ICAO označuje civilní letiště (ne mezinárodní) se zpevněnou vzletovou a přistávací drahou?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 0,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 22,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-100"
+    },
+    {
+      "sourceNumber": "101",
+      "question": "(Pro tuto otázku použijte přílohu PFP-063) Jaký symbol dle ICAO označuje nadmořskou výšku bodu?",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correctIndex": 2,
+      "category": "Provedeni a planovani letu",
+      "aircraft": "Letoun",
+      "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
+      "page": 22,
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-101"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Doba letu je definována jako:",
+      "options": [
+        "celková doba od okamžiku, kdy se letoun pohne, dokud se po skončení letu nezastaví",
+        "doba od zahájení vzletu do dosednutí při přistání celková doba od prvního vzletu do posledního přistání v souvislosti s jedním nebo více po sobě následujícími lety doba od spuštění motoru za účelem vzletu do opuštění letadla po vypnutí motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-letoun-(2)-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Co je třeba vzít v úvahu při plánování letu nad vodou, když při nouzovém přistání nelze doletět na zem?",
+      "options": [
+        "pro všechny cestující musí být k dispozici plovací vesty nebo záchranné čluny během celého letu musí být spojení s nejbližším stanovištěm služby řízení letů",
+        "letový plán musí obsahovat přesné traťové body",
+        "během celého letu musí být odpovídač sekundárního radaru nastaven na kód 7600"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-letoun-(2)-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Který z následujících jevů má vliv na hluk vnímaný osobou na zemi? 1) nastavení výkonu motoru 2) otáčky vrtule 3) poloha podvozku 4) poloha vztlakových klapek 5) trať letu 6) výška letu nad zemí 7) pravidla letu",
+      "options": [
+        "1, 2, 3, 4, 5, 6",
+        "1, 5, 6 1, 5, 6, 7 3, 4, 5, 6, 7"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-letoun-(2)-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jak může pilot motorového letadla snížit na minimum hluk vydávaný při sestupu a přiblížení?",
+      "options": [
+        "vysoké přiblížení s nastavením minimálního výkonu, pozdější sestup, pozdější konfigurace, dodržení stanovených příletových tratí",
+        "nízké přiblížení s nastavením minimálního výkonu, pozdější konfigurace, strmé přiblížení, dodržení stanovených příletových tratí",
+        "normální přiblížení s nastavením normálního výkonu, konfigurace před zahájením klesání, nejkratší možná příletová trať",
+        "klesání a přiblížení v přistávací konfiguraci, dodržení úhlu se s tupu 3°, přímé přiblížení kdykoliv je to možné"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-letoun-(2)-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Kdy je třeba se vyhýbat zatáčkám v malých výškách nad vesnicemi s ohledem na protihlukové postupy?",
+      "options": [
+        "při klesání",
+        "při horizontálním letu",
+        "při stoupání při přiblížení"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-letoun-(2)-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Jak mají být prováděny odlety v blízkosti vesnic? nízko a rychle mezi vesnicemi pomalu s nízkými otáčkami vrtule",
+      "options": [
+        "vesnice mají být oblétány a přelétány v dostatečné výšce",
+        "stoupání a změny směru mají být prováděny co nejpomaleji"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-letoun-(2)-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "U kterého druhu motoru lze předpokládat požár karburátoru?",
+      "options": [
+        "pístový motor",
+        "elektromotor",
+        "turbínový motor",
+        "turbovrtulový motor"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-letoun-(2)-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Proč je nebezpečné pumpovat plynovou pákou p ři sp o uštění motoru ve studeném počasí?",
+      "options": [
+        "může to způsobit požár karburátoru",
+        "může dojít k tvorbě námrazy v karburátoru rozředí se tím olej může dojít ke spuštění motoru s nedostatečným výkonem"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-letoun-(2)-8"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Může být znovu spuštěn motor, na kterém byl před tím požár?",
+      "options": [
+        "ne, nebezpečí nového vznícení požáru by bylo příliš vysoké",
+        "ano, pokud letadlo letí v bezpečné výšce ano, ale pouze na zemi pro účely pojíždění ano, ale pouze došlo-li během spouštění motoru k požáru karburátoru"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-letoun-(2)-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Jaký plyn je při požáru motoru nejnebezpečnější? kyslík dusík",
+      "options": [
+        "kysličník uhelnatý",
+        "kysličník uhličitý"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-letoun-(2)-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Při požáru motoru vnikne do pilotní kabiny dým. Co je třeba okamžitě učinit?",
+      "options": [
+        "vypnout topení a ventilaci",
+        "vypnout hlavní vypínač a zapalování",
+        "vypnout avioniku a osvětlení kabiny",
+        "vypnout ohřev Pitotovy trubice a čelního skla"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-letoun-(2)-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Co má být první akcí při požáru kabeláže za letu?",
+      "options": [
+        "vypnout hlavní vypínač",
+        "uzavřít palivový ventil otevřít okna otevřít větrání kabiny"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-letoun-(2)-13"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Za letu se za přístrojovou deskou objeví trocha dýmu. Lze předpokládat požár elektrického systému. Co má udělat pilot s ohledem na letovou příručku?",
+      "options": [
+        "vypnout hlavní vypínač",
+        "vypnout topení vypnout motor použít hasící přístroj"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-letoun-(2)-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Za letu se za přístrojovou deskou objeví trocha dýmu. Lze předpokládat požár motoru. Co má pilot udělat s ohledem na letovou příručku?",
+      "options": [
+        "vypnout hlavní vypínač",
+        "vypnou t topení",
+        "vypnout motor",
+        "použít hasící přístroj"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-letoun-(2)-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Střih větru je: pomalý nárůst rychlosti větru ve výškách nad 13000 ft",
+      "options": [
+        "sestupný vítr za pohořím",
+        "změna vertikální nebo horizontální složky a směru větru",
+        "změna rychlosti větru o více než 15 kt"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-letoun-(2)-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Jaký meteorologický jev typicky souvisí se střihem větru?",
+      "options": [
+        "bouřky",
+        "teplá fronta mlha stabilní oblasti vysokého tlaku vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-letoun-(2)-18"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Při přiblížení je zaznamenán střih větru se snížením čelní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprovede-li pilot žádné korekce?",
+      "options": [
+        "trajektorie se sníží, IAS klesne",
+        "trajektorie se zvýší, IAS klesne trajektorie se sníží, IAS vzroste trajektorie se zvýší, IAS vzroste"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-letoun-(2)-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Při přiblížení je zaznamenán střih větru s nárůstem čelní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprojde-li pilot žádné korekce?",
+      "options": [
+        "trajektorie se sníží, IAS klesne trajektorie se zvýší, IAS klesne",
+        "trajektorie se sníží, IAS vzroste",
+        "trajektorie se zvýší, IAS vzroste"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-letoun-(2)-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Při přiblížení je zaznamenán střih větru s poklesem zadní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprovede-li pilot žádné korekce? trajektorie se sníží, IAS klesne",
+      "options": [
+        "trajektorie se zvýší, IAS vzroste",
+        "trajektorie se sníží, IAS vzroste",
+        "trajektorie se zvýší, IAS klesne"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-letoun-(2)-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Po vzletu nastal střih větru se snížením čelní složky větru. Výsledkem je:",
+      "options": [
+        "letadlo letí nad očekávanou trajektorií stoupání",
+        "pravá vzdušná rychlost (TAS) vzroste",
+        "letadlo letí pod očekávanou trajektorií stoupání traťová rychlost (GS) klesne"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-letoun-(2)-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Jak lze za letu rozpoznat střih větru?",
+      "options": [
+        "náhlé změny polohy letadla, rychlosti letu a stoupavosti náhlé změny kurzu, rychlosti zatáčení, otáček motoru a teploty oleje",
+        "nečekaný nástup kouřma související s vysokými straty, které následují oblohu bez oblačnosti a s bezvětřím náhlé změny tlaku oleje, teploty oleje, otáček motoru a nadmořské výšky"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-letoun-(2)-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jaký jev lze očekávat v bodu 2 mikroburstu? Viz příloha (OPR-001)",
+      "options": [
+        "pokles stoupavosti",
+        "nárůst rychlosti letu zmenšení úhlu klesání stejný úhel k lesání"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-letoun-(2)-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Jaký jev lze očekávat v bodu 3 mikroburstu? Viz příloha (OPR-001)",
+      "options": [
+        "pokles rychlosti letu nárůst rychlosti letu",
+        "pokles stoupavosti",
+        "konstantní rychlost klesání"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-letoun-(2)-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Jak se lze vyhnout vlétnutí do střihu větru?",
+      "options": [
+        "neprovádět vzlet a přistání při intenzivních přeháňkách nebo bouřkách",
+        "vyhnout se oblastem srážek, zejména v zimě, volit malé výšky letu",
+        "vyhnout se termicky aktivním oblastem, zejména v létě, nebo létat pod těmito oblastmi",
+        "neprovádět vzlety a přistání v horském terénu a je-li to možné, létat v rovinatých oblastech"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-letoun-(2)-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Co má pilot provést, když nastal střih větru? 1. snížit rychlost letu 2. zasunout podvozek a klapky 3. zachovat stávající konfiguraci 4. nastavit výkon motoru 1 a 2",
+      "options": [
+        "3 a 4",
+        "1 a 3 2 a 4"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-letoun-(2)-28"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Turbulence v úplavu při vzletu vznikne, jakmile letoun:",
+      "options": [
+        "začne zrychlovat",
+        "dosáhne výšky 15 ft",
+        "nadzdvihne příďové kolo odpoutá od země hlavní podvozek"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-letoun-(2)-31"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Turbulence v úplavu je zvláště intenzivní:",
+      "options": [
+        "při letu nízkými rychlostmi při letu vysokými rychlostmi",
+        "při letu ve velkých výškách",
+        "při letu v malých výškách"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-letoun-(2)-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Turbulence v úplavu je zvláště intenzivní:",
+      "options": [
+        "při velké hmotnosti letadla",
+        "při malé hmotnosti letadla při letu s velkým výkonem motoru při letu s malým výkonem motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-letoun-(2)-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Intenzita turbulence v úplavu závisí na:",
+      "options": [
+        "teplotě úhlu nastavení listů vrtule",
+        "hmotnosti letadla",
+        "nadmořské výšce letu"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-letoun-(2)-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "Dvě letadla stejného typu, stejných hmotností a ve stejné konfiguraci letí rozdílnými rychlostmi. Které z nich vyvolá intenzivnější turbulenci v úplavu?",
+      "options": [
+        "l etadlo letící pomaleji",
+        "letadlo letící rychleji",
+        "letadlo letící ve větší nadmořské výšce",
+        "letadlo letící v menší nadmořské výšce"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-letoun-(2)-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Dvě letadla stejného typu, stejných hmotností a ve stejné konfiguraci letí rozdílnými rychlostmi a v rozdílných nadmořských výškách. Které z nich vyvolá intenzivnější turbulenci v úplavu?",
+      "options": [
+        "letadlo letící pomaleji letadlo letící rychleji letadlo letící ve větší nadmořské výšce",
+        "letadlo letící v menší nadmořské výšce"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-letoun-(2)-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Jaké existuje nebezpečí při vzletu za odlétajícím těžkým letounem za mírného bočního větru?",
+      "options": [
+        "turbulence v úplavu na vzletové dráze nebo v její blízkosti",
+        "turbulence v úplavu je rozptýlena a odkloněna",
+        "turbulence v úplavu rotuje rychleji a výše turbulence v úplavu se otáčí napříč vzletovou dráhou"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-letoun-(2)-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Lehké letadlo má přistát za dopravním letadlem náležícím do kategorie turbulence v úplavu \"střední\" nebo \"těžké\" na dlouhou přistávací dráhu. Jek se může vyhnout turbulenci v úplavu od dopravního letadla?",
+      "options": [
+        "strmým přiblížením a dotykem se zemí až za bodem dotyku příďového podvozku dopravního letadla",
+        "nízkým přiblížením a velmi krátkým přistáním. Lehké letadlo by mělo být schopné zastavit před bodem dotyku dopravního letadla",
+        "nízkým přiblížením a dlouhým přistáním s dotykem se zemí za bodem dotyku příďového podvozku dopravního letadla strmým přiblížením a velmi krátkým přistáním. Lehké letadlo by mělo bý t schopné zastavit před bodem dotyku se zemí dopravního letadla"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 9,
+      "id": "6-provozni-postupy-letoun-(2)-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Na co je třeba dávat pozor při pojíždění za dopravním letadlem?",
+      "options": [
+        "vyhnout se proudu plynů za jeho motory, dodržet minimální vzdálenost 200 m",
+        "vyhnout se proudu plynů za jeho motory, dodržet minimální vzdálenost 600 m",
+        "vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 300 m vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 700 m"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 9,
+      "id": "6-provozni-postupy-letoun-(2)-40"
+    },
+    {
+      "sourceNumber": "41",
+      "question": "Technický problém vyžaduje provést nouzové přistání mimo letiště. Co je třeba učinit s ohledem na letovou příručku?",
+      "options": [
+        "zvolit vhodnou plochu pro přistání, naplánovat přiblížení, provést příslušné nouzové úkony, vyhlásit stav nouze, zahájit přiblížení ve vhodnou dobu a soustředit se na něj",
+        "vyhlásit stav nouze, provést příslušné nouzové úkony, doletět co nejblíže k letišti, aby záchranné složky byly v blízkosti",
+        "informovat služby řízení letového provozu a vyžádat technickou pomoc, v letové příručce vyhledat odkaz na danou situaci a provést nouzové přistání",
+        "snížit rychlost a letadlo uvést do konfigurace pro přistání, aby pilot získal čas, vyhlásit stav nouze, provést příslušné nouzové úkony a nouzové přistání"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 9,
+      "id": "6-provozni-postupy-letoun-(2)-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Jaká metoda je vhodná pro přiblížení na nepřipravené přistání do terénu? strmé přiblížení pro zachování nízké hladiny hluku",
+      "options": [
+        "prohlídka terénu pro stanovení trajektorie přiblížení a přistání nízké přímé přiblížení, aby byl zajištěn vizuální kontakt se zemí",
+        "rychlé přiblížení, kontrola výkonu, přistání s co nejkratším dojezdem"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 9,
+      "id": "6-provozni-postupy-letoun-(2)-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Jaká plocha je vhodná pro přistání mimo letiště?",
+      "options": [
+        "zorané pole",
+        "plocha pro sport na vesnici",
+        "sklizené obilné pole paseka s vysokou suchou trávou"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 10,
+      "id": "6-provozni-postupy-letoun-(2)-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Nouzové přistání je:",
+      "options": [
+        "provedeno jako reakce na okolnosti nutící letadlo přistát provedeno při pokusu zachovat bezpečnost letadla a osob na palubě",
+        "provedeno bez výkonu motorů",
+        "provedeno se zasunutými klapkami"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 10,
+      "id": "6-provozni-postupy-letoun-(2)-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Přistání provedené za okolností nutících letadlo k přistání je:",
+      "options": [
+        "nouzové přistání",
+        "bezpečnostní přistání",
+        "urgentní přistání",
+        "přistání mimo letiště"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 10,
+      "id": "6-provozni-postupy-letoun-(2)-45"
+    },
+    {
+      "sourceNumber": "46",
+      "question": "Bezpečnostní přistání je:",
+      "options": [
+        "provedeno jako reakce na okolnosti nutící letadlo přistát",
+        "provedeno jako pokus zachovat bezpečnost letu provedeno při vysazení pohonné jednotky letadla provedeno se zasunutými klapkami"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 10,
+      "id": "6-provozni-postupy-letoun-(2)-46"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jak se má pilot připravit na let VFR na dlouhou vzdálenost nad vodou, je-li nepravděpodobné, že při vysazení motoru lze dosáhnout pobřeží?",
+      "options": [
+        "mít k dispozici plovací vesty nebo záchranné čluny pro všechny osoby na palubě",
+        "podat letový plán obsahující přesné traťové body být připraven letět s odpovídačem sekundárního radaru udržovat nepřetržité spojení se službami řízení letového provozu"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 11,
+      "id": "6-provozni-postupy-letoun-(2)-48"
+    },
+    {
+      "sourceNumber": "49",
+      "question": "Co má obsahovat instruktáž pro cestující v případě neodkladného nouzového přistání?",
+      "options": [
+        "druh nebezpečí, úmysl, bezpečnostní poloha, evakuační cesty, činnost po přistání jak pracuje palubní radiostanice, kód nouzového majáku polohy, telefonní číslo na příslušné stanoviště pátrání a záchrany",
+        "jak číst seznam nouzových úkonů, jak vypnout motor, telefonní číslo na domácí letiště",
+        "krevní skupiny osob na palubě, umístění soupravy pro první pomoc"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 11,
+      "id": "6-provozni-postupy-letoun-(2)-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Brzdy a kola jsou po bezpečnostním přistání velmi horké. Jak se k nim má pilot přibližovat? zleva nebo zprava",
+      "options": [
+        "zepředu nebo zezadu",
+        "pod úhlem 45°",
+        "zepředu a zleva nebo zprava"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 11,
+      "id": "6-provozni-postupy-letoun-(2)-50"
+    },
+    {
+      "sourceNumber": "51",
+      "question": "Co může nastat při přehřátí brzd?",
+      "options": [
+        "zasažené pneumatiky se mohou roztrhnout podélně",
+        "zasažené pneumatiky se mohou roztrhnout příčně nebo ve směru rotace zasažené brzdy je třeba chladit halonem je třeba odstranit kryty kol, aby se zlepšilo chlazení"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 11,
+      "id": "6-provozni-postupy-letoun-(2)-51"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Jaký je účinek mokré trávy na délku vzletu a přistání?",
+      "options": [
+        "zkrácení délky vzletu a prodloužení délky přistání",
+        "prodloužení délky vzletu a prodloužení délky přistání prodloužení délky vzletu a zkrácení délky přistání zkrácení délky vzletu a zkrácení délky přistání"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 12,
+      "id": "6-provozni-postupy-letoun-(2)-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Kdy je vzletová a přistávací dráha považována za znečistěnou?",
+      "options": [
+        "je-li více než 25 % povrchu pokryto vodou, rozbředlým sněhem, sněhem nebo ledem silnějším než 3 mm",
+        "je-li více než 50 % povrchu požadované délky a šířky dráhy pokryto vodou, rozbředlým sněhem nebo ledem více než 3 mm hlubokým",
+        "je-li více než 75 % požadované délky a šířky dráhy pokryto znečištěním jako sníh, zmrazky, led, písek",
+        "je-li více než 50 % požadované délky a šířky dráhy pokryto znečištěním jako sníh, zmrazky, led, písek"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 12,
+      "id": "6-provozni-postupy-letoun-(2)-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Jaké musí být minimální pokrytí dráhy ledem nebo sněhem, aby byla znečištěnou? 75 %",
+      "options": [
+        "50 %",
+        "10 %",
+        "0,25"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 12,
+      "id": "6-provozni-postupy-letoun-(2)-55"
+    },
+    {
+      "sourceNumber": "56",
+      "question": "Mokrý sníh na dráze může způsobit:",
+      "options": [
+        "zvětšenou délku rozjezdu při vzletu",
+        "snížený odpor při rozjezdu během vzletu nárůst vztlaku pokles vztlaku"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 12,
+      "id": "6-provozni-postupy-letoun-(2)-56"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Jaké nebezpečí pro přistávající letadlo představuje intenzivní dešťová přeháňka?",
+      "options": [
+        "posun označení prokluzu pneumatiky",
+        "delší brzdná vzdálenost kvůli akvaplaninku zmenšená brzdná vzdálenost kvůli akvaplaninku obtížné podrovnání kvůli odrazu světla"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 13,
+      "id": "6-provozni-postupy-letoun-(2)-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jak se chovat při očekáváném akvaplaninku po přistání?",
+      "options": [
+        "o táčejí-li se všechna kola, brzděte mírně a směr udržujte kormidly",
+        "intenzivně brzděte, abyste snížili rychlost letadla pod kritickou rychlost akvaplaninku, a pak pokračujte normálně v přistávání",
+        "přidejte výkon a pro brzdění využijte klapky a spoilery",
+        "vybočte letadlo výchylkou křidélek a opačnou výchylkou směrovky, abyste využil trup letadla k aerodynamickému brzdění"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 13,
+      "id": "6-provozni-postupy-letoun-(2)-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Jak má být provedeno přistání na znečištěnou dráhu, je-li nevyhnutelné?",
+      "options": [
+        "přiblížení s minimální možnou boční složkou větru, maximální nastavení klapek, pevný dotyk na minimální rychlosti, brzdit opatrně",
+        "přiblížení na minimální možné boční složce větru, minimální nastavení klapek, měkký dotyk na minimální rychlosti, nebrzdit",
+        "přiblížení na minimální možné boční složce větru, minimální nastavení klapek, měkký dotyk s pozitivním podélným sklonem a minimál ní rychlostí, nebrzdit",
+        "přiblížení na minimální možné boční složce větru, minimální nastavení klapek, dotyk s negativním podélným sklonem a na minimální rychlosti, brzdit opatrně"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 13,
+      "id": "6-provozni-postupy-letoun-(2)-60"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Doba letu je:",
+      "options": [
+        "doba od okamžiku, kdy se rotory začnou otáčet, do okamžiku, kdy se po skončení letu zastaví",
+        "doba od zahájení vzletu do dosednutí při přistání",
+        "celková doba od prvního vzletu do posledního přistání v souvislosti s jedním nebo více po sobě následujícími lety",
+        "doba od spuštění motoru za účelem vzletu do opuštění letadla po vypnutí motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-vrtulnik-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Co je třeba vzít v úvahu při plánování letu nad vodou, když při nouzovém přistání nelze doletět na zem?",
+      "options": [
+        "pro všechny cestující musí být k dispozici plovací vesty nebo záchranné čluny",
+        "během celého letu musí být spojení s nejbližším stanovištěm služby řízení letů",
+        "letový plán musí obsahovat přesné traťové body",
+        "během celého letu musí být odpovídač sekundárního radaru nastaven na kód 7600"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-vrtulnik-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Kdy je třeba se vyhýbat zatáčkám v malých výškách nad vesnicemi s ohledem na protihlukové postupy?",
+      "options": [
+        "při klesání",
+        "při horizontálním letu",
+        "při stoupání",
+        "při přiblížení"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-vrtulnik-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "U kterého druhu motoru lze předpokládat požár karburátoru?",
+      "options": [
+        "pístový motor",
+        "elektromotor",
+        "turbínový motor",
+        "turbovrtulový motor"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-vrtulnik-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Proč je nebezpečné pumpovat plynovou pákou p ři spuštění motoru ve studeném počasí?",
+      "options": [
+        "může to způsobit požár karburátoru",
+        "může dojít k tvorbě námrazy v karburátoru",
+        "rozředí se tím olej",
+        "může dojít ke spuštění motoru s nedostatečným výkonem"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 1,
+      "id": "6-provozni-postupy-vrtulnik-5"
+    },
+    {
+      "sourceNumber": "6",
+      "question": "Jaké nebezpečí existuje při spouštění motoru?",
+      "options": [
+        "jiskření",
+        "požár kabeláže",
+        "požár karburátoru",
+        "výfuk dýmu"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-vrtulnik-6"
+    },
+    {
+      "sourceNumber": "7",
+      "question": "Může být znovu spuštěn motor, na kterém byl před tím požár?",
+      "options": [
+        "ne, nebezpečí nového vznícení požáru by bylo příliš vysoké",
+        "ano, pokud letadlo letí v bezpečné výšce",
+        "ano, ale pouze na zemi pro účely pojíždění",
+        "ano, ale pouze došlo-li během spouštění motoru k požáru karburátoru"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-vrtulnik-7"
+    },
+    {
+      "sourceNumber": "8",
+      "question": "Jaký plyn je při požáru motoru nejnebezpečnější?",
+      "options": [
+        "kyslík",
+        "dusík",
+        "kysličník uhelnatý",
+        "kysličník uhličitý"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-vrtulnik-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Při požáru motoru vnikne do pilotní kabiny dým. Co je třeba okamžitě učinit?",
+      "options": [
+        "vypnout topení a ventilaci",
+        "vypnout hlavní vypínač a zapalování",
+        "vypnout avioniku a osvětlení kabiny",
+        "vypnout ohřev Pitotovy trubice a čelního skla"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-vrtulnik-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Co má být první akcí při požáru kabeláže za letu?",
+      "options": [
+        "vypnout hlavní vypínač",
+        "uzavřít palivový ventil",
+        "otevřít okna",
+        "otevřít větrání kabiny"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-vrtulnik-10"
+    },
+    {
+      "sourceNumber": "11",
+      "question": "Jaká hasící látka je nejméně vhodná pro hašení požáru letadla?",
+      "options": [
+        "pěna",
+        "prášek",
+        "voda",
+        "halon"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-vrtulnik-11"
+    },
+    {
+      "sourceNumber": "12",
+      "question": "Za letu se za přístrojovou deskou objeví trocha dýmu. Lze předpokládat požár elektrického systému. Co má udělat pilot s ohledem na letovou příručku?",
+      "options": [
+        "vypnout hlavní vypínač",
+        "vypnout topení",
+        "vypnout motor",
+        "použít hasící přístroj"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-vrtulnik-12"
+    },
+    {
+      "sourceNumber": "13",
+      "question": "Za letu se za přístrojovou deskou objeví trocha dýmu. Lze předpokládat požár motoru. Co má pilot udělat s ohledem na letovou příručku?",
+      "options": [
+        "vypnout hlavní vypínač",
+        "vypnou topení",
+        "vypnout motor",
+        "použít hasící přístroj"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-vrtulnik-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Střih větru je:",
+      "options": [
+        "pomalý nárůst rychlosti větru ve výškách nad 13000 ft",
+        "sestupný vítr za pohořím",
+        "změna vertikální nebo horizontální složky a směru větru",
+        "změna rychlosti větru o více než 15 kt"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-vrtulnik-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Jaký meteorologický jev typicky souvisí se střihem větru?",
+      "options": [
+        "bouřky",
+        "teplá fronta",
+        "mlha",
+        "stabilní oblasti vysokého tlaku vzduchu"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-vrtulnik-15"
+    },
+    {
+      "sourceNumber": "16",
+      "question": "Kdy lze očekávat střih větru?",
+      "options": [
+        "p ři průletu teplou frontou",
+        "při inverzi",
+        "ze bezvětří ve studeném počasí",
+        "za letních dnů za bezvětří"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-vrtulnik-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Při přiblížení je zaznamenán střih větru se snížením čelní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprovede-li pilot žádné korekce?",
+      "options": [
+        "trajektorie se sníží, IAS klesne",
+        "trajektorie se zvýší, IAS klesne",
+        "trajektorie se sníží, IAS vzroste",
+        "trajektorie se zvýší, IAS vzroste"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-vrtulnik-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Při přiblížení je zaznamenán střih větru s nárůstem čelní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprojde-li pilot žádné korekce?",
+      "options": [
+        "trajektorie se sníží, IAS klesne",
+        "trajektorie se zvýší, IAS klesne",
+        "trajektorie se sníží, IAS vzroste",
+        "trajektorie se zvýší, IAS vzroste"
+      ],
+      "correctIndex": 3,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-vrtulnik-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Při přiblížení je zaznamenán střih větru s poklesem zadní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprovede-li pilot žádné korekce?",
+      "options": [
+        "trajektorie se sníží, IAS klesne",
+        "trajektorie se zvýší, IAS vzroste",
+        "trajektorie se sníží, IAS vzroste",
+        "trajektorie se zvýší, IAS klesne"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-vrtulnik-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Po vzletu nastal střih větru se snížením čelní složky větru. Výsledkem je:",
+      "options": [
+        "letadlo letí nad očekávanou trajektorií stoupání",
+        "pravá vzdušná rychlost (TAS) vzroste",
+        "letadlo letí pod očekávanou trajektorií stoupání",
+        "traťová rychlost (GS) klesne"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-vrtulnik-20"
+    },
+    {
+      "sourceNumber": "21",
+      "question": "Jak lze za letu rozpoznat střih větru?",
+      "options": [
+        "náhlé změny polohy letadla, rychlosti letu a stoupavosti",
+        "náhlé změny kurzu, rychlosti zatáčení, otáček motoru a teploty oleje",
+        "nečekaný nástup kouřma související s vysokými straty, které následují oblohu bez oblačnosti a s bezvětřím",
+        "náhlé změny tlaku oleje, teploty oleje, otáček motoru a nadmořské výšky"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-vrtulnik-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Jak se lze vyhnout vlétnutí do střihu větru?",
+      "options": [
+        "neprovádět vzlet a přistání při intenzivních přeháňkách nebo bouřkách",
+        "vyhnout se oblastem srážek, zejména v zimě, volit malé výšky letu",
+        "vyhnout se termicky aktivním oblastem, zejména v létě, nebo létat pod těmito oblastmi",
+        "neprovádět vzlety a přistání v horském terénu a je-li to možné, létat v rovinatých oblastech"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-vrtulnik-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Po vzletu v počáteční fázi stoupání dojde k nečekaně silnému nárůstu rychlosti letu. Co může následovat, vlétlo-li letadlo do mikroburstu?",
+      "options": [
+        "pokles stoupavosti a rychlosti letu",
+        "nárůst stoupavosti a rychlosti letu",
+        "nárůst stoupavosti a pokles rychlosti letu",
+        "pokles stoupavosti a nárůst rychlosti letu"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-vrtulnik-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Turbulence v úplavu při vzletu vznikne, jakmile letoun:",
+      "options": [
+        "začne zrychlovat",
+        "dosáhne výšky 15 ft",
+        "nadzdvihne příďové kolo",
+        "odpoutá od země hlavní podvozek"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-vrtulnik-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Turbulence v úplavu je způsobena:",
+      "options": [
+        "vyrovnáváním tlaku na koncích křídel",
+        "výfukovými plyny turbínového motoru",
+        "střihem větru na koncích křídel",
+        "turbulencí na závětrné straně pohoří"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 5,
+      "id": "6-provozni-postupy-vrtulnik-25"
+    },
+    {
+      "sourceNumber": "26",
+      "question": "Turbulence v úplavu je zvláště intenzivní:",
+      "options": [
+        "při letu nízkými rychlostmi",
+        "při letu vysokými rychlostmi",
+        "při letu ve velkých výškách",
+        "při letu v malých výškách"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-vrtulnik-26"
+    },
+    {
+      "sourceNumber": "27",
+      "question": "Turbulence v úplavu je zvláště intenzivní:",
+      "options": [
+        "při velké hmotnosti letadla",
+        "při malé hmotnosti letadla",
+        "při letu s velkým výkonem motoru",
+        "při letu s malým výkonem motoru"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-vrtulnik-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Dvě letadla stejného typu, stejných hmotností a ve stejné konfiguraci letí rozdílnými rychlostmi. Které z nich vyvolá intenzivnější turbulenci v úplavu?",
+      "options": [
+        "l etadlo letící pomaleji",
+        "letadlo letící rychleji",
+        "letadlo letící ve větší nadmořské výšce",
+        "letadlo letící v menší nadmořské výšce"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-vrtulnik-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Dvě letadla stejného typu, stejných hmotností a ve stejné konfiguraci letí rozdílnými rychlostmi a v rozdílných nadmořských výškách. Které z nich vyvolá intenzivnější turbulenci v úplavu?",
+      "options": [
+        "letadlo letící pomaleji",
+        "letadlo letící rychleji",
+        "letadlo letící ve větší nadmořské výšce",
+        "letadlo letící v menší nadmořské výšce"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-vrtulnik-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Jaké existuje nebezpečí při vzletu za odlétajícím těžkým letounem za mírného bočního větru?",
+      "options": [
+        "turbulence v úplavu na vzletové dráze nebo v její blízkosti",
+        "turbulence v úplavu je rozptýlena a odkloněna",
+        "turbulence v úplavu rotuje rychleji a výše",
+        "turbulence v úplavu se otáčí napříč vzletovou dráhou"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-vrtulnik-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Na co je třeba dávat pozor při pojíždění za dopravním letadlem?",
+      "options": [
+        "vyhnout se proudu plynů za jeho motory, dodržet minimální vzdálenost 200 m",
+        "vyhnout se proudu plynů za jeho motory, dodržet minimální vzdálenost 600 m",
+        "vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 300 m",
+        "vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 700 m"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-vrtulnik-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Jaká plocha je vhodná pro přistání mimo letiště?",
+      "options": [
+        "zorané pole",
+        "plocha pro sport na vesnici",
+        "sklizené obilné pole",
+        "paseka s vysokou suchou trávou"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-vrtulnik-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Přistání provedené za okolností nutících letadlo k přistání je:",
+      "options": [
+        "nouzové přistání",
+        "bezpečnostní přistání",
+        "urgentní přistání",
+        "přistání mimo letiště"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-vrtulnik-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Bezpečnostní přistání je:",
+      "options": [
+        "provedeno jako reakce na okolnosti nutící letadlo přistát",
+        "provedeno jako pokus zachovat bezpečnost letu",
+        "provedeno při vysazení pohonné jednotky letadla",
+        "provedeno se zasunutými klapkami"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-vrtulnik-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Co má obsahovat instruktáž pro cestující v případě neodkladného nouzového přistání?",
+      "options": [
+        "druh nebezpečí, úmysl, bezpečnostní poloha, evakuační cesty, činnost po přistání",
+        "jak pracuje palubní radiostanice, kód nouzového majáku polohy, telefonní číslo na příslušné stanoviště pátrání a záchrany",
+        "jak číst seznam nouzových úkonů, jak vypnout motor, telefonní číslo na domácí letiště",
+        "krevní skupiny osob na palubě, umístění soupravy pro první pomoc"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-vrtulnik-35"
+    },
+    {
+      "sourceNumber": "36",
+      "question": "V případě nouzového přistání na vodu se mají záchranné vesty nafukovat:",
+      "options": [
+        "před opuštěním letadla",
+        "při opuštění letadla",
+        "po opuštění letadla",
+        "po opuštění letadla v bezpečné vzdálenosti asi 10 m"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-vrtulnik-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "Co je třeba zvážit při spouštění motoru za silného větru?",
+      "options": [
+        "páku cykliky je třeba držet vzadu a kolektiv zvednout",
+        "brzda rotoru nemá být uvolněna před tím, než se motor rozběhne na dostatečné otáčky",
+        "vrtulník má stát natočen proti větru",
+        "směs má být ochuzena a ohřev karburátoru spuštěn naplno"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-vrtulnik-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Co je třeba sledovat při letu v horské krajině?",
+      "options": [
+        "námrazu nad předpovídanou hladinou nulové teploty",
+        "neočekávané změny počasí a turbulence",
+        "námrazu v karburátoru pístových motorů",
+        "nečekaná překročení rychlosti a vibrace"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-vrtulnik-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Co jde třeba zvláště sledovat při přistání ve svahu?",
+      "options": [
+        "směr rotace hlavního rotoru",
+        "smyk vrtulníku",
+        "chybná navigační světla",
+        "šířku přistávacích lyžin"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-vrtulnik-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Autorotace se v horských oblastech provádí:",
+      "options": [
+        "na závětrné straně a při sledování překážek",
+        "směrem nahoru bez vybočení",
+        "na návětrné straně a napříč svahem",
+        "po svahu s vychýleným rotorem"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
+      "page": 8,
+      "id": "6-provozni-postupy-vrtulnik-40"
+    }
+  ]
+};

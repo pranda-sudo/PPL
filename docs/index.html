@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>PPL Testy</title>
+    <meta name="theme-color" content="#16202a" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="PPL Testy" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">PPL</div>
+          <div>
+            <h1>PPL Testy</h1>
+            <p id="questionCount">Načítání otázek...</p>
+          </div>
+        </div>
+
+        <section class="panel">
+          <h2>Režim</h2>
+          <div class="segmented" role="group" aria-label="Rezim procvicovani">
+            <button class="active" data-mode="practice" type="button">Učit se</button>
+            <button data-mode="exam" type="button">Test</button>
+            <button data-mode="mock" type="button">Zkouška</button>
+            <button data-mode="mistakes" type="button">Chyby</button>
+          </div>
+        </section>
+
+        <section class="panel">
+          <h2>Kategorie</h2>
+          <div id="categoryFilters" class="filter-list"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Typ</h2>
+          <div id="aircraftFilters" class="filter-list"></div>
+        </section>
+
+        <section class="panel">
+          <h2>Nastavení testu</h2>
+          <label class="field">
+            <span>Počet otázek</span>
+            <input id="examSize" type="number" min="5" max="100" step="5" value="25" />
+          </label>
+          <label class="check-row">
+            <input id="shuffleAnswers" type="checkbox" checked />
+            <span>Míchat odpovědi</span>
+          </label>
+          <label class="check-row">
+            <input id="smartRepeat" type="checkbox" checked />
+            <span>Více opakovat chyby</span>
+          </label>
+        </section>
+
+        <section class="panel">
+          <h2>Statistika</h2>
+          <div class="stat-list">
+            <div><span>Celkem</span><strong id="totalStat">0</strong></div>
+            <div><span>Úspěšnost</span><strong id="successStat">0 %</strong></div>
+            <div><span>Chybové otázky</span><strong id="savedMistakeStat">0</strong></div>
+          </div>
+          <button id="resetStatsBtn" class="plain-btn" type="button">Vynulovat statistiky</button>
+        </section>
+
+        <section class="panel">
+          <h2>Zkouška</h2>
+          <div id="mockPlan" class="exam-plan"></div>
+        </section>
+
+        <section class="panel about-panel">
+          <h2>O aplikaci</h2>
+          <p>
+            Aplikaci připravil pilot PPL pro praktickou přípravu na teoretické testy. Databáze vychází z podkladů ÚCL
+            používaných pro přípravu pilotů.
+          </p>
+          <p>Do budoucna je připravená i pro rozšíření na ULL a další kvalifikace.</p>
+        </section>
+      </aside>
+
+      <section class="workspace">
+        <header class="topbar">
+          <div>
+            <p class="eyebrow" id="currentMeta">Výběr</p>
+            <h2 id="currentTitle">Připraveno</h2>
+          </div>
+          <div class="toolbar">
+            <button id="restartBtn" type="button" title="Novy vyber">↻</button>
+            <button id="prevBtn" type="button" title="Predchozi">‹</button>
+            <button id="nextBtn" type="button" title="Dalsi">›</button>
+          </div>
+        </header>
+
+        <section class="question-area">
+          <div class="status-grid">
+            <div>
+              <span>Otázka</span>
+              <strong id="progressText">0 / 0</strong>
+            </div>
+            <div>
+              <span>Správně</span>
+              <strong id="scoreText">0</strong>
+            </div>
+            <div>
+              <span>Chyby</span>
+              <strong id="mistakeText">0</strong>
+            </div>
+            <div>
+              <span>Úspěšnost</span>
+              <strong id="sessionRateText">0 %</strong>
+            </div>
+            <div>
+              <span>Čas</span>
+              <strong id="timeLimitText">-</strong>
+            </div>
+          </div>
+
+          <section class="subject-progress" aria-label="Přehled předmětů">
+            <div class="section-head">
+              <strong>Přehled předmětů</strong>
+              <span id="subjectSummary">0 zodpovězeno</span>
+            </div>
+            <div id="subjectStats" class="subject-grid"></div>
+          </section>
+
+          <nav class="question-nav" aria-label="Mapa otázek">
+            <div class="question-nav-head">
+              <strong>Mapa otázek</strong>
+              <span id="navigatorSummary">0 zodpovězeno</span>
+            </div>
+            <div id="questionNavigator" class="question-navigator"></div>
+          </nav>
+
+          <article class="question-card">
+            <p class="source" id="sourceText"></p>
+            <h3 id="questionText">Otázky se načítají.</h3>
+            <div id="answers" class="answers"></div>
+            <div class="actions">
+              <button id="cardPrevBtn" class="secondary-action" type="button">Předchozí otázka</button>
+              <button id="cardNextBtn" class="secondary-action" type="button">Další otázka</button>
+              <button id="showAnswerBtn" type="button">Ukázat odpověď</button>
+              <button id="finishExamBtn" class="finish-action" type="button">Vyhodnotit zkoušku</button>
+              <button id="markKnownBtn" type="button">Umím</button>
+            </div>
+          </article>
+
+          <section id="resultPanel" class="result-panel" hidden>
+            <div class="section-head">
+              <strong>Výsledkový protokol</strong>
+              <span id="resultHeadline">Zkouška není vyhodnocená</span>
+            </div>
+            <div class="result-grid">
+              <div><span>Správně</span><strong id="resultCorrect">0</strong></div>
+              <div><span>Chyby</span><strong id="resultWrong">0</strong></div>
+              <div><span>Úspěšnost</span><strong id="resultRate">0 %</strong></div>
+              <div><span>Čas</span><strong id="resultTime">-</strong></div>
+            </div>
+            <div id="resultSubjects" class="result-subjects"></div>
+          </section>
+        </section>
+      </section>
+    </main>
+
+    <script src="./data/questions.js"></script>
+    <script src="./app.js"></script>
+  </body>
+</html>

@@ -6,7 +6,8 @@ Aplikaci připravil pilot PPL pro praktickou přípravu na teoretické testy. Da
 
 ## Co je uvnitr
 
-- `ppl_app/` - staticka webova aplikace, jde nasadit na GitHub Pages, Netlify nebo Vercel.
+- `ppl_app/` - zdrojova staticka webova aplikace.
+- `docs/` - verejna kopie webove aplikace pro GitHub Pages.
 - `ppl_desktop/` - Electron wrapper pro vytvoreni Windows `.exe`.
 - `ppl_mobile/` - Capacitor priprava pro iPhone/iOS a Android.
 - `ppl_app/data/questions.js` - lokalni databaze 1469 otazek.
@@ -30,14 +31,16 @@ http://127.0.0.1:8766/
 
 ## Nasazeni na web
 
-Nejjednodussi je nasadit slozku `ppl_app` jako staticky web.
-
 Pro GitHub Pages:
 
 1. Nahraj repozitar na GitHub.
 2. V nastaveni repozitare otevri `Pages`.
-3. Nastav publikovani z branch `main`.
-4. Jako zdroj pouzij slozku `/ppl_app`, pokud hosting podporuje custom folder; jinak presun obsah `ppl_app` do rootu nebo pouzij GitHub Actions.
+3. V poli `Source` vyber `Deploy from a branch`.
+4. V poli `Branch` vyber `main` a slozku `/docs`.
+5. Klikni na `Save`.
+6. Po chvili bude aplikace na adrese `https://pranda-sudo.github.io/PPL/`.
+
+Slozka `docs/` je zamerne pripravena jako publikovana kopie, protoze GitHub Pages umi jednoduse publikovat pouze root repozitare nebo `/docs`.
 
 ## Windows EXE
 

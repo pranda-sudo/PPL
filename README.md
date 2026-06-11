@@ -2,6 +2,8 @@
 
 Webova/PWA aplikace pro procvicovani PPL testovych otazek.
 
+Aplikaci připravil pilot PPL pro praktickou přípravu na teoretické testy. Databáze vychází z podkladů ÚCL používaných pro přípravu pilotů. Repo je připravené tak, aby šlo později rozšířit také o ULL a další kvalifikace.
+
 ## Co je uvnitr
 
 - `ppl_app/` - staticka webova aplikace, jde nasadit na GitHub Pages, Netlify nebo Vercel.

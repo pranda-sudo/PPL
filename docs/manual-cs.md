@@ -2,6 +2,8 @@
 
 PPL Testy je aplikace pro procvičování teoretických otázek PPL. Umožňuje učit se po předmětech, dělat krátké testy, spustit kontrolní zkoušku a sledovat vlastní úspěšnost.
 
+Aplikaci připravil pilot PPL pro praktickou přípravu na teoretické testy. Databáze vychází z podkladů ÚCL používaných pro přípravu pilotů. Do budoucna je možné aplikaci rozšířit také o ULL a další kvalifikace.
+
 ## Spuštění aplikace
 
 ### Webová verze

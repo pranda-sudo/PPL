@@ -208,6 +208,17 @@ h1 {
   padding-top: 8px;
 }
 
+.about-panel p {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.45;
+  margin-bottom: 10px;
+}
+
+.about-panel p:last-child {
+  margin-bottom: 0;
+}
+
 .plain-btn {
   width: 100%;
   min-height: 38px;

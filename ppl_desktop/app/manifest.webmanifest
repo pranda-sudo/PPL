@@ -1,7 +1,7 @@
 {
   "name": "PPL Testy",
   "short_name": "PPL Testy",
-  "description": "Procvičování a kontrolní testy PPL.",
+  "description": "Procvičování a kontrolní testy PPL připravené pilotem PPL z podkladů ÚCL.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

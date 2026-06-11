@@ -103,10 +103,18 @@
               <strong id="sessionRateText">0 %</strong>
             </div>
             <div>
-              <span>Limit</span>
+              <span>Čas</span>
               <strong id="timeLimitText">-</strong>
             </div>
           </div>
+
+          <section class="subject-progress" aria-label="Přehled předmětů">
+            <div class="section-head">
+              <strong>Přehled předmětů</strong>
+              <span id="subjectSummary">0 zodpovězeno</span>
+            </div>
+            <div id="subjectStats" class="subject-grid"></div>
+          </section>
 
           <nav class="question-nav" aria-label="Mapa otázek">
             <div class="question-nav-head">
@@ -124,9 +132,24 @@
               <button id="cardPrevBtn" class="secondary-action" type="button">Předchozí otázka</button>
               <button id="cardNextBtn" class="secondary-action" type="button">Další otázka</button>
               <button id="showAnswerBtn" type="button">Ukázat odpověď</button>
+              <button id="finishExamBtn" class="finish-action" type="button">Vyhodnotit zkoušku</button>
               <button id="markKnownBtn" type="button">Umím</button>
             </div>
           </article>
+
+          <section id="resultPanel" class="result-panel" hidden>
+            <div class="section-head">
+              <strong>Výsledkový protokol</strong>
+              <span id="resultHeadline">Zkouška není vyhodnocená</span>
+            </div>
+            <div class="result-grid">
+              <div><span>Správně</span><strong id="resultCorrect">0</strong></div>
+              <div><span>Chyby</span><strong id="resultWrong">0</strong></div>
+              <div><span>Úspěšnost</span><strong id="resultRate">0 %</strong></div>
+              <div><span>Čas</span><strong id="resultTime">-</strong></div>
+            </div>
+            <div id="resultSubjects" class="result-subjects"></div>
+          </section>
         </section>
       </section>
     </main>

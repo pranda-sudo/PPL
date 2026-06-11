@@ -12,6 +12,9 @@ const state = {
   categories: new Set(),
   aircraft: new Set(),
   answered: new Map(),
+  examRemainingSeconds: null,
+  examTimerId: null,
+  examCompleted: false,
   mistakes: new Set(JSON.parse(localStorage.getItem(STORAGE_KEYS.mistakes) || "[]")),
   stats: JSON.parse(localStorage.getItem(STORAGE_KEYS.stats) || "{}"),
 };
@@ -49,6 +52,8 @@ const els = {
   mistakeText: document.querySelector("#mistakeText"),
   sessionRateText: document.querySelector("#sessionRateText"),
   timeLimitText: document.querySelector("#timeLimitText"),
+  subjectSummary: document.querySelector("#subjectSummary"),
+  subjectStats: document.querySelector("#subjectStats"),
   navigatorSummary: document.querySelector("#navigatorSummary"),
   questionNavigator: document.querySelector("#questionNavigator"),
   sourceText: document.querySelector("#sourceText"),
@@ -56,11 +61,19 @@ const els = {
   answers: document.querySelector("#answers"),
   showAnswerBtn: document.querySelector("#showAnswerBtn"),
   markKnownBtn: document.querySelector("#markKnownBtn"),
+  finishExamBtn: document.querySelector("#finishExamBtn"),
   cardPrevBtn: document.querySelector("#cardPrevBtn"),
   cardNextBtn: document.querySelector("#cardNextBtn"),
   restartBtn: document.querySelector("#restartBtn"),
   prevBtn: document.querySelector("#prevBtn"),
   nextBtn: document.querySelector("#nextBtn"),
+  resultPanel: document.querySelector("#resultPanel"),
+  resultHeadline: document.querySelector("#resultHeadline"),
+  resultCorrect: document.querySelector("#resultCorrect"),
+  resultWrong: document.querySelector("#resultWrong"),
+  resultRate: document.querySelector("#resultRate"),
+  resultTime: document.querySelector("#resultTime"),
+  resultSubjects: document.querySelector("#resultSubjects"),
 };
 
 const letters = ["A", "B", "C", "D", "E", "F"];
@@ -76,6 +89,50 @@ function shuffle(items) {
 
 function clamp(value, min, max) {
   return Math.max(min, Math.min(max, value));
+}
+
+function formatDuration(totalSeconds) {
+  if (totalSeconds === null || Number.isNaN(totalSeconds)) return "-";
+  const seconds = Math.max(0, totalSeconds);
+  const hours = Math.floor(seconds / 3600);
+  const minutes = Math.floor((seconds % 3600) / 60);
+  const rest = seconds % 60;
+  if (hours > 0) return `${hours}:${String(minutes).padStart(2, "0")}:${String(rest).padStart(2, "0")}`;
+  return `${minutes}:${String(rest).padStart(2, "0")}`;
+}
+
+function stopExamTimer() {
+  if (state.examTimerId) {
+    clearInterval(state.examTimerId);
+    state.examTimerId = null;
+  }
+}
+
+function startExamTimer() {
+  stopExamTimer();
+  state.examRemainingSeconds = MOCK_EXAM_TOTAL_MINUTES * 60;
+  state.examCompleted = false;
+  state.examTimerId = setInterval(() => {
+    if (state.mode !== "mock" || state.examCompleted) {
+      stopExamTimer();
+      return;
+    }
+    state.examRemainingSeconds -= 1;
+    if (state.examRemainingSeconds <= 0) {
+      state.examRemainingSeconds = 0;
+      finishExam("Čas vypršel");
+      return;
+    }
+    renderTime();
+  }, 1000);
+}
+
+function renderTime() {
+  if (state.mode === "mock") {
+    els.timeLimitText.textContent = formatDuration(state.examRemainingSeconds);
+  } else {
+    els.timeLimitText.textContent = "-";
+  }
 }
 
 function saveMistakes() {
@@ -191,11 +248,16 @@ function buildDeck() {
   state.answered.clear();
   state.pool = filteredPool();
   const selectedCategoryCount = state.categories.size;
+  els.resultPanel.hidden = true;
+  stopExamTimer();
 
   let selected;
   if (state.mode === "mock") {
     selected = buildMockDeck();
+    startExamTimer();
   } else {
+    state.examRemainingSeconds = null;
+    state.examCompleted = false;
     const ordered = smartShuffle(state.pool);
     const fullSingleSubjectTest = state.mode === "exam" && selectedCategoryCount === 1;
     const limit = state.mode === "exam" && !fullSingleSubjectTest ? Number(els.examSize.value || 25) : ordered.length;
@@ -221,6 +283,23 @@ function sessionScore() {
   const total = correct + wrong;
   const rate = total ? Math.round((correct / total) * 100) : 0;
   return { correct, wrong, total, rate };
+}
+
+function subjectBreakdown() {
+  const byCategory = new Map();
+  state.deck.forEach((question) => {
+    if (!byCategory.has(question.category)) {
+      byCategory.set(question.category, { total: 0, answered: 0, correct: 0, wrong: 0 });
+    }
+    const item = byCategory.get(question.category);
+    item.total += 1;
+    const answer = state.answered.get(question.id);
+    if (answer) {
+      item.answered += 1;
+      answer.correct ? (item.correct += 1) : (item.wrong += 1);
+    }
+  });
+  return [...byCategory.entries()].sort((a, b) => a[0].localeCompare(b[0], "cs"));
 }
 
 function globalStats() {
@@ -254,6 +333,28 @@ function renderMockPlan() {
   total.className = "exam-plan-total";
   total.innerHTML = `<span>Celkem</span><strong>120 / ${MOCK_EXAM_TOTAL_MINUTES} min</strong>`;
   els.mockPlan.append(total);
+}
+
+function renderSubjectStats() {
+  const breakdown = subjectBreakdown();
+  const answered = breakdown.reduce((sum, [, item]) => sum + item.answered, 0);
+  const total = breakdown.reduce((sum, [, item]) => sum + item.total, 0);
+  els.subjectSummary.textContent = `${answered} / ${total} zodpovězeno`;
+  els.subjectStats.innerHTML = "";
+
+  breakdown.forEach(([category, item]) => {
+    const rate = item.answered ? Math.round((item.correct / item.answered) * 100) : 0;
+    const card = document.createElement("div");
+    card.className = "subject-card";
+    card.innerHTML = `
+      <div>
+        <strong>${category}</strong>
+        <span>${item.answered} / ${item.total} hotovo</span>
+      </div>
+      <b>${rate} %</b>
+    `;
+    els.subjectStats.append(card);
+  });
 }
 
 function answerState(question) {
@@ -296,9 +397,10 @@ function renderQuestion() {
   els.scoreText.textContent = String(score.correct);
   els.mistakeText.textContent = String(score.wrong);
   els.sessionRateText.textContent = `${score.rate} %`;
-  els.timeLimitText.textContent = state.mode === "mock" ? `${MOCK_EXAM_TOTAL_MINUTES} min` : "-";
+  renderTime();
   els.progressText.textContent = `${state.deck.length ? state.index + 1 : 0} / ${state.deck.length}`;
   renderStats();
+  renderSubjectStats();
   renderNavigator();
 
   if (!question) {
@@ -309,6 +411,7 @@ function renderQuestion() {
     els.answers.innerHTML = "";
     els.cardPrevBtn.disabled = true;
     els.cardNextBtn.disabled = true;
+    els.finishExamBtn.hidden = true;
     return;
   }
 
@@ -321,6 +424,7 @@ function renderQuestion() {
   els.answers.innerHTML = "";
   els.cardPrevBtn.disabled = state.index === 0;
   els.cardNextBtn.disabled = state.index >= state.deck.length - 1;
+  els.finishExamBtn.hidden = state.mode !== "mock";
 
   question.displayOptions.forEach((option, index) => {
     const button = document.createElement("button");
@@ -334,6 +438,35 @@ function renderQuestion() {
     button.addEventListener("click", () => chooseAnswer(index));
     els.answers.append(button);
   });
+}
+
+function finishExam(reason = "Vyhodnoceno") {
+  if (state.mode !== "mock") return;
+  stopExamTimer();
+  state.examCompleted = true;
+  const score = sessionScore();
+  const total = state.deck.length;
+  const answered = score.total;
+  const usedSeconds = MOCK_EXAM_TOTAL_MINUTES * 60 - (state.examRemainingSeconds || 0);
+  els.resultPanel.hidden = false;
+  els.resultHeadline.textContent = `${reason} · ${answered} / ${total} zodpovězeno`;
+  els.resultCorrect.textContent = String(score.correct);
+  els.resultWrong.textContent = String(score.wrong);
+  els.resultRate.textContent = `${score.rate} %`;
+  els.resultTime.textContent = formatDuration(usedSeconds);
+  els.resultSubjects.innerHTML = "";
+
+  subjectBreakdown().forEach(([category, item]) => {
+    const rate = item.answered ? Math.round((item.correct / item.answered) * 100) : 0;
+    const row = document.createElement("div");
+    row.innerHTML = `
+      <span>${category}</span>
+      <strong>${item.correct}/${item.answered || 0} · ${rate} %</strong>
+    `;
+    els.resultSubjects.append(row);
+  });
+  renderQuestion();
+  els.resultPanel.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 function recordAnswer(question, correct) {
@@ -393,12 +526,14 @@ els.nextBtn.addEventListener("click", () => next(1));
 els.cardPrevBtn.addEventListener("click", () => next(-1));
 els.cardNextBtn.addEventListener("click", () => next(1));
 els.showAnswerBtn.addEventListener("click", revealAnswer);
+els.finishExamBtn.addEventListener("click", () => finishExam());
 els.markKnownBtn.addEventListener("click", () => {
   const question = currentQuestion();
   if (!question) return;
   const stat = questionStats(question.id);
   stat.correct += 1;
   stat.attempts += 1;
+  state.answered.set(question.id, { selectedIndex: null, correct: true, revealed: true });
   state.mistakes.delete(question.id);
   saveStats();
   saveMistakes();
@@ -439,7 +574,9 @@ if (window.PPL_QUESTIONS) {
 }
 
 if ("serviceWorker" in navigator) {
-  window.addEventListener("load", () => {
+window.addEventListener("load", () => {
     navigator.serviceWorker.register("./service-worker.js").catch(() => {});
   });
 }
+
+window.addEventListener("beforeunload", stopExamTimer);

@@ -6,8 +6,10 @@ Webova/PWA aplikace pro procvicovani PPL testovych otazek.
 
 - `ppl_app/` - staticka webova aplikace, jde nasadit na GitHub Pages, Netlify nebo Vercel.
 - `ppl_desktop/` - Electron wrapper pro vytvoreni Windows `.exe`.
+- `ppl_mobile/` - Capacitor priprava pro iPhone/iOS a Android.
 - `ppl_app/data/questions.js` - lokalni databaze 1469 otazek.
 - `docs/manual-cs.md` - cesky uzivatelsky manual.
+- `docs/iphone-testovani.md` - navod pro testovani na iPhonu.
 
 ## Spusteni lokálně
 

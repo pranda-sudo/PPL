@@ -1,0 +1,11 @@
+{
+  "appId": "cz.ppltesty.app",
+  "appName": "PPL Testy",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "ios": {
+    "contentInset": "automatic"
+  }
+}

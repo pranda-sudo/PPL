@@ -1694,7 +1694,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-1",
+      "image": "./assets/questions/PFA-010.jpg",
+      "imageCode": "PFA-010"
     },
     {
       "sourceNumber": "1",
@@ -1710,7 +1712,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-1",
+      "image": "./assets/questions/PFA-010.jpg",
+      "imageCode": "PFA-010"
     },
     {
       "sourceNumber": "1",
@@ -1758,7 +1762,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-1",
+      "image": "./assets/questions/PFA-009.jpg",
+      "imageCode": "PFA-009"
     },
     {
       "sourceNumber": "1",
@@ -1774,7 +1780,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-1",
+      "image": "./assets/questions/PFA-009.jpg",
+      "imageCode": "PFA-009"
     },
     {
       "sourceNumber": "1",
@@ -1806,7 +1814,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-1",
+      "image": "./assets/questions/PFA-009.jpg",
+      "imageCode": "PFA-009"
     },
     {
       "sourceNumber": "19",
@@ -1935,7 +1945,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-2",
+      "image": "./assets/questions/PFA-003.jpg",
+      "imageCode": "PFA-003"
     },
     {
       "sourceNumber": "2",
@@ -2095,7 +2107,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-3",
+      "image": "./assets/questions/PFA-011.jpg",
+      "imageCode": "PFA-011"
     },
     {
       "sourceNumber": "3",
@@ -3006,7 +3020,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-9",
+      "image": "./assets/questions/PFA-008.jpg",
+      "imageCode": "PFA-008"
     },
     {
       "sourceNumber": "9",
@@ -3022,7 +3038,9 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-9",
+      "image": "./assets/questions/PFA-008.jpg",
+      "imageCode": "PFA-008"
     },
     {
       "sourceNumber": "9",
@@ -3996,7 +4014,9 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-letoun-(2)-55"
+      "id": "2.-lidska-vykonnost-letoun-(2)-55",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
     },
     {
       "sourceNumber": "56",
@@ -4012,7 +4032,9 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-letoun-(2)-56"
+      "id": "2.-lidska-vykonnost-letoun-(2)-56",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
     },
     {
       "sourceNumber": "57",
@@ -4682,7 +4704,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-vrtulnik-57"
+      "id": "2.-lidska-vykonnost-vrtulnik-57",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
     },
     {
       "sourceNumber": "58",
@@ -4696,7 +4720,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-vrtulnik-58"
+      "id": "2.-lidska-vykonnost-vrtulnik-58",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
     },
     {
       "sourceNumber": "59",
@@ -5607,7 +5633,9 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-56"
+      "id": "3-meteorologie-letoun-(1)-56",
+      "image": "./assets/questions/MET-001.jpg",
+      "imageCode": "MET-001"
     },
     {
       "sourceNumber": "57",
@@ -5623,7 +5651,9 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-57"
+      "id": "3-meteorologie-letoun-(1)-57",
+      "image": "./assets/questions/MET-002.jpg",
+      "imageCode": "MET-002"
     },
     {
       "sourceNumber": "58",
@@ -5639,7 +5669,9 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-58"
+      "id": "3-meteorologie-letoun-(1)-58",
+      "image": "./assets/questions/MET-004.jpg",
+      "imageCode": "MET-004"
     },
     {
       "sourceNumber": "59",
@@ -5831,7 +5863,9 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-(1)-70"
+      "id": "3-meteorologie-letoun-(1)-70",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "71",
@@ -5847,7 +5881,9 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-(1)-71"
+      "id": "3-meteorologie-letoun-(1)-71",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "72",
@@ -5863,7 +5899,9 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-(1)-72"
+      "id": "3-meteorologie-letoun-(1)-72",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "73",
@@ -7574,7 +7612,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-57"
+      "id": "3-meteorologie-vrtulnik-57",
+      "image": "./assets/questions/MET-001.jpg",
+      "imageCode": "MET-001"
     },
     {
       "sourceNumber": "58",
@@ -7590,7 +7630,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-58"
+      "id": "3-meteorologie-vrtulnik-58",
+      "image": "./assets/questions/MET-002.jpg",
+      "imageCode": "MET-002"
     },
     {
       "sourceNumber": "59",
@@ -7606,7 +7648,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-59"
+      "id": "3-meteorologie-vrtulnik-59",
+      "image": "./assets/questions/MET-004.jpg",
+      "imageCode": "MET-004"
     },
     {
       "sourceNumber": "60",
@@ -7750,7 +7794,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-70"
+      "id": "3-meteorologie-vrtulnik-70",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "72",
@@ -7766,7 +7812,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-72"
+      "id": "3-meteorologie-vrtulnik-72",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "73",
@@ -8609,7 +8657,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-(1)-6"
+      "id": "9-navigace-letoun-(1)-6",
+      "image": "./assets/questions/NAV-002.jpg",
+      "imageCode": "NAV-002"
     },
     {
       "sourceNumber": "7",
@@ -9153,7 +9203,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-(1)-40"
+      "id": "9-navigace-letoun-(1)-40",
+      "image": "./assets/questions/NAV-004.jpg",
+      "imageCode": "NAV-004"
     },
     {
       "sourceNumber": "41",
@@ -9265,7 +9317,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-(1)-47"
+      "id": "9-navigace-letoun-(1)-47",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "48",
@@ -9297,7 +9351,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-(1)-49"
+      "id": "9-navigace-letoun-(1)-49",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "50",
@@ -9313,7 +9369,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-(1)-50"
+      "id": "9-navigace-letoun-(1)-50",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "51",
@@ -9521,7 +9579,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-(1)-63"
+      "id": "9-navigace-letoun-(1)-63",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "64",
@@ -9553,7 +9613,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-(1)-65"
+      "id": "9-navigace-letoun-(1)-65",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "66",
@@ -9857,7 +9919,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-(1)-84"
+      "id": "9-navigace-letoun-(1)-84",
+      "image": "./assets/questions/NAV-014.jpg",
+      "imageCode": "NAV-014"
     },
     {
       "sourceNumber": "85",
@@ -9873,7 +9937,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-(1)-85"
+      "id": "9-navigace-letoun-(1)-85",
+      "image": "./assets/questions/NAV-017.jpg",
+      "imageCode": "NAV-017"
     },
     {
       "sourceNumber": "86",
@@ -10273,7 +10339,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-(1)-110"
+      "id": "9-navigace-letoun-(1)-110",
+      "image": "./assets/questions/NAV-019.jpg",
+      "imageCode": "NAV-019"
     },
     {
       "sourceNumber": "111",
@@ -10449,7 +10517,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-(1)-121"
+      "id": "9-navigace-letoun-(1)-121",
+      "image": "./assets/questions/NAV-022.jpg",
+      "imageCode": "NAV-022"
     },
     {
       "sourceNumber": "122",
@@ -10465,7 +10535,9 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-(1)-122"
+      "id": "9-navigace-letoun-(1)-122",
+      "image": "./assets/questions/NAV-024.jpg",
+      "imageCode": "NAV-024"
     },
     {
       "sourceNumber": "123",
@@ -10801,7 +10873,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-6"
+      "id": "9-navigace-vrtulnik-6",
+      "image": "./assets/questions/NAV-002.jpg",
+      "imageCode": "NAV-002"
     },
     {
       "sourceNumber": "7",
@@ -11439,7 +11513,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-46"
+      "id": "9-navigace-vrtulnik-46",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "47",
@@ -11471,7 +11547,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-48"
+      "id": "9-navigace-vrtulnik-48",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "49",
@@ -11487,7 +11565,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-49"
+      "id": "9-navigace-vrtulnik-49",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "50",
@@ -11695,7 +11775,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-62"
+      "id": "9-navigace-vrtulnik-62",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "63",
@@ -11727,7 +11809,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-64"
+      "id": "9-navigace-vrtulnik-64",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "65",
@@ -11999,7 +12083,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-81"
+      "id": "9-navigace-vrtulnik-81",
+      "image": "./assets/questions/NAV-014.jpg",
+      "imageCode": "NAV-014"
     },
     {
       "sourceNumber": "82",
@@ -12399,7 +12485,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-106"
+      "id": "9-navigace-vrtulnik-106",
+      "image": "./assets/questions/NAV-019.jpg",
+      "imageCode": "NAV-019"
     },
     {
       "sourceNumber": "107",
@@ -12575,7 +12663,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-117"
+      "id": "9-navigace-vrtulnik-117",
+      "image": "./assets/questions/NAV-022.jpg",
+      "imageCode": "NAV-022"
     },
     {
       "sourceNumber": "118",
@@ -12591,7 +12681,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-118"
+      "id": "9-navigace-vrtulnik-118",
+      "image": "./assets/questions/NAV-024.jpg",
+      "imageCode": "NAV-024"
     },
     {
       "sourceNumber": "119",
@@ -12895,7 +12987,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-4",
+      "image": "./assets/questions/AGK-002.jpg",
+      "imageCode": "AGK-002"
     },
     {
       "sourceNumber": "5",
@@ -12927,7 +13021,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6",
+      "image": "./assets/questions/AGK-003.jpg",
+      "imageCode": "AGK-003"
     },
     {
       "sourceNumber": "7",
@@ -13087,7 +13183,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-16"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-16",
+      "image": "./assets/questions/AGK-005.jpg",
+      "imageCode": "AGK-005"
     },
     {
       "sourceNumber": "17",
@@ -13119,7 +13217,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-18"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-18",
+      "image": "./assets/questions/AGK-005.jpg",
+      "imageCode": "AGK-005"
     },
     {
       "sourceNumber": "19",
@@ -13183,7 +13283,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-22"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-22",
+      "image": "./assets/questions/AGK-006.jpg",
+      "imageCode": "AGK-006"
     },
     {
       "sourceNumber": "23",
@@ -13616,7 +13718,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-49"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-49",
+      "image": "./assets/questions/AGK-007.jpg",
+      "imageCode": "AGK-007"
     },
     {
       "sourceNumber": "50",
@@ -13632,7 +13736,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-50"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-50",
+      "image": "./assets/questions/AGK-008.jpg",
+      "imageCode": "AGK-008"
     },
     {
       "sourceNumber": "51",
@@ -13872,7 +13978,9 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6",
+      "image": "./assets/questions/AGK-011.jpg",
+      "imageCode": "AGK-011"
     },
     {
       "sourceNumber": "6",
@@ -15360,7 +15468,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-30"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-30",
+      "image": "./assets/questions/AGK-007.jpg",
+      "imageCode": "AGK-007"
     },
     {
       "sourceNumber": "31",
@@ -19263,7 +19373,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-29"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-29",
+      "image": "./assets/questions/PFP-052E.jpg",
+      "imageCode": "PFP-052E"
     },
     {
       "sourceNumber": "30",
@@ -19343,7 +19455,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-34"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-34",
+      "image": "./assets/questions/PFP-053E.jpg",
+      "imageCode": "PFP-053E"
     },
     {
       "sourceNumber": "35",
@@ -19359,7 +19473,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-35"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-35",
+      "image": "./assets/questions/PFP-003.jpg",
+      "imageCode": "PFP-003"
     },
     {
       "sourceNumber": "36",
@@ -19375,7 +19491,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-36"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-36",
+      "image": "./assets/questions/PFP-004.jpg",
+      "imageCode": "PFP-004"
     },
     {
       "sourceNumber": "37",
@@ -19391,7 +19509,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-37"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-37",
+      "image": "./assets/questions/PFP-005.jpg",
+      "imageCode": "PFP-005"
     },
     {
       "sourceNumber": "38",
@@ -19407,7 +19527,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-38"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-38",
+      "image": "./assets/questions/PFP-006.jpg",
+      "imageCode": "PFP-006"
     },
     {
       "sourceNumber": "39",
@@ -19486,7 +19608,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-43"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-43",
+      "image": "./assets/questions/PFP-056.jpg",
+      "imageCode": "PFP-056"
     },
     {
       "sourceNumber": "44",
@@ -19502,7 +19626,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-44"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-44",
+      "image": "./assets/questions/PFP-030.jpg",
+      "imageCode": "PFP-030"
     },
     {
       "sourceNumber": "45",
@@ -19598,7 +19724,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-50"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-50",
+      "image": "./assets/questions/PFP-026.jpg",
+      "imageCode": "PFP-026"
     },
     {
       "sourceNumber": "51",
@@ -19614,7 +19742,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-51"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-51",
+      "image": "./assets/questions/PFP-024.jpg",
+      "imageCode": "PFP-024"
     },
     {
       "sourceNumber": "52",
@@ -19646,7 +19776,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-53"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-53",
+      "image": "./assets/questions/PFP-051A.jpg",
+      "imageCode": "PFP-051A"
     },
     {
       "sourceNumber": "54",
@@ -19662,7 +19794,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-54"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-54",
+      "image": "./assets/questions/PFP-051.jpg",
+      "imageCode": "PFP-051"
     },
     {
       "sourceNumber": "55",
@@ -19758,7 +19892,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-60"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-60",
+      "image": "./assets/questions/PFP-045.jpg",
+      "imageCode": "PFP-045"
     },
     {
       "sourceNumber": "61",
@@ -19774,7 +19910,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-61"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-61",
+      "image": "./assets/questions/PFP-046.jpg",
+      "imageCode": "PFP-046"
     },
     {
       "sourceNumber": "62",
@@ -19854,7 +19992,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-66"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-66",
+      "image": "./assets/questions/PFP-044.jpg",
+      "imageCode": "PFP-044"
     },
     {
       "sourceNumber": "67",
@@ -19870,7 +20010,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-67"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-67",
+      "image": "./assets/questions/PFP-044.jpg",
+      "imageCode": "PFP-044"
     },
     {
       "sourceNumber": "68",
@@ -20046,7 +20188,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-78"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-78",
+      "image": "./assets/questions/PFP-045.jpg",
+      "imageCode": "PFP-045"
     },
     {
       "sourceNumber": "79",
@@ -20062,7 +20206,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-79"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-79",
+      "image": "./assets/questions/PFP-045.jpg",
+      "imageCode": "PFP-045"
     },
     {
       "sourceNumber": "80",
@@ -20078,7 +20224,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-80"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-80",
+      "image": "./assets/questions/PFP-061.jpg",
+      "imageCode": "PFP-061"
     },
     {
       "sourceNumber": "81",
@@ -20094,7 +20242,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 18,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-81"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-81",
+      "image": "./assets/questions/PFP-062.jpg",
+      "imageCode": "PFP-062"
     },
     {
       "sourceNumber": "82",
@@ -20110,7 +20260,9 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 18,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-82"
+      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-82",
+      "image": "./assets/questions/PFP-063.jpg",
+      "imageCode": "PFP-063"
     },
     {
       "sourceNumber": "1",
@@ -20526,7 +20678,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-26"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-26",
+      "image": "./assets/questions/PFP-052E.jpg",
+      "imageCode": "PFP-052E"
     },
     {
       "sourceNumber": "27",
@@ -20606,7 +20760,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-31"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-31",
+      "image": "./assets/questions/PFP-053E.jpg",
+      "imageCode": "PFP-053E"
     },
     {
       "sourceNumber": "32",
@@ -20622,7 +20778,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-32"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-32",
+      "image": "./assets/questions/PFP-003.jpg",
+      "imageCode": "PFP-003"
     },
     {
       "sourceNumber": "33",
@@ -20638,7 +20796,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-33"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-33",
+      "image": "./assets/questions/PFP-004.jpg",
+      "imageCode": "PFP-004"
     },
     {
       "sourceNumber": "34",
@@ -20654,7 +20814,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-34"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-34",
+      "image": "./assets/questions/PFP-005.jpg",
+      "imageCode": "PFP-005"
     },
     {
       "sourceNumber": "35",
@@ -20670,7 +20832,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-35"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-35",
+      "image": "./assets/questions/PFP-006.jpg",
+      "imageCode": "PFP-006"
     },
     {
       "sourceNumber": "36",
@@ -20686,7 +20850,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-36"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-36",
+      "image": "./assets/questions/PFP-007.jpg",
+      "imageCode": "PFP-007"
     },
     {
       "sourceNumber": "37",
@@ -20878,7 +21044,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-48"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-48",
+      "image": "./assets/questions/PFP-008.jpg",
+      "imageCode": "PFP-008"
     },
     {
       "sourceNumber": "49",
@@ -20894,7 +21062,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-49"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-49",
+      "image": "./assets/questions/PFP-008.jpg",
+      "imageCode": "PFP-008"
     },
     {
       "sourceNumber": "50",
@@ -20910,7 +21080,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-50"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-50",
+      "image": "./assets/questions/PFP-008.jpg",
+      "imageCode": "PFP-008"
     },
     {
       "sourceNumber": "51",
@@ -20958,7 +21130,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-53"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-53",
+      "image": "./assets/questions/PFP-009.jpg",
+      "imageCode": "PFP-009"
     },
     {
       "sourceNumber": "54",
@@ -20990,7 +21164,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-55"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-55",
+      "image": "./assets/questions/PFP-009.jpg",
+      "imageCode": "PFP-009"
     },
     {
       "sourceNumber": "56",
@@ -21006,7 +21182,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-56"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-56",
+      "image": "./assets/questions/PFP-009.jpg",
+      "imageCode": "PFP-009"
     },
     {
       "sourceNumber": "57",
@@ -21038,7 +21216,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-58"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-58",
+      "image": "./assets/questions/PFP-012.jpg",
+      "imageCode": "PFP-012"
     },
     {
       "sourceNumber": "59",
@@ -21054,7 +21234,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-59"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-59",
+      "image": "./assets/questions/PFP-011.jpg",
+      "imageCode": "PFP-011"
     },
     {
       "sourceNumber": "60",
@@ -21070,7 +21252,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-60"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-60",
+      "image": "./assets/questions/PFP-013.jpg",
+      "imageCode": "PFP-013"
     },
     {
       "sourceNumber": "61",
@@ -21086,7 +21270,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-61"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-61",
+      "image": "./assets/questions/PFP-013.jpg",
+      "imageCode": "PFP-013"
     },
     {
       "sourceNumber": "62",
@@ -21102,7 +21288,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-62"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-62",
+      "image": "./assets/questions/PFP-014.jpg",
+      "imageCode": "PFP-014"
     },
     {
       "sourceNumber": "63",
@@ -21118,7 +21306,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-63"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-63",
+      "image": "./assets/questions/PFP-014.jpg",
+      "imageCode": "PFP-014"
     },
     {
       "sourceNumber": "64",
@@ -21134,7 +21324,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-64"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-64",
+      "image": "./assets/questions/PFP-011.jpg",
+      "imageCode": "PFP-011"
     },
     {
       "sourceNumber": "65",
@@ -21150,7 +21342,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-65"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-65",
+      "image": "./assets/questions/PFP-011.jpg",
+      "imageCode": "PFP-011"
     },
     {
       "sourceNumber": "66",
@@ -21166,7 +21360,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-66"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-66",
+      "image": "./assets/questions/PFP-012.jpg",
+      "imageCode": "PFP-012"
     },
     {
       "sourceNumber": "67",
@@ -21182,7 +21378,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-67"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-67",
+      "image": "./assets/questions/PFP-012.jpg",
+      "imageCode": "PFP-012"
     },
     {
       "sourceNumber": "68",
@@ -21198,7 +21396,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-68"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-68",
+      "image": "./assets/questions/PFP-014.jpg",
+      "imageCode": "PFP-014"
     },
     {
       "sourceNumber": "69",
@@ -21214,7 +21414,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-69"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-69",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "70",
@@ -21230,7 +21432,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-70"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-70",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "71",
@@ -21246,7 +21450,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-71"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-71",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "72",
@@ -21262,7 +21468,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-72"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-72",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "73",
@@ -21341,7 +21549,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-77"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-77",
+      "image": "./assets/questions/PFP-056.jpg",
+      "imageCode": "PFP-056"
     },
     {
       "sourceNumber": "78",
@@ -21357,7 +21567,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-78"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-78",
+      "image": "./assets/questions/PFP-030.jpg",
+      "imageCode": "PFP-030"
     },
     {
       "sourceNumber": "79",
@@ -21405,7 +21617,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-81"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-81",
+      "image": "./assets/questions/PFP-026.jpg",
+      "imageCode": "PFP-026"
     },
     {
       "sourceNumber": "82",
@@ -21421,7 +21635,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-82"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-82",
+      "image": "./assets/questions/PFP-024.jpg",
+      "imageCode": "PFP-024"
     },
     {
       "sourceNumber": "83",
@@ -21453,7 +21669,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-84"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-84",
+      "image": "./assets/questions/PFP-051A.jpg",
+      "imageCode": "PFP-051A"
     },
     {
       "sourceNumber": "85",
@@ -21469,7 +21687,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-85"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-85",
+      "image": "./assets/questions/PFP-051.jpg",
+      "imageCode": "PFP-051"
     },
     {
       "sourceNumber": "86",
@@ -21597,7 +21817,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-93"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-93",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "94",
@@ -21613,7 +21835,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-94"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-94",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "95",
@@ -21629,7 +21853,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 21,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-95"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-95",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "96",
@@ -21645,7 +21871,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 21,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-96"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-96",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "97",
@@ -21692,7 +21920,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-99"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-99",
+      "image": "./assets/questions/PFP-061.jpg",
+      "imageCode": "PFP-061"
     },
     {
       "sourceNumber": "100",
@@ -21708,7 +21938,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-100"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-100",
+      "image": "./assets/questions/PFP-062.jpg",
+      "imageCode": "PFP-062"
     },
     {
       "sourceNumber": "101",
@@ -21724,7 +21956,9 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-101"
+      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-101",
+      "image": "./assets/questions/PFP-063.jpg",
+      "imageCode": "PFP-063"
     },
     {
       "sourceNumber": "1",
@@ -22046,7 +22280,9 @@
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-(2)-25"
+      "id": "6-provozni-postupy-letoun-(2)-25",
+      "image": "./assets/questions/OPR-001.jpg",
+      "imageCode": "OPR-001"
     },
     {
       "sourceNumber": "26",
@@ -22061,7 +22297,9 @@
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-(2)-26"
+      "id": "6-provozni-postupy-letoun-(2)-26",
+      "image": "./assets/questions/OPR-001.jpg",
+      "imageCode": "OPR-001"
     },
     {
       "sourceNumber": "27",

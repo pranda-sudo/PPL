@@ -86,6 +86,8 @@ Tlačítko **Ukázat odpověď** zobrazí správnou odpověď bez započítání
 
 Tlačítko **Umím** označí aktuální otázku jako zvládnutou a posune vás dál.
 
+Pokud otázka odkazuje na obrázek nebo přílohu, obrázek se zobrazí přímo pod zadáním otázky.
+
 ## Navigace v otázkách
 
 Pod statistikami je **Mapa otázek**. Každý čtvereček odpovídá jedné otázce.

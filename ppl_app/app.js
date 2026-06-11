@@ -59,6 +59,9 @@ const els = {
   questionNavigator: document.querySelector("#questionNavigator"),
   sourceText: document.querySelector("#sourceText"),
   questionText: document.querySelector("#questionText"),
+  questionImageWrap: document.querySelector("#questionImageWrap"),
+  questionImage: document.querySelector("#questionImage"),
+  questionImageCaption: document.querySelector("#questionImageCaption"),
   answers: document.querySelector("#answers"),
   showAnswerBtn: document.querySelector("#showAnswerBtn"),
   markKnownBtn: document.querySelector("#markKnownBtn"),
@@ -433,6 +436,7 @@ function renderQuestion() {
     els.currentTitle.textContent = "Není co zobrazit";
     els.sourceText.textContent = "";
     els.questionText.textContent = "Pro vybrané filtry nejsou žádné otázky.";
+    renderQuestionImage(null);
     els.answers.innerHTML = "";
     els.cardPrevBtn.disabled = true;
     els.cardNextBtn.disabled = true;
@@ -446,6 +450,7 @@ function renderQuestion() {
   els.currentTitle.textContent = modeTitle();
   els.sourceText.textContent = `${question.sourceFile} · otázka ${question.sourceNumber} · strana ${question.page} · pokusy ${stat?.attempts || 0}, chyby ${stat?.wrong || 0}`;
   els.questionText.textContent = question.question;
+  renderQuestionImage(question);
   els.answers.innerHTML = "";
   els.cardPrevBtn.disabled = state.index === 0;
   els.cardNextBtn.disabled = state.index >= state.deck.length - 1;
@@ -463,6 +468,21 @@ function renderQuestion() {
     button.addEventListener("click", () => chooseAnswer(index));
     els.answers.append(button);
   });
+}
+
+function renderQuestionImage(question) {
+  if (!question?.image) {
+    els.questionImageWrap.hidden = true;
+    els.questionImage.removeAttribute("src");
+    els.questionImage.alt = "";
+    els.questionImageCaption.textContent = "";
+    return;
+  }
+
+  els.questionImage.src = question.image;
+  els.questionImage.alt = `Obrázek k otázce ${question.imageCode || ""}`.trim();
+  els.questionImageCaption.textContent = question.imageCode ? `Obrázek ${question.imageCode}` : "Obrázek k otázce";
+  els.questionImageWrap.hidden = false;
 }
 
 function finishExam(reason = "Vyhodnoceno") {

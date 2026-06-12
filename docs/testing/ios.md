@@ -11,10 +11,12 @@
 
 - [ ] Aplikace se otevře v Safari.
 - [ ] Zobrazí se `1469 otázek v databázi`.
+- [ ] Webová adresa je `https://pranda-sudo.github.io/PPL/`.
 - [ ] Aplikaci lze přidat na plochu přes Sdílet -> Přidat na plochu.
 - [ ] Ikona na ploše vypadá správně.
 - [ ] Aplikace se otevře z plochy bez adresního řádku.
 - [ ] Obsah nezasahuje do Dynamic Island / horní lišty.
+- [ ] Po aktualizaci aplikace se projeví nová verze po zavření a znovuotevření aplikace.
 
 ## Ovládání na telefonu
 
@@ -23,6 +25,8 @@
 - [ ] Mapa otázek je použitelná na malém displeji.
 - [ ] Tlačítka Předchozí / Další / Vyhodnotit jsou dostupná.
 - [ ] Aplikace nemá vodorovné posouvání.
+- [ ] Při delší otázce lze pohodlně posouvat stránku.
+- [ ] Odpovědi nejsou zakryté spodní lištou iPhonu.
 
 ## Režimy
 
@@ -30,6 +34,15 @@
 - [ ] Funguje Test.
 - [ ] Funguje Zkouška.
 - [ ] Funguje Chyby.
+- [ ] Při výběru jedné kategorie v režimu Test se zobrazí celá série daného předmětu.
+
+## Obrázkové otázky
+
+- [ ] Meteorologie: otázka s textem `MET-005` zobrazí obrázek přímo pod zadáním.
+- [ ] Obrázek je čitelný na výšku.
+- [ ] Obrázek je čitelný na šířku po otočení telefonu.
+- [ ] Po zobrazení odpovědi obrázek nezmizí.
+- [ ] Po přechodu na další otázku a zpět se obrázek znovu zobrazí.
 
 ## Zkouška
 
@@ -37,6 +50,7 @@
 - [ ] Časovač běží.
 - [ ] Výsledkový protokol se zobrazí přehledně.
 - [ ] Přehled předmětů je čitelný.
+- [ ] Po vyhodnocení zkoušky zůstane mapa otázek použitelná.
 
 ## Offline test
 
@@ -44,6 +58,8 @@
 - [ ] iPhone přepnout do režimu letadlo.
 - [ ] Aplikace se otevře z plochy.
 - [ ] Otázky a statistiky fungují offline.
+- [ ] Obrázkové otázky fungují offline.
+- [ ] Po vypnutí režimu letadlo aplikace dál funguje.
 
 ## Xcode / TestFlight
 

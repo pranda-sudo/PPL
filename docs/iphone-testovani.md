@@ -14,6 +14,17 @@ Tahle cesta nepotřebuje Xcode ani Apple Developer účet.
 
 Výhoda: rychlé testování vzhledu, otázek, statistiky a offline režimu.
 
+### Rychlý test po instalaci na plochu
+
+1. Ověř, že se zobrazí `1469 otázek v databázi`.
+2. Vyber jen **Meteorologie**.
+3. Najdi otázku s textem `MET-005`.
+4. Ověř, že se obrázek zobrazí přímo pod zadáním.
+5. Odpověz na několik otázek a zkontroluj zelené/červené čtverečky v mapě otázek.
+6. Zavři aplikaci a znovu ji otevři z plochy.
+7. Ověř, že statistiky zůstaly uložené.
+8. Zapni režim letadlo a zkus aplikaci otevřít offline.
+
 ## 2. Nativní test přes Xcode
 
 Tahle cesta vytvoří skutečnou iOS aplikaci.

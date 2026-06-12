@@ -14,6 +14,7 @@
 - [ ] Instalátor vytvoří zástupce na ploše nebo v nabídce Start.
 - [ ] Aplikace se otevře v samostatném okně.
 - [ ] Okno lze zvětšit, zmenšit a zavřít.
+- [ ] Po aktualizaci buildu se spouští nová verze aplikace.
 
 ## Základní funkce
 
@@ -24,6 +25,17 @@
 - [ ] Funguje režim Test.
 - [ ] Funguje režim Zkouška.
 - [ ] Funguje režim Chyby.
+- [ ] Při výběru jedné kategorie v režimu Test se zobrazí celá série daného předmětu.
+- [ ] Mapa otázek umožňuje návrat na předchozí otázky.
+- [ ] Správné odpovědi barví mapu zeleně a chybné červeně.
+
+## Obrázkové otázky
+
+- [ ] Meteorologie: otázka s textem `MET-005` zobrazí obrázek přímo pod zadáním.
+- [ ] Obrázek je čitelný při běžné velikosti okna.
+- [ ] Obrázek zůstane čitelný po maximalizaci okna.
+- [ ] Po zobrazení odpovědi obrázek nezmizí.
+- [ ] Po přechodu na další otázku a zpět se obrázek znovu zobrazí.
 
 ## Zkouška
 
@@ -31,6 +43,7 @@
 - [ ] Časovač běží.
 - [ ] Vyhodnocení zkoušky zobrazí protokol.
 - [ ] Přehled předmětů se počítá správně.
+- [ ] Výsledkový protokol je čitelný při menším i větším okně.
 
 ## Ukládání dat
 
@@ -44,7 +57,15 @@
 
 - [ ] Spustit aplikaci bez internetu.
 - [ ] Otázky jsou dostupné.
+- [ ] Obrázkové otázky jsou dostupné.
 - [ ] Odpovídání a statistiky fungují.
+
+## Build kontrola
+
+- [ ] Před buildem je stažená aktuální verze z GitHubu.
+- [ ] Ve složce aplikace existuje `ppl_app/assets/questions`.
+- [ ] Build proběhne bez chyby.
+- [ ] Výsledný `.exe` / instalátor se otestuje na čistém spuštění.
 
 ## Poznámky
 

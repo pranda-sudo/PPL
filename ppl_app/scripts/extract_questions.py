@@ -50,6 +50,7 @@ def ascii_key(value: str) -> str:
 
 def clean_text(value: str) -> str:
     value = re.sub(r"\s+", " ", value).strip()
+    value = re.sub(r"\s*verze\s+1\.\s*3\s+ze\s+dne\s+12\.\s*08\.\s*202\s*5\s*$", "", value, flags=re.IGNORECASE)
     value = value.replace(" - ", "-")
     value = value.replace(" ,", ",").replace(" .", ".").replace(" ?", "?")
     value = value.replace(" :", ":").replace("( ", "(").replace(" )", ")")
@@ -173,6 +174,9 @@ def question_starts(lines: list[Line]) -> list[int]:
 
 
 def strip_question_number(text: str) -> tuple[str, str]:
+    split_digit_match = re.match(r"^(\d+)\s+(\d)\s+(.*)$", text)
+    if split_digit_match:
+        return split_digit_match.group(1) + split_digit_match.group(2), split_digit_match.group(3).strip()
     match = re.match(r"^(\d+)\s+(.*)$", text)
     if match:
         return match.group(1), match.group(2).strip()

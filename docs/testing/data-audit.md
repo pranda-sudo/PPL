@@ -1,11 +1,12 @@
 # Audit databáze otázek PPL
 
-Report po kontrole importu z PDF. Cílem je odhalit rozpadlé otázky, sloučené odpovědi, duplicity ID a chybějící obrázky.
+Report po kontrole importu z PDF. Cílem je odhalit rozpadlé otázky, sloučené odpovědi, duplicity ID, chybějící obrázky a zbytky textu z patiček PDF.
 
 - Celkem otázek: `1581`
 - Duplicitní ID: `0`
 - Otázky s obrázkem: `121`
 - Chybějící obrázkové assety: `0`
+- Výskyty patičky `verze 1.3 ze dne 12.08.2025`: `0`
 
 ## Počet odpovědí podle kategorií
 
@@ -33,7 +34,7 @@ Tyto položky zůstávají označené k ručnímu ověření proti PDF. Nejsou a
 
 ## Kontrolované kopie databáze
 
-- `ppl_app/data/questions.json`: `e939765c5d81b602`
-- `docs/data/questions.json`: `e939765c5d81b602`
-- `ppl_desktop/app/data/questions.json`: `e939765c5d81b602`
-- `ppl_mobile/www/data/questions.json`: `e939765c5d81b602`
+- `ppl_app/data/questions.json`: `4e7c65d267189867`
+- `docs/data/questions.json`: `4e7c65d267189867`
+- `ppl_desktop/app/data/questions.json`: `4e7c65d267189867`
+- `ppl_mobile/www/data/questions.json`: `4e7c65d267189867`

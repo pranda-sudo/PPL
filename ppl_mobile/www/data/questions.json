@@ -1559,7 +1559,7 @@
     },
     {
       "sourceNumber": "21",
-      "question": "Při visení se rychlost indukovaného proudu:",
+      "question": "Při visení se rychlostindukovaného proudu:",
       "options": [
         "po průchodu rotorem dále zvětšuje",
         "po průchodu rotorem zůstává konstantní",
@@ -2380,7 +2380,7 @@
         "složka tíhy působící proti směru letu",
         "složka vztlaku působící po směru letu",
         "složka tahu působící proti směru letu",
-        "vertikální složky tíhy verze 1. 3 ze dne 12. 08. 202 5"
+        "vertikální složky tíhy"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
@@ -2438,24 +2438,24 @@
       "id": "letove-zasady-letoun-p2-9"
     },
     {
-      "sourceNumber": "1",
-      "question": "0 Aerodynamický střed je teoretický bod profilu, ve kterém:",
+      "sourceNumber": 10,
+      "question": "Aerodynamický střed je teoretický bod profilu, ve kterém:",
       "options": [
         "působí všechny aerodynamické síly",
         "působí všechny hmotové síly",
         "působí hmotové a aerodynamické síly",
-        "působí pouze výsledný odpor verze 1. 3 ze dne 12. 08. 202 5"
+        "působí pouze výsledný odpor"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-1"
+      "id": "letove-zasady-letoun-p2-10"
     },
     {
-      "sourceNumber": "1",
-      "question": "1 Číslo (2) na obrázku představuje: Viz obr. (PFA-010)",
+      "sourceNumber": 11,
+      "question": "Číslo (2) na obrázku představuje: Viz obr. (PFA-010)",
       "options": [
         "úhel náběhu",
         "střední čáru profilu",
@@ -2467,13 +2467,13 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-1",
+      "id": "letove-zasady-letoun-p3-11",
       "image": "./assets/questions/PFA-010.jpg",
       "imageCode": "PFA-010"
     },
     {
-      "sourceNumber": "1",
-      "question": "2 Číslo (3) na obrázku představuje: Viz obr. (PFA-010)",
+      "sourceNumber": 12,
+      "question": "Číslo (3) na obrázku představuje: Viz obr. (PFA-010)",
       "options": [
         "střední čáru profilu",
         "tětivu profilu",
@@ -2485,13 +2485,13 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-1-2",
+      "id": "letove-zasady-letoun-p3-12",
       "image": "./assets/questions/PFA-010.jpg",
       "imageCode": "PFA-010"
     },
     {
-      "sourceNumber": "1",
-      "question": "3 Ú hel náběhu je úhel mezi:",
+      "sourceNumber": 13,
+      "question": "Úhel náběhu je úhel mezi:",
       "options": [
         "tětivou a směrem nabíhajícího proudu",
         "tětivou a podélnou osou letadla",
@@ -2503,11 +2503,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-1-3"
+      "id": "letove-zasady-letoun-p3-13"
     },
     {
-      "sourceNumber": "1",
-      "question": "4 Poměr rozpětí ku střední tětivě se nazývá:",
+      "sourceNumber": 14,
+      "question": "Poměr rozpětí ku střední tětivě se nazývá:",
       "options": [
         "úhel šípu",
         "lichoběžníkový tvar",
@@ -2519,29 +2519,29 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-1-4"
+      "id": "letove-zasady-letoun-p3-14"
     },
     {
-      "sourceNumber": "1",
-      "question": "5 Jaký bod na profilu je znázorněn číslem (3)? Viz obr. (PFA-009)",
+      "sourceNumber": 15,
+      "question": "Jaký bod na profilu je znázorněn číslem (3)? Viz obr. (PFA-009)",
       "options": [
         "bod přechodu",
         "bod odtržení",
         "stagnační bod",
-        "aerodynamický střed verze 1. 3 ze dne 12. 08. 202 5"
+        "aerodynamický střed"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-1-5",
+      "id": "letove-zasady-letoun-p3-15",
       "image": "./assets/questions/PFA-009.jpg",
       "imageCode": "PFA-009"
     },
     {
-      "sourceNumber": "1",
-      "question": "6 Jaký bod na profilu je značen číslem (4)? Viz obr. (PFA-009)",
+      "sourceNumber": 16,
+      "question": "Jaký bod na profilu je značen číslem (4)? Viz obr. (PFA-009)",
       "options": [
         "bod přechodu",
         "bod odtržení",
@@ -2553,13 +2553,13 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-1",
+      "id": "letove-zasady-letoun-p4-16",
       "image": "./assets/questions/PFA-009.jpg",
       "imageCode": "PFA-009"
     },
     {
-      "sourceNumber": "1",
-      "question": "7 Ve které fázi letu se začíná tvořit vír na konci křídla?",
+      "sourceNumber": 17,
+      "question": "Ve které fázi letu se začíná tvořit vír na konci křídla?",
       "options": [
         "při nastavení vzletového režimu při rozjezdu",
         "při vysunutí klapek do polohy na vzlet",
@@ -2571,11 +2571,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-1-2"
+      "id": "letove-zasady-letoun-p4-17"
     },
     {
-      "sourceNumber": "1",
-      "question": "8 Jaký bod na profilu představuje číslo (1) na obrázku? Viz obr. (PFA-009)",
+      "sourceNumber": 18,
+      "question": "Jaký bod na profilu představuje číslo (1) na obrázku? Viz obr. (PFA-009)",
       "options": [
         "bod přechodu",
         "bod odtržení",
@@ -2587,7 +2587,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-1-3",
+      "id": "letove-zasady-letoun-p4-18",
       "image": "./assets/questions/PFA-009.jpg",
       "imageCode": "PFA-009"
     },
@@ -2608,24 +2608,24 @@
       "id": "letove-zasady-letoun-p4-19"
     },
     {
-      "sourceNumber": "2",
-      "question": "0 Jaké je rozložení tlaku na profilu křídla vytvářejícího vztlak při kladném úhlu náběhu?",
+      "sourceNumber": 20,
+      "question": "Jaké je rozložení tlaku na profilu křídla vytvářejícího vztlak při kladném úhlu náběhu?",
       "options": [
         "tlak pod profilem se nemění, nad profilem je podtlak",
         "nad profilem je přetlak, pod profilem podtlak",
         "nad profilem je podtlak pod profilem je přetlak",
-        "tlak nad profilem se nemění, pod profilem je přetlak verze 1. 3 ze dne 12. 08. 202 5"
+        "tlak nad profilem se nemění, pod profilem je přetlak"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-2"
+      "id": "letove-zasady-letoun-p4-20"
     },
     {
-      "sourceNumber": "2",
-      "question": "1 Působiště vztlaku profilu s kladným prohnutím střední čáry:",
+      "sourceNumber": 21,
+      "question": "Působiště vztlaku profilu s kladným prohnutím střední čáry:",
       "options": [
         "při zvětšení úhlu náběhu se posune dopředu",
         "jeho poloha nezávisí na úhlu náběhu",
@@ -2638,7 +2638,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-2"
+      "id": "letove-zasady-letoun-p5-21"
     },
     {
       "sourceNumber": 22,
@@ -2657,8 +2657,8 @@
       "id": "letove-zasady-letoun-p5-22"
     },
     {
-      "sourceNumber": "2",
-      "question": "3 Který výrok o vztlaku a úhlu náběhu je pravdivý?",
+      "sourceNumber": 23,
+      "question": "Který výrok o vztlaku a úhlu náběhu je pravdivý?",
       "options": [
         "přílišné zvětšení úhlu náběhu může vést ke ztrátě vztlaku a odtržení proudu",
         "zvětšení úhlu náběhu způsobí zmenšení indukovaného vztlaku",
@@ -2670,11 +2670,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-2-2"
+      "id": "letove-zasady-letoun-p5-23"
     },
     {
-      "sourceNumber": "2",
-      "question": "4 Který výrok o proudění kolem profilu při zvětšení úhlu náběhu je správný?",
+      "sourceNumber": 24,
+      "question": "Který výrok o proudění kolem profilu při zvětšení úhlu náběhu je správný?",
       "options": [
         "stagnační bod se posune nahoru",
         "stagnační bod se posune dolů",
@@ -2686,27 +2686,27 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-2-3"
+      "id": "letove-zasady-letoun-p5-24"
     },
     {
-      "sourceNumber": "2",
-      "question": "5 Který výrok o proudění kolem profilu při zmenšení úhlu náběhu je pravdivý?",
+      "sourceNumber": 25,
+      "question": "Který výrok o proudění kolem profilu při zmenšení úhlu náběhu je pravdivý?",
       "options": [
         "aerodynamický střed se posune dozadu",
         "stagnační bod se posune dolů",
         "stagnační bod zůstane na stejném místě",
-        "stagnační bod se posune nahoru verze 1. 3 ze dne 12. 08. 202 5"
+        "stagnační bod se posune nahoru"
       ],
       "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-2-4"
+      "id": "letove-zasady-letoun-p5-25"
     },
     {
-      "sourceNumber": "2",
-      "question": "6 Co znázorňuje úhel na obrázku? Viz obr. (PFA-003) DoF: směr nabíhajícího proudu",
+      "sourceNumber": 26,
+      "question": "Co znázorňuje úhel na obrázku? Viz obr. (PFA-003) DoF: směr nabíhajícího proudu",
       "options": [
         "úhel zkroucení",
         "úhel vztlaku",
@@ -2718,13 +2718,13 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-2",
+      "id": "letove-zasady-letoun-p6-26",
       "image": "./assets/questions/PFA-003.jpg",
       "imageCode": "PFA-003"
     },
     {
-      "sourceNumber": "2",
-      "question": "7 Aby se zlepšily vlastnosti letadla při přetažení, je křídlo podél rozpětí zkrouceno, tj. mění se úhel nastavení podél rozpětí. To se nazývá:",
+      "sourceNumber": 27,
+      "question": "Aby se zlepšily vlastnosti letadla při přetažení, je křídlo podél rozpětí zkrouceno, tj. mění se úhel nastavení podél rozpětí. To se nazývá:",
       "options": [
         "geometrické zkroucení",
         "šípovitý tvar",
@@ -2736,11 +2736,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-2-2"
+      "id": "letove-zasady-letoun-p6-27"
     },
     {
-      "sourceNumber": "2",
-      "question": "8 Co popisuje výhodu zkroucení křídla?",
+      "sourceNumber": 28,
+      "question": "Co popisuje výhodu zkroucení křídla?",
       "options": [
         "křidélka jsou účinná i při velkých úhlech náběhu",
         "křídlo je tužší při průhybu",
@@ -2752,7 +2752,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-2-3"
+      "id": "letove-zasady-letoun-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -2771,24 +2771,24 @@
       "id": "letove-zasady-letoun-p6-29"
     },
     {
-      "sourceNumber": "3",
-      "question": "0 Jak se přibližně změní škodlivý odpor, zvýší-li se rychlost nabíhajícího proudu vzduchu dvakrát?",
+      "sourceNumber": 30,
+      "question": "Jak se přibližně změní škodlivý odpor, zvýší-li se rychlost nabíhajícího proudu vzduchu dvakrát?",
       "options": [
         "zvětší se na dvojnásobek",
         "zmenší se na polovinu",
         "zvětší se na čtyřnásobek",
-        "zmenší se na čtvrtinu verze 1. 3 ze dne 12. 08. 202 5"
+        "zmenší se na čtvrtinu"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-3"
+      "id": "letove-zasady-letoun-p6-30"
     },
     {
-      "sourceNumber": "3",
-      "question": "1 Součinitel odporu:",
+      "sourceNumber": 31,
+      "question": "Součinitel odporu:",
       "options": [
         "nemůže být menší než určitá kladná minimální hodnota",
         "může nabývat hodnot od nuly až do kladných hodnot blížících se nekonečnu",
@@ -2800,11 +2800,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-3"
+      "id": "letove-zasady-letoun-p7-31"
     },
     {
-      "sourceNumber": "3",
-      "question": "2 K vyrovnávání tlaků mezi horní a spodní části křídla dochází:",
+      "sourceNumber": 32,
+      "question": "K vyrovnávání tlaků mezi horní a spodní části křídla dochází:",
       "options": [
         "na náběžné hraně",
         "na konci křídla",
@@ -2816,11 +2816,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-3-2"
+      "id": "letove-zasady-letoun-p7-32"
     },
     {
-      "sourceNumber": "3",
-      "question": "3 Při které z následujících situací dochází k působení velkého indukovaného odporu?",
+      "sourceNumber": 33,
+      "question": "Při které z následujících situací dochází k působení velkého indukovaného odporu?",
       "options": [
         "velká štíhlost křídla",
         "lichoběžníkové křídlo",
@@ -2832,11 +2832,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-3-3"
+      "id": "letove-zasady-letoun-p7-33"
     },
     {
-      "sourceNumber": "3",
-      "question": "4 Které části letadla výrazně ovlivňují tvorbu indukovaného odporu?",
+      "sourceNumber": 34,
+      "question": "Které části letadla výrazně ovlivňují tvorbu indukovaného odporu?",
       "options": [
         "vnější část křidélek",
         "konce křídel",
@@ -2848,27 +2848,27 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-3-4"
+      "id": "letove-zasady-letoun-p7-34"
     },
     {
-      "sourceNumber": "3",
-      "question": "5 Kde se vytváří interferenční odpor?",
+      "sourceNumber": 35,
+      "question": "Kde se vytváří interferenční odpor?",
       "options": [
         "na křidélkách",
         "na podvozku",
         "u konce křídla",
-        "u kořene křídla verze 1. 3 ze dne 12. 08. 202 5"
+        "u kořene křídla"
       ],
       "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-3-5"
+      "id": "letove-zasady-letoun-p7-35"
     },
     {
-      "sourceNumber": "3",
-      "question": "6 Která křivka na obrázku představuje indukovaný odpor? Viz obr. (PFA-011)",
+      "sourceNumber": 36,
+      "question": "Která křivka na obrázku představuje indukovaný odpor? Viz obr. (PFA-011)",
       "options": [
         "1",
         "2",
@@ -2880,13 +2880,13 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-3",
+      "id": "letove-zasady-letoun-p8-36",
       "image": "./assets/questions/PFA-011.jpg",
       "imageCode": "PFA-011"
     },
     {
-      "sourceNumber": "3",
-      "question": "7 Tlakový odpor, interferenční odpor a třecí odpor náleží ke skupině:",
+      "sourceNumber": 37,
+      "question": "Tlakový odpor, interferenční odpor a třecí odpor náleží ke skupině:",
       "options": [
         "indukovaný odpor",
         "celkový odpor",
@@ -2898,11 +2898,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-3-2"
+      "id": "letove-zasady-letoun-p8-37"
     },
     {
-      "sourceNumber": "3",
-      "question": "8 Který z uvedených druhů odporů NENÍ škodlivým odporem?",
+      "sourceNumber": 38,
+      "question": "Který z uvedených druhů odporů NENÍ škodlivým odporem?",
       "options": [
         "třecí",
         "tvarový",
@@ -2914,7 +2914,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-3-3"
+      "id": "letove-zasady-letoun-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -2933,24 +2933,24 @@
       "id": "letove-zasady-letoun-p8-39"
     },
     {
-      "sourceNumber": "4",
-      "question": "0 Který z uvedených tvarů křídla má nejmenší indukovaný odpor?",
+      "sourceNumber": 40,
+      "question": "Který z uvedených tvarů křídla má nejmenší indukovaný odpor?",
       "options": [
         "elipsa",
         "lichoběžník",
         "obdélník",
-        "dvojitý lichoběžník verze 1. 3 ze dne 12. 08. 202 5"
+        "dvojitý lichoběžník"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-4"
+      "id": "letove-zasady-letoun-p8-40"
     },
     {
-      "sourceNumber": "4",
-      "question": "1 Jaký účinek na indukovaný odpor má v ustáleném horizontálním letu snížení rychlosti?",
+      "sourceNumber": 41,
+      "question": "Jaký účinek na indukovaný odpor má v ustáleném horizontálním letu snížení rychlosti?",
       "options": [
         "indukovaný odpor se zvětší",
         "indukovaný odpor se mírně zmenší",
@@ -2962,11 +2962,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-4"
+      "id": "letove-zasady-letoun-p9-41"
     },
     {
-      "sourceNumber": "4",
-      "question": "2 Který výrok o indukovaném odporu v horizontálním letu je pravdivý?",
+      "sourceNumber": 42,
+      "question": "Který výrok o indukovaném odporu v horizontálním letu je pravdivý?",
       "options": [
         "indukovaný odpor se zvětšuje s rostoucí rychlostí",
         "indukovaný odpor se zmenšuje s rostoucí rychlostí",
@@ -2978,11 +2978,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-4-2"
+      "id": "letove-zasady-letoun-p9-42"
     },
     {
-      "sourceNumber": "4",
-      "question": "3 Za které z uvedených situací je celkový odpor minimální?",
+      "sourceNumber": 43,
+      "question": "Za které z uvedených situací je celkový odpor minimální?",
       "options": [
         "škodlivý odpor se rovná indukovanému",
         "škodlivý odpor je dvakrát tak velký jako indukovaný",
@@ -2994,11 +2994,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-4-3"
+      "id": "letove-zasady-letoun-p9-43"
     },
     {
-      "sourceNumber": "4",
-      "question": "4 Z jakých druhů odporů se skládá celkový odpor?",
+      "sourceNumber": 44,
+      "question": "Z jakých druhů odporů se skládá celkový odpor?",
       "options": [
         "indukovaný, tvarový a třecí",
         "tvarový, třecí a interferenční",
@@ -3010,27 +3010,27 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-4-4"
+      "id": "letove-zasady-letoun-p9-44"
     },
     {
-      "sourceNumber": "4",
-      "question": "5 Jak se mění vztlak a odpor při konstantním násobku 1, blíží-li se letadlo pádové rychlosti?",
+      "sourceNumber": 45,
+      "question": "Jak se mění vztlak a odpor při konstantním násobku 1, blíží-li se letadlo pádové rychlosti?",
       "options": [
         "vztlak i odpor se zvětšují",
         "vztlak i odpor se zmenšují",
         "vztlak je stejný a odpor se zvětšuje",
-        "vztlak se zvětšuje a odpor se zmenšuje verze 1. 3 ze dne 12. 08. 202 5"
+        "vztlak se zvětšuje a odpor se zmenšuje"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-4-5"
+      "id": "letove-zasady-letoun-p9-45"
     },
     {
-      "sourceNumber": "4",
-      "question": "6 Při přetažení je důležité:",
+      "sourceNumber": 46,
+      "question": "Při přetažení je důležité:",
       "options": [
         "zvětšit úhel náběhu a snížit rychlost",
         "zvětšit úhel náběhu a zvýšit rychlost",
@@ -3042,7 +3042,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-4"
+      "id": "letove-zasady-letoun-p10-46"
     },
     {
       "sourceNumber": 47,
@@ -3093,24 +3093,24 @@
       "id": "letove-zasady-letoun-p10-49"
     },
     {
-      "sourceNumber": "5",
-      "question": "0 Varování před pádem se aktivuje před dosažením:",
+      "sourceNumber": 50,
+      "question": "Varování před pádem se aktivuje před dosažením:",
       "options": [
         "vNE",
         "vS",
         "vR",
-        "vX verze 1. 3 ze dne 12. 08. 202 5"
+        "vX"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-5"
+      "id": "letove-zasady-letoun-p10-50"
     },
     {
-      "sourceNumber": "5",
-      "question": "1 U letounů je obvykle varování před pádem aktivováno změnou:",
+      "sourceNumber": 51,
+      "question": "U letounů je obvykle varování před pádem aktivováno změnou:",
       "options": [
         "polohy aerodynamického středu",
         "polohy těžiště",
@@ -3122,11 +3122,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-5"
+      "id": "letove-zasady-letoun-p11-51"
     },
     {
-      "sourceNumber": "5",
-      "question": "2 Jak má pilot reagovat, spustí-li varování před pádem?",
+      "sourceNumber": 52,
+      "question": "Jak má pilot reagovat, spustí-li varování před pádem?",
       "options": [
         "zvětšit podélný sklon, snížit rychlost",
         "přitáhnout výškovku, zvýšit výkon motoru",
@@ -3138,11 +3138,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-5-2"
+      "id": "letove-zasady-letoun-p11-52"
     },
     {
-      "sourceNumber": "5",
-      "question": "3 Který výrok o vývrtce je pravdivý?",
+      "sourceNumber": 53,
+      "question": "Který výrok o vývrtce je pravdivý?",
       "options": [
         "při vybírání mají být křidélka v neutrálu",
         "během vývrtky rychlost neustále roste",
@@ -3154,11 +3154,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-5-3"
+      "id": "letove-zasady-letoun-p11-53"
     },
     {
-      "sourceNumber": "5",
-      "question": "4 Jak se mění součinitel vztlaku při vysouvání vztlakových klapek, nemění-li se úhel náběhu a letadlo letí daleko před dosažením pádové rychlosti?",
+      "sourceNumber": 54,
+      "question": "Jak se mění součinitel vztlaku při vysouvání vztlakových klapek, nemění-li se úhel náběhu a letadlo letí daleko před dosažením pádové rychlosti?",
       "options": [
         "zvětšuje se",
         "zmenšuje se",
@@ -3170,27 +3170,27 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-5-4"
+      "id": "letove-zasady-letoun-p11-54"
     },
     {
-      "sourceNumber": "5",
-      "question": "5 Kter ý z následujících vlivů způsobuje zvětšení vztlaku při vysouvání vztlakových klapek?",
+      "sourceNumber": 55,
+      "question": "Který z následujících vlivů způsobuje zvětšení vztlaku při vysouvání vztlakových klapek?",
       "options": [
         "zmenšení tvarového odporu",
         "zvětšení prohnutí profilu",
         "zmenšení úhlu náběhu",
-        "zmenšení indukovaného odporu verze 1. 3 ze dne 12. 08. 202 5"
+        "zmenšení indukovaného odporu"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-5-5"
+      "id": "letove-zasady-letoun-p11-55"
     },
     {
-      "sourceNumber": "5",
-      "question": "6 Co se může změnit vysunutím vztlakových klapek do polohy na přistání?",
+      "sourceNumber": 56,
+      "question": "Co se může změnit vysunutím vztlakových klapek do polohy na přistání?",
       "options": [
         "síla na výškovce",
         "Otáčky motoru",
@@ -3202,11 +3202,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-5"
+      "id": "letove-zasady-letoun-p12-56"
     },
     {
-      "sourceNumber": "5",
-      "question": "7 Jaký je princip F o wlerovy klapky?",
+      "sourceNumber": 57,
+      "question": "Jaký je princip F o wlerovy klapky?",
       "options": [
         "zadní část křídla je vy chýlena směrem dolů",
         "při vysokých úhlech náběhu se vysunou části náběžných hran",
@@ -3218,7 +3218,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-5-2"
+      "id": "letove-zasady-letoun-p12-57"
     },
     {
       "sourceNumber": "58",
@@ -3253,24 +3253,24 @@
       "id": "letove-zasady-letoun-p12-59"
     },
     {
-      "sourceNumber": "6",
-      "question": "0 Laminární mezní vrstva se na profilu nachází mezi:",
+      "sourceNumber": 60,
+      "question": "Laminární mezní vrstva se na profilu nachází mezi:",
       "options": [
         "bodem přechodu a bodem odtržení",
         "stagnačním bodem a bodem přechodu",
         "stagnačním bodem a aerodynamickým středem",
-        "bodem přechodu a aerodynamickým středem verze 1. 3 ze dne 12. 08. 202 5"
+        "bodem přechodu a aerodynamickým středem"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-6"
+      "id": "letove-zasady-letoun-p12-60"
     },
     {
-      "sourceNumber": "6",
-      "question": "1 Jaké druhy mezních vrstev jsou na profilu?",
+      "sourceNumber": 61,
+      "question": "Jaké druhy mezních vrstev jsou na profilu?",
       "options": [
         "laminární po celé horní straně bez odtrženého proudu",
         "turbulentní po celé horní straně s odtrženým proudem",
@@ -3282,11 +3282,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-6"
+      "id": "letove-zasady-letoun-p13-61"
     },
     {
-      "sourceNumber": "6",
-      "question": "2 Jak se liší laminární mezní vrstva od turbulentní?",
+      "sourceNumber": 62,
+      "question": "Jak se liší laminární mezní vrstva od turbulentní?",
       "options": [
         "turbulentní může zůstat přilnutá na profilu i při vyšších úhlech náběhu",
         "laminární je tenčí a způsobuje větší třecí odpor",
@@ -3298,11 +3298,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-6-2"
+      "id": "letove-zasady-letoun-p13-62"
     },
     {
-      "sourceNumber": "6",
-      "question": "3 Co zajišťuje příčnou stabilitu letadla?",
+      "sourceNumber": 63,
+      "question": "Co zajišťuje příčnou stabilitu letadla?",
       "options": [
         "svislá ocasní plocha",
         "výškovka",
@@ -3314,11 +3314,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-6-3"
+      "id": "letove-zasady-letoun-p13-63"
     },
     {
-      "sourceNumber": "6",
-      "question": "4 Jak lze popsat statickou stabilitu?",
+      "sourceNumber": 64,
+      "question": "Jak lze popsat statickou stabilitu?",
       "options": [
         "zůstane zachována výchylka způsobená vnějším zásahem",
         "po výchylce způsobené vnějším zásahem se letadlo snaží vrátit do původní polohy",
@@ -3330,27 +3330,27 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-6-4"
+      "id": "letove-zasady-letoun-p13-64"
     },
     {
-      "sourceNumber": "6",
-      "question": "5 Vůči které ose se udává podélná stabilita?",
+      "sourceNumber": 65,
+      "question": "Vůči které ose se udává podélná stabilita?",
       "options": [
         "vertikální",
         "podélné",
         "příčné",
-        "vrtulové verze 1. 3 ze dne 12. 08. 202 5"
+        "vrtulové"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-6-5"
+      "id": "letove-zasady-letoun-p13-65"
     },
     {
-      "sourceNumber": "6",
-      "question": "6 Poloha těžiště silně ovlivňuje stabilitu kolem které osy?",
+      "sourceNumber": 66,
+      "question": "Poloha těžiště silně ovlivňuje stabilitu kolem které osy?",
       "options": [
         "podélné",
         "vertikální",
@@ -3362,11 +3362,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-6"
+      "id": "letove-zasady-letoun-p14-66"
     },
     {
-      "sourceNumber": "6",
-      "question": "7 Co zajišťuje směrovou stabilitu letounu?",
+      "sourceNumber": 67,
+      "question": "Co zajišťuje směrovou stabilitu letounu?",
       "options": [
         "vzepětí křídla",
         "svislá ocasní plocha",
@@ -3378,11 +3378,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-6-2"
+      "id": "letove-zasady-letoun-p14-67"
     },
     {
-      "sourceNumber": "6",
-      "question": "8 Pohyb kolem vertikální osy se nazývá:",
+      "sourceNumber": 68,
+      "question": "Pohyb kolem vertikální osy se nazývá:",
       "options": [
         "bočení",
         "skluz",
@@ -3394,7 +3394,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-6-3"
+      "id": "letove-zasady-letoun-p14-68"
     },
     {
       "sourceNumber": "69",
@@ -3413,24 +3413,24 @@
       "id": "letove-zasady-letoun-p14-69"
     },
     {
-      "sourceNumber": "7",
-      "question": "0 Kritický úhel náběhu:",
+      "sourceNumber": 70,
+      "question": "Kritický úhel náběhu:",
       "options": [
         "je menší při zadní poloze těžiště",
         "nezávisí na hmotnosti letadla",
         "je větší při přední poloze těžiště",
-        "závisí na hmotnosti letadla verze 1. 3 ze dne 12. 08. 202 5"
+        "závisí na hmotnosti letadla"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-7"
+      "id": "letove-zasady-letoun-p14-70"
     },
     {
-      "sourceNumber": "7",
-      "question": "1 V přímočarém ustáleném letu s konstantním výkonem motoru je úhel náběhu:",
+      "sourceNumber": 71,
+      "question": "V přímočarém ustáleném letu s konstantním výkonem motoru je úhel náběhu:",
       "options": [
         "větší než při stoupání",
         "menší než při stoupání",
@@ -3442,11 +3442,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-7"
+      "id": "letove-zasady-letoun-p15-71"
     },
     {
-      "sourceNumber": "7",
-      "question": "2 Co zajišťuje vodorovná ocasní plocha?",
+      "sourceNumber": 72,
+      "question": "Co zajišťuje vodorovná ocasní plocha?",
       "options": [
         "stabilizuje letoun kolem podélné osy",
         "stabilizuje letoun kolem vertikální osy",
@@ -3458,11 +3458,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-7-2"
+      "id": "letove-zasady-letoun-p15-72"
     },
     {
-      "sourceNumber": "7",
-      "question": "3 Pohyb výškovky při rotaci při vzletu:",
+      "sourceNumber": 73,
+      "question": "Pohyb výškovky při rotaci při vzletu:",
       "options": [
         "musí být větší při přední než při zadní centráži",
         "musí být větší při vyšších rychlostech rotace",
@@ -3474,11 +3474,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-7-3"
+      "id": "letove-zasady-letoun-p15-73"
     },
     {
-      "sourceNumber": "7",
-      "question": "4 Výškovka způsobuje pohyb letounu kolem:",
+      "sourceNumber": 74,
+      "question": "Výškovka způsobuje pohyb letounu kolem:",
       "options": [
         "svislé osy",
         "příčné osy",
@@ -3490,27 +3490,27 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-7-4"
+      "id": "letove-zasady-letoun-p15-74"
     },
     {
-      "sourceNumber": "7",
-      "question": "5 Co platí o těžišti letadla?",
+      "sourceNumber": 75,
+      "question": "Co platí o těžišti letadla?",
       "options": [
         "pouze správné naložení může zajistit správnou a bezpečnou polohu těžiště",
         "těžiště lze posunout do správné polohy příslušnou výchylkou trimu výškovky",
         "těžiště lze posunout do správné polohy příslušnou výchylkou trimu křidélek",
-        "polohu těžiště letadla lze stanovit jen za letu verze 1. 3 ze dne 12. 08. 202 5"
+        "polohu těžiště letadla lze stanovit jen za letu"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-7-5"
+      "id": "letove-zasady-letoun-p15-75"
     },
     {
-      "sourceNumber": "7",
-      "question": "6 Výchylka směrovky způsob uje pohyb letounu kolem:",
+      "sourceNumber": 76,
+      "question": "Výchylka směrovky způsobuje pohyb letounu kolem:",
       "options": [
         "svislé osy",
         "příčné osy",
@@ -3522,11 +3522,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-7"
+      "id": "letove-zasady-letoun-p16-76"
     },
     {
-      "sourceNumber": "7",
-      "question": "7 Výchylka směrovky vlevo způsobí:",
+      "sourceNumber": 77,
+      "question": "Výchylka směrovky vlevo způsobí:",
       "options": [
         "bočení letadla doprava",
         "bočení letadla doleva",
@@ -3538,7 +3538,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-7-2"
+      "id": "letove-zasady-letoun-p16-77"
     },
     {
       "sourceNumber": 78,
@@ -3573,24 +3573,24 @@
       "id": "letove-zasady-letoun-p16-79"
     },
     {
-      "sourceNumber": "8",
-      "question": "0 Diferenciální výchylka křidélek se používá proto, aby:",
+      "sourceNumber": 80,
+      "question": "Diferenciální výchylka křidélek se používá proto, aby:",
       "options": [
         "snížila intenzitu turbulence v úplavu",
         "zabránila přetažení letadla při malých úhlech náběhu",
         "zmenšila bočení proti klonění",
-        "zvětšila klesavost verze 1. 3 ze dne 12. 08. 202 5"
+        "zvětšila klesavost"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-8"
+      "id": "letove-zasady-letoun-p16-80"
     },
     {
-      "sourceNumber": "8",
-      "question": "1 Vztlaková síla působí směrem kolmo:",
+      "sourceNumber": 81,
+      "question": "Vztlaková síla působí směrem kolmo:",
       "options": [
         "na podélnou osu let ounu",
         "k horizontální rovině",
@@ -3602,11 +3602,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-8"
+      "id": "letove-zasady-letoun-p17-81"
     },
     {
-      "sourceNumber": "8",
-      "question": "2 Aerodynamické vyvážení směrovky:",
+      "sourceNumber": 82,
+      "question": "Aerodynamické vyvážení směrovky:",
       "options": [
         "zmenšuje krátkodobě síly v řízení",
         "zmenšuje dlouhodobě síly na pedálech",
@@ -3618,11 +3618,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-8-2"
+      "id": "letove-zasady-letoun-p17-82"
     },
     {
-      "sourceNumber": "8",
-      "question": "3 Čím se dlouhodobě zmenšují síly v řízení?",
+      "sourceNumber": 83,
+      "question": "Čím se dlouhodobě zmenšují síly v řízení?",
       "options": [
         "diferenciálními výchylkami křidélek",
         "aerodynamickým vyvážením řídících ploch",
@@ -3634,11 +3634,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-8-3"
+      "id": "letove-zasady-letoun-p17-83"
     },
     {
-      "sourceNumber": "8",
-      "question": "4 Jaký účel má hmotové vyvážení kormidel?",
+      "sourceNumber": 84,
+      "question": "Jaký účel má hmotové vyvážení kormidel?",
       "options": [
         "brání jejich kmitání",
         "zmenšuje síly v řízení",
@@ -3650,27 +3650,27 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-8-4"
+      "id": "letove-zasady-letoun-p17-84"
     },
     {
-      "sourceNumber": "8",
-      "question": "5 Za letu s konstantním nastavením výkonu motoru má letadlo snahu neustále zvedat příď. Jak lze této snaze zabránit?",
+      "sourceNumber": 85,
+      "question": "Za letu s konstantním nastavením výkonu motoru má letadlo snahu neustále zvedat příď. Jak lze této snaze zabránit?",
       "options": [
         "posunem těžiště dozadu",
         "výchylkou výškovky nahoru",
         "výchylkou trimu výškovky dolů",
-        "výchylkou trimu výškovky nahoru verze 1. 3 ze dne 12. 08. 202 5"
+        "výchylkou trimu výškovky nahoru"
       ],
       "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-8-5"
+      "id": "letove-zasady-letoun-p17-85"
     },
     {
-      "sourceNumber": "8",
-      "question": "6 Trim výškovky je vychýlen nahoru. V jaké poloze je jeho indikátor?",
+      "sourceNumber": 86,
+      "question": "Trim výškovky je vychýlen nahoru. V jaké poloze je jeho indikátor?",
       "options": [
         "neutrální",
         "příčně vyváženo",
@@ -3682,11 +3682,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-8"
+      "id": "letove-zasady-letoun-p18-86"
     },
     {
-      "sourceNumber": "8",
-      "question": "7 Který poměr popi suje plošné zatížení křídla?",
+      "sourceNumber": 87,
+      "question": "Který poměr popisuje plošné zatížení křídla?",
       "options": [
         "plocha křídla k hmotnosti",
         "odpor k ploše křídla",
@@ -3698,11 +3698,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-8-2"
+      "id": "letove-zasady-letoun-p18-87"
     },
     {
-      "sourceNumber": "8",
-      "question": "8 Který faktor zvýší za letu násobek zatížení?",
+      "sourceNumber": 88,
+      "question": "Který faktor zvýší za letu násobek zatížení?",
       "options": [
         "Vzestupný poryv vzduchu",
         "větší hmotnost letounu",
@@ -3714,7 +3714,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-8-3"
+      "id": "letove-zasady-letoun-p18-88"
     },
     {
       "sourceNumber": "89",
@@ -3733,24 +3733,24 @@
       "id": "letove-zasady-letoun-p18-89"
     },
     {
-      "sourceNumber": "9",
-      "question": "0 Zkroucení vrtulových listů zajišťuje:",
+      "sourceNumber": 90,
+      "question": "Zkroucení vrtulových listů zajišťuje:",
       "options": [
         "přibližně stejné zatížení způsobené stejným efektivním úhlem náběhu po celé délce listu",
         "největší možný úhel náběhu na konci listu",
         "většina tahu se vytváří u kořene listu",
-        "většina tahu se vytváří na konci listu verze 1. 3 ze dne 12. 08. 202 5"
+        "většina tahu se vytváří na konci listu"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-9"
+      "id": "letove-zasady-letoun-p18-90"
     },
     {
-      "sourceNumber": "9",
-      "question": "1 Mlýnkující vrtule po vysazení motoru:",
+      "sourceNumber": 91,
+      "question": "Mlýnkující vrtule po vysazení motoru:",
       "options": [
         "vytváří větší odpor než tah",
         "nevytváří ani tah ani odpor",
@@ -3762,11 +3762,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-9"
+      "id": "letove-zasady-letoun-p19-91"
     },
     {
-      "sourceNumber": "9",
-      "question": "2 Při klesání konstantní rychlostí na volnoběhu pohne pilot pákou ovládání vrtule dozadu. Jak se to projeví na úhlu nastavení listů vrtule a úhlu klesání letadla?",
+      "sourceNumber": 92,
+      "question": "Při klesání konstantní rychlostí na volnoběhu pohne pilot pákou ovládání vrtule dozadu. Jak se to projeví na úhlu nastavení listů vrtule a úhlu klesání letadla?",
       "options": [
         "listy se nastaví na větší úhel nastavení, úhel klesání se zmenší",
         "listy se nastaví na větší úhel nastavení, úhel klesání se zvětší",
@@ -3778,11 +3778,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-9-2"
+      "id": "letove-zasady-letoun-p19-92"
     },
     {
-      "sourceNumber": "9",
-      "question": "3 Jaký režim letu označuje bod (1) na obrázku? Viz obr. (PFA-008)",
+      "sourceNumber": 93,
+      "question": "Jaký režim letu označuje bod (1) na obrázku? Viz obr. (PFA-008)",
       "options": [
         "minimální rychlost",
         "maximální klouzavost",
@@ -3794,13 +3794,13 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-9-3",
+      "id": "letove-zasady-letoun-p19-93",
       "image": "./assets/questions/PFA-008.jpg",
       "imageCode": "PFA-008"
     },
     {
-      "sourceNumber": "9",
-      "question": "4 Jaký režim letu označuje bod (5) na obrázku? Viz obr. (PFA-008)",
+      "sourceNumber": 94,
+      "question": "Jaký režim letu označuje bod (5) na obrázku? Viz obr. (PFA-008)",
       "options": [
         "minimální rychlost",
         "maximální klouzavost",
@@ -3812,29 +3812,29 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-9-4",
+      "id": "letove-zasady-letoun-p19-94",
       "image": "./assets/questions/PFA-008.jpg",
       "imageCode": "PFA-008"
     },
     {
-      "sourceNumber": "9",
-      "question": "5 Náklon v zatáčce o 360° za 2 minuty závisí na:",
+      "sourceNumber": 95,
+      "question": "Náklon v zatáčce o 360° za 2 minuty závisí na:",
       "options": [
-        "pravé vzdušné rychlost i",
+        "pravé vzdušné rychlosti",
         "tíze letadla",
         "násobku zatížení",
-        "větru verze 1. 3 ze dne 12. 08. 202 5"
+        "větru"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-9-5"
+      "id": "letove-zasady-letoun-p19-95"
     },
     {
-      "sourceNumber": "9",
-      "question": "6 Jaký je vztah mezi násobkem (n) a pádovou rychlostí (vS) v koordinované zatáčce?",
+      "sourceNumber": 96,
+      "question": "Jaký je vztah mezi násobkem (n) a pádovou rychlostí (vS) v koordinované zatáčce?",
       "options": [
         "n je větší než 1, vS je větší než v rovném letu",
         "n je větší než 1, vS je menší než v rovném letu",
@@ -3846,11 +3846,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-9"
+      "id": "letove-zasady-letoun-p20-96"
     },
     {
-      "sourceNumber": "9",
-      "question": "7 Jak se změní rovnováha sil v zatáčce?",
+      "sourceNumber": 97,
+      "question": "Jak se změní rovnováha sil v zatáčce?",
       "options": [
         "vztlak musí být větší, aby vyrovnal součet tíhy a odstředivé síly",
         "vztlak musí být menší, aby vyrovnal menší součet sil v porovnání s přímým letem",
@@ -3862,11 +3862,11 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-9-2"
+      "id": "letove-zasady-letoun-p20-97"
     },
     {
-      "sourceNumber": "9",
-      "question": "8 Vyrovnávání tlaku mezi horní a spodní stranou křídla má za následek:",
+      "sourceNumber": 98,
+      "question": "Vyrovnávání tlaku mezi horní a spodní stranou křídla má za následek:",
       "options": [
         "indukovaný odpor vytvářený víry na konci křídel",
         "vztlak vytvářený víry na konci křídel",
@@ -3878,7 +3878,7 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-9-3"
+      "id": "letove-zasady-letoun-p20-98"
     },
     {
       "sourceNumber": "99",
@@ -3897,20 +3897,20 @@
       "id": "letove-zasady-letoun-p20-99"
     },
     {
-      "sourceNumber": "10",
-      "question": "0 Jaký je rozdíl mezi vývrtkou a spirálou?",
+      "sourceNumber": 100,
+      "question": "Jaký je rozdíl mezi vývrtkou a spirálou?",
       "options": [
         "vývrtka: odtržení proudu na vnitřním křídle, rychlost konstantní – spirála: není odtržení proudu, rychlost rychle narůstá",
         "vývrtka: odtržení proudu na vnějším křídle, rychlost konstantní – spirála: odtržení není, rychlost rychle narůstá",
         "vývrtka: odtržení proudu na vnitřním křídle, rychlost rychle narůstá – spirála: odtržení není, rychlost konstantní",
-        "vývrtka: odtržení proudu na vnějším křídle, rychlost rychle narůstá – spirála: odtržení není, rychlost konstantní verze 1. 3 ze dne 12. 08. 202 5"
+        "vývrtka: odtržení proudu na vnějším křídle, rychlost rychle narůstá – spirála: odtržení není, rychlost konstantní"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-10"
+      "id": "letove-zasady-letoun-p20-100"
     },
     {
       "sourceNumber": "1",
@@ -6031,8 +6031,8 @@
       "id": "3-meteorologie-letoun-1-p3-14"
     },
     {
-      "sourceNumber": "1",
-      "question": "5 Přizemní inverzní vrstva může být způsobena:",
+      "sourceNumber": 15,
+      "question": "Přizemní inverzní vrstva může být způsobena:",
       "options": [
         "chladnutím země v noci",
         "nárůstem oblačnosti ve středních výškách",
@@ -6044,11 +6044,11 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-1"
+      "id": "3-meteorologie-letoun-1-p3-15"
     },
     {
-      "sourceNumber": "1",
-      "question": "6 Jaký je tlak vzduchu ve FL 180 (5500 m) podle mezinárodní standardní atmosféry?",
+      "sourceNumber": 16,
+      "question": "Jaký je tlak vzduchu ve FL 180 (5500 m) podle mezinárodní standardní atmosféry?",
       "options": [
         "1013.25 hPa",
         "250 hPa",
@@ -6060,11 +6060,11 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-1"
+      "id": "3-meteorologie-letoun-1-p4-16"
     },
     {
-      "sourceNumber": "1",
-      "question": "7 Tlak měřený pozemní stanicí a přepočítaný na střední hladinu moře (MSL) ve skutečné atmosféře se nazývá:",
+      "sourceNumber": 17,
+      "question": "Tlak měřený pozemní stanicí a přepočítaný na střední hladinu moře (MSL) ve skutečné atmosféře se nazývá:",
       "options": [
         "QFF",
         "QNH",
@@ -6076,7 +6076,7 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-1-2"
+      "id": "3-meteorologie-letoun-1-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -15004,8 +15004,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-62"
     },
     {
-      "sourceNumber": "6",
-      "question": "3 Zážehové letecké motory mají:",
+      "sourceNumber": 63,
+      "question": "Zážehové letecké motory mají:",
       "options": [
         "dva zdvojené systémy zapalování",
         "dva nezávislé systémy zapalování",
@@ -15017,11 +15017,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-63"
     },
     {
-      "sourceNumber": "6",
-      "question": "4 Jak se nazývá směs paliva se vzduchem, kde je nadměrné množství paliva?",
+      "sourceNumber": 64,
+      "question": "Jak se nazývá směs paliva se vzduchem, kde je nadměrné množství paliva?",
       "options": [
         "chudá",
         "bohatá",
@@ -15033,11 +15033,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-6-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-64"
     },
     {
-      "sourceNumber": "6",
-      "question": "5 Úhel zobrazený šipkou č. 1 znázorňuje: Viz obr. (AGK-011) D: směr nabíhajícího proudu vzduchu C: tětiva R: směr otáčení",
+      "sourceNumber": 65,
+      "question": "Úhel zobrazený šipkou č. 1 znázorňuje: Viz obr. (AGK-011) D: směr nabíhajícího proudu vzduchu C: tětiva R: směr otáčení",
       "options": [
         "úhel náběhu",
         "úhel nastavení vrtule",
@@ -15049,13 +15049,13 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-6-3",
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-65",
       "image": "./assets/questions/AGK-011.jpg",
       "imageCode": "AGK-011"
     },
     {
-      "sourceNumber": "6",
-      "question": "6 Jak má být provedeno zvýšení výkonu motoru s vrtulí konstantních otáček, není-li v letové příručce popsán žádný jiný postup?",
+      "sourceNumber": 66,
+      "question": "Jak má být provedeno zvýšení výkonu motoru s vrtulí konstantních otáček, není-li v letové příručce popsán žádný jiný postup?",
       "options": [
         "1) zvýšit otáčky 2) zvýšit plnící tlak",
         "1) zvýšit plnící tlak 2) zvýšit otáčky",
@@ -15067,11 +15067,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-66"
     },
     {
-      "sourceNumber": "6",
-      "question": "7 Jak má být provedeno snížení výkonu motoru s vrtulí konstantních otáček, není-li v letové příručce popsán jiný postup?",
+      "sourceNumber": 67,
+      "question": "Jak má být provedeno snížení výkonu motoru s vrtulí konstantních otáček, není-li v letové příručce popsán jiný postup?",
       "options": [
         "1) snížit otáčky 2) snížit plnící tlak",
         "1) snížit plnící tlak 2) snížit otáčky",
@@ -15083,11 +15083,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-6-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-67"
     },
     {
-      "sourceNumber": "6",
-      "question": "8 Výkon pístového motoru bez turbokompresoru klesá s rostoucí výškou, protože:",
+      "sourceNumber": 68,
+      "question": "Výkon pístového motoru bez turbokompresoru klesá s rostoucí výškou, protože:",
       "options": [
         "klesá teplota vzduchu",
         "klesá hustota vzduchu",
@@ -15099,7 +15099,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-6-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-68"
     },
     {
       "sourceNumber": "69",
@@ -15118,8 +15118,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69"
     },
     {
-      "sourceNumber": "7",
-      "question": "0 Během zkoušky zapalování je přepínač zapalování krátce nastaven do polohy OFF a hned potom do polohy BOTH. Co se stane s otáčkami motoru, je-li systém zapalování správně uzemněn?",
+      "sourceNumber": 70,
+      "question": "Během zkoušky zapalování je přepínač zapalování krátce nastaven do polohy OFF a hned potom do polohy BOTH. Co se stane s otáčkami motoru, je-li systém zapalování správně uzemněn?",
       "options": [
         "při přepnutí na OFF se otáčky zvýší a po přepnutí na BOTH se otáčky vrátí na původní hodnotu",
         "po přepnutí na OFF se otáčky sníží a po přepnutí na BOTH se otáčky vrátí na původní hodnotu",
@@ -15131,11 +15131,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-70"
     },
     {
-      "sourceNumber": "7",
-      "question": "1 Jaké přístroje měří v letadle teplotu?",
+      "sourceNumber": 71,
+      "question": "Jaké přístroje měří v letadle teplotu?",
       "options": [
         "teploměr oleje, teploměr chladící kapaliny motoru, teploměr hlav válců, teploměr výstupních plynů, teploměr vnějšího vzduchu, teploměr vzduchu v kabině",
         "teploměr oleje, teploměr hlav válců, teploměr výstupních plynů, teploměr vzduchu v sání, teploměr vnějšího vzduchu, teploměr vzduchu v kabině",
@@ -15147,11 +15147,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-71"
     },
     {
-      "sourceNumber": "7",
-      "question": "2 Množství paliva se v malých letadlech většinou měří pomocí snímače hladiny. Evropské Certifikační specifikace CS 23 požadují:",
+      "sourceNumber": 72,
+      "question": "Množství paliva se v malých letadlech většinou měří pomocí snímače hladiny. Evropské Certifikační specifikace CS 23 požadují:",
       "options": [
         "aby ukazatel množství paliva byl k dispozici pro každou nádrž, ukazatel musí být kalibrován tak, aby ukazoval nulu při rovném letu, když je množství zbývajícího paliva v nádrži rovné nevyčerpatelnému zbytku",
         "musí být k dispozici alespoň jeden ukazatel množství paliva ukazující celkové množství paliva na palubě letadla. Tento ukazatel musí být kalibrovaný tak, aby ukazoval správné množství paliva ve všech fázích letu",
@@ -15163,11 +15163,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-72"
     },
     {
-      "sourceNumber": "7",
-      "question": "3 Který z uvedených přístrojů získává údaje měřením tlaku?",
+      "sourceNumber": 73,
+      "question": "Který z uvedených přístrojů získává údaje měřením tlaku?",
       "options": [
         "tlakoměr oleje, tlakoměr paliva, ukazatel plnícího tlaku, výškoměr, variometr, rychloměr, ukazatel tlaku sání",
         "tlakoměr oleje, tlakoměr paliva, palivoměr, ukazatel plnícího tlaku, ukazatel rozdílu tlaku, výškoměr",
@@ -15179,11 +15179,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-73"
     },
     {
-      "sourceNumber": "7",
-      "question": "4 Pitot-statický systém:",
+      "sourceNumber": 74,
+      "question": "Pitot-statický systém:",
       "options": [
         "měří celkový a statický tlak",
         "brání zamrznutí Pitotovy trubice",
@@ -15195,11 +15195,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-74"
     },
     {
-      "sourceNumber": "7",
-      "question": "5 Jaký tlak měří Pitotova trubice?",
+      "sourceNumber": 75,
+      "question": "Jaký tlak měří Pitotova trubice?",
       "options": [
         "celkový tlak",
         "statický tlak",
@@ -15211,7 +15211,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-75"
     },
     {
       "sourceNumber": 76,
@@ -15246,8 +15246,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77"
     },
     {
-      "sourceNumber": "7",
-      "question": "8 Co je účelem pomocné stupnice výškoměru?",
+      "sourceNumber": 78,
+      "question": "Co je účelem pomocné stupnice výškoměru?",
       "options": [
         "nastavit výškoměr na stanovenou tlakovou hladinu, např. hladinu moře, úroveň letiště, tlakovou hladinu 1013.25 hPa",
         "opravit indikaci výškoměru o nestandardní teploty",
@@ -15259,7 +15259,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-7-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-78"
     },
     {
       "sourceNumber": "79",
@@ -15278,8 +15278,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79"
     },
     {
-      "sourceNumber": "8",
-      "question": "0 Teplota nižší než standardní může vést:",
+      "sourceNumber": 80,
+      "question": "Teplota nižší než standardní může vést:",
       "options": [
         "k příliš vysoké indikaci výšky",
         "k příliš nízké indikaci výšky",
@@ -15291,11 +15291,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-80"
     },
     {
-      "sourceNumber": "8",
-      "question": "1 Letová hladina je:",
+      "sourceNumber": 81,
+      "question": "Letová hladina je:",
       "options": [
         "tlaková výška",
         "skutečná výška nad mořem",
@@ -15307,11 +15307,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-81"
     },
     {
-      "sourceNumber": "8",
-      "question": "2 Skutečná výška je:",
+      "sourceNumber": 82,
+      "question": "Skutečná výška je:",
       "options": [
         "výška nad střední hladinou moře opravená o nestandardní teplotu",
         "výška nad zemí opravená o nestandardní teplotu",
@@ -15323,11 +15323,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-82"
     },
     {
-      "sourceNumber": "8",
-      "question": "3 Za letu ve vzduchu chladnějším než je Mezinárodní standardní atmosféra je indikovaná výška letu:",
+      "sourceNumber": 83,
+      "question": "Za letu ve vzduchu chladnějším než je Mezinárodní standardní atmosféra je indikovaná výška letu:",
       "options": [
         "větší než skutečná",
         "menší než skutečná",
@@ -15339,11 +15339,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-83"
     },
     {
-      "sourceNumber": "8",
-      "question": "4 správně nastaveným QNH, je indikovaná výška:",
+      "sourceNumber": 84,
+      "question": "správně nastaveným QNH, je indikovaná výška:",
       "options": [
         "větší než skutečná",
         "menší než skutečná",
@@ -15355,11 +15355,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-84"
     },
     {
-      "sourceNumber": "8",
-      "question": "5 Který přístroj je výrazně ovlivněn hysterezní chybou?",
+      "sourceNumber": 85,
+      "question": "Který přístroj je výrazně ovlivněn hysterezní chybou?",
       "options": [
         "variometr",
         "otáčkoměr",
@@ -15371,11 +15371,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-85"
     },
     {
-      "sourceNumber": "8",
-      "question": "6 Měření výšky je založeno na změně:",
+      "sourceNumber": 86,
+      "question": "Měření výšky je založeno na změně:",
       "options": [
         "celkového tlaku",
         "statického tlaku",
@@ -15387,11 +15387,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-86"
     },
     {
-      "sourceNumber": "8",
-      "question": "7 Která z následujících možností popisuje princip práce variometru?",
+      "sourceNumber": 87,
+      "question": "Která z následujících možností popisuje princip práce variometru?",
       "options": [
         "měření současného statického tlaku a jeho porovnávání se statickým tlakem uvnitř přístroje",
         "měření celkového tlaku a jeho porovnávání se statickým tlakem",
@@ -15403,11 +15403,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-87"
     },
     {
-      "sourceNumber": "8",
-      "question": "8 Variometr měří rozdíl tlaku mezi:",
+      "sourceNumber": 88,
+      "question": "Variometr měří rozdíl tlaku mezi:",
       "options": [
         "současným statickým tlakem a předcházejícím statickým tlakem",
         "současným dynamickým tlakem a předcházejícím dynamickým tlakem",
@@ -15419,7 +15419,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-88"
     },
     {
       "sourceNumber": "89",
@@ -15438,8 +15438,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89"
     },
     {
-      "sourceNumber": "9",
-      "question": "0 Ve velkých nadmořských výškách má pravá vzdušná rychlost (TAS) tendenci být vyšší než kalibrovaná rychlost (CAS). Hrubý odhad pravé vzdušné rychlosti (TAS) lze získat:",
+      "sourceNumber": 90,
+      "question": "Ve velkých nadmořských výškách má pravá vzdušná rychlost (TAS) tendenci být vyšší než kalibrovaná rychlost (CAS). Hrubý odhad pravé vzdušné rychlosti (TAS) lze získat:",
       "options": [
         "přidáním 2 % CAS na každých 1000 ft výšky",
         "odečtením 2 % CAS na každých 1000 ft výšky",
@@ -15451,11 +15451,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-90"
     },
     {
-      "sourceNumber": "9",
-      "question": "1 Letadlo letí při zemi kurzem 180° při teplotě cca 15°C pravou vzdušnou rychlostí 100 kt. Vítr vane ze 180° rychlostí 30 kt. Jaká bude přibližná indikovaná rychlost při zanedbání přístrojové a polohové chyby?",
+      "sourceNumber": 91,
+      "question": "Letadlo letí při zemi kurzem 180° při teplotě cca 15°C pravou vzdušnou rychlostí 100 kt. Vítr vane ze 180° rychlostí 30 kt. Jaká bude přibližná indikovaná rychlost při zanedbání přístrojové a polohové chyby?",
       "options": [
         "100 kt",
         "70 kt",
@@ -15467,11 +15467,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-91"
     },
     {
-      "sourceNumber": "9",
-      "question": "2 Který z následujících faktorů může způsobit chybnou indikaci rychlosti?",
+      "sourceNumber": 92,
+      "question": "Který z následujících faktorů může způsobit chybnou indikaci rychlosti?",
       "options": [
         "kabel uzemnění je stále připojen",
         "letadlo je pokryto samolepícími fóliemi",
@@ -15483,11 +15483,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-92"
     },
     {
-      "sourceNumber": "9",
-      "question": "3 Co z následujícího popisuje princip práce rychloměru?",
+      "sourceNumber": 93,
+      "question": "Co z následujícího popisuje princip práce rychloměru?",
       "options": [
         "je měřen celkový tlak a porovnáván se statickým tlakem",
         "je měřen statický tlak a porovnáván s vakuem",
@@ -15499,11 +15499,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-93"
     },
     {
-      "sourceNumber": "9",
-      "question": "4 Jaké hodnoty jsou obvykle na přístrojích vyznačeny červenou barvou?",
+      "sourceNumber": 94,
+      "question": "Jaké hodnoty jsou obvykle na přístrojích vyznačeny červenou barvou?",
       "options": [
         "provozní omezení",
         "provozní oblasti",
@@ -15515,11 +15515,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-94"
     },
     {
-      "sourceNumber": "9",
-      "question": "5 Podle čeho ukazuje rychloměr rychlost?",
+      "sourceNumber": 95,
+      "question": "Podle čeho ukazuje rychloměr rychlost?",
       "options": [
         "rozdíl mezi celkovým a statickým tlakem",
         "rozdíl mezi dynamickým a statickým tlakem",
@@ -15531,11 +15531,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-95"
     },
     {
-      "sourceNumber": "9",
-      "question": "6 Co znamená bílý oblouk na rychloměru?",
+      "sourceNumber": 96,
+      "question": "Co znamená bílý oblouk na rychloměru?",
       "options": [
         "rozsah rychlostí s vysunutými vztlakovými klapkami",
         "rozsah rychlostí v klidném vzduchu",
@@ -15547,11 +15547,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-96"
     },
     {
-      "sourceNumber": "9",
-      "question": "7 Co znamená červená čára na rychloměru?",
+      "sourceNumber": 97,
+      "question": "Co znamená červená čára na rychloměru?",
       "options": [
         "rychlost, která nesmí být překročena za žádných okolností",
         "rychlost, která nesmí být překročena v turbulentním vzduchu",
@@ -15563,11 +15563,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-97"
     },
     {
-      "sourceNumber": "9",
-      "question": "8 Chyba kompasu způsobená magnetickým polem letadla se nazývá:",
+      "sourceNumber": 98,
+      "question": "Chyba kompasu způsobená magnetickým polem letadla se nazývá:",
       "options": [
         "deviace",
         "deklinace",
@@ -15579,7 +15579,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-98"
     },
     {
       "sourceNumber": "99",
@@ -15598,8 +15598,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-99"
     },
     {
-      "sourceNumber": "10",
-      "question": "0 Který z přístrojů je připojen k Pitotově trubici?",
+      "sourceNumber": 100,
+      "question": "Který z přístrojů je připojen k Pitotově trubici?",
       "options": [
         "rychloměr",
         "výškoměr",
@@ -15611,11 +15611,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-100"
     },
     {
-      "sourceNumber": "10",
-      "question": "1 Které palubní přístroje jsou připojeny ke snímači statického tlaku?",
+      "sourceNumber": 101,
+      "question": "Které palubní přístroje jsou připojeny ke snímači statického tlaku?",
       "options": [
         "výškoměr, variometr, rychloměr",
         "rychloměr, výškoměr, kompas s přímým čtením",
@@ -15627,11 +15627,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-101"
     },
     {
-      "sourceNumber": "10",
-      "question": "2 Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 270° na kurz 360°. Při přibližně jaké indikaci kurzu je třeba zatáčku zastavit?",
+      "sourceNumber": 102,
+      "question": "Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 270° na kurz 360°. Při přibližně jaké indikaci kurzu je třeba zatáčku zastavit?",
       "options": [
         "330°",
         "030°",
@@ -15643,11 +15643,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-102"
     },
     {
-      "sourceNumber": "10",
-      "question": "3 Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 360°na kurz 270°. Na přibližně jakém kurzu je třeba zatáčku zastavit?",
+      "sourceNumber": 103,
+      "question": "Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 360°na kurz 270°. Na přibližně jakém kurzu je třeba zatáčku zastavit?",
       "options": [
         "270°",
         "240°",
@@ -15659,11 +15659,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-103"
     },
     {
-      "sourceNumber": "10",
-      "question": "4 Pojem statický tlak je definován jako:",
+      "sourceNumber": 104,
+      "question": "Pojem statický tlak je definován jako:",
       "options": [
         "tlak nerozrušeného proudu vzduchu",
         "tlak uvnitř kabiny letadla",
@@ -15675,11 +15675,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-104"
     },
     {
-      "sourceNumber": "10",
-      "question": "5 Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 030° na kurz 180°. Na přibližně jakém kurzu je třeba zatáčku zastavit?",
+      "sourceNumber": 105,
+      "question": "Letadlo na severní polokouli zatáčí nejkratší cestou z kurzu 030° na kurz 180°. Na přibližně jakém kurzu je třeba zatáčku zastavit?",
       "options": [
         "210°",
         "150°",
@@ -15691,11 +15691,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-105"
     },
     {
-      "sourceNumber": "10",
-      "question": "6 Na čem přímo závisí dynamický tlak?",
+      "sourceNumber": 106,
+      "question": "Na čem přímo závisí dynamický tlak?",
       "options": [
         "na hustotě vzduchu a čtverci rychlosti proudu vzduchu",
         "na tlaku a teplotě",
@@ -15707,11 +15707,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-106"
     },
     {
-      "sourceNumber": "10",
-      "question": "7 Co je příčinou decelerační a akcelerační chyby kompasu s přímým čtením?",
+      "sourceNumber": 107,
+      "question": "Co je příčinou decelerační a akcelerační chyby kompasu s přímým čtením?",
       "options": [
         "inklinace siločar zemského magnetického pole",
         "deviace v pilotní kabině",
@@ -15723,11 +15723,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-107"
     },
     {
-      "sourceNumber": "10",
-      "question": "8 Jak reaguje rotující setrvačník v prostoru?",
+      "sourceNumber": 108,
+      "question": "Jak reaguje rotující setrvačník v prostoru?",
       "options": [
         "má tendenci udržet svou polohu v prostoru",
         "kývá se od východu na západ jako kyvadlo",
@@ -15739,7 +15739,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-108"
     },
     {
       "sourceNumber": "1",
@@ -15758,8 +15758,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-1"
     },
     {
-      "sourceNumber": "11",
-      "question": "0 Náklon zatáčky o 360° trvající 2 minuty závisí na:",
+      "sourceNumber": 110,
+      "question": "Náklon zatáčky o 360° trvající 2 minuty závisí na:",
       "options": [
         "indikované rychlosti",
         "kalibrované rychlosti",
@@ -15771,11 +15771,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-110"
     },
     {
-      "sourceNumber": "11",
-      "question": "1 Zatáčkoměr se skluzoměrem poskytují informaci o:",
+      "sourceNumber": 111,
+      "question": "Zatáčkoměr se skluzoměrem poskytují informaci o:",
       "options": [
         "úhlové rychlosti zatáčení a skluzu nebo výkluzu",
         "úhlové rychlosti zatáčení a náklonu",
@@ -15787,11 +15787,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-111"
     },
     {
-      "sourceNumber": "11",
-      "question": "2 Rychloměr neukazuje. Letoun smí být provozován jen:",
+      "sourceNumber": 112,
+      "question": "Rychloměr neukazuje. Letoun smí být provozován jen:",
       "options": [
         "je-li rychloměr znovu plně funkční",
         "pro lety po okruhu letiště",
@@ -15803,11 +15803,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-112"
     },
     {
-      "sourceNumber": "11",
-      "question": "3 Která barva na table nebo přístroji sděluje pilotovi, že a si bude třeba provést opravnou akci?",
+      "sourceNumber": 113,
+      "question": "Která barva na table nebo přístroji sděluje pilotovi, že a si bude třeba provést opravnou akci?",
       "options": [
         "červen á",
         "oranžov á",
@@ -15819,11 +15819,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-113"
     },
     {
-      "sourceNumber": "11",
-      "question": "4 Jakou barvou je na rychloměru vyznačena oblast zvýšené pozornosti?",
+      "sourceNumber": 114,
+      "question": "Jakou barvou je na rychloměru vyznačena oblast zvýšené pozornosti?",
       "options": [
         "žlutou",
         "červenou",
@@ -15835,11 +15835,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-114"
     },
     {
-      "sourceNumber": "11",
-      "question": "5 Polohový směrový indikátor (ADI) kombinuje informace poskytované:",
+      "sourceNumber": 115,
+      "question": "Polohový směrový indikátor (ADI) kombinuje informace poskytované:",
       "options": [
         "umělým horizontem, směrovým indikátorem a zatáčkoměrem",
         "směrovým setrvačníkem a rychlostním setrvačníkem",
@@ -15851,11 +15851,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-115"
     },
     {
-      "sourceNumber": "11",
-      "question": "6 Co znamená zkratka HSI?",
+      "sourceNumber": 116,
+      "question": "Co znamená zkratka HSI?",
       "options": [
         "indikátor horizontální situace",
         "indikátor horizontálního skluzu",
@@ -15867,11 +15867,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-116"
     },
     {
-      "sourceNumber": "11",
-      "question": "7 Indikátor horizontální situace (HSI) kombinuje informace z:",
+      "sourceNumber": 117,
+      "question": "Indikátor horizontální situace (HSI) kombinuje informace z:",
       "options": [
         "směrového gyrokompasu a radionavigačního přijímače VHF",
         "indikátoru polohy a povelového ukazatele",
@@ -15883,11 +15883,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-117"
     },
     {
-      "sourceNumber": "11",
-      "question": "8 Jaký rozdíl výšek ukáže výškoměr, je-li nastavení tlaku změněno z 1000 hPa na 1010 hPa?",
+      "sourceNumber": 118,
+      "question": "Jaký rozdíl výšek ukáže výškoměr, je-li nastavení tlaku změněno z 1000 hPa na 1010 hPa?",
       "options": [
         "o 80 m více",
         "hodnoty závisí na QNH",
@@ -15899,7 +15899,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-118"
     },
     {
       "sourceNumber": "1",
@@ -15918,8 +15918,8 @@
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-1"
     },
     {
-      "sourceNumber": "12",
-      "question": "0 Výškoměr je nastaven na letištní tlak (QFE). Co ukazuje za letu?",
+      "sourceNumber": 120,
+      "question": "Výškoměr je nastaven na letištní tlak (QFE). Co ukazuje za letu?",
       "options": [
         "výšku nad letištěm",
         "nadmořskou výšku letiště",
@@ -15931,11 +15931,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-120"
     },
     {
-      "sourceNumber": "12",
-      "question": "1 Variometr připojený na příliš velkou vyrovnávací nádobu ukazuje:",
+      "sourceNumber": 121,
+      "question": "Variometr připojený na příliš velkou vyrovnávací nádobu ukazuje:",
       "options": [
         "větší hodnoty než skutečné",
         "neukazuje nic",
@@ -15947,11 +15947,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-121"
     },
     {
-      "sourceNumber": "12",
-      "question": "2 Variometr měří rozdíl mezi:",
+      "sourceNumber": 122,
+      "question": "Variometr měří rozdíl mezi:",
       "options": [
         "celkovým a statickým tlakem",
         "dynamickým a celkovým tlakem",
@@ -15963,11 +15963,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-122"
     },
     {
-      "sourceNumber": "12",
-      "question": "3 Pojem inklinace znamená:",
+      "sourceNumber": 123,
+      "question": "Pojem inklinace znamená:",
       "options": [
         "úhel mezi siločárami zemského magnetického pole a horizontální rovinou",
         "úhel mezi podélnou osou letadla a zeměpisným severem",
@@ -15979,11 +15979,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-123"
     },
     {
-      "sourceNumber": "12",
-      "question": "4 Co ukazuje relativní sklonoměr?",
+      "sourceNumber": 124,
+      "question": "Co ukazuje relativní sklonoměr?",
       "options": [
         "relativní vertikálu",
         "vertikálu vzhledem k zemskému horizontu",
@@ -15995,11 +15995,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-124"
     },
     {
-      "sourceNumber": "12",
-      "question": "5 Kulička relativního sklonoměru je v pravé zatáčce vychýlena vpravo. Jak ji lze přivést do neutrálu?",
+      "sourceNumber": 125,
+      "question": "Kulička relativního sklonoměru je v pravé zatáčce vychýlena vpravo. Jak ji lze přivést do neutrálu?",
       "options": [
         "zmenšit náklon, zvětšit úhlovou rychlost zatáčení",
         "zvětšit náklon, zvětšit úhlovou rychlost zatáčení",
@@ -16011,11 +16011,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-125"
     },
     {
-      "sourceNumber": "12",
-      "question": "6 Co je účelem vingletů?",
+      "sourceNumber": 126,
+      "question": "Co je účelem vingletů?",
       "options": [
         "snížení indukovaného odporu",
         "zvýšení vztlaku a zlepšení manévrovatelnosti v zatáčkách",
@@ -16027,11 +16027,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-126"
     },
     {
-      "sourceNumber": "12",
-      "question": "7 Jaké motory se většinou požívají v turistických motorových kluzácích (TMG)?",
+      "sourceNumber": 127,
+      "question": "Jaké motory se většinou požívají v turistických motorových kluzácích (TMG)?",
       "options": [
         "čtyřválcové čtyřtakty",
         "čtyřválcové dvoutakty",
@@ -16043,11 +16043,11 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-127"
     },
     {
-      "sourceNumber": "12",
-      "question": "8 Co je účelem motorového oleje v pístovém motoru?",
+      "sourceNumber": 128,
+      "question": "Co je účelem motorového oleje v pístovém motoru?",
       "options": [
         "chlazení a mazání motoru a ukládání jemných otěrů",
         "chlazení a mazání motoru a zvýšení výkonu motoru",
@@ -16059,7 +16059,7 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-128"
     },
     {
       "sourceNumber": "1",

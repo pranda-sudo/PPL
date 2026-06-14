@@ -17083,28 +17083,31 @@ window.PPL_QUESTIONS = {
       "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-4"
     },
     {
-      "sourceNumber": "12",
-      "question": "let",
+      "sourceNumber": "5",
+      "question": "Jakou dobu platnosti má Osvědčení letové způsobilosti?",
       "options": [
+        "6 měsíců",
         "12 let",
-        "neomezenou"
+        "neomezenou",
+        "12 měsíců"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-12"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-5"
     },
     {
       "sourceNumber": "6",
       "question": "Co znamená zkratka ARC?",
       "options": [
-        "Airworthiness Recurring Control = Řízení zachování letové způsobilosti Airspace Restriction Criteria = Kritéria omezeného prostoru",
+        "Airworthiness Recurring Control = Řízení zachování letové způsobilosti",
+        "Airspace Restriction Criteria = Kritéria omezeného prostoru",
         "Airworthiness Review Certificate = Osvědčení kontroly letové způsobilosti",
         "Airspace Rulemaking Committee = Výbor pro tvorbu pravidel vzdušného prostoru"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
@@ -17142,18 +17145,20 @@ window.PPL_QUESTIONS = {
       "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-8"
     },
     {
-      "sourceNumber": "60",
-      "question": "měsíců",
+      "sourceNumber": "10",
+      "question": "Jaká je doba platnosti průkazu soukromého pilota (PPL)?",
       "options": [
+        "24 měsíců",
         "60 měsíců",
-        "neomezená"
+        "neomezená",
+        "48 měsíců"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-60"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-10"
     },
     {
       "sourceNumber": "15",
@@ -17175,7 +17180,8 @@ window.PPL_QUESTIONS = {
       "options": [
         "standardizovaná evropská pravidla létání",
         "selektivní radiovýškoměr",
-        "zvláštní radarové přiblížení standardní evropské letecké tratě"
+        "zvláštní radarové přiblížení",
+        "standardní evropské letecké tratě"
       ],
       "correctIndex": 0,
       "category": "Pravo",
@@ -17248,7 +17254,9 @@ window.PPL_QUESTIONS = {
       "question": "Co znamená zkratka IFR?",
       "options": [
         "podmínky pro let podle přístrojů",
-        "pravidla pro let podle přístrojů pravidla pro obchodní lety pravidla pro lety za špatného počasí"
+        "pravidla pro let podle přístrojů",
+        "pravidla pro obchodní lety",
+        "pravidla pro lety za špatného počasí"
       ],
       "correctIndex": 1,
       "category": "Pravo",
@@ -17262,7 +17270,9 @@ window.PPL_QUESTIONS = {
       "question": "Co znamená zkratka VMC?",
       "options": [
         "meteorologické podmínky pro let za viditelnosti",
-        "vizuální pravidla letu měnící se meteorologické podmínky podmínky pro let podle přístrojů"
+        "vizuální pravidla letu",
+        "měnící se meteorologické podmínky",
+        "podmínky pro let podle přístrojů"
       ],
       "correctIndex": 0,
       "category": "Pravo",
@@ -17543,10 +17553,11 @@ window.PPL_QUESTIONS = {
       "question": "Jaké jsou části Letecké informační příručky (AIP)?",
       "options": [
         "GEN AGA COM",
-        "GEN COM MET GEN MET RAC",
+        "GEN COM MET",
+        "GEN MET RAC",
         "GEN ENR AD"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
@@ -17809,10 +17820,12 @@ window.PPL_QUESTIONS = {
       "sourceNumber": "86",
       "question": "Letištní maják (ABN) je:",
       "options": [
-        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu rotující maják umístěný na začátku konečného přiblížení a označující jeho polohu pilotům letadel za letu",
+        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi",
+        "pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu",
+        "rotující maják umístěný na začátku konečného přiblížení a označující jeho polohu pilotům letadel za letu",
         "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel za letu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",

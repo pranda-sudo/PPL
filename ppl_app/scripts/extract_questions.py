@@ -15,6 +15,8 @@ from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parents[2]
 SOURCE_DIR = ROOT / "ppl_source" / "ppl"
+if not SOURCE_DIR.exists():
+    SOURCE_DIR = ROOT.parent / "ppl_source" / "ppl"
 OUT_FILE = ROOT / "ppl_app" / "data" / "questions.json"
 PDFTOPPM = Path("/Users/ja/.cache/codex-runtimes/codex-primary-runtime/dependencies/bin/pdftoppm")
 

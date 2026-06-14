@@ -1,4 +1,4 @@
-const CACHE_NAME = "ppl-testy-v6";
+const CACHE_NAME = "ppl-testy-v7";
 const ASSETS = [
   "./",
   "./index.html",
@@ -10,6 +10,7 @@ const ASSETS = [
   "./icons/apple-touch-icon.png",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
+  "./assets/questions/ALW-020.jpg",
   "./assets/questions/AGK-002.jpg",
   "./assets/questions/AGK-003.jpg",
   "./assets/questions/AGK-005.jpg",

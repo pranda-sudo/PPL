@@ -1,23 +1,23 @@
 window.PPL_QUESTIONS = {
   "generatedFrom": "ppl.zip",
-  "total": 1469,
+  "total": 1581,
   "files": {
-    "Komunikace/Komunikace.pdf": 54,
-    "Letové zásady/5-Letove-zasady-vrtulnik.pdf": 51,
+    "Komunikace/Komunikace.pdf": 76,
+    "Letové zásady/5-Letove-zasady-vrtulnik.pdf": 67,
     "Letové zásady/Letove-zasady-letoun.pdf": 99,
     "Lidská výkonost/2.-Lidska-vykonnost-letoun (2).pdf": 58,
-    "Lidská výkonost/2.-Lidska-vykonnost-vrtulnik.pdf": 46,
+    "Lidská výkonost/2.-Lidska-vykonnost-vrtulnik.pdf": 60,
     "Meterologie/3-Meteorologie-letoun (1).pdf": 129,
     "Meterologie/3-Meteorologie-vrtulnik.pdf": 109,
     "Navigace letoun/9-Navigace-letoun (1).pdf": 137,
     "Navigace letoun/9-Navigace-vrtulnik.pdf": 133,
     "Obecná znalost o letadle/8-Obecne-znalosti-o-letadle-letoun (2).pdf": 128,
     "Obecná znalost o letadle/8-Obecne-znalosti-o-letadle-vrtulnik.pdf": 127,
-    "Právo/1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf": 63,
-    "Právo/1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf": 61,
+    "Právo/1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf": 79,
+    "Právo/1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf": 97,
     "Provedení naplánování letu/7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf": 82,
     "Provedení naplánování letu/7-Vykonnost-a-planovani-letu-letoun (2).pdf": 101,
-    "Provozní postupy/6-Provozni-postupy-letoun (2).pdf": 51,
+    "Provozní postupy/6-Provozni-postupy-letoun (2).pdf": 59,
     "Provozní postupy/6-Provozni-postupy-vrtulnik.pdf": 40
   },
   "questions": [
@@ -26,20 +26,24 @@ window.PPL_QUESTIONS = {
       "question": "Kdy má pilot vysílat naslepo?",
       "options": [
         "je-li třeba vysílat důležité provozní nebo technické informace současně více stanicím",
-        "nelze-li navázat rádiové spojení s příslušnou leteckou stanicí a není jistota, že stanice vysílání přijala umožňuje-li provozní situace na letišti vysílání informací, které nemusí být pozemními stanicemi potvrzovány vletěl-li pilot neúmyslně do oblačnosti nebo mlhy a chce vyžádat od pozemní stanice navigační pomoc"
+        "nelze-li navázat rádiové spojení s příslušnou leteckou stanicí a není jistota, že stanice vysílání přijala",
+        "umožňuje-li provozní situace na letišti vysílání informací, které nemusí být pozemními stanicemi potvrzovány",
+        "vletěl-li pilot neúmyslně do oblačnosti nebo mlhy a chce vyžádat od pozemní stanice navigační pomoc"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-1"
+      "id": "komunikace-p1-1"
     },
     {
       "sourceNumber": "2",
       "question": "Přeladění z řídící frekvence (s výjimkou situace, kdy letadlo přijelo na parkovací místo):",
       "options": [
-        "musí být schváleno musí být ohlášeno nemusí být povinně hlášeno",
+        "musí být schváleno",
+        "musí být ohlášeno",
+        "nemusí být povinně hlášeno",
         "musí být schváleno dvakrát"
       ],
       "correctIndex": 0,
@@ -47,56 +51,79 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-2"
+      "id": "komunikace-p1-2"
     },
     {
       "sourceNumber": "3",
-      "question": "Jaká zkratka se používá pro pojem \"na úrovni\"? ABE ABB",
+      "question": "Jaká zkratka se používá pro pojem \"na úrovni\"?",
       "options": [
+        "ABE",
+        "ABB",
         "ABM",
         "ABA"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-3"
+      "id": "komunikace-p1-3"
     },
     {
       "sourceNumber": "4",
       "question": "Jaká zkratka se používá pro pojem \"pravidla pro let za viditelnosti\"?",
       "options": [
         "VFR",
-        "VRU VMC VFS"
+        "VRU",
+        "VMC",
+        "VFS"
       ],
       "correctIndex": 0,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-4"
+      "id": "komunikace-p1-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Jaká zkratka se používá pro pojem \"překážka\"?",
+      "options": [
+        "OBS",
+        "OBST",
+        "OST",
+        "OBTC"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 1,
+      "id": "komunikace-p1-5"
     },
     {
       "sourceNumber": "6",
       "question": "Co znamená zkratka FIS?",
       "options": [
         "blikající informační systém",
-        "blikající informační služba letový informační systém",
+        "blikající informační služba",
+        "letový informační systém",
         "letová informační služba"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-6"
+      "id": "komunikace-p2-6"
     },
     {
       "sourceNumber": "7",
       "question": "Co znamená zkratka FIR?",
       "options": [
-        "letová informační oblast přijímač letové integrity informační radar toku provozu",
+        "letová informační oblast",
+        "přijímač letové integrity",
+        "informační radar toku provozu",
         "požadovaná informace toku"
       ],
       "correctIndex": 0,
@@ -104,28 +131,15 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-7"
+      "id": "komunikace-p2-7"
     },
     {
       "sourceNumber": "8",
-      "question": "Co znamená zkratka H24? od západu do východu slunce od východu do západu slunce",
-      "options": [
-        "služba 24 hodin denně",
-        "nestanovený otevírací čas"
-      ],
-      "correctIndex": 0,
-      "category": "Komunikace",
-      "aircraft": "Spolecne",
-      "sourceFile": "Komunikace.pdf",
-      "page": 2,
-      "id": "komunikace-8"
-    },
-    {
-      "sourceNumber": "9",
-      "question": "Co znamená zkratka HX?",
+      "question": "Co znamená zkratka H24?",
       "options": [
         "od západu do východu slunce",
-        "od východu do západu slunce služba 24 hodin denně",
+        "od východu do západu slunce",
+        "služba 24 hodin denně",
         "nestanovený otevírací čas"
       ],
       "correctIndex": 2,
@@ -133,7 +147,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-9"
+      "id": "komunikace-p2-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Co znamená zkratka HX?",
+      "options": [
+        "od západu do východu slunce",
+        "od východu do západu slunce",
+        "služba 24 hodin denně",
+        "nestanovený otevírací čas"
+      ],
+      "correctIndex": 3,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 2,
+      "id": "komunikace-p2-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Jak má být nastaven výškoměr, aby na zemi ukazoval nulu?",
+      "options": [
+        "na QFE",
+        "na QNH",
+        "na QNE",
+        "na QTE"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 2,
+      "id": "komunikace-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -141,43 +187,47 @@ window.PPL_QUESTIONS = {
       "options": [
         "výšku nad tlakovou hladinou 1013.25 hPa",
         "výšku nad tlakovou hladinou referenčního letiště",
-        "výšku nad tlakovou hladinou střední hladiny moře výšku nad tlakovou hladinou bodu s nejvyšší nadmořskou výškou v okruhu 10 km"
+        "výšku nad tlakovou hladinou střední hladiny moře",
+        "výšku nad tlakovou hladinou bodu s nejvyšší nadmořskou výškou v okruhu 10 km"
       ],
       "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-11"
+      "id": "komunikace-p3-11"
     },
     {
       "sourceNumber": "12",
-      "question": "Co ukazuje výškoměr nastavený na QFE? výšku nad tlakovou hladinou 1013.25 hPa",
+      "question": "Co ukazuje výškoměr nastavený na QFE?",
       "options": [
-        "výšku nad tlakovou hladinou referenčního bodu letiště výšku nad tlakovou hladinou střední hladiny moře",
+        "výšku nad tlakovou hladinou 1013.25 hPa",
+        "výšku nad tlakovou hladinou referenčního bodu letiště",
+        "výšku nad tlakovou hladinou střední hladiny moře",
         "výšku nad tlakovou hladinou bodu s nejvyšší nadmořskou výškou v okruhu 10 km"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-12"
+      "id": "komunikace-p3-12"
     },
     {
       "sourceNumber": "13",
-      "question": "Co znamená zkratka QDR? magnetický směrník ke stanici",
+      "question": "Co znamená zkratka QDR?",
       "options": [
+        "magnetický směrník ke stanici",
         "magnetický směrník od stanice",
         "zeměpisný směrník ke stanici",
         "zeměpisný směrník od stanice"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-13"
+      "id": "komunikace-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -185,132 +235,215 @@ window.PPL_QUESTIONS = {
       "options": [
         "magnetický směrník ke stanici",
         "magnetický směrník od stanice",
-        "zeměpisný směrník ke stanici zeměpisný směrník od stanice"
+        "zeměpisný směrník ke stanici",
+        "zeměpisný směrník od stanice"
       ],
       "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-14"
+      "id": "komunikace-p3-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Co znamená zkratka QTE?",
+      "options": [
+        "magnetický směrník ke stanici",
+        "magnetický směrník od stanice",
+        "zeměpisný směrník ke stanici",
+        "zeměpisný směrník od stanice"
+      ],
+      "correctIndex": 3,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 3,
+      "id": "komunikace-p3-15"
     },
     {
       "sourceNumber": "16",
       "question": "Jaký Q kód se používá pro magnetický směrník od stanice?",
       "options": [
         "QDM",
-        "QDR QUJ QTE"
+        "QDR",
+        "QUJ",
+        "QTE"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-16"
+      "id": "komunikace-p4-16"
     },
     {
-      "sourceNumber": "18",
-      "question": "Jaký Q kód se používá pro zeměpisný směrník ke stanici? QDM QDR",
+      "sourceNumber": "17",
+      "question": "Jaký Q kód se používá pro zeměpisný směrník od stanice?",
       "options": [
+        "QDM",
+        "QDR",
         "QUJ",
         "QTE"
       ],
-      "correctIndex": 0,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-18"
+      "id": "komunikace-p4-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Jaký Q kód se používá pro zeměpisný směrník ke stanici?",
+      "options": [
+        "QDM",
+        "QDR",
+        "QUJ",
+        "QTE"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 4,
+      "id": "komunikace-p4-18"
     },
     {
       "sourceNumber": "19",
       "question": "Která z uvedených radiotelefonních zpráv má vyšší prioritu než zpráva o bezpečnosti letu?",
       "options": [
         "z práva o rádiovém zaměřování",
-        "hlášení polohy letadla meteorologická zpráva zpráva o pravidelnosti letu"
+        "hlášení polohy letadla",
+        "meteorologická zpráva",
+        "zpráva o pravidelnosti letu"
       ],
       "correctIndex": 0,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-19"
+      "id": "komunikace-p4-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Jaký je správný název pro zprávu potřebnou pro řízení letového provozu?",
+      "options": [
+        "z práva o rádiovém zaměřování",
+        "zpráva o pravidelnosti letu",
+        "meteorologická zpráva",
+        "z práva pro zajištění bezpečnosti letu"
+      ],
+      "correctIndex": 3,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 4,
+      "id": "komunikace-p4-20"
     },
     {
       "sourceNumber": "21",
       "question": "Tísňové zprávy jsou zprávy:",
       "options": [
         "týkající se letadla a cestujících, kteří čelí závažné a bezprostřední hrozbě vyžadující okamžitou pomoc",
-        "týkající se bezpečnosti letadla, plavidla nebo vozidla nebo osoby v dohledu od provozovatele letadla, které mají být neprodleně odeslány letadlu za letu týkající se provozu nebo údržby zařízení důležitých pro bezpečnost a pravidelnost letového provozu"
+        "týkající se bezpečnosti letadla, plavidla nebo vozidla nebo osoby v dohledu",
+        "od provozovatele letadla, které mají být neprodleně odeslány letadlu za letu",
+        "týkající se provozu nebo údržby zařízení důležitých pro bezpečnost a pravidelnost letového provozu"
       ],
       "correctIndex": 0,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-21"
+      "id": "komunikace-p5-21"
     },
     {
       "sourceNumber": "22",
-      "question": "Pilnostní zprávy jsou zprávy: týkající se letadla a jeho cestujících, kteří čelí vážné a bezprostřední hrozbě a vyžadující okamžitou pomoc",
+      "question": "Pilnostní zprávy jsou zprávy:",
       "options": [
-        "týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu vyslané pilotem nebo provozovatelem letadla mající bezprostřední význam pro letadlo za letu",
+        "týkající se letadla a jeho cestujících, kteří čelí vážné a bezprostřední hrozbě a vyžadující okamžitou pomoc",
+        "týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu",
+        "vyslané pilotem nebo provozovatelem letadla mající bezprostřední význam pro letadlo za letu",
         "týkající se provozu nebo údržby zařízení nezbytných pro bezpečnost nebo pravidelnost provozu letadel"
-      ],
-      "correctIndex": 0,
-      "category": "Komunikace",
-      "aircraft": "Spolecne",
-      "sourceFile": "Komunikace.pdf",
-      "page": 5,
-      "id": "komunikace-22"
-    },
-    {
-      "sourceNumber": "23",
-      "question": "Zprávy o pravidelnosti let ů jsou zprávy: týkající se letadla a jeho cestujících, kteří čelí vážné a bezprostřední hrozbě vyžadující okamžitou pomoc týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu",
-      "options": [
-        "vyslané provozovatelem letadla nebo letadlem mající bezprostřední význam pro letadlo za letu",
-        "týkající se provozu nebo údržby zařízení důležitých pro bezpečnost nebo pravidelnost provozu letadel"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-23"
+      "id": "komunikace-p5-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Zprávy o pravidelnosti let ů jsou zprávy:",
+      "options": [
+        "týkající se letadla a jeho cestujících, kteří čelí vážné a bezprostřední hrozbě vyžadující okamžitou pomoc",
+        "týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu",
+        "vyslané provozovatelem letadla nebo letadlem mající bezprostřední význam pro letadlo za letu",
+        "týkající se provozu nebo údržby zařízení důležitých pro bezpečnost nebo pravidelnost provozu letadel"
+      ],
+      "correctIndex": 3,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 5,
+      "id": "komunikace-p5-23"
     },
     {
       "sourceNumber": "24",
       "question": "Která z následujících zpráv má největší přednost?",
       "options": [
         "žádám QDM",
-        "točte doleva QNH 1013 vítr 300 stupňů, 5 uzlů"
+        "točte doleva",
+        "QNH 1013",
+        "vítr 300 stupňů, 5 uzlů"
       ],
       "correctIndex": 0,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-24"
+      "id": "komunikace-p5-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jak se správně vysílá volací značka HB-YKM?",
+      "options": [
+        "Home Bravo Yuliett Kilo Mike",
+        "Home Bravo Yankee Kilo Mikro",
+        "Hotel Bravo Yankee Kilo Mike",
+        "Hotel Bravo Yuliett Kilo Mikro"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 5,
+      "id": "komunikace-p5-25"
     },
     {
       "sourceNumber": "26",
       "question": "Jak se správně vysílá volací značka OE-JVK?",
       "options": [
         "Omega Echo Juliett Victor Kilogramm",
-        "Oscar Echo Juliett Victor Kilo Oscar Echo Jankee Victor Kilogramm Omega Echo Jankee Victor Kilo"
+        "Oscar Echo Juliett Victor Kilo",
+        "Oscar Echo Jankee Victor Kilogramm",
+        "Omega Echo Jankee Victor Kilo"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-26"
+      "id": "komunikace-p6-26"
     },
     {
       "sourceNumber": "27",
       "question": "Výška 4500 ft se vysílá jako:",
       "options": [
-        "čtyři tisíce pět set čtyři pět nula nula čtyři pět tisíc",
+        "čtyři tisíce pět set",
+        "čtyři pět nula nula",
+        "čtyři pět tisíc",
         "čtyři tisíce pět nula nula"
       ],
       "correctIndex": 0,
@@ -318,80 +451,103 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-27"
+      "id": "komunikace-p6-27"
     },
     {
       "sourceNumber": "28",
-      "question": "Kurz 285 se právně vysílá jako: dvě stě osum pět",
+      "question": "Kurz 285 se právně vysílá jako:",
       "options": [
+        "dvě stě osum pět",
         "dva osum pět",
         "dva sto osum pět",
         "dvě stě osumdesát pět"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-28"
+      "id": "komunikace-p6-28"
     },
     {
       "sourceNumber": "29",
       "question": "Frekvence 119.500 MHz se správně vysílá jako:",
       "options": [
         "jedna jedna devět tisíc čárka pět nula",
-        "jedna jedna devět čárka pět nula nula jedna jedna devět čárka pět nula",
+        "jedna jedna devět čárka pět nula nula",
+        "jedna jedna devět čárka pět nula",
         "jedna jedna devět čárka pět"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-29"
+      "id": "komunikace-p6-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Informace o směru \"12 hodin\" se správně vysílá jako:",
+      "options": [
+        "dvanáct hodin",
+        "jedna dva hodin",
+        "jedna dva",
+        "jedna dva sto"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 6,
+      "id": "komunikace-p6-30"
     },
     {
       "sourceNumber": "31",
       "question": "Časy se vysílají jako:",
       "options": [
         "místní čas",
-        "UTC standardní čas pásmový čas"
+        "UTC",
+        "standardní čas",
+        "pásmový čas"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-31"
+      "id": "komunikace-p7-31"
     },
     {
       "sourceNumber": "32",
-      "question": "Je-li možná záměna, čas 1620 se vysílá jako: šestnáct dvacet jeden tisíc šest set dva nula",
+      "question": "Je-li možná záměna, čas 1620 se vysílá jako:",
       "options": [
+        "šestnáct dvacet",
+        "jeden tisíc šest set dva nula",
         "jedna šest dva nula",
         "dva nula"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-32"
+      "id": "komunikace-p7-32"
     },
     {
       "sourceNumber": "33",
-      "question": "Jaký je význam slova \"rozumím\"? rozumím Vaší zprávě a budu podle ní postupovat",
+      "question": "Jaký je význam slova \"rozumím\"?",
       "options": [
+        "rozumím Vaší zprávě a budu podle ní postupovat",
         "přijal jsem vše z Vašeho posledního vysílání",
         "v tomto vysílání byla učiněna chyba, správné znění je",
         "povolení pro požadovaný úkon je uděleno"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-33"
+      "id": "komunikace-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -399,107 +555,134 @@ window.PPL_QUESTIONS = {
       "options": [
         "rozumím Vaší zprávě a budu podle ní postupovat",
         "přijal jsem vše z Vašeho posledního vysílání",
-        "v tomto vysílání byla učiněna chyba, správné znění je povolení pro požadovaný úkon je uděleno"
+        "v tomto vysílání byla učiněna chyba, správné znění je",
+        "povolení pro požadovaný úkon je uděleno"
       ],
       "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-34"
+      "id": "komunikace-p7-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Jaký je význam fráze \"schváleno\"?",
+      "options": [
+        "rozumím Vaší zprávě a budu podle ní postupovat",
+        "přijal jsem vše z Vašeho posledního vysílání",
+        "v tomto vysílání byla učiněna chyba, správně znění je",
+        "povolení pro požadovaný úkon je uděleno"
+      ],
+      "correctIndex": 3,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 7,
+      "id": "komunikace-p7-35"
     },
     {
       "sourceNumber": "36",
       "question": "Jakou frázi použije pilot, chce-li zkontrolovat čitelnost svého vysílání?",
       "options": [
         "jaké je spojení",
-        "jak slyšíte slyšíte mě dokonale srozumitelně ž ádám slyšitelnost"
+        "jak slyšíte",
+        "slyšíte mě dokonale srozumitelně",
+        "ž ádám slyšitelnost"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-36"
+      "id": "komunikace-p8-36"
     },
     {
       "sourceNumber": "37",
-      "question": "Jakou frázi použije pilot, chce-li proletět řízeným prostorem? chci požaduji",
+      "question": "Jakou frázi použije pilot, chce-li proletět řízeným prostorem?",
       "options": [
+        "chci",
+        "požaduji",
         "žádám",
         "chtěl bych"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-37"
+      "id": "komunikace-p8-37"
     },
     {
       "sourceNumber": "38",
-      "question": "Jakou frázi použije pilot, má-li na zprávu odpovědět souhlasně? rozumím",
+      "question": "Jakou frázi použije pilot, má-li na zprávu odpovědět souhlasně?",
       "options": [
+        "rozumím",
         "potvrzuji",
         "souhlasím",
         "ano"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-38"
+      "id": "komunikace-p8-38"
     },
     {
       "sourceNumber": "39",
       "question": "Jakou frázi použije pilot, má-li na zprávu odpovědět záporně?",
       "options": [
         "konec",
-        "nikoliv ne",
+        "nikoliv",
+        "ne",
         "negativ"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-39"
+      "id": "komunikace-p8-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Jakou frázi použije pilot, chce-li věži oznámit, že je připraven ke vzletu?",
+      "options": [
+        "připraven ke spouštění",
+        "připraven k odletu",
+        "připraven",
+        "žádám vzlet"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 8,
+      "id": "komunikace-p8-40"
     },
     {
       "sourceNumber": "41",
       "question": "Jakou frázi použije pilot, chce-li věž informovat, že provádí průlet?",
       "options": [
         "bez přistání",
-        "přiblížení zrušeno tahám",
+        "přiblížení zrušeno",
+        "tahám",
         "provádím průlet"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-41"
+      "id": "komunikace-p9-41"
     },
     {
       "sourceNumber": "42",
       "question": "Jaký je volací znak stanoviště letištního řízení?",
       "options": [
-        "věž letiště zem",
-        "oblast"
-      ],
-      "correctIndex": 0,
-      "category": "Komunikace",
-      "aircraft": "Spolecne",
-      "sourceFile": "Komunikace.pdf",
-      "page": 9,
-      "id": "komunikace-42"
-    },
-    {
-      "sourceNumber": "43",
-      "question": "Jaký je volací znak stanoviště řízení pohybů na zemi? věž",
-      "options": [
-        "ground",
+        "věž",
+        "letiště",
         "zem",
         "oblast"
       ],
@@ -508,106 +691,167 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-43"
+      "id": "komunikace-p9-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Jaký je volací znak stanoviště řízení pohybů na zemi?",
+      "options": [
+        "věž",
+        "ground",
+        "zem",
+        "oblast"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 9,
+      "id": "komunikace-p9-43"
     },
     {
       "sourceNumber": "44",
       "question": "Jaký je volací znak stanoviště letové informační služby?",
       "options": [
         "info",
-        "poradní letová informace",
+        "poradní",
+        "letová informace",
         "informace"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-44"
+      "id": "komunikace-p9-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Jak lze správně zkrátit volací znak D-EAZF?",
+      "options": [
+        "DZF",
+        "DEA",
+        "AZF",
+        "DEF"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 9,
+      "id": "komunikace-p9-45"
     },
     {
       "sourceNumber": "46",
       "question": "Kdy může pilot zkrátit volací znak svého letadla?",
       "options": [
         "v řízeném vzdušném prostoru",
-        "poté, co pozemní stanice použila zkrácenou značku je-li na okruhu malý provoz po přeletu prvního hlásného bodu"
+        "poté, co pozemní stanice použila zkrácenou značku",
+        "je-li na okruhu malý provoz",
+        "po přeletu prvního hlásného bodu"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-46"
+      "id": "komunikace-p10-46"
     },
     {
       "sourceNumber": "47",
-      "question": "Jaký volací znak letadla se použije při navazování spojení? pouze poslední dvě písmena anebo číslice pouze první dvě písmena anebo číslice",
+      "question": "Jaký volací znak letadla se použije při navazování spojení?",
       "options": [
+        "pouze poslední dvě písmena anebo číslice",
+        "pouze první dvě písmena anebo číslice",
         "všechna písmena anebo číslice",
         "pouze první tři písmena anebo číslice"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 10,
+      "id": "komunikace-p10-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jak se správně navazuje rádiové spojení mezi OK-ABC a Tuřany věž?",
+      "options": [
+        "věž od OK-ABC",
+        "Tuřany věž, přepínám",
+        "OK-ABC volá Tuřany věž",
+        "Tuřany věž OK-ABC"
+      ],
+      "correctIndex": 3,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 10,
+      "id": "komunikace-p10-48"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Co znamená srozumitelnost 1?",
+      "options": [
+        "vysílání je nesrozumitelné",
+        "vysílání je chvílemi srozumitelné",
+        "vysílání je srozumitelné, ale s obtížemi",
+        "vysílání je dokonale srozumitelné"
       ],
       "correctIndex": 0,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-47"
-    },
-    {
-      "sourceNumber": "48",
-      "question": "Jak se správně navazuje rádiové spojení mezi OK-ABC a Tuřany věž? věž od OK-ABC Tuřany věž, přepínám",
-      "options": [
-        "OK-ABC volá Tuřany věž",
-        "Tuřany věž OK-ABC"
-      ],
-      "correctIndex": 1,
-      "category": "Komunikace",
-      "aircraft": "Spolecne",
-      "sourceFile": "Komunikace.pdf",
-      "page": 10,
-      "id": "komunikace-48"
+      "id": "komunikace-p10-50"
     },
     {
       "sourceNumber": "51",
       "question": "Co znamená srozumitelnost 2?",
       "options": [
         "vysílání je nesrozumitelné",
-        "vysílání je chvílemi srozumitelné vysílání je srozumitelné, ale s obtíže m i vysílání je dokonale srozumitelné"
+        "vysílání je chvílemi srozumitelné",
+        "vysílání je srozumitelné, ale s obtíže m i",
+        "vysílání je dokonale srozumitelné"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-51"
+      "id": "komunikace-p11-51"
     },
     {
       "sourceNumber": "52",
-      "question": "Co znamená srozumitelnost 3? vysílání je nesrozumitelné vysílání je chvílemi srozumitelné",
+      "question": "Co znamená srozumitelnost 3?",
       "options": [
+        "vysílání je nesrozumitelné",
+        "vysílání je chvílemi srozumitelné",
         "vysílání je srozumitelné, ale s obtížemi",
         "vysílání je dokonale srozumitelné"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-52"
+      "id": "komunikace-p11-52"
     },
     {
       "sourceNumber": "53",
-      "question": "Co znamená srozumitelnost 5? vysílání je nesrozumitelné vysílání je chvílemi srozumitelné",
+      "question": "Co znamená srozumitelnost 5?",
       "options": [
+        "vysílání je nesrozumitelné",
+        "vysílání je chvílemi srozumitelné",
         "vysílání je srozumitelné, ale s obtížemi",
         "vysílání je dokonale srozumitelné"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-53"
+      "id": "komunikace-p11-53"
     },
     {
       "sourceNumber": "54",
@@ -615,49 +859,70 @@ window.PPL_QUESTIONS = {
       "options": [
         "dráha v používání",
         "kód odpovídače sekundárního radaru",
-        "vítr výška"
+        "vítr",
+        "výška"
       ],
       "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-54"
+      "id": "komunikace-p11-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Která informace od pozemní stanice nevyžaduje opakování zprávy?",
+      "options": [
+        "nastavení výškoměru",
+        "kurz",
+        "informace o provozu",
+        "pokyny pro pojíždění"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 11,
+      "id": "komunikace-p11-55"
     },
     {
       "sourceNumber": "56",
       "question": "Jak se má správně potvrdit pokyn \"DZF po odpoutání stoupejte přímo do 2500 stop, potom točte doprava na kurz 220, vítr 090 stupňů, 5 uzlů, dráha 12, vzlet povolen\"?",
       "options": [
-        "DZF po odpoutání stoupat přímo na 2500 stop, potom točit doprava 220, 090 stupňů, 5 uzlů, vz l et povolen",
+        "DZF po odpoutání stoupat přímo na 2500 stop, potom točit doprava 220, 090 stupňů, 5 uzlů, vzlet povolen",
         "DZF po odpoutání přímo 2500 stop, potom točit doprava na kurz 220, 09 stupňů, 5 uzlů",
-        "DZF po odpoutání stoupat přímo 2500 stop, potom točit doprava kurz 220, dráha 12, vzlet povolen DZF po odpoutání stoupat přímo 2500 stop, rozumím, provedu, kurz 220, 090 stupňů, 5 uzlů, vzlet povolen"
+        "DZF po odpoutání stoupat přímo 2500 stop, potom točit doprava kurz 220, dráha 12, vzlet povolen",
+        "DZF po odpoutání stoupat přímo 2500 stop, rozumím, provedu, kurz 220, 090 stupňů, 5 uzlů, vzlet povolen"
       ],
       "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-56"
+      "id": "komunikace-p12-56"
     },
     {
       "sourceNumber": "57",
       "question": "Jak se má správně potvrdit pokyn \"příští hlášení PAH\"?",
       "options": [
-        "rozumím ohlásím PAH pozitiv",
+        "rozumím",
+        "ohlásím PAH",
+        "pozitiv",
         "provedu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-57"
+      "id": "komunikace-p12-57"
     },
     {
       "sourceNumber": "58",
       "question": "Jak se má správně potvrdit pokyn \" squawk 4321, volejte Bremen radar na 131.325\"?",
       "options": [
-        "squawk 4321, 131.325 rozumím",
+        "squawk 4321, 131.325",
+        "rozumím",
         "squawk 4321, provedu",
         "provedu"
       ],
@@ -666,56 +931,110 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-58"
+      "id": "komunikace-p12-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jak se správně potvrdí informace \"nyní vstupujete do vzdušného prostoru Delta\"?",
+      "options": [
+        "vstupuji",
+        "rozumím",
+        "vzdušný prostor Delta",
+        "provedu"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 12,
+      "id": "komunikace-p12-59"
     },
     {
       "sourceNumber": "63",
-      "question": "Jak se správně vysílá informace \"dohlednost 12 km\"? dvanáct kilometrů jedna-dva kilometry",
+      "question": "Jak se správně vysílá informace \"dohlednost 12 km\"?",
       "options": [
+        "dvanáct kilometrů",
+        "jedna-dva kilometry",
         "jedna-nula kilometrů nebo více",
         "jedna-nula kilometrů"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-63"
+      "id": "komunikace-p13-63"
     },
     {
       "sourceNumber": "64",
       "question": "Kdy se dohlednost vysílá v metrech?",
       "options": [
         "do 5 km",
-        "větší než 5 km do 10 km větší než 10 km"
+        "větší než 5 km",
+        "do 10 km",
+        "větší než 10 km"
       ],
       "correctIndex": 0,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-64"
+      "id": "komunikace-p13-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Kdy se dohlednost vysílá v kilometrech?",
+      "options": [
+        "do 5 km",
+        "větší než 5 km",
+        "do 10 km",
+        "větší než 10 km"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 13,
+      "id": "komunikace-p13-65"
     },
     {
       "sourceNumber": "66",
       "question": "Jaké informace se vysílají na frekvenci VOLMET?",
       "options": [
         "NOTAMy",
-        "aktuální informace navigační informace",
+        "aktuální informace",
+        "navigační informace",
         "meteorologické informace"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-66"
+      "id": "komunikace-p14-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Jak é navigační zařízení lze využít pro vysílání zpráv ATIS?",
+      "options": [
+        "DME",
+        "NDB",
+        "GPS",
+        "VOR"
+      ],
+      "correctIndex": 3,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 14,
+      "id": "komunikace-p14-67"
     },
     {
       "sourceNumber": "68",
       "question": "Jak lze při navigačním letu získat meteorologické informace o letištích?",
       "options": [
-        "VOLMET GAMET",
+        "VOLMET",
+        "GAMET",
         "METAR",
         "AIRMET"
       ],
@@ -724,27 +1043,47 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-68"
+      "id": "komunikace-p14-68"
+    },
+    {
+      "sourceNumber": "70",
+      "question": "Jaká je správná fráze na začátku vysílání naslepo?",
+      "options": [
+        "slepý",
+        "vysílám na slepo",
+        "nemám příjem",
+        "naslouchám"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 14,
+      "id": "komunikace-p14-70"
     },
     {
       "sourceNumber": "71",
       "question": "Na jaké frekvenci je třeba vysílat na slepo?",
       "options": [
         "na stávající frekvenci",
-        "na příslušné frekvenci FIS na frekvenci věže na frekvenci radaru pro nižší vzdušný prostor"
+        "na příslušné frekvenci FIS",
+        "na frekvenci věže",
+        "na frekvenci radaru pro nižší vzdušný prostor"
       ],
       "correctIndex": 0,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-71"
+      "id": "komunikace-p15-71"
     },
     {
       "sourceNumber": "72",
       "question": "Kolikrát se má vysílat na slepo?",
       "options": [
-        "dvakrát jednou třikrát",
+        "dvakrát",
+        "jednou",
+        "třikrát",
         "čtyřikrát"
       ],
       "correctIndex": 0,
@@ -752,13 +1091,14 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-72"
+      "id": "komunikace-p15-72"
     },
     {
       "sourceNumber": "73",
       "question": "V jaké situaci je třeba nastavit odpovídač sekundárního radaru na 7600?",
       "options": [
-        "ztráta spojení nouze",
+        "ztráta spojení",
+        "nouze",
         "únos",
         "vlétnutí do oblačnosti"
       ],
@@ -767,21 +1107,119 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-73"
+      "id": "komunikace-p15-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Jaký je správný postup při ztrátě spojení ve vzdušném prostoru třídy D?",
+      "options": [
+        "je třeba pokračovat v letu podle posledního povolení a podle pravidel VFR nebo tento prostor co nejkratší cestou opustit",
+        "je třeba pokračovat v letu nad 5000 ft a podle pravidel VFR nebo tento prostor co nejkratší cestou opustit",
+        "je třeba pokračovat v letu nad 5000 ft a podle pravidel VFR nebo tento prostor opustit po standardních tratích",
+        "je třeba pokračovat v letu podle posledního povolení a podle pravidel VFR nebo tento prostor opustit po standardních tratích"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 15,
+      "id": "komunikace-p15-74"
+    },
+    {
+      "sourceNumber": "75",
+      "question": "Za jaký ch podmínek lze vstoupit do vzdušného prostoru třídy D při ztrátě spojení?",
+      "options": [
+        "před ztrátou spojení to bylo schváleno",
+        "je to cílové letiště",
+        "na letištním okruhu jsou i jiná letadla",
+        "je to letiště odletu"
+      ],
+      "correctIndex": 0,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 15,
+      "id": "komunikace-p15-75"
     },
     {
       "sourceNumber": "76",
       "question": "Jakou frázi je třeba opakovat třikrát před vysíláním pilnostní zprávy?",
       "options": [
         "mayday",
-        "pan pan pilnost pomoc"
+        "pan pan",
+        "pilnost",
+        "pomoc"
       ],
       "correctIndex": 1,
       "category": "Komunikace",
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-76"
+      "id": "komunikace-p16-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Pilnostní zprávy jsou definovány jako:",
+      "options": [
+        "zprávy týkající se náhradních dílů potřebných pro pokračování v letu, které musí být objednány předem",
+        "zprávy týkající se letadla a jeho cestujících, které čelí vážné a bezprostřední hrozbě a vyžaduje okamžitou pomoc",
+        "zprávy týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu",
+        "zprávy týkající se personálu na odbavovací ploše znamenajícího bezprostřední nebezpečí pro přistávající letadla"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 16,
+      "id": "komunikace-p16-77"
+    },
+    {
+      "sourceNumber": "78",
+      "question": "Tísňové zprávy obsahují:",
+      "options": [
+        "informace týkající se naléhavé potřeby náhradních dílů potřebných pro pokračování v letu, které musí být objednány předem",
+        "informace týkající se letadla a jeho cestujících, které čelí vážné a bezprostřední hrozbě a vyžaduje okamžitou pomoc",
+        "informace týkající se bezpečnosti letadla, plavidla, vozidla nebo osoby v dohledu",
+        "informace týkající se personálu na odbavovací ploše znamenajícího bezprostřední nebezpečí pro přistávající letadla"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 16,
+      "id": "komunikace-p16-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Jaká je správná frekvence pro úvodní tísňovou zprávu?",
+      "options": [
+        "nouzová frekvence",
+        "stávající frekvence",
+        "frekvence letové informační služby",
+        "frekvence radaru"
+      ],
+      "correctIndex": 1,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 16,
+      "id": "komunikace-p16-79"
+    },
+    {
+      "sourceNumber": "84",
+      "question": "Jaké je správné označení vlnového pásma od 118.000 do 136.975 MHz používaného pro hlasovou komunikaci?",
+      "options": [
+        "LF (dlouhé vlny)",
+        "MF (střední vlny)",
+        "VHF (velmi krátké vlny)",
+        "HF (krátké vlny)"
+      ],
+      "correctIndex": 2,
+      "category": "Komunikace",
+      "aircraft": "Spolecne",
+      "sourceFile": "Komunikace.pdf",
+      "page": 17,
+      "id": "komunikace-p17-84"
     },
     {
       "sourceNumber": "85",
@@ -797,7 +1235,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 18,
-      "id": "komunikace-85"
+      "id": "komunikace-p18-85"
     },
     {
       "sourceNumber": "1",
@@ -805,20 +1243,23 @@ window.PPL_QUESTIONS = {
       "options": [
         "tah rotoru / plocha disk u rotoru",
         "hmotnost vrtulníku / plocha disk u rotoru",
-        "plocha disk u rotoru / hmotnost vrtulníku plocha disku rotoru / tah rotoru"
+        "plocha disk u rotoru / hmotnost vrtulníku",
+        "plocha disku rotoru / tah rotoru"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-1"
+      "id": "5-letove-zasady-vrtulnik-p1-1"
     },
     {
       "sourceNumber": "2",
       "question": "Co způsobuje fázový posun mezi kývnutím a vy mávnutím listu rotoru?",
       "options": [
-        "setrvačnost, hmotnost a aerodynamické síly úhel vymávnutí dopředu nebo dozadu o 90° tření na ložiskových čepech rotorových listů",
+        "setrvačnost, hmotnost a aerodynamické síly",
+        "úhel vymávnutí dopředu nebo dozadu o 90°",
+        "tření na ložiskových čepech rotorových listů",
         "zakulacení konců rotorových listů"
       ],
       "correctIndex": 0,
@@ -826,36 +1267,55 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-2"
+      "id": "5-letove-zasady-vrtulnik-p1-2"
     },
     {
       "sourceNumber": "3",
-      "question": "Je-li překročen kritický úhel náběhu: bod přechodu s e začne pohybovat dozadu laminární mezní vrstva se změní na turbulentní",
+      "question": "Je-li překročen kritický úhel náběhu:",
       "options": [
+        "bod přechodu s e začne pohybovat dozadu",
+        "laminární mezní vrstva se změní na turbulentní",
         "mezní vrstva na horní straně rotorového listu se začne odtrhávat",
         "mezní vrstva na spodní straně rotorového listu se začne odtrhávat"
-      ],
-      "correctIndex": 0,
-      "category": "Letove zasady",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
-      "page": 1,
-      "id": "5-letove-zasady-vrtulnik-3"
-    },
-    {
-      "sourceNumber": "4",
-      "question": "Jaké druhy obtékání profilu rotorového listu lze pozorovat?",
-      "options": [
-        "laminární na celém horním povrchu",
-        "turbulentní na celém horním povrchu turbulentní na náběžné hraně, laminární dále vzadu",
-        "laminární na náběžné hraně, turbulentní dále vzadu"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-4"
+      "id": "5-letove-zasady-vrtulnik-p1-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaké druhy obtékání profilu rotorového listu lze pozorovat?",
+      "options": [
+        "laminární na celém horním povrchu",
+        "turbulentní na celém horním povrchu",
+        "turbulentní na náběžné hraně, laminární dále vzadu",
+        "laminární na náběžné hraně, turbulentní dále vzadu"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 1,
+      "id": "5-letove-zasady-vrtulnik-p1-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "Jaká je výhoda turbulentního proudění v porovnání s laminárním na profilu s velkým úhlem náběhu?",
+      "options": [
+        "po delší dobu se neodtrhává od profilu",
+        "nemá žádný tvarový odpor",
+        "má tenčí mezní vrstvu",
+        "bod odtržení se posouvá více dopředu"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 1,
+      "id": "5-letove-zasady-vrtulnik-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -863,34 +1323,38 @@ window.PPL_QUESTIONS = {
       "options": [
         "kolmá na rovinu hlavy rotoru",
         "rovnoběžná s hřídelem hlavního rotoru",
-        "kolmá na rovinu trajektorie konců listů kolmá na rovinu procházející kyvnou deskou"
+        "kolmá na rovinu trajektorie konců listů",
+        "kolmá na rovinu procházející kyvnou deskou"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-6"
+      "id": "5-letove-zasady-vrtulnik-p2-6"
     },
     {
       "sourceNumber": "7",
-      "question": "Efektivní úhel náběhu je úhel mezi: tětivou a rovinou trajektorie konce listu efektivním vektorem nabíhajícího vzduchu a rovinou trajektorie konce listu",
+      "question": "Efektivní úhel náběhu je úhel mezi:",
       "options": [
+        "tětivou a rovinou trajektorie konce listu",
+        "efektivním vektorem nabíhajícího vzduchu a rovinou trajektorie konce listu",
         "efektivním vektorem nabíhajícího vzduchu a tětivou",
         "rovinou trajektorie konce listu a rotorovým listem"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-7"
+      "id": "5-letove-zasady-vrtulnik-p2-7"
     },
     {
       "sourceNumber": "8",
       "question": "Jaký druh odporu vyvolává profil vytvářející vztlak?",
       "options": [
-        "indukovaný třecí",
+        "indukovaný",
+        "třecí",
         "škodlivý",
         "interferenční"
       ],
@@ -899,7 +1363,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-8"
+      "id": "5-letove-zasady-vrtulnik-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -907,35 +1371,55 @@ window.PPL_QUESTIONS = {
       "options": [
         "vztlak vychýlený dopředu",
         "tah rotoru směrem nahoru",
-        "tangenciální síla působící směrem dozadu odporová síla působící směrem dopředu"
+        "tangenciální síla působící směrem dozadu",
+        "odporová síla působící směrem dopředu"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-9"
+      "id": "5-letove-zasady-vrtulnik-p2-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Tah rotoru je:",
+      "options": [
+        "kolmý na rovinu trajektorie konců listů",
+        "kolmý na rovinu náboje rotoru",
+        "rovnoběžný s hřídelem hlavního rotoru",
+        "síla působící proti rotaci rotorových listů"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 2,
+      "id": "5-letove-zasady-vrtulnik-p2-10"
     },
     {
       "sourceNumber": "11",
       "question": "Co se stane s tahem a tangenciální silou, sníží-li se otáčky rotoru za letu o 10 %?",
       "options": [
         "tah i tangenciální síla se zvětší",
-        "tah i tangenciální síla se zmenší tah zůstane stejný, tangenciální síla se zvětší tah se zmenší, tangenciální síla zůstane stejná"
+        "tah i tangenciální síla se zmenší",
+        "tah zůstane stejný, tangenciální síla se zvětší",
+        "tah se zmenší, tangenciální síla zůstane stejná"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-11"
+      "id": "5-letove-zasady-vrtulnik-p3-11"
     },
     {
       "sourceNumber": "12",
       "question": "Efektivní rychlost proudu vzduchu na profilu rotorového listu se mění se vzdáleností od osy hřídele rotoru, protože:",
       "options": [
         "tangenciální síla a zpětné prodění se mění",
-        "obvodová rychlost se zvyšuje se zmenšující se vzdáleností od konce rotorových listů drak vrtulníku rozděluje proudění",
+        "obvodová rychlost se zvyšuje se zmenšující se vzdáleností od konce rotorových listů",
+        "drak vrtulníku rozděluje proudění",
         "odpor ve směru osy rotace se zvětšuje"
       ],
       "correctIndex": 1,
@@ -943,13 +1427,14 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-12"
+      "id": "5-letove-zasady-vrtulnik-p3-12"
     },
     {
       "sourceNumber": "13",
       "question": "Který z poměrů mezi vztlakem a odporem nejlépe popisuje situaci letícího vrtulníku (vztlak: odpor)?",
       "options": [
-        "45: 1 2: 1",
+        "45: 1",
+        "2: 1",
         "1: 45",
         "1: 2"
       ],
@@ -958,7 +1443,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-13"
+      "id": "5-letove-zasady-vrtulnik-p3-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Důvodem pro odtržení proudu při určitém úhlu nastavení může být:",
+      "options": [
+        "menší efektivní úhel náběhu a malá obvodová rychlost",
+        "menší vertikální rychlost proudění rotorem a konstantní obvodová rychlost",
+        "konstantní obvodová rychlost a velká rychlost vertikálního proudění rotorem",
+        "menší čelní odpor a turbulentní proudění"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 3,
+      "id": "5-letove-zasady-vrtulnik-p3-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Neutrální bod je bod, ve kterém:",
+      "options": [
+        "působí hmotnost celého vrtulníku",
+        "působí aerodynamické síly s nulovým momentem",
+        "při změnách úhlu náběhu je moment aerodynamických sil konstantní",
+        "se protínají imaginární osy vrtulníku"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 3,
+      "id": "5-letove-zasady-vrtulnik-p3-15"
     },
     {
       "sourceNumber": "16",
@@ -966,20 +1483,23 @@ window.PPL_QUESTIONS = {
       "options": [
         "obdélníkový s geometrickým nastavením 1°",
         "lichoběžníkový s kulatým koncem",
-        "dvojitý lichoběžník s kulatým koncem obdélníko-lichoběžníkový bez aerodynamického zkroucení"
+        "dvojitý lichoběžník s kulatým koncem",
+        "obdélníko-lichoběžníkový bez aerodynamického zkroucení"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-16"
+      "id": "5-letove-zasady-vrtulnik-p4-16"
     },
     {
       "sourceNumber": "17",
       "question": "Tvar rotorového listu má vliv na:",
       "options": [
-        "rozložení vztlaku použitou rotorovou hlavu citlivost na znečištění",
+        "rozložení vztlaku",
+        "použitou rotorovou hlavu",
+        "citlivost na znečištění",
         "maximální vzletovou hmotnost"
       ],
       "correctIndex": 0,
@@ -987,63 +1507,135 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-17"
+      "id": "5-letove-zasady-vrtulnik-p4-17"
     },
     {
       "sourceNumber": "18",
-      "question": "Hnací systém hlavního rotoru vírníku je založen na: motoru v kabině ventilátoru v kabině",
+      "question": "Hnací systém hlavního rotoru vírníku je založen na:",
       "options": [
+        "motoru v kabině",
+        "ventilátoru v kabině",
         "motorech na koncích rotorových listů",
         "rychlosti nabíhajícího proudu vzduchu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-18"
+      "id": "5-letove-zasady-vrtulnik-p4-18"
     },
     {
       "sourceNumber": "19",
       "question": "Otáčky motoru vrtulníku udržují konstantní otáčky rotoru. Lze je měnit:",
       "options": [
         "kolektivem",
-        "plynovou pákou a regulátorem otáček cyklickým řízením startérem a impulzní vazbou"
+        "plynovou pákou a regulátorem otáček",
+        "cyklickým řízením",
+        "startérem a impulzní vazbou"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-19"
+      "id": "5-letove-zasady-vrtulnik-p4-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Nosná teorie umožňuje stanovit:",
+      "options": [
+        "odpor při traťovém letu",
+        "požadavky na výkonnost při visení",
+        "změny vztlaku v blízkosti země",
+        "změny energie při autorotaci"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 4,
+      "id": "5-letove-zasady-vrtulnik-p4-20"
     },
     {
       "sourceNumber": "21",
       "question": "Při visení se rychlost indukovaného proudu:",
       "options": [
         "po průchodu rotorem dále zvětšuje",
-        "po průchodu rotorem zůstává konstantní je stejná nad i pod rotorem po průchodu rotorem zmenšuje"
+        "po průchodu rotorem zůstává konstantní",
+        "je stejná nad i pod rotorem",
+        "po průchodu rotorem zmenšuje"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-21"
+      "id": "5-letove-zasady-vrtulnik-p5-21"
+    },
+    {
+      "sourceNumber": "22",
+      "question": "Proč vrtulník začíná stoupání z menšením podélného sklonu?",
+      "options": [
+        "počáteční velký průtok vzduchu zvětší tah rotoru, dokud ho zpět nezmenší malá hustota vzduchu",
+        "větší úhel nastavení způsobí zmenšení průtoku vzduchu a jeho stlačení, dokud stoupavost neodpovídá indukované rychlosti vzduchu proudícího rotorem",
+        "setrvačnost vzduchu dočasně zvětší efektivní úhel náběhu, dokud ho dodatečná složka stoupavosti opět nezm enší",
+        "změna energie vzduchu na kinetickou energii se plynule zmenšuje se zvětšující se hustotou vzduchu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 5,
+      "id": "5-letove-zasady-vrtulnik-p5-22"
+    },
+    {
+      "sourceNumber": "23",
+      "question": "Vrtulník s rotorem otáčejícím se doleva při pohledu shora visí s bočním posunem doprava. Jaký je úhel azimutu, při kterém mají listy hlavního rotoru největší sklon?",
+      "options": [
+        "0°",
+        "90°",
+        "180°",
+        "270°"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 5,
+      "id": "5-letove-zasady-vrtulnik-p5-23"
     },
     {
       "sourceNumber": "24",
-      "question": "V rtulník nakloněný ve směru zrychlení zrychluje, dokud: tah neprochází těžištěm",
+      "question": "V rtulník nakloněný ve směru zrychlení zrychluje, dokud:",
       "options": [
+        "tah neprochází těžištěm",
         "se horizontální složka tahu nevyrovná odporu",
-        "tah neprochází za těžištěm se vertikální složka tahu nevyrovná odporu"
+        "tah neprochází za těžištěm",
+        "se vertikální složka tahu nevyrovná odporu"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-24"
+      "id": "5-letove-zasady-vrtulnik-p5-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jaký je důvod pro přetažení ustupujícího listu rotoru?",
+      "options": [
+        "malý úhel nastavení a velký efektivní průtok",
+        "malý kuželový úhel a konstantní obvodová rychlost",
+        "velké odstředivé síly obvodové rychlosti",
+        "velký úhel nastavení a malý efektivní průtok"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 5,
+      "id": "5-letove-zasady-vrtulnik-p5-25"
     },
     {
       "sourceNumber": "26",
@@ -1051,78 +1643,103 @@ window.PPL_QUESTIONS = {
       "options": [
         "v přední části rotoru",
         "na ustupujícím listu rotoru",
-        "v zadní části rotoru na po stupujícím listu rotoru"
+        "v zadní části rotoru",
+        "na po stupujícím listu rotoru"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-26"
+      "id": "5-letove-zasady-vrtulnik-p6-26"
     },
     {
       "sourceNumber": "27",
-      "question": "Která z následujících odpovědí popisuje asymetrický proud vzduchu? přesunutí hnacích sil na po stupující rotorový list při vertikální autorotaci",
+      "question": "Která z následujících odpovědí popisuje asymetrický proud vzduchu?",
       "options": [
-        "při traťovém letu má po stupující rotorový list větší průtok než ustupující větší vztlak na vnější části rotoru než na vnitřní",
+        "přesunutí hnacích sil na po stupující rotorový list při vertikální autorotaci",
+        "při traťovém letu má po stupující rotorový list větší průtok než ustupující",
+        "větší vztlak na vnější části rotoru než na vnitřní",
         "rozdíl mezi požadovanou výkonností při visení v přízemním efektu a mimo přízemní efekt"
-      ],
-      "correctIndex": 0,
-      "category": "Letove zasady",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
-      "page": 6,
-      "id": "5-letove-zasady-vrtulnik-27"
-    },
-    {
-      "sourceNumber": "28",
-      "question": "Přechod ový vztlak může být zaznamenán pomocí: zvukového varování",
-      "options": [
-        "vibrací",
-        "poklesu otáček motoru",
-        "velkého násobku"
-      ],
-      "correctIndex": 0,
-      "category": "Letove zasady",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
-      "page": 6,
-      "id": "5-letove-zasady-vrtulnik-28"
-    },
-    {
-      "sourceNumber": "29",
-      "question": "Který z výroků o zatížení disku rotoru v horizontální zatáčce je pravdivý?",
-      "options": [
-        "záleží na typu vrtulníku",
-        "zvětšuje se s rostoucí náklonem zmenšuje se s rostoucím náklonem nemění se v porovnání s přímým letem"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-29"
+      "id": "5-letove-zasady-vrtulnik-p6-27"
+    },
+    {
+      "sourceNumber": "28",
+      "question": "Přechod ový vztlak může být zaznamenán pomocí:",
+      "options": [
+        "zvukového varování",
+        "vibrací",
+        "poklesu otáček motoru",
+        "velkého násobku"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 6,
+      "id": "5-letove-zasady-vrtulnik-p6-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Který z výroků o zatížení disku rotoru v horizontální zatáčce je pravdivý?",
+      "options": [
+        "záleží na typu vrtulníku",
+        "zvětšuje se s rostoucí náklonem",
+        "zmenšuje se s rostoucím náklonem",
+        "nemění se v porovnání s přímým letem"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 6,
+      "id": "5-letove-zasady-vrtulnik-p6-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Co je třeba provést v moderním vrtulníku při přechodu do horizontální zatáčky?",
+      "options": [
+        "zvýšit výkon motoru u vrtulníku, u kterého se rotor otáčí doleva při pohledu shora",
+        "zvýšit výkon motoru u vrtulníku, u kterého se rotor otáčí doprava při pohledu shora",
+        "povolit řídící páku nebo přitáhnout kolektiv",
+        "přitáhnout řídící páku nebo zvednout kolektiv"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 6,
+      "id": "5-letove-zasady-vrtulnik-p6-30"
     },
     {
       "sourceNumber": "31",
       "question": "Proč při letu vysokou rychlostí začíná odtržení proudnic na u stupujícím rotorovém listu?",
       "options": [
         "proud vzduchu dosáhne podzvukové rychlosti a způsobí nárůst indukovaného odporu",
-        "malý úhel nastavení a relativně malá obvodová rychlost způsobují malý efektivní úhel náběhu proud vzduchu dosáhne nadzvukové rychlosti a způsobí nárůst škodlivého odporu",
+        "malý úhel nastavení a relativně malá obvodová rychlost způsobují malý efektivní úhel náběhu",
+        "proud vzduchu dosáhne nadzvukové rychlosti a způsobí nárůst škodlivého odporu",
         "velký úhel nastavení a relativně malá obvodová rychlost způsobují velký efektivní úhel náběhu"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-31"
+      "id": "5-letove-zasady-vrtulnik-p7-31"
     },
     {
       "sourceNumber": "32",
       "question": "Vrtulník při visení v přízemním efektu bez opravných zásahů a za bezvětří bude provádět:",
       "options": [
-        "mírné pohyby nahoru a dolů klopivé pohyby kolem příčné osy rychlé bočivé pohyby",
+        "mírné pohyby nahoru a dolů",
+        "klopivé pohyby kolem příčné osy",
+        "rychlé bočivé pohyby",
         "klonivé pohyby přibližně o 60°"
       ],
       "correctIndex": 0,
@@ -1130,113 +1747,159 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-32"
+      "id": "5-letove-zasady-vrtulnik-p7-32"
     },
     {
       "sourceNumber": "33",
-      "question": "Přizemní efekt způsobuje: silné horizontální vibrace větší požadovanou výkonnost",
+      "question": "Přizemní efekt způsobuje:",
       "options": [
+        "silné horizontální vibrace",
+        "větší požadovanou výkonnost",
         "menší požadovanou výkonnost",
         "silné vertikální vibrace"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-33"
+      "id": "5-letove-zasady-vrtulnik-p7-33"
     },
     {
       "sourceNumber": "34",
       "question": "Co lze očekávat při visení v přízemním efektu nad lesní pasekou?",
       "options": [
         "zpětné proudění vzduchu od rotoru a zeslabení přízemního efektu",
-        "zesílení přízemního efektu způsobené menším indukovaným prouděním přisávání ocasního rotoru do směru lesa a zvýšení výkonnosti ovzduší bez turbulence v závětří lesa a stabilní polohu vůči horizontu"
+        "zesílení přízemního efektu způsobené menším indukovaným prouděním",
+        "přisávání ocasního rotoru do směru lesa a zvýšení výkonnosti",
+        "ovzduší bez turbulence v závětří lesa a stabilní polohu vůči horizontu"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-34"
+      "id": "5-letove-zasady-vrtulnik-p7-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Jaké místo pro přistání za bezvětří nezpůsobí zeslabení přízemního efektu?",
+      "options": [
+        "vyvýšená plocha pro přistání vrtulníků",
+        "rovný terén",
+        "malá lesní mýtina",
+        "svažitý povrch země"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 7,
+      "id": "5-letove-zasady-vrtulnik-p7-35"
     },
     {
       "sourceNumber": "36",
       "question": "Co způsobí režim vírového prstence?",
       "options": [
         "ztrátu výkonu vrtulníku",
-        "zvýšení otáček rotoru zvětšení stability vrtulníku",
+        "zvýšení otáček rotoru",
+        "zvětšení stability vrtulníku",
         "nekontrolovatelný nárůst rychlosti klesání"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-36"
+      "id": "5-letove-zasady-vrtulnik-p8-36"
     },
     {
       "sourceNumber": "37",
-      "question": "Jaký je správný postup pro zvládnutí režimu vírového prstence? zvednout kolektiv a snížit otáčky rotoru",
+      "question": "Jaký je správný postup pro zvládnutí režimu vírového prstence?",
       "options": [
-        "zkusit získat rychlost a přejít do autorotace zvýšit výkon motoru a přitáhnout řídící páku",
+        "zvednout kolektiv a snížit otáčky rotoru",
+        "zkusit získat rychlost a přejít do autorotace",
+        "zvýšit výkon motoru a přitáhnout řídící páku",
         "zvednout kolektiv a přitáhnout řídící páku"
-      ],
-      "correctIndex": 0,
-      "category": "Letove zasady",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
-      "page": 8,
-      "id": "5-letove-zasady-vrtulnik-37"
-    },
-    {
-      "sourceNumber": "38",
-      "question": "Jaký účinek má režim vírového prstence? stabilní klesání a vysokofrekvenční vibrace vrtulníku kolísání otáček motoru a rotoru",
-      "options": [
-        "rychlé klesání a nepravidelné pohyby klonění, klopení a bočení",
-        "snížená rychlost klesání a silné vibrace způsobené motorem"
-      ],
-      "correctIndex": 0,
-      "category": "Letove zasady",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
-      "page": 8,
-      "id": "5-letove-zasady-vrtulnik-38"
-    },
-    {
-      "sourceNumber": "39",
-      "question": "Jaké nebezpečí vzniká při vertikální autorotaci s následným nárůstem dopředné rychlosti před přistáním? vznik vírového kroužku",
-      "options": [
-        "vysoké otáčky rotoru",
-        "nesprávný odhad nárůstu dopředné rychlosti ztráta účinnosti ocasního rotoru"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-39"
+      "id": "5-letove-zasady-vrtulnik-p8-37"
+    },
+    {
+      "sourceNumber": "38",
+      "question": "Jaký účinek má režim vírového prstence?",
+      "options": [
+        "stabilní klesání a vysokofrekvenční vibrace vrtulníku",
+        "kolísání otáček motoru a rotoru",
+        "rychlé klesání a nepravidelné pohyby klonění, klopení a bočení",
+        "snížená rychlost klesání a silné vibrace způsobené motorem"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 8,
+      "id": "5-letove-zasady-vrtulnik-p8-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Jaké nebezpečí vzniká při vertikální autorotaci s následným nárůstem dopředné rychlosti před přistáním?",
+      "options": [
+        "vznik vírového kroužku",
+        "vysoké otáčky rotoru",
+        "nesprávný odhad nárůstu dopředné rychlosti",
+        "ztráta účinnosti ocasního rotoru"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 8,
+      "id": "5-letove-zasady-vrtulnik-p8-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Co způsobuje hnací sílu rotoru při autorotaci?",
+      "options": [
+        "zvětšený úhel podélného sklonu",
+        "efektivní směr proudění vzduchu rotorem",
+        "vysoká rychlost letu",
+        "malá rychlost klesání"
+      ],
+      "correctIndex": 1,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 8,
+      "id": "5-letove-zasady-vrtulnik-p8-40"
     },
     {
       "sourceNumber": "41",
       "question": "Při autorotaci je dopředná rychlost omezena:",
       "options": [
         "interferenčním odporem při malých rychlostech klesání",
-        "přistávacím zařízením při doteku se zemí posunutím oblastí odtržení na vnitřní části rotorových listů",
+        "přistávacím zařízením při doteku se zemí",
+        "posunutím oblastí odtržení na vnitřní části rotorových listů",
         "posunem hnacích sil na ustupujícím rotorovém listu"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-41"
+      "id": "5-letove-zasady-vrtulnik-p9-41"
     },
     {
       "sourceNumber": "42",
       "question": "Která z následujících možností má vliv na vlastnosti autorotace?",
       "options": [
-        "hmotnost vrtulníku a hustotní výška teplota vzduchu a rychlost větru jemné ovládání ocasního rotoru a systém varování před nízkými otáčkami rotoru",
+        "hmotnost vrtulníku a hustotní výška",
+        "teplota vzduchu a rychlost větru",
+        "jemné ovládání ocasního rotoru a systém varování před nízkými otáčkami rotoru",
         "tlaková výška a rychlost větru"
       ],
       "correctIndex": 0,
@@ -1244,21 +1907,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-42"
+      "id": "5-letove-zasady-vrtulnik-p9-42"
     },
     {
       "sourceNumber": "43",
-      "question": "Při autorotaci vrtulníku s dopřednou rychlostí jsou hnací síly rotoru umístěny: ve vnitřní oblasti rotoru ve vnější oblasti rotoru",
+      "question": "Při autorotaci vrtulníku s dopřednou rychlostí jsou hnací síly rotoru umístěny:",
       "options": [
+        "ve vnitřní oblasti rotoru",
+        "ve vnější oblasti rotoru",
         "v oblasti po stupujícího rotorového listu",
         "v oblasti ustupujícího rotorového listu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-43"
+      "id": "5-letove-zasady-vrtulnik-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -1266,150 +1931,215 @@ window.PPL_QUESTIONS = {
       "options": [
         "se zvýší",
         "zůstanou stejné",
-        "se sníží budou kolísat"
+        "se sníží",
+        "budou kolísat"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-44"
+      "id": "5-letove-zasady-vrtulnik-p9-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Co nemá vliv na otáčky rotoru při autorotaci?",
+      "options": [
+        "poloha těžiště",
+        "úhel podélného sklonu",
+        "použití brzdy rotoru",
+        "přechod do zatáčky"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 9,
+      "id": "5-letove-zasady-vrtulnik-p9-45"
     },
     {
       "sourceNumber": "46",
       "question": "Velká hmotnost vrtulníku vede při uvedení do autorotace k:",
       "options": [
         "malé rychlosti klesání",
-        "velké změně polohy těžiště rychlému poklesu otáček rotoru",
+        "velké změně polohy těžiště",
+        "rychlému poklesu otáček rotoru",
         "rychlému nárůstu otáček rotoru"
+      ],
+      "correctIndex": 3,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 10,
+      "id": "5-letove-zasady-vrtulnik-p10-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Co je třeba vzít v úvahu před ukončením zatáčky při autorotaci?",
+      "options": [
+        "zmenšení tíhy odlehčí hlavní rotor a kabinu vrtulníku",
+        "C oriolisova síla způsobí nárůst otáček hlavního rotoru",
+        "je třeba zmenšit úhel podélného sklonu použitím páky kolektivu",
+        "je třeba zvýšit rychlost letu kvůli získání kinetické energie"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 10,
-      "id": "5-letove-zasady-vrtulnik-46"
-    },
-    {
-      "sourceNumber": "47",
-      "question": "Co je třeba vzít v úvahu před ukončením zatáčky při autorotaci? zmenšení tíhy odlehčí hlavní rotor a kabinu vrtulníku C oriolisova síla způsobí nárůst otáček hlavního rotoru",
-      "options": [
-        "je třeba zmenšit úhel podélného sklonu použitím páky kolektivu",
-        "je třeba zvýšit rychlost letu kvůli získání kinetické energie"
-      ],
-      "correctIndex": 0,
-      "category": "Letove zasady",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
-      "page": 10,
-      "id": "5-letove-zasady-vrtulnik-47"
+      "id": "5-letove-zasady-vrtulnik-p10-47"
     },
     {
       "sourceNumber": "48",
-      "question": "Jaká energie slouží k udržení otáček rotoru při autorotaci? rotační a lineární",
+      "question": "Jaká energie slouží k udržení otáček rotoru při autorotaci?",
       "options": [
+        "rotační a lineární",
         "potenciální nebo kinetická",
         "třecí a průtoková",
         "mechanická nebo chemická"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 10,
-      "id": "5-letove-zasady-vrtulnik-48"
+      "id": "5-letove-zasady-vrtulnik-p10-48"
     },
     {
       "sourceNumber": "49",
       "question": "Maximální dolet při autorotaci lze dosáhnout:",
       "options": [
         "poměrně velkým efektivním úhlem náběhu",
-        "záporným efektivním úhlem náběhu poměrně malým efektivní úhlem náběhu neutrálním efektivním úhlem náběhu"
+        "záporným efektivním úhlem náběhu",
+        "poměrně malým efektivní úhlem náběhu",
+        "neutrálním efektivním úhlem náběhu"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 10,
-      "id": "5-letove-zasady-vrtulnik-49"
+      "id": "5-letove-zasady-vrtulnik-p10-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Proč se při podrovnání při autorotaci zvýší otáčky rotoru:",
+      "options": [
+        "úhel sklonu se zvětší",
+        "přízemní efekt vede ke zvýšení výkonnosti",
+        "vertikální proudění diskem rotoru se zvýší",
+        "tangenciální síla začne působit směrem dozadu"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 10,
+      "id": "5-letove-zasady-vrtulnik-p10-50"
     },
     {
       "sourceNumber": "51",
       "question": "Jaký pohyb na po stupujícím rotorovém listu způsobuje C oriolisův efekt?",
       "options": [
         "máv nutí dolů",
-        "kývnutí dopředu hmotový pohyb směrem ven kýv nutí dozadu"
+        "kývnutí dopředu",
+        "hmotový pohyb směrem ven",
+        "kýv nutí dozadu"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-51"
+      "id": "5-letove-zasady-vrtulnik-p11-51"
     },
     {
       "sourceNumber": "52",
-      "question": "Co ovlivňuje čas na zásah do řízení při zahájení autorotace po vysazení motoru? funkčnost táhel řízení",
+      "question": "Co ovlivňuje čas na zásah do řízení při zahájení autorotace po vysazení motoru?",
       "options": [
-        "setrvačnost systému hlavního rotoru tvar profilu rotorových listů",
+        "funkčnost táhel řízení",
+        "setrvačnost systému hlavního rotoru",
+        "tvar profilu rotorových listů",
         "pohyb aerodynamického středu"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-52"
+      "id": "5-letove-zasady-vrtulnik-p11-52"
     },
     {
       "sourceNumber": "53",
-      "question": "Který výrok o síle potřebné pro změnu úhlu podélného sklonu je pravdivý? je nejmenší s využitím úhlu předstihu 90°",
+      "question": "Který výrok o síle potřebné pro změnu úhlu podélného sklonu je pravdivý?",
       "options": [
+        "je nejmenší s využitím úhlu předstihu 90°",
         "musí být větší než tangenciální síla",
         "je nejmenší při využití trojitého delta závěsu",
         "musí být větší než zatížení disku rotoru"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-53"
+      "id": "5-letove-zasady-vrtulnik-p11-53"
     },
     {
       "sourceNumber": "54",
       "question": "Proč vrtulníky s polotuhým systémem rotoru reagují pomaleji než ostatní?",
       "options": [
         "centrální kyvný závěs nepřenáší žádné momenty",
-        "snížený závěs rotorových listů umožňuje přenos sil zalomené zadní závěsy brání přenosu aerodynamických sil na drak vrtulníku chybějící zadní závěsy způsobují nevyváženost rotoru"
+        "snížený závěs rotorových listů umožňuje přenos sil",
+        "zalomené zadní závěsy brání přenosu aerodynamických sil na drak vrtulníku",
+        "chybějící zadní závěsy způsobují nevyváženost rotoru"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-54"
+      "id": "5-letove-zasady-vrtulnik-p11-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Úhel nastavení listů ocasního rotoru se mění:",
+      "options": [
+        "symetricky",
+        "cyklicky",
+        "kolektivně",
+        "asymetricky"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 11,
+      "id": "5-letove-zasady-vrtulnik-p11-55"
     },
     {
       "sourceNumber": "56",
       "question": "Trojitý delta závěs se používá, aby umožnil:",
       "options": [
         "zmenšen í úhl u nastavení kývajícího listu",
-        "vedení postupujícího listu kolem závěsu t ažení postupujícího listu kolem závěsu m ávnutí postupujícího listu nahoru kolem závěsu"
+        "vedení postupujícího listu kolem závěsu",
+        "t ažení postupujícího listu kolem závěsu",
+        "m ávnutí postupujícího listu nahoru kolem závěsu"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-56"
+      "id": "5-letove-zasady-vrtulnik-p12-56"
     },
     {
       "sourceNumber": "57",
       "question": "Čemu je třeba věnovat pozornost v souvislosti s dočasnou ztrátou účinnosti ocasního rotoru při stacionárním visení?",
       "options": [
         "mechanickému zablokování rotoru",
-        "vírovému prstenci na ocasním rotoru rotačnímu pohybu ve směru otáčení hlavního rotoru",
+        "vírovému prstenci na ocasním rotoru",
+        "rotačnímu pohybu ve směru otáčení hlavního rotoru",
         "ztrátě tahu hlavního rotoru"
       ],
       "correctIndex": 1,
@@ -1417,35 +2147,55 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-57"
+      "id": "5-letove-zasady-vrtulnik-p12-57"
     },
     {
       "sourceNumber": "58",
-      "question": "Co způsobí zvětšení stability vrtulníku? zmenšení sil v řízení",
+      "question": "Co způsobí zvětšení stability vrtulníku?",
       "options": [
+        "zmenšení sil v řízení",
         "lepší řiditelnost při záporných násobcích",
-        "zvýšenou všeobecnou bezpečnost letu optimalizaci maximální hmotnosti vrtulníku"
+        "zvýšenou všeobecnou bezpečnost letu",
+        "optimalizaci maximální hmotnosti vrtulníku"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-58"
+      "id": "5-letove-zasady-vrtulnik-p12-58"
     },
     {
       "sourceNumber": "59",
       "question": "Co způsobí zvětšení stability vrtulníku?",
       "options": [
-        "zmenšení požadovaných sil v řízení lepší řiditelnost při všech násobcích",
-        "úlevu pro velitele letadla optimalizaci maximální hmotnosti vrtulníku"
+        "zmenšení požadovaných sil v řízení",
+        "lepší řiditelnost při všech násobcích",
+        "úlevu pro velitele letadla",
+        "optimalizaci maximální hmotnosti vrtulníku"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-59"
+      "id": "5-letove-zasady-vrtulnik-p12-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Proč jsou kritéria stability vrtulníku velmi důležitá?",
+      "options": [
+        "velká stabilita zmenšuje síly v řízení",
+        "velká stabilita brání dosažení nízkých násobků",
+        "nedostatek stability může vést ke ztrátě ovladatelnosti",
+        "velká stabilita umožňuje maximální vzletovou hmotnost"
+      ],
+      "correctIndex": 2,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 12,
+      "id": "5-letove-zasady-vrtulnik-p12-60"
     },
     {
       "sourceNumber": "61",
@@ -1453,20 +2203,23 @@ window.PPL_QUESTIONS = {
       "options": [
         "zmenšením hmotnosti rotoru",
         "snížením otáček rotoru",
-        "přidáním stabilizátoru natáčením tahového závěsu"
+        "přidáním stabilizátoru",
+        "natáčením tahového závěsu"
       ],
       "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-61"
+      "id": "5-letove-zasady-vrtulnik-p13-61"
     },
     {
       "sourceNumber": "62",
       "question": "Co je účelem vertikálního stabilizátoru?",
       "options": [
-        "zlepšen í směrové stability zmenšení manévrovací stability nastavení podélné stability",
+        "zlepšen í směrové stability",
+        "zmenšení manévrovací stability",
+        "nastavení podélné stability",
         "kompenzace stability ocasního rotoru"
       ],
       "correctIndex": 0,
@@ -1474,13 +2227,14 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-62"
+      "id": "5-letove-zasady-vrtulnik-p13-62"
     },
     {
       "sourceNumber": "63",
       "question": "Zvýšení stability vrtulníku způsobí:",
       "options": [
-        "zhoršenou řiditelnost zlepšení řízení při záporných násobcích",
+        "zhoršenou řiditelnost",
+        "zlepšení řízení při záporných násobcích",
         "snížení všeobecné bezpečnosti letectví",
         "optimalizaci maximální hmotnosti vrtulníku"
       ],
@@ -1489,21 +2243,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-63"
+      "id": "5-letove-zasady-vrtulnik-p13-63"
     },
     {
       "sourceNumber": "64",
-      "question": "Jak se chová vrtulník bez stabilizačních systémů, dojde-li při visení k vnějšímu poryvu bez opravného zásahu do řízení? staticky i dynamicky stabilní",
+      "question": "Jak se chová vrtulník bez stabilizačních systémů, dojde-li při visení k vnějšímu poryvu bez opravného zásahu do řízení?",
       "options": [
-        "staticky stabilní, dynamicky neutrální staticky neutrální, dynamicky nestabilní",
+        "staticky i dynamicky stabilní",
+        "staticky stabilní, dynamicky neutrální",
+        "staticky neutrální, dynamicky nestabilní",
         "staticky stabilní, dynamicky nestabilní"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-64"
+      "id": "5-letove-zasady-vrtulnik-p13-64"
+    },
+    {
+      "sourceNumber": "65",
+      "question": "Co odlehčuje vrtulník při manévrech s nízkým násobkem?",
+      "options": [
+        "zvýšený vertikální průtok rotorem",
+        "snížení tíhy cestujících při odtlačení",
+        "odstředivá síla při letu po parabolické trajektorii během celého manévru",
+        "klonivý moment vrtulníku doprava"
+      ],
+      "correctIndex": 0,
+      "category": "Letove zasady",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
+      "page": 13,
+      "id": "5-letove-zasady-vrtulnik-p13-65"
     },
     {
       "sourceNumber": "66",
@@ -1519,7 +2291,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-66"
+      "id": "5-letove-zasady-vrtulnik-p14-66"
     },
     {
       "sourceNumber": "67",
@@ -1527,14 +2299,15 @@ window.PPL_QUESTIONS = {
       "options": [
         "nepřekročitelná",
         "pro největší stoupavost",
-        "pro největší úhel stoupání pro rotaci"
+        "pro největší úhel stoupání",
+        "pro rotaci"
       ],
       "correctIndex": 1,
       "category": "Letove zasady",
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-67"
+      "id": "5-letove-zasady-vrtulnik-p14-67"
     },
     {
       "sourceNumber": "1",
@@ -1550,7 +2323,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -1566,7 +2339,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -1582,7 +2355,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -1598,7 +2371,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -1614,7 +2387,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -1630,7 +2403,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -1646,7 +2419,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p2-7"
     },
     {
       "sourceNumber": "9",
@@ -1662,7 +2435,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p2-9"
     },
     {
       "sourceNumber": "1",
@@ -1678,7 +2451,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p2-1"
     },
     {
       "sourceNumber": "1",
@@ -1694,7 +2467,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p3-1",
+      "image": "./assets/questions/PFA-010.jpg",
+      "imageCode": "PFA-010"
     },
     {
       "sourceNumber": "1",
@@ -1710,7 +2485,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p3-1-2",
+      "image": "./assets/questions/PFA-010.jpg",
+      "imageCode": "PFA-010"
     },
     {
       "sourceNumber": "1",
@@ -1726,7 +2503,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p3-1-3"
     },
     {
       "sourceNumber": "1",
@@ -1742,7 +2519,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p3-1-4"
     },
     {
       "sourceNumber": "1",
@@ -1758,7 +2535,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p3-1-5",
+      "image": "./assets/questions/PFA-009.jpg",
+      "imageCode": "PFA-009"
     },
     {
       "sourceNumber": "1",
@@ -1774,7 +2553,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p4-1",
+      "image": "./assets/questions/PFA-009.jpg",
+      "imageCode": "PFA-009"
     },
     {
       "sourceNumber": "1",
@@ -1790,7 +2571,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p4-1-2"
     },
     {
       "sourceNumber": "1",
@@ -1806,7 +2587,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-1"
+      "id": "letove-zasady-letoun-p4-1-3",
+      "image": "./assets/questions/PFA-009.jpg",
+      "imageCode": "PFA-009"
     },
     {
       "sourceNumber": "19",
@@ -1822,7 +2605,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-19"
+      "id": "letove-zasady-letoun-p4-19"
     },
     {
       "sourceNumber": "2",
@@ -1838,7 +2621,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p4-2"
     },
     {
       "sourceNumber": "2",
@@ -1855,11 +2638,11 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p5-2"
     },
     {
-      "sourceNumber": "2",
-      "question": "2 náběhu?",
+      "sourceNumber": 22,
+      "question": "Kam se posune působiště vztlaku profilu s kladným prohnutím střední čáry, zvětší-li se úhel náběhu?",
       "options": [
         "nejprve dopředu, pak dozadu",
         "dozadu, dokud nebyl dosažen kritický úhel náběhu",
@@ -1871,7 +2654,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p5-22"
     },
     {
       "sourceNumber": "2",
@@ -1887,7 +2670,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p5-2-2"
     },
     {
       "sourceNumber": "2",
@@ -1903,7 +2686,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p5-2-3"
     },
     {
       "sourceNumber": "2",
@@ -1919,7 +2702,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p5-2-4"
     },
     {
       "sourceNumber": "2",
@@ -1935,7 +2718,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p6-2",
+      "image": "./assets/questions/PFA-003.jpg",
+      "imageCode": "PFA-003"
     },
     {
       "sourceNumber": "2",
@@ -1951,7 +2736,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p6-2-2"
     },
     {
       "sourceNumber": "2",
@@ -1967,7 +2752,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-2"
+      "id": "letove-zasady-letoun-p6-2-3"
     },
     {
       "sourceNumber": "29",
@@ -1983,7 +2768,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-29"
+      "id": "letove-zasady-letoun-p6-29"
     },
     {
       "sourceNumber": "3",
@@ -1999,7 +2784,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p6-3"
     },
     {
       "sourceNumber": "3",
@@ -2015,7 +2800,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p7-3"
     },
     {
       "sourceNumber": "3",
@@ -2031,7 +2816,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p7-3-2"
     },
     {
       "sourceNumber": "3",
@@ -2047,7 +2832,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p7-3-3"
     },
     {
       "sourceNumber": "3",
@@ -2063,7 +2848,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p7-3-4"
     },
     {
       "sourceNumber": "3",
@@ -2079,7 +2864,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p7-3-5"
     },
     {
       "sourceNumber": "3",
@@ -2095,7 +2880,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p8-3",
+      "image": "./assets/questions/PFA-011.jpg",
+      "imageCode": "PFA-011"
     },
     {
       "sourceNumber": "3",
@@ -2111,7 +2898,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p8-3-2"
     },
     {
       "sourceNumber": "3",
@@ -2127,21 +2914,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-3"
+      "id": "letove-zasady-letoun-p8-3-3"
     },
     {
       "sourceNumber": "39",
       "question": "Jak se mění indukovaný a škodlivý odpor s narůstající rychlostí při horizontálním ustáleném letu?",
       "options": [
         "indukovaný odpor se zmenšuje a škodlivý odpor se zvětšuje",
-        "indukovaný odpor se zvětšuje a škodlivý odpor se zvětšuje indukovaný odpor se zvětšuje a škodlivý odpor se zmenšuje indukovaný odpor se zmenšuje a škodlivý odpor se zmenšuje"
+        "indukovaný odpor se zvětšuje a škodlivý odpor se zvětšuje",
+        "indukovaný odpor se zvětšuje a škodlivý odpor se zmenšuje",
+        "indukovaný odpor se zmenšuje a škodlivý odpor se zmenšuje"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-39"
+      "id": "letove-zasady-letoun-p8-39"
     },
     {
       "sourceNumber": "4",
@@ -2157,7 +2946,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p8-4"
     },
     {
       "sourceNumber": "4",
@@ -2173,7 +2962,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p9-4"
     },
     {
       "sourceNumber": "4",
@@ -2189,7 +2978,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p9-4-2"
     },
     {
       "sourceNumber": "4",
@@ -2205,7 +2994,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p9-4-3"
     },
     {
       "sourceNumber": "4",
@@ -2221,7 +3010,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p9-4-4"
     },
     {
       "sourceNumber": "4",
@@ -2237,7 +3026,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p9-4-5"
     },
     {
       "sourceNumber": "4",
@@ -2253,11 +3042,11 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p10-4"
     },
     {
-      "sourceNumber": "4",
-      "question": "7 Při přetažení:",
+      "sourceNumber": 47,
+      "question": "Při přetažení:",
       "options": [
         "vztlak se zvětšuje a odpor zmenšuje",
         "vztlak se zvětšuje a odpor zvětšuje",
@@ -2269,7 +3058,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-4"
+      "id": "letove-zasady-letoun-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -2285,7 +3074,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-48"
+      "id": "letove-zasady-letoun-p10-48"
     },
     {
       "sourceNumber": "49",
@@ -2301,7 +3090,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-49"
+      "id": "letove-zasady-letoun-p10-49"
     },
     {
       "sourceNumber": "5",
@@ -2317,7 +3106,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p10-5"
     },
     {
       "sourceNumber": "5",
@@ -2333,7 +3122,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p11-5"
     },
     {
       "sourceNumber": "5",
@@ -2349,7 +3138,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p11-5-2"
     },
     {
       "sourceNumber": "5",
@@ -2365,7 +3154,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p11-5-3"
     },
     {
       "sourceNumber": "5",
@@ -2381,7 +3170,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p11-5-4"
     },
     {
       "sourceNumber": "5",
@@ -2397,7 +3186,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p11-5-5"
     },
     {
       "sourceNumber": "5",
@@ -2413,7 +3202,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p12-5"
     },
     {
       "sourceNumber": "5",
@@ -2429,7 +3218,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-5"
+      "id": "letove-zasady-letoun-p12-5-2"
     },
     {
       "sourceNumber": "58",
@@ -2445,7 +3234,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-58"
+      "id": "letove-zasady-letoun-p12-58"
     },
     {
       "sourceNumber": "59",
@@ -2461,7 +3250,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-59"
+      "id": "letove-zasady-letoun-p12-59"
     },
     {
       "sourceNumber": "6",
@@ -2477,7 +3266,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p12-6"
     },
     {
       "sourceNumber": "6",
@@ -2493,7 +3282,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p13-6"
     },
     {
       "sourceNumber": "6",
@@ -2509,7 +3298,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p13-6-2"
     },
     {
       "sourceNumber": "6",
@@ -2525,7 +3314,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p13-6-3"
     },
     {
       "sourceNumber": "6",
@@ -2541,7 +3330,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p13-6-4"
     },
     {
       "sourceNumber": "6",
@@ -2557,7 +3346,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p13-6-5"
     },
     {
       "sourceNumber": "6",
@@ -2573,7 +3362,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p14-6"
     },
     {
       "sourceNumber": "6",
@@ -2589,7 +3378,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p14-6-2"
     },
     {
       "sourceNumber": "6",
@@ -2605,7 +3394,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-6"
+      "id": "letove-zasady-letoun-p14-6-3"
     },
     {
       "sourceNumber": "69",
@@ -2621,7 +3410,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-69"
+      "id": "letove-zasady-letoun-p14-69"
     },
     {
       "sourceNumber": "7",
@@ -2637,7 +3426,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p14-7"
     },
     {
       "sourceNumber": "7",
@@ -2653,7 +3442,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p15-7"
     },
     {
       "sourceNumber": "7",
@@ -2669,7 +3458,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p15-7-2"
     },
     {
       "sourceNumber": "7",
@@ -2685,7 +3474,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p15-7-3"
     },
     {
       "sourceNumber": "7",
@@ -2701,7 +3490,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p15-7-4"
     },
     {
       "sourceNumber": "7",
@@ -2717,7 +3506,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p15-7-5"
     },
     {
       "sourceNumber": "7",
@@ -2733,7 +3522,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p16-7"
     },
     {
       "sourceNumber": "7",
@@ -2749,24 +3538,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p16-7-2"
     },
     {
-      "sourceNumber": "7",
-      "question": "8",
+      "sourceNumber": 78,
+      "question": "Jaká je výhoda diferenciálních výchylek křidélek?",
       "options": [
-        "Jaká je výhoda diferenciálních výchylek křidélek?",
         "bočení proti příčnému sklonu je větší",
         "zvýší se poměr součinitele odporu k součiniteli vztlaku",
         "sníží se odpor křidélka vychýleného dolů a bočení vlivem klonění je menší",
         "při výchylkách křidélek zůstává celkový vztlak konstantní"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "category": "Letove zasady",
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-7"
+      "id": "letove-zasady-letoun-p16-78"
     },
     {
       "sourceNumber": "79",
@@ -2782,7 +3570,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-79"
+      "id": "letove-zasady-letoun-p16-79"
     },
     {
       "sourceNumber": "8",
@@ -2798,7 +3586,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p16-8"
     },
     {
       "sourceNumber": "8",
@@ -2814,7 +3602,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p17-8"
     },
     {
       "sourceNumber": "8",
@@ -2830,7 +3618,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p17-8-2"
     },
     {
       "sourceNumber": "8",
@@ -2846,7 +3634,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p17-8-3"
     },
     {
       "sourceNumber": "8",
@@ -2862,7 +3650,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p17-8-4"
     },
     {
       "sourceNumber": "8",
@@ -2878,7 +3666,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p17-8-5"
     },
     {
       "sourceNumber": "8",
@@ -2894,7 +3682,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p18-8"
     },
     {
       "sourceNumber": "8",
@@ -2910,7 +3698,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p18-8-2"
     },
     {
       "sourceNumber": "8",
@@ -2926,7 +3714,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-8"
+      "id": "letove-zasady-letoun-p18-8-3"
     },
     {
       "sourceNumber": "89",
@@ -2942,7 +3730,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-89"
+      "id": "letove-zasady-letoun-p18-89"
     },
     {
       "sourceNumber": "9",
@@ -2958,7 +3746,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p18-9"
     },
     {
       "sourceNumber": "9",
@@ -2974,7 +3762,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p19-9"
     },
     {
       "sourceNumber": "9",
@@ -2990,7 +3778,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p19-9-2"
     },
     {
       "sourceNumber": "9",
@@ -3006,7 +3794,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p19-9-3",
+      "image": "./assets/questions/PFA-008.jpg",
+      "imageCode": "PFA-008"
     },
     {
       "sourceNumber": "9",
@@ -3022,7 +3812,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p19-9-4",
+      "image": "./assets/questions/PFA-008.jpg",
+      "imageCode": "PFA-008"
     },
     {
       "sourceNumber": "9",
@@ -3038,7 +3830,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p19-9-5"
     },
     {
       "sourceNumber": "9",
@@ -3054,7 +3846,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p20-9"
     },
     {
       "sourceNumber": "9",
@@ -3070,7 +3862,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p20-9-2"
     },
     {
       "sourceNumber": "9",
@@ -3086,7 +3878,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-9"
+      "id": "letove-zasady-letoun-p20-9-3"
     },
     {
       "sourceNumber": "99",
@@ -3102,7 +3894,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-99"
+      "id": "letove-zasady-letoun-p20-99"
     },
     {
       "sourceNumber": "10",
@@ -3118,7 +3910,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-10"
+      "id": "letove-zasady-letoun-p20-10"
     },
     {
       "sourceNumber": "1",
@@ -3134,7 +3926,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-letoun-(2)-1"
+      "id": "2-lidska-vykonnost-letoun-2-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -3150,7 +3942,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-letoun-(2)-2"
+      "id": "2-lidska-vykonnost-letoun-2-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -3166,7 +3958,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-letoun-(2)-3"
+      "id": "2-lidska-vykonnost-letoun-2-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -3182,7 +3974,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-letoun-(2)-4"
+      "id": "2-lidska-vykonnost-letoun-2-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -3198,7 +3990,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-letoun-(2)-5"
+      "id": "2-lidska-vykonnost-letoun-2-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -3214,7 +4006,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-letoun-(2)-6"
+      "id": "2-lidska-vykonnost-letoun-2-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -3230,7 +4022,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-letoun-(2)-7"
+      "id": "2-lidska-vykonnost-letoun-2-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -3246,7 +4038,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-letoun-(2)-8"
+      "id": "2-lidska-vykonnost-letoun-2-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -3262,7 +4054,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-letoun-(2)-9"
+      "id": "2-lidska-vykonnost-letoun-2-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -3276,7 +4068,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-letoun-(2)-10"
+      "id": "2-lidska-vykonnost-letoun-2-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -3292,7 +4084,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-letoun-(2)-11"
+      "id": "2-lidska-vykonnost-letoun-2-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -3308,7 +4100,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-letoun-(2)-12"
+      "id": "2-lidska-vykonnost-letoun-2-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -3324,7 +4116,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-letoun-(2)-13"
+      "id": "2-lidska-vykonnost-letoun-2-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -3340,7 +4132,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-letoun-(2)-14"
+      "id": "2-lidska-vykonnost-letoun-2-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -3356,7 +4148,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2.-lidska-vykonnost-letoun-(2)-15"
+      "id": "2-lidska-vykonnost-letoun-2-p4-15"
     },
     {
       "sourceNumber": "16",
@@ -3372,7 +4164,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2.-lidska-vykonnost-letoun-(2)-16"
+      "id": "2-lidska-vykonnost-letoun-2-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -3388,7 +4180,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2.-lidska-vykonnost-letoun-(2)-17"
+      "id": "2-lidska-vykonnost-letoun-2-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -3404,7 +4196,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2.-lidska-vykonnost-letoun-(2)-18"
+      "id": "2-lidska-vykonnost-letoun-2-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -3420,7 +4212,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2.-lidska-vykonnost-letoun-(2)-19"
+      "id": "2-lidska-vykonnost-letoun-2-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -3436,7 +4228,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-letoun-(2)-20"
+      "id": "2-lidska-vykonnost-letoun-2-p5-20"
     },
     {
       "sourceNumber": "21",
@@ -3452,7 +4244,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-letoun-(2)-21"
+      "id": "2-lidska-vykonnost-letoun-2-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -3468,7 +4260,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-letoun-(2)-22"
+      "id": "2-lidska-vykonnost-letoun-2-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -3484,7 +4276,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-letoun-(2)-23"
+      "id": "2-lidska-vykonnost-letoun-2-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -3500,7 +4292,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-letoun-(2)-24"
+      "id": "2-lidska-vykonnost-letoun-2-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -3516,7 +4308,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-letoun-(2)-25"
+      "id": "2-lidska-vykonnost-letoun-2-p6-25"
     },
     {
       "sourceNumber": "26",
@@ -3532,7 +4324,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-letoun-(2)-26"
+      "id": "2-lidska-vykonnost-letoun-2-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -3548,7 +4340,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-letoun-(2)-27"
+      "id": "2-lidska-vykonnost-letoun-2-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -3564,7 +4356,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-letoun-(2)-28"
+      "id": "2-lidska-vykonnost-letoun-2-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -3580,7 +4372,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-letoun-(2)-29"
+      "id": "2-lidska-vykonnost-letoun-2-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -3596,7 +4388,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-letoun-(2)-30"
+      "id": "2-lidska-vykonnost-letoun-2-p7-30"
     },
     {
       "sourceNumber": "31",
@@ -3612,7 +4404,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-letoun-(2)-31"
+      "id": "2-lidska-vykonnost-letoun-2-p7-31"
     },
     {
       "sourceNumber": "32",
@@ -3628,7 +4420,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-letoun-(2)-32"
+      "id": "2-lidska-vykonnost-letoun-2-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -3644,7 +4436,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-letoun-(2)-33"
+      "id": "2-lidska-vykonnost-letoun-2-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -3660,7 +4452,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2.-lidska-vykonnost-letoun-(2)-34"
+      "id": "2-lidska-vykonnost-letoun-2-p8-34"
     },
     {
       "sourceNumber": "35",
@@ -3676,7 +4468,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2.-lidska-vykonnost-letoun-(2)-35"
+      "id": "2-lidska-vykonnost-letoun-2-p8-35"
     },
     {
       "sourceNumber": "36",
@@ -3692,7 +4484,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2.-lidska-vykonnost-letoun-(2)-36"
+      "id": "2-lidska-vykonnost-letoun-2-p8-36"
     },
     {
       "sourceNumber": "37",
@@ -3708,7 +4500,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2.-lidska-vykonnost-letoun-(2)-37"
+      "id": "2-lidska-vykonnost-letoun-2-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -3724,7 +4516,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-letoun-(2)-38"
+      "id": "2-lidska-vykonnost-letoun-2-p9-38"
     },
     {
       "sourceNumber": "39",
@@ -3740,7 +4532,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-letoun-(2)-39"
+      "id": "2-lidska-vykonnost-letoun-2-p9-39"
     },
     {
       "sourceNumber": "40",
@@ -3756,7 +4548,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-letoun-(2)-40"
+      "id": "2-lidska-vykonnost-letoun-2-p9-40"
     },
     {
       "sourceNumber": "41",
@@ -3772,7 +4564,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-letoun-(2)-41"
+      "id": "2-lidska-vykonnost-letoun-2-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -3788,7 +4580,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-letoun-(2)-42"
+      "id": "2-lidska-vykonnost-letoun-2-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -3804,7 +4596,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-letoun-(2)-43"
+      "id": "2-lidska-vykonnost-letoun-2-p10-43"
     },
     {
       "sourceNumber": "44",
@@ -3820,7 +4612,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-letoun-(2)-44"
+      "id": "2-lidska-vykonnost-letoun-2-p10-44"
     },
     {
       "sourceNumber": "45",
@@ -3836,7 +4628,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-letoun-(2)-45"
+      "id": "2-lidska-vykonnost-letoun-2-p10-45"
     },
     {
       "sourceNumber": "46",
@@ -3852,7 +4644,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-letoun-(2)-46"
+      "id": "2-lidska-vykonnost-letoun-2-p10-46"
     },
     {
       "sourceNumber": "47",
@@ -3868,7 +4660,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-letoun-(2)-47"
+      "id": "2-lidska-vykonnost-letoun-2-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -3884,7 +4676,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-letoun-(2)-48"
+      "id": "2-lidska-vykonnost-letoun-2-p11-48"
     },
     {
       "sourceNumber": "49",
@@ -3900,7 +4692,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-letoun-(2)-49"
+      "id": "2-lidska-vykonnost-letoun-2-p11-49"
     },
     {
       "sourceNumber": "50",
@@ -3916,7 +4708,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-letoun-(2)-50"
+      "id": "2-lidska-vykonnost-letoun-2-p11-50"
     },
     {
       "sourceNumber": "51",
@@ -3932,7 +4724,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-letoun-(2)-51"
+      "id": "2-lidska-vykonnost-letoun-2-p11-51"
     },
     {
       "sourceNumber": "52",
@@ -3948,7 +4740,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-letoun-(2)-52"
+      "id": "2-lidska-vykonnost-letoun-2-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -3964,7 +4756,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-letoun-(2)-53"
+      "id": "2-lidska-vykonnost-letoun-2-p12-53"
     },
     {
       "sourceNumber": "54",
@@ -3980,7 +4772,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-letoun-(2)-54"
+      "id": "2-lidska-vykonnost-letoun-2-p12-54"
     },
     {
       "sourceNumber": "55",
@@ -3996,7 +4788,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-letoun-(2)-55"
+      "id": "2-lidska-vykonnost-letoun-2-p12-55",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
     },
     {
       "sourceNumber": "56",
@@ -4012,7 +4806,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-letoun-(2)-56"
+      "id": "2-lidska-vykonnost-letoun-2-p12-56",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
     },
     {
       "sourceNumber": "57",
@@ -4028,7 +4824,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-letoun-(2)-57"
+      "id": "2-lidska-vykonnost-letoun-2-p12-57"
     },
     {
       "sourceNumber": "58",
@@ -4044,7 +4840,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 13,
-      "id": "2.-lidska-vykonnost-letoun-(2)-58"
+      "id": "2-lidska-vykonnost-letoun-2-p13-58"
     },
     {
       "sourceNumber": "1",
@@ -4052,20 +4848,23 @@ window.PPL_QUESTIONS = {
       "options": [
         "technickou závadou",
         "zeměpisnými vlivy",
-        "lidskou chybou meteorologickými vlivy"
+        "lidskou chybou",
+        "meteorologickými vlivy"
       ],
       "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-vrtulnik-1"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-1"
     },
     {
       "sourceNumber": "2",
       "question": "Model \"švýcarského sýra\" se používá k vysvětlení:",
       "options": [
-        "řetězce chyb stavu připravenosti pilota postupu pro nouzové přistání",
+        "řetězce chyb",
+        "stavu připravenosti pilota",
+        "postupu pro nouzové přistání",
         "optimálního řešení problému"
       ],
       "correctIndex": 0,
@@ -4073,57 +4872,79 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-vrtulnik-2"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-2"
     },
     {
       "sourceNumber": "3",
-      "question": "Kolik procent kyslíku je v atmosféře v 6000 ft? 12 %",
+      "question": "Kolik procent kyslíku je v atmosféře v 6000 ft?",
       "options": [
+        "12 %",
         "21 %",
         "78 %",
         "18.9 %"
-      ],
-      "correctIndex": 0,
-      "category": "Lidska vykonnost",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
-      "page": 1,
-      "id": "2.-lidska-vykonnost-vrtulnik-3"
-    },
-    {
-      "sourceNumber": "4",
-      "question": "Kolik procent dusíku je v atmosféře?",
-      "options": [
-        "21 %",
-        "78 % 1 % 0.1 %"
       ],
       "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2.-lidska-vykonnost-vrtulnik-4"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Kolik procent dusíku je v atmosféře?",
+      "options": [
+        "21 %",
+        "78 %",
+        "1 %",
+        "0.1 %"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 1,
+      "id": "2-lidska-vykonnost-vrtulnik-p1-4"
+    },
+    {
+      "sourceNumber": "5",
+      "question": "V přibližně jaké výšce je atmosférický tlak poloviční než při střední hladině moře (1013 hPa)?",
+      "options": [
+        "5000 ft",
+        "10000 ft",
+        "18000 ft",
+        "22000 ft"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 1,
+      "id": "2-lidska-vykonnost-vrtulnik-p1-5"
     },
     {
       "sourceNumber": "6",
       "question": "Vzduch se skládá z kyslíku, dusíku a ostatních plynů. Jaké je přibližně percentuální složení těch ostatních plynů?",
       "options": [
         "0.1 %",
-        "21 % 78 %",
+        "21 %",
+        "78 %",
         "1 %"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-vrtulnik-6"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-6"
     },
     {
       "sourceNumber": "7",
       "question": "Otrava kysličníkem uhelnatým může být způsobena:",
       "options": [
-        "kouřením alkoholem nezdravou výživou",
+        "kouřením",
+        "alkoholem",
+        "nezdravou výživou",
         "nedostatkem spánku"
       ],
       "correctIndex": 0,
@@ -4131,13 +4952,14 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-vrtulnik-7"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-7"
     },
     {
       "sourceNumber": "8",
       "question": "Co znamená pojem \"červen ý black out \"?",
       "options": [
-        "červené vidění během záporných násobků chudokrevnost způsobená zraněním",
+        "červené vidění během záporných násobků",
+        "chudokrevnost způsobená zraněním",
         "porucha barvocitu při východu a západu slunce",
         "nemoc z dekomprese způsobená ukvapeností"
       ],
@@ -4146,65 +4968,87 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-vrtulnik-8"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-8"
     },
     {
       "sourceNumber": "9",
       "question": "Otrava kysličníkem uhelnatým může být způsobena:",
       "options": [
         "zamrznutím Pitot-statického systému",
-        "vysazením generátoru palivem nebo hydraulickou kapalinou",
+        "vysazením generátoru",
+        "palivem nebo hydraulickou kapalinou",
         "trhlinami v tepelném výměníku"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 2,
+      "id": "2-lidska-vykonnost-vrtulnik-p2-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Co z následujícího NENÍ projevem hyperventilace?",
+      "options": [
+        "brnění",
+        "křeče",
+        "cyanóza",
+        "poruchy vědomí"
       ],
       "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2.-lidska-vykonnost-vrtulnik-9"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-10"
     },
     {
       "sourceNumber": "11",
       "question": "Který z následujících příznaků může znamenat výškovou nemoc?",
       "options": [
         "zmodrání rtů a konečků prstů",
-        "svalové křeče v horní části těla modřiny na celém těle bolest kolen a spodní části nohou"
+        "svalové křeče v horní části těla",
+        "modřiny na celém těle",
+        "bolest kolen a spodní části nohou"
       ],
       "correctIndex": 0,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-vrtulnik-11"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-11"
     },
     {
       "sourceNumber": "12",
-      "question": "Který ze smyslů je nejvíce ovlivněn výškovou nemocí? sluch hmat",
+      "question": "Který ze smyslů je nejvíce ovlivněn výškovou nemocí?",
       "options": [
+        "sluch",
+        "hmat",
         "zrak",
         "čich"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-vrtulnik-12"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-12"
     },
     {
       "sourceNumber": "13",
-      "question": "Od jaké nadmořské výšky obvykle lidské tělo reaguje na snižující se tlak vzduchu? 2000 ft",
+      "question": "Od jaké nadmořské výšky obvykle lidské tělo reaguje na snižující se tlak vzduchu?",
       "options": [
+        "2000 ft",
         "7000 ft",
         "10000 ft",
         "12000 ft"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-vrtulnik-13"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -4212,48 +5056,22 @@ window.PPL_QUESTIONS = {
       "options": [
         "7000 ft",
         "5000 ft",
-        "12000 ft 22000 ft"
+        "12000 ft",
+        "22000 ft"
       ],
       "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2.-lidska-vykonnost-vrtulnik-14"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-14"
     },
     {
-      "sourceNumber": "16",
-      "question": "Co z následujícího je odpovědné za srážlivost krve?",
+      "sourceNumber": "15",
+      "question": "Jakou funkci mají červené krvinky?",
       "options": [
-        "červené krvinky",
-        "bílé krvinky",
-        "krevní destičky cévní kapiláry"
-      ],
-      "correctIndex": 2,
-      "category": "Lidska vykonnost",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
-      "page": 4,
-      "id": "2.-lidska-vykonnost-vrtulnik-16"
-    },
-    {
-      "sourceNumber": "17",
-      "question": "Jaká je funkce bílých krvinek? přenos kyslíku",
-      "options": [
-        "imunitní obrana srážlivost krve",
-        "regulace cukru v krvi"
-      ],
-      "correctIndex": 0,
-      "category": "Lidska vykonnost",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
-      "page": 4,
-      "id": "2.-lidska-vykonnost-vrtulnik-17"
-    },
-    {
-      "sourceNumber": "18",
-      "question": "Jaká je funkce krevních destiček? přenos kyslíku imunitní obrana",
-      "options": [
+        "přenos kyslíku",
+        "imunitní obrana",
         "srážlivost krve",
         "regulace cukru v krvi"
       ],
@@ -4261,136 +5079,248 @@ window.PPL_QUESTIONS = {
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
-      "page": 4,
-      "id": "2.-lidska-vykonnost-vrtulnik-18"
+      "page": 3,
+      "id": "2-lidska-vykonnost-vrtulnik-p3-15"
     },
     {
-      "sourceNumber": "19",
-      "question": "Co z následujícího NENÍ rizikovým faktorem pro nástup výškové nemoci?",
+      "sourceNumber": "16",
+      "question": "Co z následujícího je odpovědné za srážlivost krve?",
       "options": [
-        "darování krve",
-        "kouření menstruace",
-        "potápění"
+        "červené krvinky",
+        "bílé krvinky",
+        "krevní destičky",
+        "cévní kapiláry"
       ],
       "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2.-lidska-vykonnost-vrtulnik-19"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-16"
+    },
+    {
+      "sourceNumber": "17",
+      "question": "Jaká je funkce bílých krvinek?",
+      "options": [
+        "přenos kyslíku",
+        "imunitní obrana",
+        "srážlivost krve",
+        "regulace cukru v krvi"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2-lidska-vykonnost-vrtulnik-p4-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Jaká je funkce krevních destiček?",
+      "options": [
+        "přenos kyslíku",
+        "imunitní obrana",
+        "srážlivost krve",
+        "regulace cukru v krvi"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2-lidska-vykonnost-vrtulnik-p4-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co z následujícího NENÍ rizikovým faktorem pro nástup výškové nemoci?",
+      "options": [
+        "darování krve",
+        "kouření",
+        "menstruace",
+        "potápění"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2-lidska-vykonnost-vrtulnik-p4-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Anemická hypoxie může být způsobena:",
+      "options": [
+        "otravou kysličníkem uhelnatým",
+        "velkými nadmořskými výškami",
+        "alkoholem",
+        "nízkým tlakem"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 4,
+      "id": "2-lidska-vykonnost-vrtulnik-p4-20"
     },
     {
       "sourceNumber": "21",
       "question": "Jaká nebezpečná situace může nastat, je-li motor vrtulníku spouštěn při silném větru do zad?",
       "options": [
         "otrava kysličníkem uhelnatým",
-        "rotační závrať binokulární vidění nemoc z dekomprese"
+        "rotační závrať",
+        "binokulární vidění",
+        "nemoc z dekomprese"
       ],
       "correctIndex": 0,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-vrtulnik-21"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-21"
     },
     {
       "sourceNumber": "22",
-      "question": "Jaké nebezpečí se objeví při letu vrtulníku v noci s vířícím sněhem? vysoký tlak a nízké teploty mohou způsobit ucpání Eustachovy trubice",
+      "question": "Jaké nebezpečí se objeví při letu vrtulníku v noci s vířícím sněhem?",
       "options": [
-        "prot i srážková světla a rotor může způsobit závrať displeje zobrazující činnost motorů jsou sledovány se zvýšenou pozorností",
+        "vysoký tlak a nízké teploty mohou způsobit ucpání Eustachovy trubice",
+        "prot i srážková světla a rotor může způsobit závrať",
+        "displeje zobrazující činnost motorů jsou sledovány se zvýšenou pozorností",
         "vysoké parciální tlaky v lidském těle mohou způsobit hyperventilaci nebo autokinézu"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-vrtulnik-22"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-22"
     },
     {
       "sourceNumber": "23",
-      "question": "Jaká je správná reakce, cítí-li se náhle cestující nepohodlně při traťovém letu? zvýšit teplotu v kabině a poskytnout mu deku nemluvit a zvolit větší rychlost letu",
+      "question": "Jaká je správná reakce, cítí-li se náhle cestující nepohodlně při traťovém letu?",
       "options": [
+        "zvýšit teplotu v kabině a poskytnout mu deku",
+        "nemluvit a zvolit větší rychlost letu",
         "nastavit teplotu kabiny a vyhnout se velkým náklonům",
         "poskytnout kyslík a vyhnout se nízkým násobkům"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-vrtulnik-23"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-23"
     },
     {
       "sourceNumber": "24",
       "question": "Jaký je správný výraz pro nedobrovolnou reakci organizmu na podráždění receptoru?",
       "options": [
         "reflex",
-        "redukce virulence koherence"
+        "redukce",
+        "virulence",
+        "koherence"
       ],
       "correctIndex": 0,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2.-lidska-vykonnost-vrtulnik-24"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Jaký je správný název systému, který, kromě jiného, řídí dýchání, trávení a tep srdce?",
+      "options": [
+        "autonomní nervový systém",
+        "kritický nervový systém",
+        "automatický nervový systém",
+        "plnící nervový systém"
+      ],
+      "correctIndex": 0,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 5,
+      "id": "2-lidska-vykonnost-vrtulnik-p5-25"
     },
     {
       "sourceNumber": "26",
       "question": "Co je to chyba paralaxy?",
       "options": [
         "chyba v porozumění při komunikaci mezi piloty",
-        "chybné čtení přístrojů způsobené úhlem pohledu nevnímání rychlosti při pojíždění dlouhozrakost způsobená stářím, zvláště v noci"
+        "chybné čtení přístrojů způsobené úhlem pohledu",
+        "nevnímání rychlosti při pojíždění",
+        "dlouhozrakost způsobená stářím, zvláště v noci"
       ],
       "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-vrtulnik-26"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-26"
     },
     {
       "sourceNumber": "27",
-      "question": "Jaká vlastnost je důležitá, když si pilot vybírá sluneční brýle? zakřivené okraje",
+      "question": "Jaká vlastnost je důležitá, když si pilot vybírá sluneční brýle?",
       "options": [
-        "nepolarizované nerozbitné",
+        "zakřivené okraje",
+        "nepolarizované",
+        "nerozbitné",
         "bez UV filtru"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-vrtulnik-27"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-27"
     },
     {
       "sourceNumber": "28",
-      "question": "Jaká část oka je odpovědná za barevné vidění? tyčinky",
+      "question": "Jaká část oka je odpovědná za barevné vidění?",
       "options": [
+        "tyčinky",
         "čípky",
         "čočka",
         "slepá skvrna"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-vrtulnik-28"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-28"
     },
     {
       "sourceNumber": "29",
       "question": "Spojení středního ucha a oblasti nosu a hrdla se nazývá:",
       "options": [
         "ušní bubínek",
-        "Eustachova trubice kochlea vnitřní ucho"
+        "Eustachova trubice",
+        "kochlea",
+        "vnitřní ucho"
       ],
       "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2.-lidska-vykonnost-vrtulnik-29"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "V jaké situaci NENÍ možné vyrovnat tlak mezi středním uchem a okolím?",
+      "options": [
+        "při dýchání pouze ústy",
+        "Eustachova trubice je ucpaná",
+        "během mírného a pomalého stoupání",
+        "všechna okna jsou zcela uzavřena"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 6,
+      "id": "2-lidska-vykonnost-vrtulnik-p6-30"
     },
     {
       "sourceNumber": "31",
@@ -4398,33 +5328,53 @@ window.PPL_QUESTIONS = {
       "options": [
         "ustáleného zatáčení stále ve stejném směru",
         "zahájení klesání",
-        "zatáčení do opačného směru zahájení stoupání"
+        "zatáčení do opačného směru",
+        "zahájení stoupání"
       ],
       "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-vrtulnik-31"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-31"
     },
     {
       "sourceNumber": "32",
-      "question": "Co z následujícího NEZPŮSOBÍ ztrátu orientace? let pod vlivem alkoholu",
+      "question": "Co z následujícího NEZPŮSOBÍ ztrátu orientace?",
       "options": [
-        "rovný přímý let konstantní rychlostí pohyby hlavou při zatáčení",
+        "let pod vlivem alkoholu",
+        "rovný přímý let konstantní rychlostí",
+        "pohyby hlavou při zatáčení",
         "turbulence v horizontálním letu"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-vrtulnik-32"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-32"
     },
     {
       "sourceNumber": "33",
-      "question": "Zrychlení během rovného horizontálního letu může vést k pocitu: klesání",
+      "question": "Zrychlení během rovného horizontálního letu může vést k pocitu:",
       "options": [
+        "klesání",
+        "stoupání",
+        "náklonu",
+        "letu na zádech"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 7,
+      "id": "2-lidska-vykonnost-vrtulnik-p7-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Zpomalení během rovného horizontálního letu může vést k pocitu:",
+      "options": [
+        "klesání",
         "stoupání",
         "náklonu",
         "letu na zádech"
@@ -4434,21 +5384,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-vrtulnik-33"
-    },
-    {
-      "sourceNumber": "34",
-      "question": "Zpomalení během rovného horizontálního letu může vést k pocitu:",
-      "options": [
-        "klesání",
-        "stoupání náklonu letu na zádech"
-      ],
-      "correctIndex": 0,
-      "category": "Lidska vykonnost",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
-      "page": 7,
-      "id": "2.-lidska-vykonnost-vrtulnik-34"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-34"
     },
     {
       "sourceNumber": "35",
@@ -4464,80 +5400,135 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2.-lidska-vykonnost-vrtulnik-35"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-35"
     },
     {
       "sourceNumber": "36",
       "question": "Jaký optický klam může nastat při přiblížení k dráze se sklonem nahoru?",
       "options": [
         "pilot je na přistání dlouhý",
-        "pilot je na přistání krátký pilot přistane vedle středové čáry tvrdé přistání"
+        "pilot je na přistání krátký",
+        "pilot přistane vedle středové čáry",
+        "tvrdé přistání"
       ],
       "correctIndex": 0,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2.-lidska-vykonnost-vrtulnik-36"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-36"
+    },
+    {
+      "sourceNumber": "37",
+      "question": "K závrati dochází nejčastěji při pohybování hlavou:",
+      "options": [
+        "ve stoupání",
+        "v klesání",
+        "v přímém horizontálním letu",
+        "v zatáčce"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 8,
+      "id": "2-lidska-vykonnost-vrtulnik-p8-37"
     },
     {
       "sourceNumber": "38",
-      "question": "Šedé vidění bývá způsobeno: hyperventilací",
+      "question": "Šedé vidění bývá způsobeno:",
       "options": [
+        "hyperventilací",
         "kladným násobkem",
         "únavou",
         "kouřením"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2.-lidska-vykonnost-vrtulnik-38"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-38"
     },
     {
       "sourceNumber": "39",
       "question": "Optický klam bývá většinou způsoben:",
       "options": [
         "binokulárním viděním",
-        "barvoslepostí rychlými pohyby očí",
+        "barvoslepostí",
+        "rychlými pohyby očí",
         "špatným výkladem mozku"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2.-lidska-vykonnost-vrtulnik-39"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-39"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Průměrný pokles hladiny alkoholu v krvi dospělé osoby za hodinu je přibližně o:",
+      "options": [
+        "0,001",
+        "0,0003",
+        "0,003",
+        "0,0001"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 8,
+      "id": "2-lidska-vykonnost-vrtulnik-p8-40"
     },
     {
       "sourceNumber": "41",
       "question": "Co lze považovat za rizikový faktor pro cukrovku (diabetes)?",
       "options": [
         "konzumace zeleniny",
-        "nedostatek spánku kouření",
+        "nedostatek spánku",
+        "kouření",
         "nadváha"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-vrtulnik-41"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-41"
+    },
+    {
+      "sourceNumber": "42",
+      "question": "Rizikovým faktorem pro nemoc z dekomprese je:",
+      "options": [
+        "100 % kyslík po dekompresi",
+        "kouření",
+        "sportování",
+        "přístrojové potápění před letem"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 9,
+      "id": "2-lidska-vykonnost-vrtulnik-p9-42"
     },
     {
       "sourceNumber": "43",
-      "question": "Který výrok o krátkodobé paměti je pravdivý? může uchovat 5 (±2) položek na 1 až 2 minuty může uchovat 10 (±5) položek na 30 až 60 sekund",
+      "question": "Který výrok o krátkodobé paměti je pravdivý?",
       "options": [
+        "může uchovat 5 (±2) položek na 1 až 2 minuty",
+        "může uchovat 10 (±5) položek na 30 až 60 sekund",
         "může uchovat 3 (±1) položek na 5 až 10 sekund",
         "může uchovat 7 (±2) položek na 10 až 20 sekund"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-vrtulnik-43"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -4545,34 +5536,55 @@ window.PPL_QUESTIONS = {
       "options": [
         "3 až 7 sekund",
         "30 až 40 sekund",
-        "10 až 20 sekund 35 až 50 sekund"
+        "10 až 20 sekund",
+        "35 až 50 sekund"
       ],
       "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2.-lidska-vykonnost-vrtulnik-44"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-44"
+    },
+    {
+      "sourceNumber": "45",
+      "question": "Co je skrytá chyba?",
+      "options": [
+        "chyba, které se pilot dopustil aktivně a vědomě",
+        "chyba, která má důsledek jen až po přistání",
+        "chyba, která má okamžitý dopad na řízení letadla",
+        "chyba, která po dlouhou dobu zůstane v systému neobjevena"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 9,
+      "id": "2-lidska-vykonnost-vrtulnik-p9-45"
     },
     {
       "sourceNumber": "46",
       "question": "Co znamená pojem \"potvrzovací snaha\"?",
       "options": [
         "přednostní hledání argumentů pro podporu vlastního myšlenkového modelu",
-        "snaha o potvrzení každého radiotelefonního hovoru smyčka zpětné vazby při uzavřené komunikaci kritická kontrola dvojsmyslné situace za letu"
+        "snaha o potvrzení každého radiotelefonního hovoru",
+        "smyčka zpětné vazby při uzavřené komunikaci",
+        "kritická kontrola dvojsmyslné situace za letu"
       ],
       "correctIndex": 0,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-vrtulnik-46"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-46"
     },
     {
       "sourceNumber": "47",
       "question": "Nepřetržitý proces sledování současné situace za letu se nazývá:",
       "options": [
-        "situační povědomí okamžité sledování letu situační přemýšlení",
+        "situační povědomí",
+        "okamžité sledování letu",
+        "situační přemýšlení",
         "postup předběžné kontroly"
       ],
       "correctIndex": 0,
@@ -4580,114 +5592,158 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-vrtulnik-47"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-47"
     },
     {
       "sourceNumber": "48",
-      "question": "S ohledem na komunikační model, jak lze zajistit použití stejného kódu při radiokomunikaci? přidělením zvláštní frekvence",
+      "question": "S ohledem na komunikační model, jak lze zajistit použití stejného kódu při radiokomunikaci?",
       "options": [
+        "přidělením zvláštní frekvence",
         "použitím radiotelefonní frazeologie",
         "použitím správné náhlavní soupravy",
         "použitím radiostanic certifikovaných pro letectví"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-vrtulnik-48"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-48"
     },
     {
       "sourceNumber": "49",
       "question": "Jakými různými způsoby lze správně řešit riziko?",
       "options": [
         "vyhnout se, snížit, převést, přijmout",
-        "vyhnout se, ignorovat, zmírnit, snížit ignorovat, přijmout, převést, vyloučit vyloučit, vyhnout se, zmírnit, převést"
+        "vyhnout se, ignorovat, zmírnit, snížit",
+        "ignorovat, přijmout, převést, vyloučit",
+        "vyloučit, vyhnout se, zmírnit, převést"
       ],
       "correctIndex": 0,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2.-lidska-vykonnost-vrtulnik-49"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Za jakých okolností je pravděpodobnější přijmutí vyššího rizika?",
+      "options": [
+        "není-li k dispozici dostatek informací",
+        "kvůli skupinově-dynamickému efektu",
+        "při zkušebních letech kvůli vyšší hladině nervozity",
+        "při plánování letu, je-li předpovídáno výborné počasí"
+      ],
+      "correctIndex": 1,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 10,
+      "id": "2-lidska-vykonnost-vrtulnik-p10-50"
     },
     {
       "sourceNumber": "51",
       "question": "Co znamená \"posun rizika\"?",
       "options": [
         "náhlá změna směru přistání, má-li dráha sklon do kopce",
-        "seřízení sedačky za letu provedení skluzu na krátkém finále",
+        "seřízení sedačky za letu",
+        "provedení skluzu na krátkém finále",
         "tendence přijímat vyšší riziko ve skupině"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-vrtulnik-51"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "Jaké nebezpečné přístupy jsou často kombinovány?",
+      "options": [
+        "sebeuvolnění a předvádění se",
+        "nezranitelnost a sebeuvolnění",
+        "impulzivita a bezstarostnost",
+        "předvádění se a nezranitelnost"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 11,
+      "id": "2-lidska-vykonnost-vrtulnik-p11-52"
     },
     {
       "sourceNumber": "53",
-      "question": "Co je znakem přístupu předvádění se? pečlivá předletová prohlídka",
+      "question": "Co je znakem přístupu předvádění se?",
       "options": [
+        "pečlivá předletová prohlídka",
         "riskantní letové manévry pro upoutání diváků na zemi",
         "rychlá odevzdanost se ve složitých a kritických situacích",
         "důkladné vyhodnocení rizik v předem neznámých situacích"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-vrtulnik-53"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-53"
     },
     {
       "sourceNumber": "54",
       "question": "Co může vést k chybám lidského faktoru?",
       "options": [
         "dvojitá kontrola příslušné činnosti",
-        "správné používání seznamu úkonů pochybnosti, když se něco zdá nejasné nebo dvojsmyslné",
+        "správné používání seznamu úkonů",
+        "pochybnosti, když se něco zdá nejasné nebo dvojsmyslné",
         "sklon vidět to, co lze předpokládat"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 11,
+      "id": "2-lidska-vykonnost-vrtulnik-p11-54"
+    },
+    {
+      "sourceNumber": "55",
+      "question": "Jaká je nejlepší kombinace povahových rysů s ohledem na individuální přístup a chování pilota?",
+      "options": [
+        "introvertní – stabilní",
+        "introvertní – nestabilní",
+        "extrovertní – stabilní",
+        "extrovertní – nestabilní"
       ],
       "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2.-lidska-vykonnost-vrtulnik-54"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-55"
     },
     {
       "sourceNumber": "56",
       "question": "Samolibost je rizikem kvůli:",
       "options": [
         "velkému počtu chyb, kterých se lidé normálně dopouštějí",
-        "zvýšené automatizaci v pilotní kabině lepší možnosti výcviku pro mladé piloty vysoké poruchovosti technických systémů"
+        "zvýšené automatizaci v pilotní kabině",
+        "lepší možnosti výcviku pro mladé piloty",
+        "vysoké poruchovosti technických systémů"
       ],
       "correctIndex": 1,
       "category": "Lidska vykonnost",
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-vrtulnik-56"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-56"
     },
     {
       "sourceNumber": "57",
-      "question": "Ve kterém místě diagramu je zobrazena ideální hladina vyburcování? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres bod A",
+      "question": "Ve kterém místě diagramu je zobrazena ideální hladina vyburcování? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres",
       "options": [
-        "bod B bod C",
-        "bod D"
-      ],
-      "correctIndex": 0,
-      "category": "Lidska vykonnost",
-      "aircraft": "Vrtulnik",
-      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
-      "page": 12,
-      "id": "2.-lidska-vykonnost-vrtulnik-57"
-    },
-    {
-      "sourceNumber": "58",
-      "question": "Ve kterém místě diagramu se nachází přetížený pilot? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres bod A bod B",
-      "options": [
+        "bod A",
+        "bod B",
         "bod C",
         "bod D"
       ],
@@ -4696,14 +5752,35 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-vrtulnik-58"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-57",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Ve kterém místě diagramu se nachází přetížený pilot? Viz obr. (HPL-002) P = výkonnost A = vyburcování / stres",
+      "options": [
+        "bod A",
+        "bod B",
+        "bod C",
+        "bod D"
+      ],
+      "correctIndex": 3,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 12,
+      "id": "2-lidska-vykonnost-vrtulnik-p12-58",
+      "image": "./assets/questions/HPL-002.jpg",
+      "imageCode": "HPL-002"
     },
     {
       "sourceNumber": "59",
       "question": "Která z následujících vlastností je ovlivněna stresem? 1. pozornost 2. soustředěnost 3. odpovědnost 4. paměť",
       "options": [
         "1",
-        "1, 2, 3 2, 4",
+        "1, 2, 3",
+        "2, 4",
         "1, 2, 3, 4"
       ],
       "correctIndex": 0,
@@ -4711,7 +5788,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2.-lidska-vykonnost-vrtulnik-59"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-59"
+    },
+    {
+      "sourceNumber": "60",
+      "question": "Která odpověď týkající se stresu je správná?",
+      "options": [
+        "stres a jeho různé příznaky jsou pro bezpečnost letu bezvýznamné",
+        "každý reaguje na stres stejným způsobem",
+        "stres může nastat, i když se zdá, že daný problém nemá řešení",
+        "výcvik a zkušenosti nemají žádný vliv na výskyt stresu"
+      ],
+      "correctIndex": 2,
+      "category": "Lidska vykonnost",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
+      "page": 12,
+      "id": "2-lidska-vykonnost-vrtulnik-p12-60"
     },
     {
       "sourceNumber": "1",
@@ -4727,7 +5820,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-(1)-1"
+      "id": "3-meteorologie-letoun-1-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -4743,7 +5836,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-(1)-2"
+      "id": "3-meteorologie-letoun-1-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -4759,7 +5852,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-(1)-3"
+      "id": "3-meteorologie-letoun-1-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -4775,7 +5868,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-(1)-4"
+      "id": "3-meteorologie-letoun-1-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -4791,7 +5884,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-(1)-5"
+      "id": "3-meteorologie-letoun-1-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -4807,7 +5900,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-(1)-6"
+      "id": "3-meteorologie-letoun-1-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -4823,7 +5916,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-(1)-7"
+      "id": "3-meteorologie-letoun-1-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -4839,7 +5932,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-(1)-8"
+      "id": "3-meteorologie-letoun-1-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -4855,7 +5948,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-(1)-9"
+      "id": "3-meteorologie-letoun-1-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -4871,7 +5964,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-(1)-10"
+      "id": "3-meteorologie-letoun-1-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -4887,7 +5980,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-(1)-11"
+      "id": "3-meteorologie-letoun-1-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -4903,7 +5996,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-(1)-12"
+      "id": "3-meteorologie-letoun-1-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -4919,7 +6012,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-(1)-13"
+      "id": "3-meteorologie-letoun-1-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -4935,7 +6028,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-(1)-14"
+      "id": "3-meteorologie-letoun-1-p3-14"
     },
     {
       "sourceNumber": "1",
@@ -4951,7 +6044,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-(1)-1"
+      "id": "3-meteorologie-letoun-1-p3-1"
     },
     {
       "sourceNumber": "1",
@@ -4967,7 +6060,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-(1)-1"
+      "id": "3-meteorologie-letoun-1-p4-1"
     },
     {
       "sourceNumber": "1",
@@ -4983,7 +6076,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-(1)-1"
+      "id": "3-meteorologie-letoun-1-p4-1-2"
     },
     {
       "sourceNumber": "18",
@@ -4999,7 +6092,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-(1)-18"
+      "id": "3-meteorologie-letoun-1-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -5015,7 +6108,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-(1)-19"
+      "id": "3-meteorologie-letoun-1-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -5031,7 +6124,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-(1)-20"
+      "id": "3-meteorologie-letoun-1-p4-20"
     },
     {
       "sourceNumber": "21",
@@ -5047,7 +6140,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-(1)-21"
+      "id": "3-meteorologie-letoun-1-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -5063,7 +6156,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-(1)-22"
+      "id": "3-meteorologie-letoun-1-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -5079,7 +6172,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-(1)-23"
+      "id": "3-meteorologie-letoun-1-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -5095,7 +6188,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-(1)-24"
+      "id": "3-meteorologie-letoun-1-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -5111,7 +6204,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-(1)-25"
+      "id": "3-meteorologie-letoun-1-p5-25"
     },
     {
       "sourceNumber": "26",
@@ -5127,7 +6220,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-(1)-26"
+      "id": "3-meteorologie-letoun-1-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -5143,7 +6236,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-(1)-27"
+      "id": "3-meteorologie-letoun-1-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -5159,7 +6252,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-(1)-28"
+      "id": "3-meteorologie-letoun-1-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -5175,7 +6268,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-(1)-29"
+      "id": "3-meteorologie-letoun-1-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -5191,7 +6284,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-(1)-30"
+      "id": "3-meteorologie-letoun-1-p6-30"
     },
     {
       "sourceNumber": "31",
@@ -5207,7 +6300,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-(1)-31"
+      "id": "3-meteorologie-letoun-1-p7-31"
     },
     {
       "sourceNumber": "32",
@@ -5223,7 +6316,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-(1)-32"
+      "id": "3-meteorologie-letoun-1-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -5239,7 +6332,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-(1)-33"
+      "id": "3-meteorologie-letoun-1-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -5255,7 +6348,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-(1)-34"
+      "id": "3-meteorologie-letoun-1-p7-34"
     },
     {
       "sourceNumber": "35",
@@ -5271,7 +6364,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-(1)-35"
+      "id": "3-meteorologie-letoun-1-p7-35"
     },
     {
       "sourceNumber": "36",
@@ -5287,7 +6380,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-(1)-36"
+      "id": "3-meteorologie-letoun-1-p8-36"
     },
     {
       "sourceNumber": "37",
@@ -5303,7 +6396,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-(1)-37"
+      "id": "3-meteorologie-letoun-1-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -5319,7 +6412,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-(1)-38"
+      "id": "3-meteorologie-letoun-1-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -5335,7 +6428,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-(1)-39"
+      "id": "3-meteorologie-letoun-1-p8-39"
     },
     {
       "sourceNumber": "40",
@@ -5351,7 +6444,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-(1)-40"
+      "id": "3-meteorologie-letoun-1-p8-40"
     },
     {
       "sourceNumber": "41",
@@ -5367,7 +6460,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-(1)-41"
+      "id": "3-meteorologie-letoun-1-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -5383,7 +6476,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-(1)-42"
+      "id": "3-meteorologie-letoun-1-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -5399,7 +6492,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-(1)-43"
+      "id": "3-meteorologie-letoun-1-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -5415,7 +6508,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-(1)-44"
+      "id": "3-meteorologie-letoun-1-p9-44"
     },
     {
       "sourceNumber": "45",
@@ -5431,7 +6524,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-(1)-45"
+      "id": "3-meteorologie-letoun-1-p9-45"
     },
     {
       "sourceNumber": "46",
@@ -5447,7 +6540,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-(1)-46"
+      "id": "3-meteorologie-letoun-1-p10-46"
     },
     {
       "sourceNumber": "47",
@@ -5463,7 +6556,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-(1)-47"
+      "id": "3-meteorologie-letoun-1-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -5479,7 +6572,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-(1)-48"
+      "id": "3-meteorologie-letoun-1-p10-48"
     },
     {
       "sourceNumber": "49",
@@ -5495,7 +6588,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-(1)-49"
+      "id": "3-meteorologie-letoun-1-p10-49"
     },
     {
       "sourceNumber": "50",
@@ -5511,7 +6604,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-(1)-50"
+      "id": "3-meteorologie-letoun-1-p10-50"
     },
     {
       "sourceNumber": "51",
@@ -5527,7 +6620,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-(1)-51"
+      "id": "3-meteorologie-letoun-1-p11-51"
     },
     {
       "sourceNumber": "52",
@@ -5543,7 +6636,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-(1)-52"
+      "id": "3-meteorologie-letoun-1-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -5559,7 +6652,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-(1)-53"
+      "id": "3-meteorologie-letoun-1-p11-53"
     },
     {
       "sourceNumber": "54",
@@ -5575,7 +6668,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-(1)-54"
+      "id": "3-meteorologie-letoun-1-p11-54"
     },
     {
       "sourceNumber": "55",
@@ -5591,7 +6684,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-(1)-55"
+      "id": "3-meteorologie-letoun-1-p11-55"
     },
     {
       "sourceNumber": "56",
@@ -5607,7 +6700,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-56"
+      "id": "3-meteorologie-letoun-1-p12-56",
+      "image": "./assets/questions/MET-001.jpg",
+      "imageCode": "MET-001"
     },
     {
       "sourceNumber": "57",
@@ -5623,7 +6718,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-57"
+      "id": "3-meteorologie-letoun-1-p12-57",
+      "image": "./assets/questions/MET-002.jpg",
+      "imageCode": "MET-002"
     },
     {
       "sourceNumber": "58",
@@ -5639,7 +6736,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-58"
+      "id": "3-meteorologie-letoun-1-p12-58",
+      "image": "./assets/questions/MET-004.jpg",
+      "imageCode": "MET-004"
     },
     {
       "sourceNumber": "59",
@@ -5655,7 +6754,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-59"
+      "id": "3-meteorologie-letoun-1-p12-59"
     },
     {
       "sourceNumber": "60",
@@ -5671,7 +6770,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-(1)-60"
+      "id": "3-meteorologie-letoun-1-p12-60"
     },
     {
       "sourceNumber": "61",
@@ -5687,7 +6786,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-(1)-61"
+      "id": "3-meteorologie-letoun-1-p13-61"
     },
     {
       "sourceNumber": "62",
@@ -5703,7 +6802,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-(1)-62"
+      "id": "3-meteorologie-letoun-1-p13-62"
     },
     {
       "sourceNumber": "63",
@@ -5719,7 +6818,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-(1)-63"
+      "id": "3-meteorologie-letoun-1-p13-63"
     },
     {
       "sourceNumber": "64",
@@ -5735,7 +6834,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-(1)-64"
+      "id": "3-meteorologie-letoun-1-p13-64"
     },
     {
       "sourceNumber": "65",
@@ -5751,7 +6850,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-(1)-65"
+      "id": "3-meteorologie-letoun-1-p13-65"
     },
     {
       "sourceNumber": "66",
@@ -5767,7 +6866,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-(1)-66"
+      "id": "3-meteorologie-letoun-1-p14-66"
     },
     {
       "sourceNumber": "67",
@@ -5783,7 +6882,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-(1)-67"
+      "id": "3-meteorologie-letoun-1-p14-67"
     },
     {
       "sourceNumber": "68",
@@ -5799,7 +6898,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-(1)-68"
+      "id": "3-meteorologie-letoun-1-p14-68"
     },
     {
       "sourceNumber": "69",
@@ -5815,7 +6914,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-(1)-69"
+      "id": "3-meteorologie-letoun-1-p14-69"
     },
     {
       "sourceNumber": "70",
@@ -5831,7 +6930,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-(1)-70"
+      "id": "3-meteorologie-letoun-1-p14-70",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "71",
@@ -5847,7 +6948,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-(1)-71"
+      "id": "3-meteorologie-letoun-1-p15-71",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "72",
@@ -5863,22 +6966,25 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-(1)-72"
+      "id": "3-meteorologie-letoun-1-p15-72",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "73",
       "question": "Jaký sled oblačnosti lze typicky pozorovat při přechodu teplé fronty?",
       "options": [
-        "húlava s dešťovými přeháňkami a bouřky (Cb), nárazový vítr následováno kumulovitou oblačností s izolovanými dešťovými přeháňkami ve dne v pobřežních oblastech vítr od pobřeží a tvorbou kupovité oblačnosti, večer a v noci rozpady oblačnosti",
+        "húlava s dešťovými přeháňkami a bouřky (Cb), nárazový vítr následováno kumulovitou oblačností s izolovanými dešťovými přeháňkami",
+        "ve dne v pobřežních oblastech vítr od pobřeží a tvorbou kupovité oblačnosti, večer a v noci rozpady oblačnosti",
         "v létě slábnoucí vítr, rozpady oblačnosti a narůst teploty, v zimě tvorba vysokých vrstev mlhy",
         "cirus, ztenčující se altostratus a altokumulus, snižující se základna oblačnosti s deštěm, nimbostratus"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Meteorologie",
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-(1)-73"
+      "id": "3-meteorologie-letoun-1-p15-73"
     },
     {
       "sourceNumber": "74",
@@ -5894,7 +7000,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-(1)-74"
+      "id": "3-meteorologie-letoun-1-p15-74"
     },
     {
       "sourceNumber": "75",
@@ -5910,7 +7016,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-(1)-75"
+      "id": "3-meteorologie-letoun-1-p15-75"
     },
     {
       "sourceNumber": "76",
@@ -5926,7 +7032,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-(1)-76"
+      "id": "3-meteorologie-letoun-1-p16-76"
     },
     {
       "sourceNumber": "77",
@@ -5942,7 +7048,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-(1)-77"
+      "id": "3-meteorologie-letoun-1-p16-77"
     },
     {
       "sourceNumber": "78",
@@ -5958,7 +7064,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-(1)-78"
+      "id": "3-meteorologie-letoun-1-p16-78"
     },
     {
       "sourceNumber": "79",
@@ -5974,7 +7080,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-(1)-79"
+      "id": "3-meteorologie-letoun-1-p16-79"
     },
     {
       "sourceNumber": "80",
@@ -5990,7 +7096,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-(1)-80"
+      "id": "3-meteorologie-letoun-1-p16-80"
     },
     {
       "sourceNumber": "81",
@@ -6006,7 +7112,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-(1)-81"
+      "id": "3-meteorologie-letoun-1-p17-81"
     },
     {
       "sourceNumber": "82",
@@ -6022,7 +7128,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-(1)-82"
+      "id": "3-meteorologie-letoun-1-p17-82"
     },
     {
       "sourceNumber": "83",
@@ -6038,7 +7144,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-(1)-83"
+      "id": "3-meteorologie-letoun-1-p17-83"
     },
     {
       "sourceNumber": "84",
@@ -6054,7 +7160,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-(1)-84"
+      "id": "3-meteorologie-letoun-1-p17-84"
     },
     {
       "sourceNumber": "85",
@@ -6070,7 +7176,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-(1)-85"
+      "id": "3-meteorologie-letoun-1-p17-85"
     },
     {
       "sourceNumber": "86",
@@ -6086,7 +7192,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-(1)-86"
+      "id": "3-meteorologie-letoun-1-p18-86"
     },
     {
       "sourceNumber": "87",
@@ -6102,7 +7208,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-(1)-87"
+      "id": "3-meteorologie-letoun-1-p18-87"
     },
     {
       "sourceNumber": "88",
@@ -6118,7 +7224,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-(1)-88"
+      "id": "3-meteorologie-letoun-1-p18-88"
     },
     {
       "sourceNumber": "89",
@@ -6134,7 +7240,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-(1)-89"
+      "id": "3-meteorologie-letoun-1-p18-89"
     },
     {
       "sourceNumber": "90",
@@ -6150,7 +7256,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-(1)-90"
+      "id": "3-meteorologie-letoun-1-p18-90"
     },
     {
       "sourceNumber": "91",
@@ -6166,7 +7272,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-(1)-91"
+      "id": "3-meteorologie-letoun-1-p19-91"
     },
     {
       "sourceNumber": "92",
@@ -6182,7 +7288,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-(1)-92"
+      "id": "3-meteorologie-letoun-1-p19-92"
     },
     {
       "sourceNumber": "93",
@@ -6198,7 +7304,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-(1)-93"
+      "id": "3-meteorologie-letoun-1-p19-93"
     },
     {
       "sourceNumber": "94",
@@ -6214,7 +7320,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-(1)-94"
+      "id": "3-meteorologie-letoun-1-p19-94"
     },
     {
       "sourceNumber": "95",
@@ -6230,7 +7336,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-(1)-95"
+      "id": "3-meteorologie-letoun-1-p19-95"
     },
     {
       "sourceNumber": "96",
@@ -6246,7 +7352,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-(1)-96"
+      "id": "3-meteorologie-letoun-1-p20-96"
     },
     {
       "sourceNumber": "97",
@@ -6262,7 +7368,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-(1)-97"
+      "id": "3-meteorologie-letoun-1-p20-97"
     },
     {
       "sourceNumber": "98",
@@ -6278,7 +7384,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-(1)-98"
+      "id": "3-meteorologie-letoun-1-p20-98"
     },
     {
       "sourceNumber": "99",
@@ -6294,7 +7400,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-(1)-99"
+      "id": "3-meteorologie-letoun-1-p20-99"
     },
     {
       "sourceNumber": "1",
@@ -6310,7 +7416,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-(1)-1"
+      "id": "3-meteorologie-letoun-1-p20-1"
     },
     {
       "sourceNumber": "1",
@@ -6326,7 +7432,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-(1)-1"
+      "id": "3-meteorologie-letoun-1-p21-1"
     },
     {
       "sourceNumber": "102",
@@ -6342,7 +7448,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-(1)-102"
+      "id": "3-meteorologie-letoun-1-p21-102"
     },
     {
       "sourceNumber": "103",
@@ -6358,7 +7464,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-(1)-103"
+      "id": "3-meteorologie-letoun-1-p21-103"
     },
     {
       "sourceNumber": "104",
@@ -6374,7 +7480,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-(1)-104"
+      "id": "3-meteorologie-letoun-1-p21-104"
     },
     {
       "sourceNumber": "105",
@@ -6390,7 +7496,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-(1)-105"
+      "id": "3-meteorologie-letoun-1-p21-105"
     },
     {
       "sourceNumber": "106",
@@ -6406,7 +7512,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-(1)-106"
+      "id": "3-meteorologie-letoun-1-p22-106"
     },
     {
       "sourceNumber": "107",
@@ -6422,7 +7528,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-(1)-107"
+      "id": "3-meteorologie-letoun-1-p22-107"
     },
     {
       "sourceNumber": "108",
@@ -6438,7 +7544,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-(1)-108"
+      "id": "3-meteorologie-letoun-1-p22-108"
     },
     {
       "sourceNumber": "109",
@@ -6454,7 +7560,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-(1)-109"
+      "id": "3-meteorologie-letoun-1-p22-109"
     },
     {
       "sourceNumber": "110",
@@ -6470,7 +7576,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-(1)-110"
+      "id": "3-meteorologie-letoun-1-p22-110"
     },
     {
       "sourceNumber": "111",
@@ -6486,7 +7592,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-(1)-111"
+      "id": "3-meteorologie-letoun-1-p23-111"
     },
     {
       "sourceNumber": "112",
@@ -6502,7 +7608,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-(1)-112"
+      "id": "3-meteorologie-letoun-1-p23-112"
     },
     {
       "sourceNumber": "113",
@@ -6518,7 +7624,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-(1)-113"
+      "id": "3-meteorologie-letoun-1-p23-113"
     },
     {
       "sourceNumber": "114",
@@ -6534,7 +7640,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-(1)-114"
+      "id": "3-meteorologie-letoun-1-p23-114"
     },
     {
       "sourceNumber": "115",
@@ -6550,7 +7656,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-(1)-115"
+      "id": "3-meteorologie-letoun-1-p23-115"
     },
     {
       "sourceNumber": "116",
@@ -6566,7 +7672,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-(1)-116"
+      "id": "3-meteorologie-letoun-1-p24-116"
     },
     {
       "sourceNumber": "117",
@@ -6582,7 +7688,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-(1)-117"
+      "id": "3-meteorologie-letoun-1-p24-117"
     },
     {
       "sourceNumber": "118",
@@ -6598,7 +7704,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-(1)-118"
+      "id": "3-meteorologie-letoun-1-p24-118"
     },
     {
       "sourceNumber": "119",
@@ -6614,7 +7720,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-(1)-119"
+      "id": "3-meteorologie-letoun-1-p24-119"
     },
     {
       "sourceNumber": "120",
@@ -6630,7 +7736,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-(1)-120"
+      "id": "3-meteorologie-letoun-1-p24-120"
     },
     {
       "sourceNumber": "121",
@@ -6646,7 +7752,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-(1)-121"
+      "id": "3-meteorologie-letoun-1-p25-121"
     },
     {
       "sourceNumber": "122",
@@ -6662,7 +7768,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-(1)-122"
+      "id": "3-meteorologie-letoun-1-p25-122"
     },
     {
       "sourceNumber": "123",
@@ -6678,7 +7784,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-(1)-123"
+      "id": "3-meteorologie-letoun-1-p25-123"
     },
     {
       "sourceNumber": "124",
@@ -6694,7 +7800,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-(1)-124"
+      "id": "3-meteorologie-letoun-1-p25-124"
     },
     {
       "sourceNumber": "125",
@@ -6710,7 +7816,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-(1)-125"
+      "id": "3-meteorologie-letoun-1-p25-125"
     },
     {
       "sourceNumber": "1",
@@ -6726,7 +7832,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-(1)-1"
+      "id": "3-meteorologie-letoun-1-p26-1"
     },
     {
       "sourceNumber": "127",
@@ -6742,7 +7848,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-(1)-127"
+      "id": "3-meteorologie-letoun-1-p26-127"
     },
     {
       "sourceNumber": "128",
@@ -6758,7 +7864,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-(1)-128"
+      "id": "3-meteorologie-letoun-1-p26-128"
     },
     {
       "sourceNumber": "129",
@@ -6774,7 +7880,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-(1)-129"
+      "id": "3-meteorologie-letoun-1-p26-129"
     },
     {
       "sourceNumber": "1",
@@ -6790,7 +7896,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-1"
+      "id": "3-meteorologie-vrtulnik-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -6806,7 +7912,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-2"
+      "id": "3-meteorologie-vrtulnik-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -6822,7 +7928,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-3"
+      "id": "3-meteorologie-vrtulnik-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -6838,7 +7944,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-4"
+      "id": "3-meteorologie-vrtulnik-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -6854,7 +7960,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-5"
+      "id": "3-meteorologie-vrtulnik-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -6870,7 +7976,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-6"
+      "id": "3-meteorologie-vrtulnik-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -6886,7 +7992,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-7"
+      "id": "3-meteorologie-vrtulnik-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -6902,7 +8008,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-8"
+      "id": "3-meteorologie-vrtulnik-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -6918,7 +8024,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-9"
+      "id": "3-meteorologie-vrtulnik-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -6934,7 +8040,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-10"
+      "id": "3-meteorologie-vrtulnik-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -6950,7 +8056,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-11"
+      "id": "3-meteorologie-vrtulnik-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -6966,7 +8072,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-12"
+      "id": "3-meteorologie-vrtulnik-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -6982,7 +8088,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-13"
+      "id": "3-meteorologie-vrtulnik-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -6998,7 +8104,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-14"
+      "id": "3-meteorologie-vrtulnik-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -7014,7 +8120,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-15"
+      "id": "3-meteorologie-vrtulnik-p3-15"
     },
     {
       "sourceNumber": "16",
@@ -7030,7 +8136,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-16"
+      "id": "3-meteorologie-vrtulnik-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -7046,7 +8152,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-17"
+      "id": "3-meteorologie-vrtulnik-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -7062,7 +8168,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-18"
+      "id": "3-meteorologie-vrtulnik-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -7078,7 +8184,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-19"
+      "id": "3-meteorologie-vrtulnik-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -7094,7 +8200,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-20"
+      "id": "3-meteorologie-vrtulnik-p4-20"
     },
     {
       "sourceNumber": "21",
@@ -7110,7 +8216,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-21"
+      "id": "3-meteorologie-vrtulnik-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -7126,7 +8232,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-22"
+      "id": "3-meteorologie-vrtulnik-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -7142,7 +8248,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-23"
+      "id": "3-meteorologie-vrtulnik-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -7158,7 +8264,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-24"
+      "id": "3-meteorologie-vrtulnik-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -7174,7 +8280,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-25"
+      "id": "3-meteorologie-vrtulnik-p5-25"
     },
     {
       "sourceNumber": "27",
@@ -7190,7 +8296,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-27"
+      "id": "3-meteorologie-vrtulnik-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -7206,7 +8312,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-28"
+      "id": "3-meteorologie-vrtulnik-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -7222,7 +8328,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-29"
+      "id": "3-meteorologie-vrtulnik-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -7238,7 +8344,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-30"
+      "id": "3-meteorologie-vrtulnik-p6-30"
     },
     {
       "sourceNumber": "32",
@@ -7254,7 +8360,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-32"
+      "id": "3-meteorologie-vrtulnik-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -7270,7 +8376,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-33"
+      "id": "3-meteorologie-vrtulnik-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -7286,7 +8392,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-34"
+      "id": "3-meteorologie-vrtulnik-p7-34"
     },
     {
       "sourceNumber": "35",
@@ -7302,7 +8408,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-35"
+      "id": "3-meteorologie-vrtulnik-p7-35"
     },
     {
       "sourceNumber": "37",
@@ -7318,7 +8424,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-37"
+      "id": "3-meteorologie-vrtulnik-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -7334,7 +8440,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-38"
+      "id": "3-meteorologie-vrtulnik-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -7350,7 +8456,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-39"
+      "id": "3-meteorologie-vrtulnik-p8-39"
     },
     {
       "sourceNumber": "40",
@@ -7366,7 +8472,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-40"
+      "id": "3-meteorologie-vrtulnik-p8-40"
     },
     {
       "sourceNumber": "42",
@@ -7382,7 +8488,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-42"
+      "id": "3-meteorologie-vrtulnik-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -7398,7 +8504,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-43"
+      "id": "3-meteorologie-vrtulnik-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -7414,7 +8520,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-44"
+      "id": "3-meteorologie-vrtulnik-p9-44"
     },
     {
       "sourceNumber": "45",
@@ -7430,7 +8536,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-45"
+      "id": "3-meteorologie-vrtulnik-p9-45"
     },
     {
       "sourceNumber": "47",
@@ -7446,7 +8552,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-47"
+      "id": "3-meteorologie-vrtulnik-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -7462,7 +8568,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-48"
+      "id": "3-meteorologie-vrtulnik-p10-48"
     },
     {
       "sourceNumber": "49",
@@ -7478,7 +8584,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-49"
+      "id": "3-meteorologie-vrtulnik-p10-49"
     },
     {
       "sourceNumber": "50",
@@ -7494,7 +8600,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-50"
+      "id": "3-meteorologie-vrtulnik-p10-50"
     },
     {
       "sourceNumber": "52",
@@ -7510,7 +8616,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-52"
+      "id": "3-meteorologie-vrtulnik-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -7526,7 +8632,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-53"
+      "id": "3-meteorologie-vrtulnik-p11-53"
     },
     {
       "sourceNumber": "54",
@@ -7542,7 +8648,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-54"
+      "id": "3-meteorologie-vrtulnik-p11-54"
     },
     {
       "sourceNumber": "55",
@@ -7558,7 +8664,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-55"
+      "id": "3-meteorologie-vrtulnik-p11-55"
     },
     {
       "sourceNumber": "57",
@@ -7574,7 +8680,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-57"
+      "id": "3-meteorologie-vrtulnik-p12-57",
+      "image": "./assets/questions/MET-001.jpg",
+      "imageCode": "MET-001"
     },
     {
       "sourceNumber": "58",
@@ -7590,7 +8698,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-58"
+      "id": "3-meteorologie-vrtulnik-p12-58",
+      "image": "./assets/questions/MET-002.jpg",
+      "imageCode": "MET-002"
     },
     {
       "sourceNumber": "59",
@@ -7606,7 +8716,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-59"
+      "id": "3-meteorologie-vrtulnik-p12-59",
+      "image": "./assets/questions/MET-004.jpg",
+      "imageCode": "MET-004"
     },
     {
       "sourceNumber": "60",
@@ -7622,7 +8734,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-60"
+      "id": "3-meteorologie-vrtulnik-p12-60"
     },
     {
       "sourceNumber": "62",
@@ -7638,7 +8750,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-62"
+      "id": "3-meteorologie-vrtulnik-p13-62"
     },
     {
       "sourceNumber": "63",
@@ -7654,7 +8766,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-63"
+      "id": "3-meteorologie-vrtulnik-p13-63"
     },
     {
       "sourceNumber": "64",
@@ -7670,7 +8782,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-64"
+      "id": "3-meteorologie-vrtulnik-p13-64"
     },
     {
       "sourceNumber": "65",
@@ -7686,7 +8798,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-65"
+      "id": "3-meteorologie-vrtulnik-p13-65"
     },
     {
       "sourceNumber": "67",
@@ -7702,7 +8814,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-67"
+      "id": "3-meteorologie-vrtulnik-p14-67"
     },
     {
       "sourceNumber": "68",
@@ -7718,7 +8830,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-68"
+      "id": "3-meteorologie-vrtulnik-p14-68"
     },
     {
       "sourceNumber": "69",
@@ -7734,7 +8846,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-69"
+      "id": "3-meteorologie-vrtulnik-p14-69"
     },
     {
       "sourceNumber": "70",
@@ -7750,7 +8862,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-70"
+      "id": "3-meteorologie-vrtulnik-p14-70",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "72",
@@ -7766,7 +8880,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-72"
+      "id": "3-meteorologie-vrtulnik-p15-72",
+      "image": "./assets/questions/MET-005.jpg",
+      "imageCode": "MET-005"
     },
     {
       "sourceNumber": "73",
@@ -7782,7 +8898,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-73"
+      "id": "3-meteorologie-vrtulnik-p15-73"
     },
     {
       "sourceNumber": "74",
@@ -7798,7 +8914,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-74"
+      "id": "3-meteorologie-vrtulnik-p15-74"
     },
     {
       "sourceNumber": "75",
@@ -7814,7 +8930,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-75"
+      "id": "3-meteorologie-vrtulnik-p15-75"
     },
     {
       "sourceNumber": "77",
@@ -7830,7 +8946,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-77"
+      "id": "3-meteorologie-vrtulnik-p16-77"
     },
     {
       "sourceNumber": "78",
@@ -7846,7 +8962,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-78"
+      "id": "3-meteorologie-vrtulnik-p16-78"
     },
     {
       "sourceNumber": "79",
@@ -7862,7 +8978,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-79"
+      "id": "3-meteorologie-vrtulnik-p16-79"
     },
     {
       "sourceNumber": "80",
@@ -7878,7 +8994,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-80"
+      "id": "3-meteorologie-vrtulnik-p16-80"
     },
     {
       "sourceNumber": "82",
@@ -7894,7 +9010,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-82"
+      "id": "3-meteorologie-vrtulnik-p17-82"
     },
     {
       "sourceNumber": "83",
@@ -7910,7 +9026,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-83"
+      "id": "3-meteorologie-vrtulnik-p17-83"
     },
     {
       "sourceNumber": "84",
@@ -7926,7 +9042,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-84"
+      "id": "3-meteorologie-vrtulnik-p17-84"
     },
     {
       "sourceNumber": "85",
@@ -7942,7 +9058,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-85"
+      "id": "3-meteorologie-vrtulnik-p17-85"
     },
     {
       "sourceNumber": "87",
@@ -7958,7 +9074,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-87"
+      "id": "3-meteorologie-vrtulnik-p18-87"
     },
     {
       "sourceNumber": "88",
@@ -7974,7 +9090,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-88"
+      "id": "3-meteorologie-vrtulnik-p18-88"
     },
     {
       "sourceNumber": "89",
@@ -7990,7 +9106,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-89"
+      "id": "3-meteorologie-vrtulnik-p18-89"
     },
     {
       "sourceNumber": "90",
@@ -8006,7 +9122,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-90"
+      "id": "3-meteorologie-vrtulnik-p18-90"
     },
     {
       "sourceNumber": "92",
@@ -8022,7 +9138,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-92"
+      "id": "3-meteorologie-vrtulnik-p19-92"
     },
     {
       "sourceNumber": "93",
@@ -8038,7 +9154,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-93"
+      "id": "3-meteorologie-vrtulnik-p19-93"
     },
     {
       "sourceNumber": "94",
@@ -8054,7 +9170,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-94"
+      "id": "3-meteorologie-vrtulnik-p19-94"
     },
     {
       "sourceNumber": "95",
@@ -8070,7 +9186,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-95"
+      "id": "3-meteorologie-vrtulnik-p19-95"
     },
     {
       "sourceNumber": "97",
@@ -8086,7 +9202,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-97"
+      "id": "3-meteorologie-vrtulnik-p20-97"
     },
     {
       "sourceNumber": "98",
@@ -8102,7 +9218,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-98"
+      "id": "3-meteorologie-vrtulnik-p20-98"
     },
     {
       "sourceNumber": "99",
@@ -8118,7 +9234,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-99"
+      "id": "3-meteorologie-vrtulnik-p20-99"
     },
     {
       "sourceNumber": "100",
@@ -8134,7 +9250,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-100"
+      "id": "3-meteorologie-vrtulnik-p20-100"
     },
     {
       "sourceNumber": "102",
@@ -8150,7 +9266,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 21,
-      "id": "3-meteorologie-vrtulnik-102"
+      "id": "3-meteorologie-vrtulnik-p21-102"
     },
     {
       "sourceNumber": "103",
@@ -8166,7 +9282,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 21,
-      "id": "3-meteorologie-vrtulnik-103"
+      "id": "3-meteorologie-vrtulnik-p21-103"
     },
     {
       "sourceNumber": "104",
@@ -8182,7 +9298,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 21,
-      "id": "3-meteorologie-vrtulnik-104"
+      "id": "3-meteorologie-vrtulnik-p21-104"
     },
     {
       "sourceNumber": "105",
@@ -8198,7 +9314,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 21,
-      "id": "3-meteorologie-vrtulnik-105"
+      "id": "3-meteorologie-vrtulnik-p21-105"
     },
     {
       "sourceNumber": "107",
@@ -8214,7 +9330,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 22,
-      "id": "3-meteorologie-vrtulnik-107"
+      "id": "3-meteorologie-vrtulnik-p22-107"
     },
     {
       "sourceNumber": "108",
@@ -8230,7 +9346,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 22,
-      "id": "3-meteorologie-vrtulnik-108"
+      "id": "3-meteorologie-vrtulnik-p22-108"
     },
     {
       "sourceNumber": "109",
@@ -8246,7 +9362,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 22,
-      "id": "3-meteorologie-vrtulnik-109"
+      "id": "3-meteorologie-vrtulnik-p22-109"
     },
     {
       "sourceNumber": "110",
@@ -8262,7 +9378,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 22,
-      "id": "3-meteorologie-vrtulnik-110"
+      "id": "3-meteorologie-vrtulnik-p22-110"
     },
     {
       "sourceNumber": "112",
@@ -8278,7 +9394,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 23,
-      "id": "3-meteorologie-vrtulnik-112"
+      "id": "3-meteorologie-vrtulnik-p23-112"
     },
     {
       "sourceNumber": "113",
@@ -8294,7 +9410,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 23,
-      "id": "3-meteorologie-vrtulnik-113"
+      "id": "3-meteorologie-vrtulnik-p23-113"
     },
     {
       "sourceNumber": "114",
@@ -8310,7 +9426,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 23,
-      "id": "3-meteorologie-vrtulnik-114"
+      "id": "3-meteorologie-vrtulnik-p23-114"
     },
     {
       "sourceNumber": "115",
@@ -8326,7 +9442,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 23,
-      "id": "3-meteorologie-vrtulnik-115"
+      "id": "3-meteorologie-vrtulnik-p23-115"
     },
     {
       "sourceNumber": "117",
@@ -8342,7 +9458,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-117"
+      "id": "3-meteorologie-vrtulnik-p24-117"
     },
     {
       "sourceNumber": "118",
@@ -8358,7 +9474,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-118"
+      "id": "3-meteorologie-vrtulnik-p24-118"
     },
     {
       "sourceNumber": "119",
@@ -8374,7 +9490,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-119"
+      "id": "3-meteorologie-vrtulnik-p24-119"
     },
     {
       "sourceNumber": "120",
@@ -8390,7 +9506,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-120"
+      "id": "3-meteorologie-vrtulnik-p24-120"
     },
     {
       "sourceNumber": "121",
@@ -8404,7 +9520,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-121"
+      "id": "3-meteorologie-vrtulnik-p24-121"
     },
     {
       "sourceNumber": "122",
@@ -8420,7 +9536,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-122"
+      "id": "3-meteorologie-vrtulnik-p25-122"
     },
     {
       "sourceNumber": "123",
@@ -8436,7 +9552,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-123"
+      "id": "3-meteorologie-vrtulnik-p25-123"
     },
     {
       "sourceNumber": "124",
@@ -8452,7 +9568,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-124"
+      "id": "3-meteorologie-vrtulnik-p25-124"
     },
     {
       "sourceNumber": "125",
@@ -8468,7 +9584,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-125"
+      "id": "3-meteorologie-vrtulnik-p25-125"
     },
     {
       "sourceNumber": "126",
@@ -8482,14 +9598,15 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-126"
+      "id": "3-meteorologie-vrtulnik-p25-126"
     },
     {
       "sourceNumber": "127",
       "question": "Jaké počasí pravděpodobně nastane při fénu v Bavorsku v blízkosti Alp?",
       "options": [
         "oblačnost Ns v jižních Alpách, rotorová oblačnost na závětrné straně, teplý a suchý vítr",
-        "oblačnost Ns v severních Alpách, rotorová oblačnost na návětrné straně, teplý a suchý vítr oblast vysokého tlaku vzduchu nad Biskajským zálivem a oblast nízkého tlaku vzduchu ve východní Evropě",
+        "oblačnost Ns v severních Alpách, rotorová oblačnost na návětrné straně, teplý a suchý vítr",
+        "oblast vysokého tlaku vzduchu nad Biskajským zálivem a oblast nízkého tlaku vzduchu ve východní Evropě",
         "studený vlhký vítr vanoucí z hor na závětrné straně Alp, malé změny tlaku vzduchu"
       ],
       "correctIndex": 0,
@@ -8497,7 +9614,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 26,
-      "id": "3-meteorologie-vrtulnik-127"
+      "id": "3-meteorologie-vrtulnik-p26-127"
     },
     {
       "sourceNumber": "128",
@@ -8513,7 +9630,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 26,
-      "id": "3-meteorologie-vrtulnik-128"
+      "id": "3-meteorologie-vrtulnik-p26-128"
     },
     {
       "sourceNumber": "1",
@@ -8529,7 +9646,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-(1)-1"
+      "id": "9-navigace-letoun-1-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -8545,7 +9662,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-(1)-2"
+      "id": "9-navigace-letoun-1-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -8561,7 +9678,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-(1)-3"
+      "id": "9-navigace-letoun-1-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -8577,7 +9694,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-(1)-4"
+      "id": "9-navigace-letoun-1-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -8593,7 +9710,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-(1)-5"
+      "id": "9-navigace-letoun-1-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -8609,7 +9726,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-(1)-6"
+      "id": "9-navigace-letoun-1-p2-6",
+      "image": "./assets/questions/NAV-002.jpg",
+      "imageCode": "NAV-002"
     },
     {
       "sourceNumber": "7",
@@ -8625,7 +9744,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-(1)-7"
+      "id": "9-navigace-letoun-1-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -8641,7 +9760,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-(1)-8"
+      "id": "9-navigace-letoun-1-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -8657,7 +9776,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-(1)-9"
+      "id": "9-navigace-letoun-1-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -8673,7 +9792,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-(1)-10"
+      "id": "9-navigace-letoun-1-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -8689,7 +9808,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-(1)-11"
+      "id": "9-navigace-letoun-1-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -8705,7 +9824,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-(1)-12"
+      "id": "9-navigace-letoun-1-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -8721,7 +9840,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-(1)-13"
+      "id": "9-navigace-letoun-1-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -8737,7 +9856,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-(1)-14"
+      "id": "9-navigace-letoun-1-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -8753,7 +9872,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-(1)-15"
+      "id": "9-navigace-letoun-1-p3-15"
     },
     {
       "sourceNumber": "16",
@@ -8769,7 +9888,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-(1)-16"
+      "id": "9-navigace-letoun-1-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -8785,7 +9904,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-(1)-17"
+      "id": "9-navigace-letoun-1-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -8801,7 +9920,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-(1)-18"
+      "id": "9-navigace-letoun-1-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -8817,7 +9936,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-(1)-19"
+      "id": "9-navigace-letoun-1-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -8833,7 +9952,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-(1)-20"
+      "id": "9-navigace-letoun-1-p4-20"
     },
     {
       "sourceNumber": "21",
@@ -8849,7 +9968,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-(1)-21"
+      "id": "9-navigace-letoun-1-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -8865,7 +9984,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-(1)-22"
+      "id": "9-navigace-letoun-1-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -8881,7 +10000,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-(1)-23"
+      "id": "9-navigace-letoun-1-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -8897,7 +10016,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-(1)-24"
+      "id": "9-navigace-letoun-1-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -8913,7 +10032,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-(1)-25"
+      "id": "9-navigace-letoun-1-p6-25"
     },
     {
       "sourceNumber": "26",
@@ -8929,7 +10048,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-(1)-26"
+      "id": "9-navigace-letoun-1-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -8945,7 +10064,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-(1)-27"
+      "id": "9-navigace-letoun-1-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -8961,7 +10080,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-(1)-28"
+      "id": "9-navigace-letoun-1-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -8977,7 +10096,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-(1)-29"
+      "id": "9-navigace-letoun-1-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -8993,7 +10112,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-(1)-30"
+      "id": "9-navigace-letoun-1-p7-30"
     },
     {
       "sourceNumber": "31",
@@ -9009,7 +10128,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-(1)-31"
+      "id": "9-navigace-letoun-1-p7-31"
     },
     {
       "sourceNumber": "32",
@@ -9025,7 +10144,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-(1)-32"
+      "id": "9-navigace-letoun-1-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -9041,7 +10160,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-(1)-33"
+      "id": "9-navigace-letoun-1-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -9057,7 +10176,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-(1)-34"
+      "id": "9-navigace-letoun-1-p7-34"
     },
     {
       "sourceNumber": "35",
@@ -9073,7 +10192,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-(1)-35"
+      "id": "9-navigace-letoun-1-p8-35"
     },
     {
       "sourceNumber": "36",
@@ -9089,7 +10208,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-(1)-36"
+      "id": "9-navigace-letoun-1-p8-36"
     },
     {
       "sourceNumber": "37",
@@ -9105,7 +10224,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-(1)-37"
+      "id": "9-navigace-letoun-1-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -9121,7 +10240,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-(1)-38"
+      "id": "9-navigace-letoun-1-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -9137,7 +10256,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-(1)-39"
+      "id": "9-navigace-letoun-1-p8-39"
     },
     {
       "sourceNumber": "40",
@@ -9153,7 +10272,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-(1)-40"
+      "id": "9-navigace-letoun-1-p9-40",
+      "image": "./assets/questions/NAV-004.jpg",
+      "imageCode": "NAV-004"
     },
     {
       "sourceNumber": "41",
@@ -9169,7 +10290,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-(1)-41"
+      "id": "9-navigace-letoun-1-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -9185,7 +10306,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-(1)-42"
+      "id": "9-navigace-letoun-1-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -9201,7 +10322,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-(1)-43"
+      "id": "9-navigace-letoun-1-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -9217,7 +10338,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-(1)-44"
+      "id": "9-navigace-letoun-1-p9-44"
     },
     {
       "sourceNumber": "45",
@@ -9233,7 +10354,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-(1)-45"
+      "id": "9-navigace-letoun-1-p10-45"
     },
     {
       "sourceNumber": "46",
@@ -9249,7 +10370,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-(1)-46"
+      "id": "9-navigace-letoun-1-p10-46"
     },
     {
       "sourceNumber": "47",
@@ -9265,7 +10386,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-(1)-47"
+      "id": "9-navigace-letoun-1-p10-47",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "48",
@@ -9281,7 +10404,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-(1)-48"
+      "id": "9-navigace-letoun-1-p10-48"
     },
     {
       "sourceNumber": "49",
@@ -9297,7 +10420,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-(1)-49"
+      "id": "9-navigace-letoun-1-p10-49",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "50",
@@ -9313,7 +10438,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-(1)-50"
+      "id": "9-navigace-letoun-1-p11-50",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "51",
@@ -9329,7 +10456,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-(1)-51"
+      "id": "9-navigace-letoun-1-p11-51"
     },
     {
       "sourceNumber": "52",
@@ -9345,7 +10472,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-(1)-52"
+      "id": "9-navigace-letoun-1-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -9361,7 +10488,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-(1)-53"
+      "id": "9-navigace-letoun-1-p11-53"
     },
     {
       "sourceNumber": "54",
@@ -9377,7 +10504,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-(1)-54"
+      "id": "9-navigace-letoun-1-p12-54"
     },
     {
       "sourceNumber": "55",
@@ -9393,7 +10520,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-(1)-55"
+      "id": "9-navigace-letoun-1-p12-55"
     },
     {
       "sourceNumber": "56",
@@ -9409,7 +10536,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-(1)-56"
+      "id": "9-navigace-letoun-1-p12-56"
     },
     {
       "sourceNumber": "57",
@@ -9425,7 +10552,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-(1)-57"
+      "id": "9-navigace-letoun-1-p12-57"
     },
     {
       "sourceNumber": "58",
@@ -9441,7 +10568,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-(1)-58"
+      "id": "9-navigace-letoun-1-p12-58"
     },
     {
       "sourceNumber": "59",
@@ -9457,7 +10584,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-(1)-59"
+      "id": "9-navigace-letoun-1-p13-59"
     },
     {
       "sourceNumber": "60",
@@ -9473,7 +10600,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-(1)-60"
+      "id": "9-navigace-letoun-1-p13-60"
     },
     {
       "sourceNumber": "61",
@@ -9489,7 +10616,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-(1)-61"
+      "id": "9-navigace-letoun-1-p13-61"
     },
     {
       "sourceNumber": "62",
@@ -9505,7 +10632,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-(1)-62"
+      "id": "9-navigace-letoun-1-p13-62"
     },
     {
       "sourceNumber": "63",
@@ -9521,7 +10648,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-(1)-63"
+      "id": "9-navigace-letoun-1-p13-63",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "64",
@@ -9537,7 +10666,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-(1)-64"
+      "id": "9-navigace-letoun-1-p14-64"
     },
     {
       "sourceNumber": "65",
@@ -9553,7 +10682,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-(1)-65"
+      "id": "9-navigace-letoun-1-p14-65",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "66",
@@ -9569,7 +10700,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-(1)-66"
+      "id": "9-navigace-letoun-1-p14-66"
     },
     {
       "sourceNumber": "67",
@@ -9585,7 +10716,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-(1)-67"
+      "id": "9-navigace-letoun-1-p14-67"
     },
     {
       "sourceNumber": "68",
@@ -9601,7 +10732,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-(1)-68"
+      "id": "9-navigace-letoun-1-p14-68"
     },
     {
       "sourceNumber": "69",
@@ -9617,7 +10748,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-(1)-69"
+      "id": "9-navigace-letoun-1-p15-69"
     },
     {
       "sourceNumber": "70",
@@ -9633,7 +10764,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-(1)-70"
+      "id": "9-navigace-letoun-1-p15-70"
     },
     {
       "sourceNumber": "71",
@@ -9649,7 +10780,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-(1)-71"
+      "id": "9-navigace-letoun-1-p15-71"
     },
     {
       "sourceNumber": "72",
@@ -9665,7 +10796,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-(1)-72"
+      "id": "9-navigace-letoun-1-p15-72"
     },
     {
       "sourceNumber": "73",
@@ -9681,7 +10812,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-(1)-73"
+      "id": "9-navigace-letoun-1-p16-73"
     },
     {
       "sourceNumber": "74",
@@ -9697,7 +10828,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-(1)-74"
+      "id": "9-navigace-letoun-1-p16-74"
     },
     {
       "sourceNumber": "75",
@@ -9713,7 +10844,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-(1)-75"
+      "id": "9-navigace-letoun-1-p16-75"
     },
     {
       "sourceNumber": "76",
@@ -9729,7 +10860,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-(1)-76"
+      "id": "9-navigace-letoun-1-p16-76"
     },
     {
       "sourceNumber": "77",
@@ -9745,7 +10876,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-(1)-77"
+      "id": "9-navigace-letoun-1-p16-77"
     },
     {
       "sourceNumber": "78",
@@ -9761,7 +10892,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-(1)-78"
+      "id": "9-navigace-letoun-1-p17-78"
     },
     {
       "sourceNumber": "79",
@@ -9777,7 +10908,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-(1)-79"
+      "id": "9-navigace-letoun-1-p17-79"
     },
     {
       "sourceNumber": "80",
@@ -9793,7 +10924,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-(1)-80"
+      "id": "9-navigace-letoun-1-p17-80"
     },
     {
       "sourceNumber": "81",
@@ -9809,7 +10940,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-(1)-81"
+      "id": "9-navigace-letoun-1-p17-81"
     },
     {
       "sourceNumber": "82",
@@ -9825,7 +10956,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-(1)-82"
+      "id": "9-navigace-letoun-1-p17-82"
     },
     {
       "sourceNumber": "83",
@@ -9841,7 +10972,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-(1)-83"
+      "id": "9-navigace-letoun-1-p18-83"
     },
     {
       "sourceNumber": "84",
@@ -9857,7 +10988,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-(1)-84"
+      "id": "9-navigace-letoun-1-p18-84",
+      "image": "./assets/questions/NAV-014.jpg",
+      "imageCode": "NAV-014"
     },
     {
       "sourceNumber": "85",
@@ -9873,7 +11006,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-(1)-85"
+      "id": "9-navigace-letoun-1-p18-85",
+      "image": "./assets/questions/NAV-017.jpg",
+      "imageCode": "NAV-017"
     },
     {
       "sourceNumber": "86",
@@ -9889,7 +11024,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-(1)-86"
+      "id": "9-navigace-letoun-1-p18-86"
     },
     {
       "sourceNumber": "87",
@@ -9905,7 +11040,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-(1)-87"
+      "id": "9-navigace-letoun-1-p18-87"
     },
     {
       "sourceNumber": "88",
@@ -9921,7 +11056,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-(1)-88"
+      "id": "9-navigace-letoun-1-p19-88"
     },
     {
       "sourceNumber": "89",
@@ -9937,7 +11072,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-(1)-89"
+      "id": "9-navigace-letoun-1-p19-89"
     },
     {
       "sourceNumber": "90",
@@ -9953,7 +11088,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-(1)-90"
+      "id": "9-navigace-letoun-1-p19-90"
     },
     {
       "sourceNumber": "91",
@@ -9969,7 +11104,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-(1)-91"
+      "id": "9-navigace-letoun-1-p19-91"
     },
     {
       "sourceNumber": "92",
@@ -9985,7 +11120,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-(1)-92"
+      "id": "9-navigace-letoun-1-p19-92"
     },
     {
       "sourceNumber": "93",
@@ -10001,7 +11136,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-(1)-93"
+      "id": "9-navigace-letoun-1-p20-93"
     },
     {
       "sourceNumber": "94",
@@ -10017,7 +11152,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-(1)-94"
+      "id": "9-navigace-letoun-1-p20-94"
     },
     {
       "sourceNumber": "95",
@@ -10033,7 +11168,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-(1)-95"
+      "id": "9-navigace-letoun-1-p20-95"
     },
     {
       "sourceNumber": "96",
@@ -10049,7 +11184,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-(1)-96"
+      "id": "9-navigace-letoun-1-p20-96"
     },
     {
       "sourceNumber": "97",
@@ -10065,7 +11200,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-(1)-97"
+      "id": "9-navigace-letoun-1-p20-97"
     },
     {
       "sourceNumber": "98",
@@ -10081,7 +11216,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-(1)-98"
+      "id": "9-navigace-letoun-1-p21-98"
     },
     {
       "sourceNumber": "99",
@@ -10097,7 +11232,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-(1)-99"
+      "id": "9-navigace-letoun-1-p21-99"
     },
     {
       "sourceNumber": "100",
@@ -10113,7 +11248,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-(1)-100"
+      "id": "9-navigace-letoun-1-p21-100"
     },
     {
       "sourceNumber": "101",
@@ -10129,7 +11264,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-(1)-101"
+      "id": "9-navigace-letoun-1-p21-101"
     },
     {
       "sourceNumber": "102",
@@ -10145,7 +11280,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-(1)-102"
+      "id": "9-navigace-letoun-1-p21-102"
     },
     {
       "sourceNumber": "103",
@@ -10161,7 +11296,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-(1)-103"
+      "id": "9-navigace-letoun-1-p22-103"
     },
     {
       "sourceNumber": "104",
@@ -10177,7 +11312,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-(1)-104"
+      "id": "9-navigace-letoun-1-p22-104"
     },
     {
       "sourceNumber": "105",
@@ -10193,7 +11328,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-(1)-105"
+      "id": "9-navigace-letoun-1-p22-105"
     },
     {
       "sourceNumber": "106",
@@ -10209,7 +11344,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-(1)-106"
+      "id": "9-navigace-letoun-1-p22-106"
     },
     {
       "sourceNumber": "107",
@@ -10225,7 +11360,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-(1)-107"
+      "id": "9-navigace-letoun-1-p22-107"
     },
     {
       "sourceNumber": "108",
@@ -10241,7 +11376,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-(1)-108"
+      "id": "9-navigace-letoun-1-p23-108"
     },
     {
       "sourceNumber": "109",
@@ -10257,7 +11392,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-(1)-109"
+      "id": "9-navigace-letoun-1-p23-109"
     },
     {
       "sourceNumber": "110",
@@ -10273,7 +11408,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-(1)-110"
+      "id": "9-navigace-letoun-1-p23-110",
+      "image": "./assets/questions/NAV-019.jpg",
+      "imageCode": "NAV-019"
     },
     {
       "sourceNumber": "111",
@@ -10289,7 +11426,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-(1)-111"
+      "id": "9-navigace-letoun-1-p23-111"
     },
     {
       "sourceNumber": "112",
@@ -10305,7 +11442,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-(1)-112"
+      "id": "9-navigace-letoun-1-p23-112"
     },
     {
       "sourceNumber": "113",
@@ -10321,7 +11458,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-(1)-113"
+      "id": "9-navigace-letoun-1-p24-113"
     },
     {
       "sourceNumber": "114",
@@ -10337,7 +11474,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-(1)-114"
+      "id": "9-navigace-letoun-1-p24-114"
     },
     {
       "sourceNumber": "115",
@@ -10353,7 +11490,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-(1)-115"
+      "id": "9-navigace-letoun-1-p24-115"
     },
     {
       "sourceNumber": "116",
@@ -10369,7 +11506,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-(1)-116"
+      "id": "9-navigace-letoun-1-p24-116"
     },
     {
       "sourceNumber": "117",
@@ -10385,7 +11522,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-(1)-117"
+      "id": "9-navigace-letoun-1-p24-117"
     },
     {
       "sourceNumber": "118",
@@ -10401,7 +11538,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-(1)-118"
+      "id": "9-navigace-letoun-1-p25-118"
     },
     {
       "sourceNumber": "119",
@@ -10417,7 +11554,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-(1)-119"
+      "id": "9-navigace-letoun-1-p25-119"
     },
     {
       "sourceNumber": "120",
@@ -10433,7 +11570,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-(1)-120"
+      "id": "9-navigace-letoun-1-p25-120"
     },
     {
       "sourceNumber": "121",
@@ -10449,7 +11586,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-(1)-121"
+      "id": "9-navigace-letoun-1-p25-121",
+      "image": "./assets/questions/NAV-022.jpg",
+      "imageCode": "NAV-022"
     },
     {
       "sourceNumber": "122",
@@ -10465,7 +11604,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-(1)-122"
+      "id": "9-navigace-letoun-1-p25-122",
+      "image": "./assets/questions/NAV-024.jpg",
+      "imageCode": "NAV-024"
     },
     {
       "sourceNumber": "123",
@@ -10481,7 +11622,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-(1)-123"
+      "id": "9-navigace-letoun-1-p26-123"
     },
     {
       "sourceNumber": "124",
@@ -10497,7 +11638,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-(1)-124"
+      "id": "9-navigace-letoun-1-p26-124"
     },
     {
       "sourceNumber": "125",
@@ -10513,7 +11654,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-(1)-125"
+      "id": "9-navigace-letoun-1-p26-125"
     },
     {
       "sourceNumber": "126",
@@ -10529,7 +11670,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-(1)-126"
+      "id": "9-navigace-letoun-1-p26-126"
     },
     {
       "sourceNumber": "127",
@@ -10545,7 +11686,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-(1)-127"
+      "id": "9-navigace-letoun-1-p26-127"
     },
     {
       "sourceNumber": "128",
@@ -10561,7 +11702,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-(1)-128"
+      "id": "9-navigace-letoun-1-p27-128"
     },
     {
       "sourceNumber": "129",
@@ -10577,7 +11718,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-(1)-129"
+      "id": "9-navigace-letoun-1-p27-129"
     },
     {
       "sourceNumber": "130",
@@ -10593,7 +11734,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-(1)-130"
+      "id": "9-navigace-letoun-1-p27-130"
     },
     {
       "sourceNumber": "131",
@@ -10609,7 +11750,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-(1)-131"
+      "id": "9-navigace-letoun-1-p27-131"
     },
     {
       "sourceNumber": "132",
@@ -10625,7 +11766,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-(1)-132"
+      "id": "9-navigace-letoun-1-p27-132"
     },
     {
       "sourceNumber": "133",
@@ -10641,7 +11782,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-(1)-133"
+      "id": "9-navigace-letoun-1-p28-133"
     },
     {
       "sourceNumber": "134",
@@ -10657,7 +11798,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-(1)-134"
+      "id": "9-navigace-letoun-1-p28-134"
     },
     {
       "sourceNumber": "135",
@@ -10673,7 +11814,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-(1)-135"
+      "id": "9-navigace-letoun-1-p28-135"
     },
     {
       "sourceNumber": "136",
@@ -10689,7 +11830,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-(1)-136"
+      "id": "9-navigace-letoun-1-p28-136"
     },
     {
       "sourceNumber": "137",
@@ -10705,7 +11846,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 29,
-      "id": "9-navigace-letoun-(1)-137"
+      "id": "9-navigace-letoun-1-p29-137"
     },
     {
       "sourceNumber": "1",
@@ -10721,7 +11862,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-1"
+      "id": "9-navigace-vrtulnik-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -10737,7 +11878,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-2"
+      "id": "9-navigace-vrtulnik-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -10753,7 +11894,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-3"
+      "id": "9-navigace-vrtulnik-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -10769,7 +11910,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-4"
+      "id": "9-navigace-vrtulnik-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -10785,7 +11926,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-5"
+      "id": "9-navigace-vrtulnik-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -10801,7 +11942,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-6"
+      "id": "9-navigace-vrtulnik-p2-6",
+      "image": "./assets/questions/NAV-002.jpg",
+      "imageCode": "NAV-002"
     },
     {
       "sourceNumber": "7",
@@ -10817,7 +11960,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-7"
+      "id": "9-navigace-vrtulnik-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -10833,7 +11976,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-8"
+      "id": "9-navigace-vrtulnik-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -10849,7 +11992,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-9"
+      "id": "9-navigace-vrtulnik-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -10865,7 +12008,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-10"
+      "id": "9-navigace-vrtulnik-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -10881,7 +12024,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-11"
+      "id": "9-navigace-vrtulnik-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -10897,7 +12040,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-12"
+      "id": "9-navigace-vrtulnik-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -10913,7 +12056,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-13"
+      "id": "9-navigace-vrtulnik-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -10929,7 +12072,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-14"
+      "id": "9-navigace-vrtulnik-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -10945,7 +12088,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-15"
+      "id": "9-navigace-vrtulnik-p3-15"
     },
     {
       "sourceNumber": "16",
@@ -10961,7 +12104,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-16"
+      "id": "9-navigace-vrtulnik-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -10977,7 +12120,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-17"
+      "id": "9-navigace-vrtulnik-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -10993,7 +12136,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-18"
+      "id": "9-navigace-vrtulnik-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -11009,7 +12152,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-19"
+      "id": "9-navigace-vrtulnik-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -11025,7 +12168,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-20"
+      "id": "9-navigace-vrtulnik-p4-20"
     },
     {
       "sourceNumber": "21",
@@ -11041,13 +12184,15 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-21"
+      "id": "9-navigace-vrtulnik-p5-21"
     },
     {
       "sourceNumber": "22",
       "question": "Pojem \"občanský soumrak\" je definován jako:",
       "options": [
-        "doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod zeměpisným horizontem doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod viditelným horizontem doba po západu slunce, během které je střed slunečního disku 12° nebo méně pod zeměpisným horizontem",
+        "doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod zeměpisným horizontem",
+        "doba po západu slunce, během které je střed slunečního disku 6° nebo méně pod viditelným horizontem",
+        "doba po západu slunce, během které je střed slunečního disku 12° nebo méně pod zeměpisným horizontem",
         "doba po západu slunce, během které je střed slunečního disku 12° nebo méně pod viditelným horizontem"
       ],
       "correctIndex": 0,
@@ -11055,7 +12200,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-22"
+      "id": "9-navigace-vrtulnik-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -11071,7 +12216,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-23"
+      "id": "9-navigace-vrtulnik-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -11087,7 +12232,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-24"
+      "id": "9-navigace-vrtulnik-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -11103,7 +12248,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-25"
+      "id": "9-navigace-vrtulnik-p6-25"
     },
     {
       "sourceNumber": "26",
@@ -11119,7 +12264,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-26"
+      "id": "9-navigace-vrtulnik-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -11135,7 +12280,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-27"
+      "id": "9-navigace-vrtulnik-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -11151,7 +12296,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-28"
+      "id": "9-navigace-vrtulnik-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -11167,7 +12312,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-29"
+      "id": "9-navigace-vrtulnik-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -11183,7 +12328,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-30"
+      "id": "9-navigace-vrtulnik-p7-30"
     },
     {
       "sourceNumber": "31",
@@ -11199,7 +12344,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-31"
+      "id": "9-navigace-vrtulnik-p7-31"
     },
     {
       "sourceNumber": "32",
@@ -11215,7 +12360,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-32"
+      "id": "9-navigace-vrtulnik-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -11231,7 +12376,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-33"
+      "id": "9-navigace-vrtulnik-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -11247,7 +12392,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-34"
+      "id": "9-navigace-vrtulnik-p7-34"
     },
     {
       "sourceNumber": "35",
@@ -11263,7 +12408,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-35"
+      "id": "9-navigace-vrtulnik-p8-35"
     },
     {
       "sourceNumber": "36",
@@ -11279,7 +12424,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-36"
+      "id": "9-navigace-vrtulnik-p8-36"
     },
     {
       "sourceNumber": "37",
@@ -11295,7 +12440,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-37"
+      "id": "9-navigace-vrtulnik-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -11311,7 +12456,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-38"
+      "id": "9-navigace-vrtulnik-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -11327,7 +12472,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-39"
+      "id": "9-navigace-vrtulnik-p8-39"
     },
     {
       "sourceNumber": "40",
@@ -11343,7 +12488,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-40"
+      "id": "9-navigace-vrtulnik-p9-40"
     },
     {
       "sourceNumber": "41",
@@ -11359,7 +12504,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-41"
+      "id": "9-navigace-vrtulnik-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -11375,7 +12520,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-42"
+      "id": "9-navigace-vrtulnik-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -11391,7 +12536,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-43"
+      "id": "9-navigace-vrtulnik-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -11407,7 +12552,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-44"
+      "id": "9-navigace-vrtulnik-p9-44"
     },
     {
       "sourceNumber": "45",
@@ -11423,7 +12568,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-45"
+      "id": "9-navigace-vrtulnik-p10-45"
     },
     {
       "sourceNumber": "46",
@@ -11439,7 +12584,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-46"
+      "id": "9-navigace-vrtulnik-p10-46",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "47",
@@ -11455,7 +12602,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-47"
+      "id": "9-navigace-vrtulnik-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -11471,7 +12618,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-48"
+      "id": "9-navigace-vrtulnik-p10-48",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "49",
@@ -11487,7 +12636,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-49"
+      "id": "9-navigace-vrtulnik-p10-49",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "50",
@@ -11503,7 +12654,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-50"
+      "id": "9-navigace-vrtulnik-p11-50"
     },
     {
       "sourceNumber": "51",
@@ -11519,7 +12670,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-51"
+      "id": "9-navigace-vrtulnik-p11-51"
     },
     {
       "sourceNumber": "52",
@@ -11535,7 +12686,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-52"
+      "id": "9-navigace-vrtulnik-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -11551,7 +12702,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-53"
+      "id": "9-navigace-vrtulnik-p11-53"
     },
     {
       "sourceNumber": "54",
@@ -11567,7 +12718,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-54"
+      "id": "9-navigace-vrtulnik-p12-54"
     },
     {
       "sourceNumber": "55",
@@ -11583,7 +12734,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-55"
+      "id": "9-navigace-vrtulnik-p12-55"
     },
     {
       "sourceNumber": "56",
@@ -11599,7 +12750,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-56"
+      "id": "9-navigace-vrtulnik-p12-56"
     },
     {
       "sourceNumber": "57",
@@ -11615,7 +12766,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-57"
+      "id": "9-navigace-vrtulnik-p12-57"
     },
     {
       "sourceNumber": "58",
@@ -11631,7 +12782,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-58"
+      "id": "9-navigace-vrtulnik-p12-58"
     },
     {
       "sourceNumber": "59",
@@ -11647,7 +12798,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-59"
+      "id": "9-navigace-vrtulnik-p13-59"
     },
     {
       "sourceNumber": "60",
@@ -11663,7 +12814,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-60"
+      "id": "9-navigace-vrtulnik-p13-60"
     },
     {
       "sourceNumber": "61",
@@ -11679,7 +12830,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-61"
+      "id": "9-navigace-vrtulnik-p13-61"
     },
     {
       "sourceNumber": "62",
@@ -11695,7 +12846,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-62"
+      "id": "9-navigace-vrtulnik-p13-62",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "63",
@@ -11711,7 +12864,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-63"
+      "id": "9-navigace-vrtulnik-p13-63"
     },
     {
       "sourceNumber": "64",
@@ -11727,7 +12880,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-64"
+      "id": "9-navigace-vrtulnik-p14-64",
+      "image": "./assets/questions/NAV-031.jpg",
+      "imageCode": "NAV-031"
     },
     {
       "sourceNumber": "65",
@@ -11743,7 +12898,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-65"
+      "id": "9-navigace-vrtulnik-p14-65"
     },
     {
       "sourceNumber": "66",
@@ -11759,7 +12914,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-66"
+      "id": "9-navigace-vrtulnik-p14-66"
     },
     {
       "sourceNumber": "67",
@@ -11775,7 +12930,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-67"
+      "id": "9-navigace-vrtulnik-p14-67"
     },
     {
       "sourceNumber": "68",
@@ -11791,7 +12946,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-68"
+      "id": "9-navigace-vrtulnik-p14-68"
     },
     {
       "sourceNumber": "69",
@@ -11807,7 +12962,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-69"
+      "id": "9-navigace-vrtulnik-p15-69"
     },
     {
       "sourceNumber": "70",
@@ -11823,7 +12978,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-70"
+      "id": "9-navigace-vrtulnik-p15-70"
     },
     {
       "sourceNumber": "71",
@@ -11839,7 +12994,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-71"
+      "id": "9-navigace-vrtulnik-p15-71"
     },
     {
       "sourceNumber": "72",
@@ -11855,7 +13010,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-72"
+      "id": "9-navigace-vrtulnik-p15-72"
     },
     {
       "sourceNumber": "73",
@@ -11871,7 +13026,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-73"
+      "id": "9-navigace-vrtulnik-p16-73"
     },
     {
       "sourceNumber": "74",
@@ -11887,7 +13042,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-74"
+      "id": "9-navigace-vrtulnik-p16-74"
     },
     {
       "sourceNumber": "75",
@@ -11903,7 +13058,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-75"
+      "id": "9-navigace-vrtulnik-p16-75"
     },
     {
       "sourceNumber": "76",
@@ -11919,7 +13074,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-76"
+      "id": "9-navigace-vrtulnik-p16-76"
     },
     {
       "sourceNumber": "77",
@@ -11935,7 +13090,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-77"
+      "id": "9-navigace-vrtulnik-p16-77"
     },
     {
       "sourceNumber": "78",
@@ -11951,7 +13106,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-78"
+      "id": "9-navigace-vrtulnik-p17-78"
     },
     {
       "sourceNumber": "79",
@@ -11967,7 +13122,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-79"
+      "id": "9-navigace-vrtulnik-p17-79"
     },
     {
       "sourceNumber": "80",
@@ -11983,7 +13138,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-80"
+      "id": "9-navigace-vrtulnik-p17-80"
     },
     {
       "sourceNumber": "81",
@@ -11999,7 +13154,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-81"
+      "id": "9-navigace-vrtulnik-p17-81",
+      "image": "./assets/questions/NAV-014.jpg",
+      "imageCode": "NAV-014"
     },
     {
       "sourceNumber": "82",
@@ -12015,7 +13172,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-82"
+      "id": "9-navigace-vrtulnik-p17-82"
     },
     {
       "sourceNumber": "83",
@@ -12031,7 +13188,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-83"
+      "id": "9-navigace-vrtulnik-p18-83"
     },
     {
       "sourceNumber": "84",
@@ -12047,7 +13204,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-84"
+      "id": "9-navigace-vrtulnik-p18-84"
     },
     {
       "sourceNumber": "85",
@@ -12063,7 +13220,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-85"
+      "id": "9-navigace-vrtulnik-p18-85"
     },
     {
       "sourceNumber": "86",
@@ -12079,7 +13236,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-86"
+      "id": "9-navigace-vrtulnik-p18-86"
     },
     {
       "sourceNumber": "87",
@@ -12095,7 +13252,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-87"
+      "id": "9-navigace-vrtulnik-p18-87"
     },
     {
       "sourceNumber": "88",
@@ -12111,7 +13268,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-88"
+      "id": "9-navigace-vrtulnik-p19-88"
     },
     {
       "sourceNumber": "89",
@@ -12127,7 +13284,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-89"
+      "id": "9-navigace-vrtulnik-p19-89"
     },
     {
       "sourceNumber": "90",
@@ -12143,7 +13300,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-90"
+      "id": "9-navigace-vrtulnik-p19-90"
     },
     {
       "sourceNumber": "91",
@@ -12159,7 +13316,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-91"
+      "id": "9-navigace-vrtulnik-p19-91"
     },
     {
       "sourceNumber": "92",
@@ -12175,7 +13332,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-92"
+      "id": "9-navigace-vrtulnik-p19-92"
     },
     {
       "sourceNumber": "93",
@@ -12191,7 +13348,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-93"
+      "id": "9-navigace-vrtulnik-p20-93"
     },
     {
       "sourceNumber": "94",
@@ -12207,7 +13364,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-94"
+      "id": "9-navigace-vrtulnik-p20-94"
     },
     {
       "sourceNumber": "95",
@@ -12223,7 +13380,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-95"
+      "id": "9-navigace-vrtulnik-p20-95"
     },
     {
       "sourceNumber": "96",
@@ -12239,7 +13396,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-96"
+      "id": "9-navigace-vrtulnik-p20-96"
     },
     {
       "sourceNumber": "97",
@@ -12255,7 +13412,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-97"
+      "id": "9-navigace-vrtulnik-p20-97"
     },
     {
       "sourceNumber": "98",
@@ -12271,7 +13428,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-98"
+      "id": "9-navigace-vrtulnik-p21-98"
     },
     {
       "sourceNumber": "99",
@@ -12287,7 +13444,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-99"
+      "id": "9-navigace-vrtulnik-p21-99"
     },
     {
       "sourceNumber": "100",
@@ -12303,7 +13460,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-100"
+      "id": "9-navigace-vrtulnik-p21-100"
     },
     {
       "sourceNumber": "101",
@@ -12319,7 +13476,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-101"
+      "id": "9-navigace-vrtulnik-p21-101"
     },
     {
       "sourceNumber": "102",
@@ -12335,7 +13492,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-102"
+      "id": "9-navigace-vrtulnik-p21-102"
     },
     {
       "sourceNumber": "103",
@@ -12351,7 +13508,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-103"
+      "id": "9-navigace-vrtulnik-p22-103"
     },
     {
       "sourceNumber": "104",
@@ -12367,7 +13524,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-104"
+      "id": "9-navigace-vrtulnik-p22-104"
     },
     {
       "sourceNumber": "105",
@@ -12383,7 +13540,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-105"
+      "id": "9-navigace-vrtulnik-p22-105"
     },
     {
       "sourceNumber": "106",
@@ -12399,7 +13556,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-106"
+      "id": "9-navigace-vrtulnik-p22-106",
+      "image": "./assets/questions/NAV-019.jpg",
+      "imageCode": "NAV-019"
     },
     {
       "sourceNumber": "107",
@@ -12415,7 +13574,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-107"
+      "id": "9-navigace-vrtulnik-p22-107"
     },
     {
       "sourceNumber": "108",
@@ -12431,7 +13590,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-108"
+      "id": "9-navigace-vrtulnik-p23-108"
     },
     {
       "sourceNumber": "109",
@@ -12447,7 +13606,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-109"
+      "id": "9-navigace-vrtulnik-p23-109"
     },
     {
       "sourceNumber": "110",
@@ -12463,7 +13622,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-110"
+      "id": "9-navigace-vrtulnik-p23-110"
     },
     {
       "sourceNumber": "111",
@@ -12479,7 +13638,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-111"
+      "id": "9-navigace-vrtulnik-p23-111"
     },
     {
       "sourceNumber": "112",
@@ -12495,7 +13654,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-112"
+      "id": "9-navigace-vrtulnik-p23-112"
     },
     {
       "sourceNumber": "113",
@@ -12511,7 +13670,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-113"
+      "id": "9-navigace-vrtulnik-p24-113"
     },
     {
       "sourceNumber": "114",
@@ -12527,7 +13686,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-114"
+      "id": "9-navigace-vrtulnik-p24-114"
     },
     {
       "sourceNumber": "115",
@@ -12543,7 +13702,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-115"
+      "id": "9-navigace-vrtulnik-p24-115"
     },
     {
       "sourceNumber": "116",
@@ -12559,7 +13718,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-116"
+      "id": "9-navigace-vrtulnik-p24-116"
     },
     {
       "sourceNumber": "117",
@@ -12575,7 +13734,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-117"
+      "id": "9-navigace-vrtulnik-p24-117",
+      "image": "./assets/questions/NAV-022.jpg",
+      "imageCode": "NAV-022"
     },
     {
       "sourceNumber": "118",
@@ -12591,7 +13752,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-118"
+      "id": "9-navigace-vrtulnik-p25-118",
+      "image": "./assets/questions/NAV-024.jpg",
+      "imageCode": "NAV-024"
     },
     {
       "sourceNumber": "119",
@@ -12607,7 +13770,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-119"
+      "id": "9-navigace-vrtulnik-p25-119"
     },
     {
       "sourceNumber": "120",
@@ -12623,7 +13786,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-120"
+      "id": "9-navigace-vrtulnik-p25-120"
     },
     {
       "sourceNumber": "121",
@@ -12639,7 +13802,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-121"
+      "id": "9-navigace-vrtulnik-p25-121"
     },
     {
       "sourceNumber": "122",
@@ -12655,7 +13818,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-122"
+      "id": "9-navigace-vrtulnik-p25-122"
     },
     {
       "sourceNumber": "123",
@@ -12671,7 +13834,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-123"
+      "id": "9-navigace-vrtulnik-p26-123"
     },
     {
       "sourceNumber": "124",
@@ -12687,7 +13850,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-124"
+      "id": "9-navigace-vrtulnik-p26-124"
     },
     {
       "sourceNumber": "125",
@@ -12703,7 +13866,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-125"
+      "id": "9-navigace-vrtulnik-p26-125"
     },
     {
       "sourceNumber": "126",
@@ -12719,7 +13882,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-126"
+      "id": "9-navigace-vrtulnik-p26-126"
     },
     {
       "sourceNumber": "127",
@@ -12735,7 +13898,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-127"
+      "id": "9-navigace-vrtulnik-p26-127"
     },
     {
       "sourceNumber": "128",
@@ -12751,7 +13914,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-128"
+      "id": "9-navigace-vrtulnik-p27-128"
     },
     {
       "sourceNumber": "129",
@@ -12767,7 +13930,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-129"
+      "id": "9-navigace-vrtulnik-p27-129"
     },
     {
       "sourceNumber": "130",
@@ -12783,7 +13946,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-130"
+      "id": "9-navigace-vrtulnik-p27-130"
     },
     {
       "sourceNumber": "131",
@@ -12799,7 +13962,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-131"
+      "id": "9-navigace-vrtulnik-p27-131"
     },
     {
       "sourceNumber": "132",
@@ -12815,7 +13978,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 28,
-      "id": "9-navigace-vrtulnik-132"
+      "id": "9-navigace-vrtulnik-p28-132"
     },
     {
       "sourceNumber": "133",
@@ -12831,7 +13994,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 28,
-      "id": "9-navigace-vrtulnik-133"
+      "id": "9-navigace-vrtulnik-p28-133"
     },
     {
       "sourceNumber": "1",
@@ -12847,7 +14010,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -12863,7 +14026,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -12879,7 +14042,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -12895,7 +14058,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-4"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-4",
+      "image": "./assets/questions/AGK-002.jpg",
+      "imageCode": "AGK-002"
     },
     {
       "sourceNumber": "5",
@@ -12911,7 +14076,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -12927,7 +14092,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-6",
+      "image": "./assets/questions/AGK-003.jpg",
+      "imageCode": "AGK-003"
     },
     {
       "sourceNumber": "7",
@@ -12943,7 +14110,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -12959,7 +14126,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -12975,7 +14142,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -12991,7 +14158,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -13007,7 +14174,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -13023,7 +14190,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -13039,7 +14206,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-13"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -13055,7 +14222,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-14"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -13071,7 +14238,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-15"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-15"
     },
     {
       "sourceNumber": "16",
@@ -13087,7 +14254,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-16"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-16",
+      "image": "./assets/questions/AGK-005.jpg",
+      "imageCode": "AGK-005"
     },
     {
       "sourceNumber": "17",
@@ -13103,7 +14272,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-17"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -13119,7 +14288,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-18"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-18",
+      "image": "./assets/questions/AGK-005.jpg",
+      "imageCode": "AGK-005"
     },
     {
       "sourceNumber": "19",
@@ -13135,7 +14306,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-19"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -13151,7 +14322,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-20"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-20"
     },
     {
       "sourceNumber": "21",
@@ -13167,7 +14338,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-21"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -13183,7 +14354,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-22"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-22",
+      "image": "./assets/questions/AGK-006.jpg",
+      "imageCode": "AGK-006"
     },
     {
       "sourceNumber": "23",
@@ -13199,7 +14372,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-23"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -13215,7 +14388,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-24"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -13231,7 +14404,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-25"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-25"
     },
     {
       "sourceNumber": "26",
@@ -13247,7 +14420,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-26"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -13263,7 +14436,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-27"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -13279,7 +14452,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-28"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -13295,7 +14468,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-29"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -13311,7 +14484,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-30"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-30"
     },
     {
       "sourceNumber": "31",
@@ -13327,7 +14500,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-31"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-31"
     },
     {
       "sourceNumber": "32",
@@ -13343,7 +14516,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-32"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -13359,7 +14532,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-33"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -13376,11 +14549,11 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-34"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-34"
     },
     {
       "sourceNumber": "35",
-      "question": "připevněna?",
+      "question": "Jakým směrem se pohybuje odlehčovací ploška vzhledem k výchylce řídící plochy, ke které je připevněna?",
       "options": [
         "v opačném směru",
         "ve stejném směru",
@@ -13392,7 +14565,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-35"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-35"
     },
     {
       "sourceNumber": "36",
@@ -13408,7 +14581,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-36"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-36"
     },
     {
       "sourceNumber": "37",
@@ -13424,7 +14597,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-37"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -13440,7 +14613,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-38"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -13456,7 +14629,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-39"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-39"
     },
     {
       "sourceNumber": "40",
@@ -13472,7 +14645,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-40"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-40"
     },
     {
       "sourceNumber": "41",
@@ -13488,7 +14661,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-41"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -13504,7 +14677,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-42"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -13520,7 +14693,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-43"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -13536,7 +14709,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-44"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-44"
     },
     {
       "sourceNumber": "45",
@@ -13552,7 +14725,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-45"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-45"
     },
     {
       "sourceNumber": "46",
@@ -13568,7 +14741,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-46"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-46"
     },
     {
       "sourceNumber": "47",
@@ -13584,7 +14757,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-47"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -13600,7 +14773,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-48"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-48"
     },
     {
       "sourceNumber": "49",
@@ -13616,7 +14789,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-49"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-49",
+      "image": "./assets/questions/AGK-007.jpg",
+      "imageCode": "AGK-007"
     },
     {
       "sourceNumber": "50",
@@ -13632,7 +14807,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-50"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-50",
+      "image": "./assets/questions/AGK-008.jpg",
+      "imageCode": "AGK-008"
     },
     {
       "sourceNumber": "51",
@@ -13648,7 +14825,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-51"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-51"
     },
     {
       "sourceNumber": "52",
@@ -13664,7 +14841,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-52"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -13680,7 +14857,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-53"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-53"
     },
     {
       "sourceNumber": "54",
@@ -13696,7 +14873,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-54"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-54"
     },
     {
       "sourceNumber": "55",
@@ -13712,7 +14889,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-55"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-55"
     },
     {
       "sourceNumber": "56",
@@ -13728,7 +14905,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-56"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-56"
     },
     {
       "sourceNumber": "57",
@@ -13744,7 +14921,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-57"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-57"
     },
     {
       "sourceNumber": "58",
@@ -13760,7 +14937,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-58"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-58"
     },
     {
       "sourceNumber": "59",
@@ -13776,7 +14953,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-59"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-59"
     },
     {
       "sourceNumber": "60",
@@ -13792,7 +14969,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-60"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-60"
     },
     {
       "sourceNumber": "61",
@@ -13808,7 +14985,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-61"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-61"
     },
     {
       "sourceNumber": "62",
@@ -13824,7 +15001,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-62"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-62"
     },
     {
       "sourceNumber": "6",
@@ -13840,7 +15017,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-6"
     },
     {
       "sourceNumber": "6",
@@ -13856,7 +15033,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-6-2"
     },
     {
       "sourceNumber": "6",
@@ -13872,7 +15049,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-6-3",
+      "image": "./assets/questions/AGK-011.jpg",
+      "imageCode": "AGK-011"
     },
     {
       "sourceNumber": "6",
@@ -13888,7 +15067,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-6"
     },
     {
       "sourceNumber": "6",
@@ -13904,7 +15083,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-6-2"
     },
     {
       "sourceNumber": "6",
@@ -13920,7 +15099,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-6"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-6-3"
     },
     {
       "sourceNumber": "69",
@@ -13936,7 +15115,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-69"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69"
     },
     {
       "sourceNumber": "7",
@@ -13952,7 +15131,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-7"
     },
     {
       "sourceNumber": "7",
@@ -13968,7 +15147,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7"
     },
     {
       "sourceNumber": "7",
@@ -13984,7 +15163,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7-2"
     },
     {
       "sourceNumber": "7",
@@ -14000,7 +15179,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7-3"
     },
     {
       "sourceNumber": "7",
@@ -14016,7 +15195,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-7-4"
     },
     {
       "sourceNumber": "7",
@@ -14032,11 +15211,11 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-7"
     },
     {
-      "sourceNumber": "7",
-      "question": "6 QFE je:",
+      "sourceNumber": 76,
+      "question": "QFE je:",
       "options": [
         "barometrický tlak měřený od hladiny moře s využitím mezinárodní standardní atmosféry",
         "barometrický tlak měřený od referenčního bodu, typicky od prahu dráhy",
@@ -14048,11 +15227,11 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-76"
     },
     {
-      "sourceNumber": "7",
-      "question": "7 QNE je:",
+      "sourceNumber": 77,
+      "question": "QNE je:",
       "options": [
         "barometrický tlak měřený od hladiny moře s využitím mezinárodní standardní atmosféry",
         "barometrický tlak měřený od referenčního bodu, typicky od prahu dráhy",
@@ -14064,7 +15243,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77"
     },
     {
       "sourceNumber": "7",
@@ -14080,7 +15259,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-7-2"
     },
     {
       "sourceNumber": "79",
@@ -14096,7 +15275,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-79"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79"
     },
     {
       "sourceNumber": "8",
@@ -14112,7 +15291,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8"
     },
     {
       "sourceNumber": "8",
@@ -14128,7 +15307,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8-2"
     },
     {
       "sourceNumber": "8",
@@ -14144,7 +15323,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8-3"
     },
     {
       "sourceNumber": "8",
@@ -14160,7 +15339,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-8-4"
     },
     {
       "sourceNumber": "8",
@@ -14176,7 +15355,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8"
     },
     {
       "sourceNumber": "8",
@@ -14192,7 +15371,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-2"
     },
     {
       "sourceNumber": "8",
@@ -14208,7 +15387,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-3"
     },
     {
       "sourceNumber": "8",
@@ -14224,7 +15403,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-4"
     },
     {
       "sourceNumber": "8",
@@ -14240,7 +15419,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-8-5"
     },
     {
       "sourceNumber": "89",
@@ -14256,7 +15435,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-89"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89"
     },
     {
       "sourceNumber": "9",
@@ -14272,7 +15451,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9"
     },
     {
       "sourceNumber": "9",
@@ -14288,7 +15467,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9-2"
     },
     {
       "sourceNumber": "9",
@@ -14304,7 +15483,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9-3"
     },
     {
       "sourceNumber": "9",
@@ -14320,7 +15499,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-9-4"
     },
     {
       "sourceNumber": "9",
@@ -14336,7 +15515,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9"
     },
     {
       "sourceNumber": "9",
@@ -14352,7 +15531,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-2"
     },
     {
       "sourceNumber": "9",
@@ -14368,7 +15547,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-3"
     },
     {
       "sourceNumber": "9",
@@ -14384,7 +15563,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-4"
     },
     {
       "sourceNumber": "9",
@@ -14400,7 +15579,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-9-5"
     },
     {
       "sourceNumber": "99",
@@ -14416,7 +15595,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-99"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-99"
     },
     {
       "sourceNumber": "10",
@@ -14432,7 +15611,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10"
     },
     {
       "sourceNumber": "10",
@@ -14448,7 +15627,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10-2"
     },
     {
       "sourceNumber": "10",
@@ -14464,7 +15643,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10-3"
     },
     {
       "sourceNumber": "10",
@@ -14480,7 +15659,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-10-4"
     },
     {
       "sourceNumber": "10",
@@ -14496,7 +15675,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10"
     },
     {
       "sourceNumber": "10",
@@ -14512,7 +15691,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-2"
     },
     {
       "sourceNumber": "10",
@@ -14528,7 +15707,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-3"
     },
     {
       "sourceNumber": "10",
@@ -14544,7 +15723,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-4"
     },
     {
       "sourceNumber": "10",
@@ -14560,7 +15739,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-10-5"
     },
     {
       "sourceNumber": "1",
@@ -14576,7 +15755,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-1"
     },
     {
       "sourceNumber": "11",
@@ -14592,7 +15771,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11"
     },
     {
       "sourceNumber": "11",
@@ -14608,7 +15787,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11-2"
     },
     {
       "sourceNumber": "11",
@@ -14624,7 +15803,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11-3"
     },
     {
       "sourceNumber": "11",
@@ -14640,7 +15819,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-11-4"
     },
     {
       "sourceNumber": "11",
@@ -14656,7 +15835,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11"
     },
     {
       "sourceNumber": "11",
@@ -14672,7 +15851,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-2"
     },
     {
       "sourceNumber": "11",
@@ -14688,7 +15867,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-3"
     },
     {
       "sourceNumber": "11",
@@ -14704,7 +15883,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-4"
     },
     {
       "sourceNumber": "11",
@@ -14720,7 +15899,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-11-5"
     },
     {
       "sourceNumber": "1",
@@ -14736,7 +15915,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-1"
     },
     {
       "sourceNumber": "12",
@@ -14752,7 +15931,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12"
     },
     {
       "sourceNumber": "12",
@@ -14768,7 +15947,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12-2"
     },
     {
       "sourceNumber": "12",
@@ -14784,7 +15963,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12-3"
     },
     {
       "sourceNumber": "12",
@@ -14800,7 +15979,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-12-4"
     },
     {
       "sourceNumber": "12",
@@ -14816,7 +15995,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12"
     },
     {
       "sourceNumber": "12",
@@ -14832,7 +16011,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-2"
     },
     {
       "sourceNumber": "12",
@@ -14848,7 +16027,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-3"
     },
     {
       "sourceNumber": "12",
@@ -14864,7 +16043,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-4"
     },
     {
       "sourceNumber": "12",
@@ -14880,7 +16059,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-(2)-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-12-5"
     },
     {
       "sourceNumber": "1",
@@ -14896,7 +16075,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-1"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -14912,7 +16091,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-2"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -14928,7 +16107,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-3"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -14944,7 +16123,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-4"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -14960,7 +16139,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-5"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -14976,7 +16155,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-6"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -14992,7 +16171,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-7"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -15008,7 +16187,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-8"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -15024,7 +16203,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-9"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -15040,7 +16219,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-10"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -15056,7 +16235,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-11"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -15072,7 +16251,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-12"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -15088,7 +16267,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-13"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -15104,7 +16283,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-14"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -15120,7 +16299,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-15"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-15"
     },
     {
       "sourceNumber": "16",
@@ -15136,7 +16315,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-16"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -15152,7 +16331,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-17"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -15168,7 +16347,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-18"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -15184,7 +16363,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-19"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -15200,7 +16379,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-20"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-20"
     },
     {
       "sourceNumber": "21",
@@ -15216,7 +16395,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-21"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -15232,7 +16411,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-22"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -15248,7 +16427,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-23"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -15264,7 +16443,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-24"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -15280,7 +16459,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-25"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-25"
     },
     {
       "sourceNumber": "26",
@@ -15296,7 +16475,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-26"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -15312,7 +16491,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-27"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -15328,7 +16507,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-28"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -15344,7 +16523,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-29"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -15360,11 +16539,13 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-30"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-30",
+      "image": "./assets/questions/AGK-007.jpg",
+      "imageCode": "AGK-007"
     },
     {
       "sourceNumber": "31",
-      "question": "(AGK-008)",
+      "question": "Jaká část pracovního cyklu čtyřdobého zážehového motoru je znázorněna v příloze? Viz obr. (AGK-008)",
       "options": [
         "sání",
         "stlačení",
@@ -15376,7 +16557,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-31"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-31",
+      "imageCode": "AGK-008",
+      "image": "./assets/questions/AGK-008.jpg"
     },
     {
       "sourceNumber": "32",
@@ -15392,7 +16575,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-32"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -15408,7 +16591,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-33"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -15424,7 +16607,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-34"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-34"
     },
     {
       "sourceNumber": "35",
@@ -15440,7 +16623,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-35"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-35"
     },
     {
       "sourceNumber": "36",
@@ -15456,7 +16639,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-36"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-36"
     },
     {
       "sourceNumber": "37",
@@ -15472,7 +16655,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-37"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -15488,7 +16671,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-38"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -15504,7 +16687,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-39"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-39"
     },
     {
       "sourceNumber": "40",
@@ -15520,7 +16703,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-40"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-40"
     },
     {
       "sourceNumber": "41",
@@ -15536,7 +16719,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-41"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -15552,7 +16735,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-42"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -15568,7 +16751,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-43"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -15584,7 +16767,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-44"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-44"
     },
     {
       "sourceNumber": "45",
@@ -15600,7 +16783,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-45"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-45"
     },
     {
       "sourceNumber": "46",
@@ -15616,7 +16799,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-46"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-46"
     },
     {
       "sourceNumber": "47",
@@ -15632,7 +16815,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-47"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -15648,7 +16831,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-48"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-48"
     },
     {
       "sourceNumber": "49",
@@ -15664,7 +16847,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-49"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-49"
     },
     {
       "sourceNumber": "50",
@@ -15680,7 +16863,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-50"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-50"
     },
     {
       "sourceNumber": "51",
@@ -15696,7 +16879,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-51"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-51"
     },
     {
       "sourceNumber": "52",
@@ -15712,7 +16895,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-52"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -15728,7 +16911,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-53"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-53"
     },
     {
       "sourceNumber": "54",
@@ -15744,7 +16927,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-54"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-54"
     },
     {
       "sourceNumber": "55",
@@ -15760,7 +16943,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-55"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-55"
     },
     {
       "sourceNumber": "56",
@@ -15776,7 +16959,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-56"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-56"
     },
     {
       "sourceNumber": "57",
@@ -15792,7 +16975,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-57"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-57"
     },
     {
       "sourceNumber": "58",
@@ -15808,7 +16991,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-58"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-58"
     },
     {
       "sourceNumber": "59",
@@ -15824,7 +17007,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-59"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-59"
     },
     {
       "sourceNumber": "60",
@@ -15840,7 +17023,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-60"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-60"
     },
     {
       "sourceNumber": "61",
@@ -15856,7 +17039,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-61"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p13-61"
     },
     {
       "sourceNumber": "62",
@@ -15872,7 +17055,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-62"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p13-62"
     },
     {
       "sourceNumber": "63",
@@ -15888,7 +17071,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-63"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p13-63"
     },
     {
       "sourceNumber": "64",
@@ -15904,7 +17087,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-64"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p13-64"
     },
     {
       "sourceNumber": "65",
@@ -15920,7 +17103,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-65"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p13-65"
     },
     {
       "sourceNumber": "66",
@@ -15936,7 +17119,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-66"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p14-66"
     },
     {
       "sourceNumber": "67",
@@ -15952,7 +17135,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-67"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p14-67"
     },
     {
       "sourceNumber": "68",
@@ -15968,7 +17151,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-68"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p14-68"
     },
     {
       "sourceNumber": "69",
@@ -15984,7 +17167,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-69"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p14-69"
     },
     {
       "sourceNumber": "70",
@@ -16000,7 +17183,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-70"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p14-70"
     },
     {
       "sourceNumber": "71",
@@ -16016,7 +17199,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-71"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p15-71"
     },
     {
       "sourceNumber": "72",
@@ -16032,7 +17215,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-72"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p15-72"
     },
     {
       "sourceNumber": "73",
@@ -16048,7 +17231,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-73"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p15-73"
     },
     {
       "sourceNumber": "74",
@@ -16064,7 +17247,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-74"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p15-74"
     },
     {
       "sourceNumber": "75",
@@ -16080,7 +17263,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-75"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p16-75"
     },
     {
       "sourceNumber": "76",
@@ -16096,7 +17279,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-76"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p16-76"
     },
     {
       "sourceNumber": "77",
@@ -16112,7 +17295,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-77"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p16-77"
     },
     {
       "sourceNumber": "78",
@@ -16128,7 +17311,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-78"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p16-78"
     },
     {
       "sourceNumber": "79",
@@ -16144,7 +17327,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-79"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p16-79"
     },
     {
       "sourceNumber": "80",
@@ -16160,7 +17343,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-80"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p17-80"
     },
     {
       "sourceNumber": "81",
@@ -16176,7 +17359,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-81"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p17-81"
     },
     {
       "sourceNumber": "82",
@@ -16192,7 +17375,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-82"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p17-82"
     },
     {
       "sourceNumber": "83",
@@ -16208,7 +17391,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-83"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p17-83"
     },
     {
       "sourceNumber": "84",
@@ -16224,7 +17407,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-84"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p17-84"
     },
     {
       "sourceNumber": "85",
@@ -16240,7 +17423,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-85"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-85"
     },
     {
       "sourceNumber": "86",
@@ -16256,7 +17439,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-86"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-86"
     },
     {
       "sourceNumber": "87",
@@ -16272,7 +17455,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-87"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-87"
     },
     {
       "sourceNumber": "88",
@@ -16288,7 +17471,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-88"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-88"
     },
     {
       "sourceNumber": "89",
@@ -16304,7 +17487,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-89"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-89"
     },
     {
       "sourceNumber": "90",
@@ -16320,7 +17503,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-90"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-90"
     },
     {
       "sourceNumber": "91",
@@ -16336,7 +17519,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-91"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-91"
     },
     {
       "sourceNumber": "92",
@@ -16352,7 +17535,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-92"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-92"
     },
     {
       "sourceNumber": "93",
@@ -16368,7 +17551,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-93"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-93"
     },
     {
       "sourceNumber": "94",
@@ -16384,7 +17567,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-94"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-94"
     },
     {
       "sourceNumber": "95",
@@ -16400,7 +17583,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-95"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-95"
     },
     {
       "sourceNumber": "96",
@@ -16416,7 +17599,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-96"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-96"
     },
     {
       "sourceNumber": "97",
@@ -16432,7 +17615,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-97"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-97"
     },
     {
       "sourceNumber": "98",
@@ -16448,7 +17631,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-98"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-98"
     },
     {
       "sourceNumber": "99",
@@ -16464,7 +17647,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-99"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-99"
     },
     {
       "sourceNumber": "100",
@@ -16480,7 +17663,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-100"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-100"
     },
     {
       "sourceNumber": "101",
@@ -16496,7 +17679,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-101"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-101"
     },
     {
       "sourceNumber": "102",
@@ -16512,7 +17695,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-102"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-102"
     },
     {
       "sourceNumber": "103",
@@ -16528,7 +17711,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-103"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-103"
     },
     {
       "sourceNumber": "104",
@@ -16544,7 +17727,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-104"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-104"
     },
     {
       "sourceNumber": "105",
@@ -16560,7 +17743,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-105"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-105"
     },
     {
       "sourceNumber": "106",
@@ -16576,7 +17759,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-106"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-106"
     },
     {
       "sourceNumber": "107",
@@ -16592,7 +17775,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-107"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-107"
     },
     {
       "sourceNumber": "108",
@@ -16608,7 +17791,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-108"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-108"
     },
     {
       "sourceNumber": "109",
@@ -16624,7 +17807,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-109"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-109"
     },
     {
       "sourceNumber": "110",
@@ -16640,7 +17823,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-110"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-110"
     },
     {
       "sourceNumber": "111",
@@ -16656,7 +17839,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-111"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-111"
     },
     {
       "sourceNumber": "112",
@@ -16672,7 +17855,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-112"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-112"
     },
     {
       "sourceNumber": "113",
@@ -16688,7 +17871,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-113"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-113"
     },
     {
       "sourceNumber": "114",
@@ -16704,7 +17887,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-114"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-114"
     },
     {
       "sourceNumber": "115",
@@ -16720,7 +17903,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-115"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-115"
     },
     {
       "sourceNumber": "116",
@@ -16736,7 +17919,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-116"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-116"
     },
     {
       "sourceNumber": "117",
@@ -16752,7 +17935,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-117"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-117"
     },
     {
       "sourceNumber": "118",
@@ -16768,7 +17951,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-118"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-118"
     },
     {
       "sourceNumber": "119",
@@ -16784,7 +17967,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-119"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-119"
     },
     {
       "sourceNumber": "120",
@@ -16800,7 +17983,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-120"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-120"
     },
     {
       "sourceNumber": "121",
@@ -16816,7 +17999,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-121"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-121"
     },
     {
       "sourceNumber": "122",
@@ -16832,7 +18015,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-122"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-122"
     },
     {
       "sourceNumber": "123",
@@ -16848,7 +18031,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-123"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-123"
     },
     {
       "sourceNumber": "124",
@@ -16864,7 +18047,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-124"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-124"
     },
     {
       "sourceNumber": "125",
@@ -16880,7 +18063,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-125"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p26-125"
     },
     {
       "sourceNumber": "126",
@@ -16896,7 +18079,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-126"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p26-126"
     },
     {
       "sourceNumber": "127",
@@ -16912,7 +18095,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-127"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p26-127"
     },
     {
       "sourceNumber": "1",
@@ -16920,86 +18103,95 @@ window.PPL_QUESTIONS = {
       "options": [
         "a, b, c, e, f",
         "b, c, d, e, f, g",
-        "d, f, g a, b, e, g"
+        "d, f, g",
+        "a, b, e, g"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-1"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-1"
     },
     {
       "sourceNumber": "2",
       "question": "Jaký prostor je možno proletět s určitými omezeními?",
       "options": [
         "zakázaný prostor",
-        "omezený prostor nebezpečný prostor bezletová zóna"
+        "omezený prostor",
+        "nebezpečný prostor",
+        "bezletová zóna"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-2"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-2"
     },
     {
       "sourceNumber": "3",
-      "question": "Kde lze nalézt druh omezení pro omezený prostor? mapa ICAO 1:500000",
+      "question": "Kde lze nalézt druh omezení pro omezený prostor?",
       "options": [
+        "mapa ICAO 1:500000",
         "AIP",
         "AIC",
         "NOTAM"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-3"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-3"
     },
     {
       "sourceNumber": "4",
-      "question": "Jaké je postavení pravidel a postupů vytvořených v EAS A, jako např. Part-SFCL, PART-MED? mají stejné postavení jako Annexy ICAO",
+      "question": "Jaké je postavení pravidel a postupů vytvořených v EAS A, jako např. Part-SFCL, PART-MED?",
       "options": [
+        "mají stejné postavení jako Annexy ICAO",
         "nejsou právně závazné, slouží pouze jako návod",
-        "jsou částí nařízení EU a právně závazné ve všech členských státech EU jsou právně závazné pouze po ratifikaci v jednotlivých členských státech EU"
+        "jsou částí nařízení EU a právně závazné ve všech členských státech EU",
+        "jsou právně závazné pouze po ratifikaci v jednotlivých členských státech EU"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-4"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-4"
     },
     {
-      "sourceNumber": "12",
-      "question": "let",
+      "sourceNumber": 5,
+      "question": "Jakou dobu platnosti má Osvědčení letové způsobilosti?",
       "options": [
+        "6 měsíců",
         "12 let",
-        "neomezenou"
+        "neomezenou",
+        "12 měsíců"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-12"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-5"
     },
     {
       "sourceNumber": "6",
       "question": "Co znamená zkratka ARC?",
       "options": [
-        "Airworthiness Recurring Control = Řízení zachování letové způsobilosti Airspace Restriction Criteria = Kritéria omezeného prostoru",
+        "Airworthiness Recurring Control = Řízení zachování letové způsobilosti",
+        "Airspace Restriction Criteria = Kritéria omezeného prostoru",
         "Airworthiness Review Certificate = Osvědčení kontroly letové způsobilosti",
         "Airspace Rulemaking Committee = Výbor pro tvorbu pravidel vzdušného prostoru"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-6"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -17015,41 +18207,95 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-7"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-7"
     },
     {
       "sourceNumber": "8",
       "question": "Průkaz pilot vydaný podle standardů ICAO je platný:",
       "options": [
         "ve všech státech ICAO",
-        "ve státu, kde byl průkaz získán ve státu vydání průkazu ve státech, které na základě žádosti tento průkaz uznaly"
+        "ve státu, kde byl průkaz získán",
+        "ve státu vydání průkazu",
+        "ve státech, které na základě žádosti tento průkaz uznaly"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-8"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-8"
     },
     {
-      "sourceNumber": "60",
-      "question": "měsíců",
+      "sourceNumber": "9",
+      "question": "Co je předmětem Anexu 1 ICAO?",
       "options": [
-        "60 měsíců",
-        "neomezená"
+        "způsobilost letových posádek",
+        "provoz letadel",
+        "Letové provozní služby",
+        "pravidla létání"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 2,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-9"
+    },
+    {
+      "sourceNumber": 10,
+      "question": "Jaká je doba platnosti průkazu soukromého pilota (PPL)?",
+      "options": [
+        "24 měsíců",
+        "60 měsíců",
+        "neomezená",
+        "48 měsíců"
+      ],
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-60"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-10"
+    },
+    {
+      "sourceNumber": 13,
+      "question": "Doba platnosti Osvědčení zdravotní způsobilosti 2. třídy pro 62letého pilota je:",
+      "options": [
+        "12 měsíců",
+        "60 měsíců",
+        "48 měsíců",
+        "24 měsíců"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "nesplnil požadovanou dobu letu?",
+      "options": [
+        "přezkoušení odborné způsobilosti s examinátorem",
+        "požadovanou dobu letu je třeba splnit pod dohledem letového instruktora",
+        "ATO může prodloužit kvalifikaci po výcvikovém letu s letovým instruktorem",
+        "podle nalétaných hodin je třeba provést několik výcvikových letů pod dohledem ATO"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-14"
     },
     {
       "sourceNumber": "15",
       "question": "Práva držitele evropského průkazu soukromého pilota letounů (PPL(A)) jsou:",
       "options": [
-        "působit jako velitel letadla při neobchodních letech bez úplaty a přijímat úplatu jako letový instruktor působit jako velitel letadla, ale pouze na letadlech s MTOW maximálně 2000 kg lze obdržet úplatu působit jako velitel letadla při obchodních a neobchodních letech na jednomotorových letadlech",
+        "působit jako velitel letadla při neobchodních letech bez úplaty a přijímat úplatu jako letový instruktor",
+        "působit jako velitel letadla, ale pouze na letadlech s MTOW maximálně 2000 kg lze obdržet úplatu",
+        "působit jako velitel letadla při obchodních a neobchodních letech na jednomotorových letadlech",
         "působit jako pilot při obchodních letech, kdy jsou na palubě maximálně 4 osoby"
       ],
       "correctIndex": 0,
@@ -17057,7 +18303,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-15"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-15"
     },
     {
       "sourceNumber": "17",
@@ -17065,20 +18311,39 @@ window.PPL_QUESTIONS = {
       "options": [
         "standardizovaná evropská pravidla létání",
         "selektivní radiovýškoměr",
-        "zvláštní radarové přiblížení standardní evropské letecké tratě"
+        "zvláštní radarové přiblížení",
+        "standardní evropské letecké tratě"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-17"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-17"
+    },
+    {
+      "sourceNumber": "18",
+      "question": "Co znamená zkratka TRA?",
+      "options": [
+        "dočasně vyhrazený vzdušný prostor",
+        "oblast odpovídače sekundárního radaru",
+        "dočasná oblast radarových tratí",
+        "koncová oblast"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-18"
     },
     {
       "sourceNumber": "19",
       "question": "Co je třeba provést při vstupu do oblasti s povinným rádiovým spojením (RMZ)?",
       "options": [
-        "stále sledovat rádio a je-li to možné, navázat rádiové spojení obdržet povolení pro vstup do této oblasti odpovídač sekundárního radaru přepnout na mód C a 7000",
+        "stále sledovat rádio a je-li to možné, navázat rádiové spojení",
+        "obdržet povolení pro vstup do této oblasti",
+        "odpovídač sekundárního radaru přepnout na mód C a 7000",
         "obdržet povolení od místního leteckého úřadu"
       ],
       "correctIndex": 0,
@@ -17086,27 +18351,30 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-19"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-19"
     },
     {
       "sourceNumber": "20",
       "question": "Jakou podmínku je třeba splnit při zvláštním letu VFR?",
       "options": [
         "viditelnost země",
-        "minimální vzdálenost 2000 m od oblačnosti minimální přízemní dohlednost 500 m rychlost ne vyšší než 115 kt IAS"
+        "minimální vzdálenost 2000 m od oblačnosti",
+        "minimální přízemní dohlednost 500 m",
+        "rychlost ne vyšší než 115 kt IAS"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-20"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-20"
     },
     {
       "sourceNumber": "21",
       "question": "Co musíte udělat při vstupu do oblasti s povinným odpovídače m sekundárního radaru (TMZ)?",
       "options": [
-        "zapnout odpovídač sekundárního radaru a nastavit mód A a C nebo mód S zapnout odpovídač sekundárního radaru, nastavit mód A a stisknout tlačítko IDENT",
+        "zapnout odpovídač sekundárního radaru a nastavit mód A a C nebo mód S",
+        "zapnout odpovídač sekundárního radaru, nastavit mód A a stisknout tlačítko IDENT",
         "vyžádat povolení ke vstupu",
         "před letem podat letový plán"
       ],
@@ -17115,7 +18383,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-21"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -17131,41 +18399,62 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-22"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-22"
     },
     {
       "sourceNumber": "23",
       "question": "Co znamená zkratka IFR?",
       "options": [
         "podmínky pro let podle přístrojů",
-        "pravidla pro let podle přístrojů pravidla pro obchodní lety pravidla pro lety za špatného počasí"
+        "pravidla pro let podle přístrojů",
+        "pravidla pro obchodní lety",
+        "pravidla pro lety za špatného počasí"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-23"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Let se nazývá za vidu, když:",
+      "options": [
+        "let je proveden podle pravidel letu za vid itelnosti",
+        "let je proveden v meteorologických podmínkách za viditelnosti",
+        "dohlednost za letu je více než 8 km",
+        "dohlednost za letu je více než 5 km"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-24"
     },
     {
       "sourceNumber": "25",
       "question": "Co znamená zkratka VMC?",
       "options": [
         "meteorologické podmínky pro let za viditelnosti",
-        "vizuální pravidla letu měnící se meteorologické podmínky podmínky pro let podle přístrojů"
+        "vizuální pravidla letu",
+        "měnící se meteorologické podmínky",
+        "podmínky pro let podle přístrojů"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-25"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-25"
     },
     {
       "sourceNumber": "26",
       "question": "Dvoumotorová letadla letí ve stejné výšce na prot isměrných tratích. Které z nich se má vyhnout?",
       "options": [
-        "obě mají uhnout doprava to těžší má stoupat",
+        "obě mají uhnout doprava",
+        "to těžší má stoupat",
         "obě mají uhnout doleva",
         "to lehčí má stoupat"
       ],
@@ -17174,7 +18463,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-26"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -17190,35 +18479,55 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-27"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-27"
     },
     {
       "sourceNumber": "28",
       "question": "Ve třídě vzdušného p r osto r u třídy D letí Boeing 737 a Cessna 152 po protínajících se tratích. Které z letadel se má vyhnout?",
       "options": [
         "letoun letící zprava doleva má přednost, ten druhý se má vyhnout",
-        "Cessna 152, protože lety IFR a obchodní lety mají přednost Boeing 737, protože dopravní letadlo má větší rezervu výkonnosti řízení letového provozu (ATC) má rozhodnout, které z letadel se má vyhnout"
+        "Cessna 152, protože lety IFR a obchodní lety mají přednost",
+        "Boeing 737, protože dopravní letadlo má větší rezervu výkonnosti",
+        "řízení letového provozu (ATC) má rozhodnout, které z letadel se má vyhnout"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-28"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Která z uvedených možností NENÍ dostatečný důvod pro let pod požadovanou minimální výškou?",
+      "options": [
+        "špatné meteorologické podmínky v blízkosti letiště",
+        "vzlet nebo přistání na letišti",
+        "odhoz vlečených předmětů na letišti",
+        "přiblížení bez přistání na letišti Jednomotorový pístový a turbovrtulový letoun letí proti sobě ve stejné výšce. Který z nich má změnit"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-29"
     },
     {
       "sourceNumber": "30",
       "question": "kurz, aby se vyhnul srážce?",
       "options": [
         "turbovrtulový letoun má dát přednost jednomotorovému pístovému letounu",
-        "obě letadla mají uhnout doprava jednomotorový pístový letoun má dát přednost turbovrtulovému letounu obě letadla mají uhnout doleva"
+        "obě letadla mají uhnout doprava",
+        "jednomotorový pístový letoun má dát přednost turbovrtulovému letounu",
+        "obě letadla mají uhnout doleva"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-30"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p7-30"
     },
     {
       "sourceNumber": "37",
@@ -17234,14 +18543,31 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-37"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p8-37"
+    },
+    {
+      "sourceNumber": "40",
+      "question": "Pojem výška základny nejnižší význačné vrstvy oblačnosti je definován jako:",
+      "options": [
+        "nadmořská výška základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 20000 ft",
+        "výška nad zemí základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 20000 ft",
+        "výška nad zemí základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 10000 ft",
+        "nadmořská výška základny nejnižší vrstvy oblačnosti pokrývající více než jednu polovinu oblohy pod 10000 ft"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-40"
     },
     {
       "sourceNumber": "41",
       "question": "Jaký je význam následujícího signálu při zakročování vojenským letadlem ve dne? Mávání křídly, normálně vlevo od zakročujícího letadla, následováno mírnou zatáčkou doleva.",
       "options": [
         "vstupujete do omezeného prostoru, okamžitě opusťte tento vzdušný prostor",
-        "následujte mě připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru",
+        "následujte mě",
+        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru",
         "jste vzdálen od všech omezených nebo vyhrazených prostorů, můžete pokračovat stávajícím kurzem"
       ],
       "correctIndex": 1,
@@ -17249,22 +18575,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-41"
-    },
-    {
-      "sourceNumber": "90° nebo více a přitažení letadla bez překřižování dráhy letadla, proti kterému je zakročováno.",
-      "question": "vstupujete do omezeného prostoru, opusťte okamžitě tento prostor",
-      "options": [
-        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru",
-        "následujte mě, přivedu Vás na nejbližší vhodné letiště",
-        "můžete pokračovat v letu"
-      ],
-      "correctIndex": 2,
-      "category": "Pravo",
-      "aircraft": "Letoun",
-      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
-      "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-90° nebo více a přitažení letadla bez překřižování dráhy letadla, proti kterému je zakročováno."
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-41"
     },
     {
       "sourceNumber": "43",
@@ -17272,63 +18583,86 @@ window.PPL_QUESTIONS = {
       "options": [
         "ve 4000 ft",
         "ve výšce rozhodnutí",
-        "ve stoupání nad převodní výšku při klesání pod FL 100"
+        "ve stoupání nad převodní výšku",
+        "při klesání pod FL 100"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-43"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-43"
+    },
+    {
+      "sourceNumber": "44",
+      "question": "Při letu ve FL 80 má být výškoměr nastaven na:",
+      "options": [
+        "místní QNH",
+        "místní QFE",
+        "1013.25 hPa",
+        "1030.25 hPa"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-44"
     },
     {
       "sourceNumber": "45",
       "question": "Jaký je účel půlkruhového pravidla?",
       "options": [
         "zabránit srážkám snížením pravděpodobnosti protisměrného provozu ve stejných výškách",
-        "umožnit bezpečné stoupání nebo klesání ve vyčkávacím obrazci zabránit srážkám omezením manévrů zatáčení létat bez podaného letového plánu ve stanovených zónách publikovaných v AIP"
+        "umožnit bezpečné stoupání nebo klesání ve vyčkávacím obrazci",
+        "zabránit srážkám omezením manévrů zatáčení",
+        "létat bez podaného letového plánu ve stanovených zónách publikovaných v AIP"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-45"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-45"
     },
     {
       "sourceNumber": "46",
       "question": "Jaké jsou možné módy odpovídače sekundárního radaru?",
       "options": [
-        "A, C, R B, C, V B, R, S",
+        "A, C, R",
+        "B, C, V",
+        "B, R, S",
         "A, C, S"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-46"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-46"
     },
     {
       "sourceNumber": "47",
-      "question": "Odpovídač sekundárního radaru schopný vysílat tlakovou hladinu letu je: odpovídač módu A",
+      "question": "Odpovídač sekundárního radaru schopný vysílat tlakovou hladinu letu je:",
       "options": [
+        "odpovídač módu A",
         "tlakový dekodér",
         "odpovídač schválený pro třídu vzdušného prostu B",
         "odpovídač módu C nebo S"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-47"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-47"
     },
     {
       "sourceNumber": "51",
       "question": "Jaká letová provozní služba je odpovědná za bezpečné provedení letů?",
       "options": [
-        "řízení letového provozu (ATC) letová informační služba (FIS)",
+        "řízení letového provozu (ATC)",
+        "letová informační služba (FIS)",
         "pohotovostní služba (ALR)",
         "letecká informační služba (AIS)"
       ],
@@ -17337,22 +18671,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-51"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-51"
     },
     {
       "sourceNumber": "52",
-      "question": "Jaké služby poskytují řízení letového provozu? letová informační služba (FIS) letecká informační služba (AIS) letecká pevná telekomunikační služba (AFS)",
+      "question": "Jaké služby poskytují řízení letového provozu?",
       "options": [
+        "letová informační služba (FIS) letecká informační služba (AIS) letecká pevná telekomunikační služba (AFS)",
         "pohotovostní služba (ALR) služba pátrání a záchrany (SAR) letištní služba řízení (TWR)",
         "přibližovací služba řízení (APP) oblastní služba řízení (ACC) letová informační služba (FIS)",
         "letištní služba řízení (TWR) přibližovací služba řízení (APP) oblastní služba řízení (ACC)"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-52"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -17360,14 +18695,31 @@ window.PPL_QUESTIONS = {
       "options": [
         "provozu VFR jsou zajištěny rozstupy pouze od provozu IFR",
         "provozu IFR jsou zajištěny rozstupy pouze od provozu VFR",
-        "provozu VFR nejsou zajištěny rozstupy od žádného provozu provozu VFR jsou zajištěny rozstupy od provozu VFR i IFR"
+        "provozu VFR nejsou zajištěny rozstupy od žádného provozu",
+        "provozu VFR jsou zajištěny rozstupy od provozu VFR i IFR"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-53"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-53"
+    },
+    {
+      "sourceNumber": "54",
+      "question": "Jaká letové provozní služby lze očekávat v letové informační oblasti (FIR)?",
+      "options": [
+        "řízení letového provozu (ATC) letová informační služba (FIS)",
+        "letová informační služba (FIS) pohotovostní služba (ALR)",
+        "letecká informační služba (AIS) služba pátrání a záchrany (SAR)",
+        "řízení letového provozu (ATC) letecká informační služba (AIS)"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-54"
     },
     {
       "sourceNumber": "55",
@@ -17375,28 +18727,31 @@ window.PPL_QUESTIONS = {
       "options": [
         "telefonicky",
         "internetem",
-        "rádiem osobní návštěvou"
+        "rádiem",
+        "osobní návštěvou"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-55"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-55"
     },
     {
       "sourceNumber": "56",
-      "question": "Jaká je správná fráze o turbulenci v úplavu označující, že lehké letadlo letí za letadlem vyšší kategorie turbulence v úplavu? pozor, výstupní plyny za proudovým motorem pozor, proud vzduchu za vrtulí",
+      "question": "Jaká je správná fráze o turbulenci v úplavu označující, že lehké letadlo letí za letadlem vyšší kategorie turbulence v úplavu?",
       "options": [
+        "pozor, výstupní plyny za proudovým motorem",
+        "pozor, proud vzduchu za vrtulí",
         "pozor, turbulence v úplavu",
         "dávejte pozor na vítr v úplavu"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-56"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-56"
     },
     {
       "sourceNumber": "57",
@@ -17412,50 +18767,103 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-57"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-57"
     },
     {
       "sourceNumber": "58",
       "question": "Co znamená zkratka AIREP?",
       "options": [
         "letecká informační zpráva",
-        "hlášení z letadla zpráva o požadavcích na letecké přístroje zpráva automatické identifikace"
+        "hlášení z letadla",
+        "zpráva o požadavcích na letecké přístroje",
+        "zpráva automatické identifikace"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-58"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-58"
+    },
+    {
+      "sourceNumber": "59",
+      "question": "Jaké informace obsahuje část GEN (všeobecně) Letecké informační příručky (AIP)?",
+      "options": [
+        "mapové značky, seznam radionavigačních zařízení, časy východu a západu slunce, letištní poplatky, poplatky za služby řízení letového provozu",
+        "letecké výstrahy, vzdušné prostory a tratě, omezené a nebezpečné prostory",
+        "obsah, seznam letišť s příslušnými mapami, přibližovací mapy, mapy pro pojíždění, omezené a nebezpečné prostory",
+        "omezení přístupu na letištích, kontroly cestujících, požadavky na piloty, vzory průkazů a doby jejich platnosti"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-59"
     },
     {
       "sourceNumber": "60",
       "question": "Jaké jsou části Letecké informační příručky (AIP)?",
       "options": [
         "GEN AGA COM",
-        "GEN COM MET GEN MET RAC",
+        "GEN COM MET",
+        "GEN MET RAC",
         "GEN ENR AD"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-60"
+    },
+    {
+      "sourceNumber": "61",
+      "question": "Jaké informace jsou v části AD Letecké informační příručky (AIP)?",
+      "options": [
+        "mapové značky, seznam radionavigačních zařízení, časy východu a západu slunce, letištní poplatky, poplatky za služby řízení letového provozu",
+        "letecké výstrahy, prostory a tratě služeb letového provozu, omezené a nebezpečné prostory",
+        "obsah, seznam letišť s příslušnými mapami, přibližovací mapy, mapy pro pojíždění",
+        "omezení přístupu na letiště, kontroly cestujících, požadavky na piloty, vzory průkazů a doby jejich platnosti"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-60"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-61"
     },
     {
       "sourceNumber": "63",
       "question": "Předletový informační bulletin (PIB) je prezentací platných:",
       "options": [
         "informací Letecké informační příručky významných pro provoz připravených před letem",
-        "informací NOTAM významných pro provoz připravených před letem informací leteckých informačních oběžníků (AIC) významných pro provoz připravených po letu informací ICAO významných pro provoz připravených po letu"
+        "informací NOTAM významných pro provoz připravených před letem",
+        "informací leteckých informačních oběžníků (AIC) významných pro provoz připravených po letu",
+        "informací ICAO významných pro provoz připravených po letu"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-63"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-63"
+    },
+    {
+      "sourceNumber": "64",
+      "question": "Pojem výška letiště nad mořem je definován jako:",
+      "options": [
+        "nejvyšší bod na odbavovací ploše",
+        "nejvyšší bod přistávací plochy",
+        "nejnižší bod přistávací plochy",
+        "průměrná hodnota nadmořské výšky pohybové plochy"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-64"
     },
     {
       "sourceNumber": "65",
@@ -17463,21 +18871,23 @@ window.PPL_QUESTIONS = {
       "options": [
         "kruhová oblast letiště u pravená na přistání a vzlety letadel",
         "obdélníková plocha na zemi nebo na vodě u pravená pro přistání a vzlety letadel",
-        "obdélníková plocha na pozemním letišti u pravená pro přistání a vzlety letadel obdélníková plocha na pozemním letišti u pravená na přistání a vzlety vrtulníků"
+        "obdélníková plocha na pozemním letišti u pravená pro přistání a vzlety letadel",
+        "obdélníková plocha na pozemním letišti u pravená na přistání a vzlety vrtulníků"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-65"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-65"
     },
     {
       "sourceNumber": "66",
       "question": "Jaký výrok o vyčkávacím bodu při pojíždění je pravdivý?",
       "options": [
         "vyčkávací bod při pojíždění je oblast, kde musí letadlo zastavit, dokud nedostane povolení pokračovat",
-        "vyčkávací bod při pojíždění je bod, ve kterém musí letadlo zastavit, dokud nedostane povolení pokračovat vyčkávací bod při pojíždění je navržen, aby označil začátek bezpečnostní oblasti a může být přejet, když bylo vydáno povolení pojíždět",
+        "vyčkávací bod při pojíždění je bod, ve kterém musí letadlo zastavit, dokud nedostane povolení pokračovat",
+        "vyčkávací bod při pojíždění je navržen, aby označil začátek bezpečnostní oblasti a může být přejet, když bylo vydáno povolení pojíždět",
         "vyčkávací bod při pojíždění slouží pouze pro provoz IFR, když převažují podmínky pro let podle přístrojů"
       ],
       "correctIndex": 1,
@@ -17485,7 +18895,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-66"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-66"
     },
     {
       "sourceNumber": "67",
@@ -17501,7 +18911,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-67"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-67"
     },
     {
       "sourceNumber": "68",
@@ -17509,14 +18919,31 @@ window.PPL_QUESTIONS = {
       "options": [
         "mokrý povrch, ale nejsou vidět význačné louže",
         "velká část povrchu je zatopená vodou",
-        "změna barvy povrchu kvůli vlhkosti na dráze není voda ani sníh nebo led"
+        "změna barvy povrchu kvůli vlhkosti",
+        "na dráze není voda ani sníh nebo led"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-68"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-68"
+    },
+    {
+      "sourceNumber": "69",
+      "question": "Co znamená, jeli hlášen stav dráhy \" mokré pásy \" (water patches)?",
+      "options": [
+        "mokrý povrch, ale nejsou vidět kaluže",
+        "velká část povrchu je zatopená vodou",
+        "jsou vidět kaluže stojící vody",
+        "na dráze není voda ani led nebo sníh"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-69"
     },
     {
       "sourceNumber": "70",
@@ -17524,28 +18951,31 @@ window.PPL_QUESTIONS = {
       "options": [
         "může být vyroben ze zeleného materiálu",
         "může být umístěn na vrchol řídící věže",
-        "může být obklopen bílým kruhem může být umístěn na velké černé ploše"
+        "může být obklopen bílým kruhem",
+        "může být umístěn na velké černé ploše"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-70"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-70"
     },
     {
       "sourceNumber": "71",
-      "question": "Co znamená signál letadlu na řízeném letišti blikajícím červeným světlem? vraťte se na přistání, je-li následován signálem stálým zeleným světlem dejte přednost jinému letadlu a pokračujte v letu po okruhu",
+      "question": "Co znamená signál letadlu na řízeném letišti blikajícím červeným světlem?",
       "options": [
+        "vraťte se na přistání, je-li následován signálem stálým zeleným světlem",
+        "dejte přednost jinému letadlu a pokračujte v letu po okruhu",
         "letiště není bezpečné, nepřistávejte",
         "přistání povoleno"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-71"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-71"
     },
     {
       "sourceNumber": "72",
@@ -17561,22 +18991,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-72"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-72"
     },
     {
       "sourceNumber": "73",
       "question": "Co znamená signál letadlu na řízeném letišti stálým zeleným světlem?",
       "options": [
         "vraťte se na přistání, je-li následován signálem stálým zeleným světlem",
-        "dejte přednost jinému letadlu a pokračujte v letu po okruhu letiště není bezpečné, nepřistávejte",
+        "dejte přednost jinému letadlu a pokračujte v letu po okruhu",
+        "letiště není bezpečné, nepřistávejte",
         "přistání povoleno"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-73"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-73"
+    },
+    {
+      "sourceNumber": "74",
+      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím bílým světlem?",
+      "options": [
+        "vzlet povolen",
+        "vraťte se zpět na odbavovací plochu",
+        "opusťte pojížděcí / vzletovou dráhu",
+        "pojíždění schváleno"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-74"
     },
     {
       "sourceNumber": "75",
@@ -17584,43 +19031,47 @@ window.PPL_QUESTIONS = {
       "options": [
         "vzlet povolen",
         "vraťte se zpět na odbavovací plochu",
-        "okamžitě pojíždějte mimo dráhu v použití pojíždění schváleno"
+        "okamžitě pojíždějte mimo dráhu v použití",
+        "pojíždění schváleno"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-75"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-75"
     },
     {
       "sourceNumber": "76",
-      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím zeleným světlem? vzlet povolen vraťte se zpět na odbavovací plochu",
+      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím zeleným světlem?",
       "options": [
+        "vzlet povolen",
+        "vraťte se zpět na odbavovací plochu",
         "přistaňte na tomto letišti a pojíždějte na odbavovací lochu",
         "pojíždění povoleno"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-76"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-76"
     },
     {
       "sourceNumber": "77",
-      "question": "Jaký tvar má ukazatel směru přistání? L",
+      "question": "Jaký tvar má ukazatel směru přistání?",
       "options": [
+        "L",
         "přímá šipka",
         "T",
         "zalomená šipka"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-77"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-77"
     },
     {
       "sourceNumber": "78",
@@ -17628,86 +19079,111 @@ window.PPL_QUESTIONS = {
       "options": [
         "je to osvětlená plocha, na které jsou umístěna vozidla pátrání a záchrany a hasičů",
         "je to zvlášť označená plocha pro vyzvedávání a shazování předmětů vlečených za letadly",
-        "obsahuje zvláštní symboly označující vizuálně podmínky na letišti pro letící letadla letadla pojíždějí na tuto plochu, aby získala světelné signály pro pojíždění a pro povolení vzletu"
+        "obsahuje zvláštní symboly označující vizuálně podmínky na letišti pro letící letadla",
+        "letadla pojíždějí na tuto plochu, aby získala světelné signály pro pojíždění a pro povolení vzletu"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-78"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-78"
+    },
+    {
+      "sourceNumber": "79",
+      "question": "Jak pilot potvrzuje přijetí světelných signálů za letu?",
+      "options": [
+        "zamáváním křídly (ve dne)",
+        "střídavými výchylkami směrovky",
+        "změnami otáček motoru",
+        "rychlými změnami podélného sklonu"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-79"
     },
     {
       "sourceNumber": "80",
       "question": "Co znamená stálé červené světlo jako signál letadlu na zemi na řízeném letišti?",
       "options": [
         "opusťte pojížděcí / vzletovou / přistávací dráhu",
-        "vraťte se na odbavovací plochu přistaňte na tomto letišti a pokračujte na odbavovací plochu",
+        "vraťte se na odbavovací plochu",
+        "přistaňte na tomto letišti a pokračujte na odbavovací plochu",
         "zastavte"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "Jak jsou značeny dvě paralelní dráhy?",
+      "options": [
+        "levá dráha má příponu \"-1\", pravá \"-2\"",
+        "levá dráha má příponu \"L\", označení pravé dráhy se nemění",
+        "označení levé dráhy se nemění, označení pravé dráhy se zvětší o 1",
+        "levá dráha má příponu \"L\", pravá \"R\""
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Jaká je barva zna čení vzletov é a přistávací dráh y podle Anexu 14 ICAO?",
+      "options": [
+        "žlutá",
+        "modrá",
+        "bílá",
+        "zelená"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-80"
-    },
-    {
-      "sourceNumber": "81",
-      "question": "Jak jsou značeny dvě paralelní dráhy? levá dráha má příponu \"-1\", pravá \"-2\" levá dráha má příponu \"L\", označení pravé dráhy se nemění",
-      "options": [
-        "označení levé dráhy se nemění, označení pravé dráhy se zvětší o 1",
-        "levá dráha má příponu \"L\", pravá \"R\""
-      ],
-      "correctIndex": 1,
-      "category": "Pravo",
-      "aircraft": "Letoun",
-      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
-      "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-81"
-    },
-    {
-      "sourceNumber": "82",
-      "question": "Jaká je barva zna čení vzletov é a přistávací dráh y podle Anexu 14 ICAO? žlutá",
-      "options": [
-        "modrá",
-        "bílá",
-        "zelená"
-      ],
-      "correctIndex": 1,
-      "category": "Pravo",
-      "aircraft": "Letoun",
-      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
-      "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-82"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-82"
     },
     {
       "sourceNumber": "83",
       "question": "Co znamená obrazec podélných pruhů stejných rozměrů rozložený symetricky po obou stranách osy vzletové a přistávací dráhy?",
       "options": [
         "před nimi neprovádějte dotyk se zemí",
-        "za nimi neprovádějte dotyk se zemí v tomto bodu je průsečík sestupové osy ILS s povrchem dráhy z této polohy lze zahájit rozjezd při vzletu"
+        "za nimi neprovádějte dotyk se zemí",
+        "v tomto bodu je průsečík sestupové osy ILS s povrchem dráhy",
+        "z této polohy lze zahájit rozjezd při vzletu"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-83"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-83"
     },
     {
       "sourceNumber": "86",
       "question": "Letištní maják (ABN) je:",
       "options": [
-        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu rotující maják umístěný na začátku konečného přiblížení a označující jeho polohu pilotům letadel za letu",
+        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi",
+        "pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu",
+        "rotující maják umístěný na začátku konečného přiblížení a označující jeho polohu pilotům letadel za letu",
         "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel za letu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-86"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-86"
     },
     {
       "sourceNumber": "87",
@@ -17723,98 +19199,144 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-87"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-87"
     },
     {
       "sourceNumber": "88",
       "question": "Jakou barvu mají koncová návěstidla dráhy?",
       "options": [
         "bílou",
-        "červenou zelenou modrou"
+        "červenou",
+        "zelenou",
+        "modrou"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-88"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-88"
     },
     {
-      "sourceNumber": "2500",
-      "question": "m v daném směru do dosažení parkovací plochy",
+      "sourceNumber": "89",
+      "question": "Co znamená znak v příloze? Viz obr. (ALW-019)",
       "options": [
-        "2500 m v daném směru do dosažení parkovací plochy",
-        "od této křižovatky je použitelná délka dráhy v daném směru 2500 m celková použitelná délka dráhy je v daném směru 2500 m"
-      ],
-      "correctIndex": 1,
-      "category": "Pravo",
-      "aircraft": "Letoun",
-      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
-      "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-2500"
-    },
-    {
-      "sourceNumber": "91",
-      "question": "Co znamená tento znak na letišti? Viz obr. (ALW-011) pozor, manévrovací plocha je špatná po delší dobu je přistání zakázáno",
-      "options": [
-        "probíhají lety kluzáků",
-        "po vzletu a před přistáním mají být všechny zatáčky provedeny doprava"
+        "poj ezdová dráha A",
+        "část A vzletové a přistávací dráhy",
+        "bod A na pojížděcí dráze",
+        "parkovací místo A"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
-      "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-91"
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-89"
     },
     {
-      "sourceNumber": "92",
-      "question": "Co znamená zobrazená pozemní značka v signální ploše letiště? Viz obr. (ALW-012) pozor, manévrovací plocha je špatná",
+      "sourceNumber": 90,
+      "question": "Co znamená znak v příloze? Viz obr. (ALW-020)",
       "options": [
-        "zákaz přistání na delší dobu",
-        "pohyb po zemi omezen na zpevněné povrchy",
-        "po vzletu a před přistáním je třeba provádět všechny zatáčky doprava"
+        "2500 m v daném směru do dosažení odletového bodu vzletové a přistávací dráhy",
+        "2500 m v daném směru do dosažení parkovací plochy",
+        "od této křižovatky je použitelná délka dráhy v daném směru 2500 m",
+        "celková použitelná délka dráhy je v daném směru 2500 m"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-92"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-90",
+      "imageCode": "ALW-020",
+      "image": "./assets/questions/ALW-020.jpg"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Co znamená tento znak na letišti? Viz obr. (ALW-011)",
+      "options": [
+        "pozor, manévrovací plocha je špatná",
+        "po delší dobu je přistání zakázáno",
+        "probíhají lety kluzáků",
+        "po vzletu a před přistáním mají být všechny zatáčky provedeny doprava"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-91"
+    },
+    {
+      "sourceNumber": "92",
+      "question": "Co znamená zobrazená pozemní značka v signální ploše letiště? Viz obr. (ALW-012)",
+      "options": [
+        "pozor, manévrovací plocha je špatná",
+        "zákaz přistání na delší dobu",
+        "pohyb po zemi omezen na zpevněné povrchy",
+        "po vzletu a před přistáním je třeba provádět všechny zatáčky doprava"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-92"
     },
     {
       "sourceNumber": "93",
       "question": "Co znamená zkratka DETRESFA?",
       "options": [
         "údobí tísně",
-        "údobí pohotovosti údobí nejistoty údobí záchrany"
+        "údobí pohotovosti",
+        "údobí nejistoty",
+        "údobí záchrany"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-93"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-93"
+    },
+    {
+      "sourceNumber": "94",
+      "question": "Kdo poskytuje služby pátrání a záchrany?",
+      "options": [
+        "pouze vojenské organizace",
+        "pouze civilní organizace",
+        "jak vojenské, tak civilní organizace",
+        "mezinárodní schválené organizace"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Letoun",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
+      "page": 19,
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-94"
     },
     {
       "sourceNumber": "95",
       "question": "Jak může pilot za letu potvrdit signál pátrání a záchrany na zemi?",
       "options": [
         "zamáváním křídel",
-        "několikerým vysunutím a zasunutím vztlakových klapek několikanásobnou oboustrannou výchylkou směrového kormidla opakovaným letem po parabolické trajektorii"
+        "několikerým vysunutím a zasunutím vztlakových klapek",
+        "několikanásobnou oboustrannou výchylkou směrového kormidla",
+        "opakovaným letem po parabolické trajektorii"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-95"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-95"
     },
     {
       "sourceNumber": "96",
       "question": "Jaké jsou z hlediska zjišťování příčin nehod a incidentů tři kategorie událostí?",
       "options": [
-        "incident, vážný incident, nehoda příhoda, případ, vážný případ",
+        "incident, vážný incident, nehoda",
+        "příhoda, případ, vážný případ",
         "příhoda, vážná příhoda, nehoda",
         "případ, havárie, katastrofa"
       ],
@@ -17823,22 +19345,87 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-96"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-96"
     },
     {
       "sourceNumber": "97",
-      "question": "Co je hlavním účelem zjišťování příčin leteckých nehod? stanovit viníka a navrhnout právní důsledky",
+      "question": "Co je hlavním účelem zjišťování příčin leteckých nehod?",
       "options": [
+        "stanovit viníka a navrhnout právní důsledky",
         "práce pro státního žalobce a následná pomoc při nehodě",
         "vyjasnit otázky pojištění vzhledem k odškodnění cestujících",
         "stanovit důvody a zpracovat bezpečnostní doporučení"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-(2)-97"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-97"
+    },
+    {
+      "sourceNumber": "1",
+      "question": "Který z následujících dokumentů musí být na palubě při mezinárodním letu? a) Osvědčení o zápisu do leteckého rejstříku b) Osvědčení letové způsobilosti c) Osvědčení kontroly letové způsobilosti d) EASA Form 1 e) Palubní deník f) Doklady každého člena posádky g) Technický deník letadla",
+      "options": [
+        "a, b, c, e, f",
+        "b, c, d, e, f, g",
+        "d, f, g",
+        "a, b, e, g"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-1"
+    },
+    {
+      "sourceNumber": "2",
+      "question": "Jaký prostor je možno proletět s určitými omezeními?",
+      "options": [
+        "zakázaný prostor",
+        "omezený prostor",
+        "nebezpečný prostor",
+        "bezletová zóna"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-2"
+    },
+    {
+      "sourceNumber": "3",
+      "question": "Kde lze nalézt druh omezení pro omezený prostor?",
+      "options": [
+        "mapa ICAO 1:500000",
+        "AIP",
+        "AIC",
+        "NOTAM"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-3"
+    },
+    {
+      "sourceNumber": "4",
+      "question": "Jaké je postavení pravidel a postupů vytvořených v EAS A, jako např. Part-SFCL, PART-MED?",
+      "options": [
+        "mají stejné postavení jako Annexy ICAO",
+        "nejsou právně závazné, slouží pouze jako návod",
+        "jsou částí nařízení EU a právně závazné ve všech členských státech EU",
+        "jsou právně závazné pouze po ratifikaci v jednotlivých členských státech EU"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 1,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -17854,7 +19441,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-5"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p2-5"
     },
     {
       "sourceNumber": "6",
@@ -17870,7 +19457,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-6"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-6"
     },
     {
       "sourceNumber": "7",
@@ -17886,7 +19473,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-7"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-7"
     },
     {
       "sourceNumber": "8",
@@ -17902,7 +19489,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-8"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Co je předmětem A n nexu 1 ICAO?",
+      "options": [
+        "způsobilost letových posádek",
+        "provoz letadel",
+        "letové provozní služby",
+        "pravidla létání"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-9"
+    },
+    {
+      "sourceNumber": "10",
+      "question": "Co je podle Part-FCL nezbytné po rozdílovém výcviku pilota vrtulníků?",
+      "options": [
+        "žádost o obnovu platnosti musí být podána stanoveným způsobem příslušnému úřadu",
+        "letový instruktor musí podepsat pilotovi zápisník letů nebo obdobný dokument",
+        "pilot musí v letecké škole absolvovat písemné přezkoušení",
+        "příslušnému úřadu musí být podán rozkaz k letu pro lety sólo"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 3,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-10"
     },
     {
       "sourceNumber": "11",
@@ -17918,7 +19537,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-11"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-11"
     },
     {
       "sourceNumber": "12",
@@ -17934,7 +19553,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-12"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-12"
     },
     {
       "sourceNumber": "13",
@@ -17950,7 +19569,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-13"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-13"
     },
     {
       "sourceNumber": "14",
@@ -17966,7 +19585,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-14"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-14"
+    },
+    {
+      "sourceNumber": "15",
+      "question": "Doba platnosti typové kvalifikace pro vrtulník je:",
+      "options": [
+        "2 roky",
+        "1 rok",
+        "5 let",
+        "10 let"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 4,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-15"
     },
     {
       "sourceNumber": "16",
@@ -17982,7 +19617,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-16"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-16"
     },
     {
       "sourceNumber": "17",
@@ -17998,7 +19633,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-17"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-17"
     },
     {
       "sourceNumber": "18",
@@ -18014,7 +19649,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-18"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Co je třeba provést při vstupu do oblasti s povinným rádiovým spojením (RMZ)?",
+      "options": [
+        "stále sledovat rádio a je-li to možné, navázat rádiové spojení",
+        "obdržet povolení pro vstup do této oblasti",
+        "odpovídač sekundárního radaru přepnout na mód C a 7000",
+        "obdržet povolení od místního leteckého úřadu"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-19"
+    },
+    {
+      "sourceNumber": "20",
+      "question": "Jakou podmínku je třeba splnit při zvláštním letu VFR?",
+      "options": [
+        "viditelnost země",
+        "minimální vzdálenost 2000 m od oblačnosti",
+        "minimální přízemní dohlednost 500 m",
+        "rychlost ne vyšší než 115 kt IAS"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 5,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-20"
     },
     {
       "sourceNumber": "21",
@@ -18030,7 +19697,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-21"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-21"
     },
     {
       "sourceNumber": "22",
@@ -18046,7 +19713,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-22"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-22"
     },
     {
       "sourceNumber": "23",
@@ -18062,7 +19729,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-23"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-23"
+    },
+    {
+      "sourceNumber": "24",
+      "question": "Let se nazývá za vidu, když:",
+      "options": [
+        "let je proveden podle pravidel letu za vid itelnosti",
+        "let je proveden v meteorologických podmínkách za viditelnosti",
+        "dohlednost za letu je více než 8 km",
+        "dohlednost za letu je více než 5 km"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-24"
+    },
+    {
+      "sourceNumber": "25",
+      "question": "Co znamená zkratka VMC?",
+      "options": [
+        "meteorologické podmínky pro let za viditelnosti",
+        "vizuální pravidla letu",
+        "měnící se meteorologické podmínky",
+        "podmínky pro let podle přístrojů"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 6,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-25"
     },
     {
       "sourceNumber": "26",
@@ -18078,7 +19777,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-26"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-26"
     },
     {
       "sourceNumber": "27",
@@ -18094,7 +19793,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-27"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-27"
     },
     {
       "sourceNumber": "28",
@@ -18102,14 +19801,127 @@ window.PPL_QUESTIONS = {
       "options": [
         "letoun letící zprava doleva má přednost, ten druhý se má vyhnout",
         "Cessna 152, protože lety IFR a obchodní lety mají přednost",
-        "Boeing 737, protože dopravní letadlo má větší rezervu výkonnosti řízení letového provozu (ATC) má rozhodnout, které z letadel se má vyhnout"
+        "Boeing 737, protože dopravní letadlo má větší rezervu výkonnosti",
+        "řízení letového provozu (ATC) má rozhodnout, které z letadel se má vyhnout"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-28"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Která z uvedených možností NENÍ dostatečný důvod pro let pod požadovanou minimální výškou?",
+      "options": [
+        "špatné meteorologické podmínky v blízkosti letiště",
+        "vzlet nebo přistání na letišti",
+        "odhoz vlečených předmětů na letišti",
+        "přiblížení bez přistání na letišti"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 7,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-29"
+    },
+    {
+      "sourceNumber": "30",
+      "question": "Jednomotorový pístový a turbovrtulový letoun letí proti sobě ve stejné výšce. Který z nich má změnit kurz, aby se vyhnul srážce?",
+      "options": [
+        "turbovrtulový letoun má dát přednost jednomotorovému pístovému letounu",
+        "obě letadla mají uhnout doprava",
+        "jednomotorový pístový letoun má dát přednost turbovrtulovému letounu",
+        "obě letadla mají uhnout doleva"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 7,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-30"
+    },
+    {
+      "sourceNumber": "31",
+      "question": "Jaké vzdálenosti od oblačnosti je nutno dodržovat při letu VFR ve třídách vzdušného prostoru C, D a E?",
+      "options": [
+        "1500 m horizontálně, 1000 ft vertikálně",
+        "1000 m horizontálně, 1500 ft vertikálně",
+        "1000 m horizontálně, 300 m vertikálně",
+        "1500 m horizontálně, 1000 m vertikálně"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 8,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Minimální letová dohlednost v 5000 ft MSL ve vzdušném prostoru třídy B pro let VFR je:",
+      "options": [
+        "5000 m",
+        "8000 m",
+        "3000 m",
+        "1500 m"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 8,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-32"
+    },
+    {
+      "sourceNumber": "33",
+      "question": "Jaká je minimální letová dohlednost ve vzdušném prostoru třídy C pro letadla letící za VFR v 5000 ft MSL?",
+      "options": [
+        "5000 m",
+        "8000 m",
+        "3000 m",
+        "1500 m"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 8,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-33"
+    },
+    {
+      "sourceNumber": "34",
+      "question": "Minimální letová dohlednost ve vzdušném prostoru třídy E pro letadlo letící za VFR ve FL 75 je:",
+      "options": [
+        "5000 m",
+        "8000 m",
+        "3000 m",
+        "1500 m"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 8,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-34"
+    },
+    {
+      "sourceNumber": "35",
+      "question": "Minimální letová dohlednost pro letadlo letící za VFR ve vzdušném prostoru třídy C ve FL 110 je:",
+      "options": [
+        "8000 m",
+        "5000 m",
+        "3000 m",
+        "1500 m"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 8,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-35"
     },
     {
       "sourceNumber": "36",
@@ -18125,7 +19937,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-36"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-36"
     },
     {
       "sourceNumber": "37",
@@ -18141,21 +19953,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-37"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-37"
     },
     {
       "sourceNumber": "38",
       "question": "Jaká je minimální dohlednost za letu ve vzdušném prostoru třídy C pod FL 100 pro let za VFR?",
       "options": [
         "8 km",
-        "5 km 1.5 km 10 km"
+        "5 km",
+        "1.5 km",
+        "10 km"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-38"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-38"
+    },
+    {
+      "sourceNumber": "39",
+      "question": "Jaká je minimální dohlednost za letu ve vzdušném prostoru třídy C ve FL 100 a nad ní pro letadlo letící za VFR?",
+      "options": [
+        "8 km",
+        "5 km",
+        "1.5 km",
+        "10 km"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 9,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-39"
     },
     {
       "sourceNumber": "40",
@@ -18171,7 +20001,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-40"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-40"
     },
     {
       "sourceNumber": "41",
@@ -18179,29 +20009,47 @@ window.PPL_QUESTIONS = {
       "options": [
         "vstupujete do omezeného prostoru, okamžitě opusťte tento vzdušný prostor",
         "následujte mě",
-        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru jste vzdálen od všech omezených nebo vyhrazených prostorů, můžete pokračovat stávajícím kurzem"
+        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru",
+        "jste vzdálen od všech omezených nebo vyhrazených prostorů, můžete pokračovat stávajícím kurzem"
       ],
       "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-41"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-41"
     },
     {
       "sourceNumber": "42",
       "question": "Jaký je význam následujícího signálu při zakročování vojenským letadlem ve dne? Náhlá změna kurzu o 90° nebo více a přitažení letadla bez překřižování dráhy letadla, proti kterému je zakročováno.",
       "options": [
         "vstupujete do omezeného prostoru, opusťte okamžitě tento prostor",
-        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru následujte mě, přivedu Vás na nejbližší vhodné letiště",
+        "připravte se na bezpečnostní přistání, vstoupil jste do zakázaného prostoru",
+        "následujte mě, přivedu Vás na nejbližší vhodné letiště",
         "můžete pokračovat v letu"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 10,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-42"
+    },
+    {
+      "sourceNumber": "43",
+      "question": "Výškoměr má být přestaven z místního QNH na 1013.25 hPa:",
+      "options": [
+        "ve 4000 ft",
+        "ve výšce rozhodnutí",
+        "ve stoupání nad převodní výšku",
+        "při klesání pod FL 100"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-42"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-43"
     },
     {
       "sourceNumber": "44",
@@ -18217,22 +20065,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-44"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-44"
     },
     {
       "sourceNumber": "45",
-      "question": "Jaký je účel půlkruhového pravidla? zabránit srážkám snížením pravděpodobnosti protisměrného provozu ve stejných nadmořských výškách",
+      "question": "Jaký je účel půlkruhového pravidla?",
       "options": [
+        "zabránit srážkám snížením pravděpodobnosti protisměrného provozu ve stejných nadmořských výškách",
         "umožnit bezpečné stoupání nebo klesání ve vyčkávacím obrazci",
         "zabránit srážkám omezením manévrů zatáčení",
         "létat bez podaného letového plánu ve stanovených zónách publikovaných v AIP"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-45"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-45"
     },
     {
       "sourceNumber": "46",
@@ -18248,22 +20097,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-46"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-46"
     },
     {
       "sourceNumber": "47",
       "question": "Odpovídač sekundárního radaru schopný vysílat tlakovou hladinu letu je:",
       "options": [
         "odpovídač módu A",
-        "tlakový dekodér odpovídač schválený pro třídu vzdušného prostu B",
+        "tlakový dekodér",
+        "odpovídač schválený pro třídu vzdušného prostu B",
         "odpovídač módu C nebo S"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-47"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-47"
+    },
+    {
+      "sourceNumber": "48",
+      "question": "Jaký kód odpovídače sekundárného radaru znamená ztrátu spojení?",
+      "options": [
+        "7000",
+        "2000",
+        "7700",
+        "7600"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 11,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-48"
     },
     {
       "sourceNumber": "49",
@@ -18279,7 +20145,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-49"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-49"
     },
     {
       "sourceNumber": "50",
@@ -18295,7 +20161,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-50"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-50"
     },
     {
       "sourceNumber": "51",
@@ -18311,21 +20177,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-51"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-51"
     },
     {
       "sourceNumber": "52",
       "question": "Jaké služby poskytují řízení letového provozu?",
       "options": [
-        "letová informační služba (FIS) letecká informační služba (AIS) letecká pevná telekomunikační služba (AFS) pohotovostní služba (ALR) služba pátrání a záchrany (SAR) letištní služba řízení (TWR) přibližovací služba řízení (APP) oblastní služba řízení (ACC) letová informační služba (FIS)",
+        "letová informační služba (FIS) letecká informační služba (AIS) letecká pevná telekomunikační služba (AFS)",
+        "pohotovostní služba (ALR) služba pátrání a záchrany (SAR) letištní služba řízení (TWR)",
+        "přibližovací služba řízení (APP) oblastní služba řízení (ACC) letová informační služba (FIS)",
         "letištní řídící služba (TWR) přibližovací služba řízení (APP) oblastní služba řízení (ACC)"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-52"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-52"
+    },
+    {
+      "sourceNumber": "53",
+      "question": "Jaká odpověď o rozstupech ve vzdušném prostoru třídy E je správná?",
+      "options": [
+        "provozu VFR jsou zajištěny rozstupy pouze od provozu IFR",
+        "provozu IFR jsou zajištěny rozstupy pouze od provozu VFR",
+        "provozu VFR nejsou zajištěny rozstupy od žádného provozu",
+        "provozu VFR jsou zajištěny rozstupy od provozu VFR i IFR"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 12,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-53"
     },
     {
       "sourceNumber": "54",
@@ -18341,7 +20225,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-54"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-54"
     },
     {
       "sourceNumber": "55",
@@ -18357,7 +20241,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-55"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-55"
     },
     {
       "sourceNumber": "56",
@@ -18365,14 +20249,47 @@ window.PPL_QUESTIONS = {
       "options": [
         "pozor, výstupní plyny za proudovým motorem",
         "pozor, proud vzduchu za vrtulí",
-        "pozor, turbulence v úplavu dávejte pozor na vítr v úplavu"
+        "pozor, turbulence v úplavu",
+        "dávejte pozor na vítr v úplavu"
       ],
       "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-56"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Která z následujících možností znamená správné hlášení polohy?",
+      "options": [
+        "OKABC, \"N\", 2500 ft",
+        "OKABC nad \"N\" v letové hladině 2500 ft",
+        "OKABC prolétávám nad \"N\"",
+        "OKABC nad \"N\" ve 35"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-57"
+    },
+    {
+      "sourceNumber": "58",
+      "question": "Co znamená zkratka AIREP?",
+      "options": [
+        "letecká informační zpráva",
+        "Hlášení z letadla",
+        "zpráva o požadavcích na letecké přístroje",
+        "zpráva automatické identifikace"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 13,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-58"
     },
     {
       "sourceNumber": "59",
@@ -18388,7 +20305,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-59"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-59"
     },
     {
       "sourceNumber": "60",
@@ -18404,22 +20321,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-60"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-60"
     },
     {
       "sourceNumber": "61",
       "question": "Jaké informace jsou v části AD Letecké informační příručky (AIP)?",
       "options": [
-        "mapové značky, seznam radionavigačních příruček, časy východu a západu slunce, letištní poplatky, poplatky služeb řízení letového provozu letecké výstrahy, prostory a tratě služeb letového provozu, omezené a nebezpečné prostory",
+        "mapové značky, seznam radionavigačních příruček, časy východu a západu slunce, letištní poplatky, poplatky služeb řízení letového provozu",
+        "letecké výstrahy, prostory a tratě služeb letového provozu, omezené a nebezpečné prostory",
         "obsah, seznam letišť s příslušnými mapami, přibližovací mapy, mapy pro pojíždění",
         "omezení přístupu na letiště, kontroly cestujících, požadavky na piloty, vzory průkazů a doby jejich platnosti"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-61"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-61"
+    },
+    {
+      "sourceNumber": "62",
+      "question": "Následující NOTAM je platný do: A1024/13 A) LOWW B) 1305211200 C) 1305211400 E) STOCKERAU VOR STO 113.00 UNSERVICEABLE.",
+      "options": [
+        "21/05/2013 14:00 UTC",
+        "21/05/2014 13:00 UTC",
+        "13/05/2013 12:00 UTC",
+        "13/10/2013 00:00 UTC"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 14,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-62"
     },
     {
       "sourceNumber": "63",
@@ -18435,7 +20369,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-63"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-63"
     },
     {
       "sourceNumber": "64",
@@ -18451,7 +20385,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-64"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-64"
     },
     {
       "sourceNumber": "65",
@@ -18467,21 +20401,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-65"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-65"
     },
     {
       "sourceNumber": "66",
-      "question": "Jaký výrok o vyčkávacím bodu při pojíždění je pravdivý? vyčkávací bod při pojíždění je oblast, kde musí letadlo zastavit, dokud nedostane povolení pokračovat",
+      "question": "Jaký výrok o vyčkávacím bodu při pojíždění je pravdivý?",
       "options": [
+        "vyčkávací bod při pojíždění je oblast, kde musí letadlo zastavit, dokud nedostane povolení pokračovat",
         "vyčkávací bod při pojíždění je bod, ve kterém musí letadlo zastavit, dokud nedostane povolení pokračovat",
-        "vyčkávací bod při pojíždění je navržen, aby označil začátek bezpečnostní oblasti, a může být přejet, když bylo vydáno povolení pojíždět vyčkáva cí bod při pojíždění slouží pouze pro provoz IFR, když převažují podmínky pro let podle přístrojů"
+        "vyčkávací bod při pojíždění je navržen, aby označil začátek bezpečnostní oblasti, a může být přejet, když bylo vydáno povolení pojíždět",
+        "vyčkáva cí bod při pojíždění slouží pouze pro provoz IFR, když převažují podmínky pro let podle přístrojů"
+      ],
+      "correctIndex": 1,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 15,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-66"
+    },
+    {
+      "sourceNumber": "67",
+      "question": "Co znamená, je-li hlášen stav dráhy \"mokrá\" (wet)?",
+      "options": [
+        "povrch dráhy je nasycen, ale nejsou tam žádné významné louže nebo stojící voda",
+        "velká část povrchu dráhy je zatopena vodou",
+        "na povrchu dráhy jsou vidět kaluže vody",
+        "na povrchu dráhy není voda ani led nebo sníh"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-66"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-67"
     },
     {
       "sourceNumber": "68",
@@ -18497,7 +20449,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-68"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-68"
     },
     {
       "sourceNumber": "69",
@@ -18513,7 +20465,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-69"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-69"
     },
     {
       "sourceNumber": "70",
@@ -18529,7 +20481,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-70"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-70"
+    },
+    {
+      "sourceNumber": "71",
+      "question": "Co znamená signál letadlu na řízeném letišti blikajícím červeným světlem?",
+      "options": [
+        "vraťte se na přistání, je-li následován signálem stálým zeleným světlem",
+        "dejte přednost jinému letadlu a pokračujte v letu po okruhu",
+        "letiště není bezpečné, nepřistávejte",
+        "přistání povoleno"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-71"
+    },
+    {
+      "sourceNumber": "72",
+      "question": "Co znamená signál letadlu na řízeném letišti blikajícím zeleným světlem?",
+      "options": [
+        "vraťte se na přistání, je-li následován signálem stálým zeleným světlem",
+        "dejte přednost jinému letadlu a pokračujte v letu po okruhu",
+        "letiště není bezpečné, nepřistávejte",
+        "přistání povoleno"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 16,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-72"
     },
     {
       "sourceNumber": "73",
@@ -18545,7 +20529,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-73"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-73"
     },
     {
       "sourceNumber": "74",
@@ -18561,7 +20545,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-74"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-74"
     },
     {
       "sourceNumber": "75",
@@ -18577,7 +20561,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-75"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-75"
+    },
+    {
+      "sourceNumber": "76",
+      "question": "Co znamená signál letadlu na zemi na řízeném letišti blikajícím zeleným světlem?",
+      "options": [
+        "vzlet povolen",
+        "vraťte se zpět na odbavovací plochu",
+        "přistaňte na tomto letišti a pojíždějte na odbavovací p lochu",
+        "pojíždění povoleno"
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-76"
+    },
+    {
+      "sourceNumber": "77",
+      "question": "Jaký tvar má ukazatel směru přistání?",
+      "options": [
+        "L",
+        "přímá šipka",
+        "T",
+        "zalomená šipka"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 17,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-77"
     },
     {
       "sourceNumber": "78",
@@ -18593,7 +20609,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-78"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-78"
     },
     {
       "sourceNumber": "79",
@@ -18609,7 +20625,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-79"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-79"
     },
     {
       "sourceNumber": "80",
@@ -18625,7 +20641,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-80"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-80"
+    },
+    {
+      "sourceNumber": "81",
+      "question": "Jak jsou značeny dvě paralelní dráhy?",
+      "options": [
+        "levá dráha má příponu \"-1\", pravá \"-2\"",
+        "levá dráha má příponu \"L\", označení pravé dráhy se nemění",
+        "označení levé dráhy se nemění, označení pravé dráhy se zvětší o 1",
+        "levá dráha má příponu \"L\", pravá \"R\""
+      ],
+      "correctIndex": 3,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-81"
+    },
+    {
+      "sourceNumber": "82",
+      "question": "Jaká je barva značení označující ho vzletovou a přistávací dráhu podle Annexu 14 ICAO?",
+      "options": [
+        "žlutá",
+        "modrá",
+        "bílá",
+        "zelená"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 18,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-82"
     },
     {
       "sourceNumber": "83",
@@ -18641,7 +20689,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-83"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-83"
     },
     {
       "sourceNumber": "84",
@@ -18657,7 +20705,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-84"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-84"
     },
     {
       "sourceNumber": "85",
@@ -18673,21 +20721,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-85"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-85"
     },
     {
       "sourceNumber": "86",
-      "question": "Letištní maják (ABN) je: rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu",
+      "question": "Letištní maják (ABN) je:",
       "options": [
+        "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel na zemi",
+        "pevný maják umístěný na letišti a označující jeho polohu pilotům letadel za letu",
         "rotující maják umístěný na začátku konečného přiblížení a označující jeho polohu pilotům letadel za letu",
         "rotující maják umístěný na letišti a označující jeho polohu pilotům letadel za letu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-86"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-86"
     },
     {
       "sourceNumber": "87",
@@ -18703,7 +20753,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-87"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-87"
     },
     {
       "sourceNumber": "88",
@@ -18719,7 +20769,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-88"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-88"
     },
     {
       "sourceNumber": "89",
@@ -18735,7 +20785,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-89"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-89"
+    },
+    {
+      "sourceNumber": "90",
+      "question": "Co znamená znak v příloze? Viz obr. (ALW-020)",
+      "options": [
+        "2500 m v daném směru do dosažení odletového bodu dráhy",
+        "2500 m v daném směru do dosažení parkovací plochy",
+        "od této křižovatky je použitelná délka dráhy v daném směru 2500 m",
+        "celková použitelná délka dráhy je v daném směru 2500 m"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-90"
+    },
+    {
+      "sourceNumber": "91",
+      "question": "Co znamená tento znak na letišti? Viz obr. (ALW-011)",
+      "options": [
+        "pozor, manévrovací plocha je špatná",
+        "po delší dobu je přistání zakázáno",
+        "probíhají lety kluzáků",
+        "po vzletu a před přistáním mají být všechny zatáčky provedeny doprava"
+      ],
+      "correctIndex": 2,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 20,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-91"
     },
     {
       "sourceNumber": "92",
@@ -18751,7 +20833,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-92"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-92"
     },
     {
       "sourceNumber": "93",
@@ -18767,7 +20849,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-93"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-93"
     },
     {
       "sourceNumber": "94",
@@ -18783,7 +20865,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-94"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-94"
+    },
+    {
+      "sourceNumber": "95",
+      "question": "Jak může pilot za letu potvrdit signál pátrání a záchrany na zemi?",
+      "options": [
+        "zamáváním křídel",
+        "několikerým vysunutím a zasunutím vztlakových klapek",
+        "několikanásobnou oboustrannou výchylkou směrového kormidla",
+        "opakovaným letem po parabolické trajektorii"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 21,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-95"
+    },
+    {
+      "sourceNumber": "96",
+      "question": "Jaké jsou z hlediska zjišťování příčin nehod a incidentů tři kategorie událostí?",
+      "options": [
+        "incident, vážný incident, nehoda",
+        "příhoda, případ, vážný případ",
+        "příhoda, vážná příhoda, nehoda",
+        "případ, havárie, katastrofa"
+      ],
+      "correctIndex": 0,
+      "category": "Pravo",
+      "aircraft": "Vrtulnik",
+      "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
+      "page": 21,
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-96"
     },
     {
       "sourceNumber": "97",
@@ -18799,7 +20913,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 22,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-(1)-97"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p22-97"
     },
     {
       "sourceNumber": "1",
@@ -18815,7 +20929,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-1"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -18831,7 +20945,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-2"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -18847,7 +20961,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-3"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -18863,7 +20977,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-4"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -18879,7 +20993,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-5"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -18895,7 +21009,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-6"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -18911,7 +21025,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-7"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -18927,7 +21041,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-8"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -18943,7 +21057,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-9"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -18959,7 +21073,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-10"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-10"
     },
     {
       "sourceNumber": "11",
@@ -18975,7 +21089,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-11"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -18991,7 +21105,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-12"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -19007,7 +21121,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-13"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -19023,7 +21137,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-14"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -19039,7 +21153,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-15"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-15"
     },
     {
       "sourceNumber": "16",
@@ -19055,7 +21169,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-16"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -19071,7 +21185,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-17"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -19087,7 +21201,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-18"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -19103,7 +21217,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-19"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -19119,7 +21233,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-20"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-20"
     },
     {
       "sourceNumber": "21",
@@ -19135,7 +21249,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-21"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -19151,7 +21265,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-22"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -19167,7 +21281,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-23"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -19183,7 +21297,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-24"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -19199,7 +21313,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-25"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-25"
     },
     {
       "sourceNumber": "26",
@@ -19215,7 +21329,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-26"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -19231,7 +21345,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-27"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -19247,7 +21361,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-28"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -19263,7 +21377,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-29"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-29",
+      "image": "./assets/questions/PFP-052E.jpg",
+      "imageCode": "PFP-052E"
     },
     {
       "sourceNumber": "30",
@@ -19279,7 +21395,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-30"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-30"
     },
     {
       "sourceNumber": "31",
@@ -19295,7 +21411,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-31"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-31"
     },
     {
       "sourceNumber": "32",
@@ -19311,7 +21427,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-32"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -19327,7 +21443,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-33"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -19343,7 +21459,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-34"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-34",
+      "image": "./assets/questions/PFP-053E.jpg",
+      "imageCode": "PFP-053E"
     },
     {
       "sourceNumber": "35",
@@ -19359,7 +21477,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-35"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-35",
+      "image": "./assets/questions/PFP-003.jpg",
+      "imageCode": "PFP-003"
     },
     {
       "sourceNumber": "36",
@@ -19375,7 +21495,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-36"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-36",
+      "image": "./assets/questions/PFP-004.jpg",
+      "imageCode": "PFP-004"
     },
     {
       "sourceNumber": "37",
@@ -19391,7 +21513,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-37"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-37",
+      "image": "./assets/questions/PFP-005.jpg",
+      "imageCode": "PFP-005"
     },
     {
       "sourceNumber": "38",
@@ -19407,22 +21531,25 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 8,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-38"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-38",
+      "image": "./assets/questions/PFP-006.jpg",
+      "imageCode": "PFP-006"
     },
     {
       "sourceNumber": "39",
       "question": "Pojem maximální hodnota nadmořské výšky terénu (maximum elevation figure – MEF) je definován jako:",
       "options": [
-        "nejvyšší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva, zaokrouhleno na nejbližších vyšších 100 ft nejvyšší nadmořská výška terénu pokrývající oblast 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva 1000 ft (305 m), zaokrouhleno na nejbližších vyšších 100 ft",
+        "nejvyšší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva, zaokrouhleno na nejbližších vyšších 100 ft",
+        "nejvyšší nadmořská výška terénu pokrývající oblast 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva 1000 ft (305 m), zaokrouhleno na nejbližších vyšších 100 ft",
         "největší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky",
         "největší nadmořská výška terénu pokrývající oblast 1 stupně zeměpisné šířky a délky plus bezpečnostní rezerva zaokrouhlená na nejbližších nižších 100 ft"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Provedeni a planovani letu",
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-39"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-39"
     },
     {
       "sourceNumber": "40",
@@ -19438,7 +21565,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-40"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-40"
     },
     {
       "sourceNumber": "41",
@@ -19454,7 +21581,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-41"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -19470,7 +21597,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-42"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -19486,7 +21613,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-43"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-43",
+      "image": "./assets/questions/PFP-056.jpg",
+      "imageCode": "PFP-056"
     },
     {
       "sourceNumber": "44",
@@ -19502,7 +21631,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-44"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-44",
+      "image": "./assets/questions/PFP-030.jpg",
+      "imageCode": "PFP-030"
     },
     {
       "sourceNumber": "45",
@@ -19518,7 +21649,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-45"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-45"
     },
     {
       "sourceNumber": "46",
@@ -19534,7 +21665,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-46"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-46"
     },
     {
       "sourceNumber": "47",
@@ -19550,7 +21681,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-47"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -19566,7 +21697,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-48"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-48"
     },
     {
       "sourceNumber": "49",
@@ -19582,7 +21713,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-49"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-49"
     },
     {
       "sourceNumber": "50",
@@ -19598,7 +21729,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-50"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-50",
+      "image": "./assets/questions/PFP-026.jpg",
+      "imageCode": "PFP-026"
     },
     {
       "sourceNumber": "51",
@@ -19614,7 +21747,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-51"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-51",
+      "image": "./assets/questions/PFP-024.jpg",
+      "imageCode": "PFP-024"
     },
     {
       "sourceNumber": "52",
@@ -19630,7 +21765,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-52"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-52"
     },
     {
       "sourceNumber": "53",
@@ -19646,7 +21781,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-53"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-53",
+      "image": "./assets/questions/PFP-051A.jpg",
+      "imageCode": "PFP-051A"
     },
     {
       "sourceNumber": "54",
@@ -19662,7 +21799,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-54"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-54",
+      "image": "./assets/questions/PFP-051.jpg",
+      "imageCode": "PFP-051"
     },
     {
       "sourceNumber": "55",
@@ -19678,7 +21817,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-55"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-55"
     },
     {
       "sourceNumber": "56",
@@ -19694,7 +21833,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-56"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-56"
     },
     {
       "sourceNumber": "57",
@@ -19710,7 +21849,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-57"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-57"
     },
     {
       "sourceNumber": "58",
@@ -19726,7 +21865,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-58"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-58"
     },
     {
       "sourceNumber": "59",
@@ -19742,7 +21881,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-59"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-59"
     },
     {
       "sourceNumber": "60",
@@ -19758,7 +21897,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-60"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-60",
+      "image": "./assets/questions/PFP-045.jpg",
+      "imageCode": "PFP-045"
     },
     {
       "sourceNumber": "61",
@@ -19774,7 +21915,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-61"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-61",
+      "image": "./assets/questions/PFP-046.jpg",
+      "imageCode": "PFP-046"
     },
     {
       "sourceNumber": "62",
@@ -19790,7 +21933,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-62"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-62"
     },
     {
       "sourceNumber": "63",
@@ -19806,7 +21949,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-63"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-63"
     },
     {
       "sourceNumber": "64",
@@ -19822,7 +21965,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-64"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-64"
     },
     {
       "sourceNumber": "65",
@@ -19838,7 +21981,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-65"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-65"
     },
     {
       "sourceNumber": "66",
@@ -19854,7 +21997,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-66"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-66",
+      "image": "./assets/questions/PFP-044.jpg",
+      "imageCode": "PFP-044"
     },
     {
       "sourceNumber": "67",
@@ -19870,7 +22015,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-67"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-67",
+      "image": "./assets/questions/PFP-044.jpg",
+      "imageCode": "PFP-044"
     },
     {
       "sourceNumber": "68",
@@ -19886,7 +22033,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-68"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-68"
     },
     {
       "sourceNumber": "69",
@@ -19902,7 +22049,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-69"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-69"
     },
     {
       "sourceNumber": "70",
@@ -19918,7 +22065,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-70"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-70"
     },
     {
       "sourceNumber": "71",
@@ -19934,7 +22081,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-71"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-71"
     },
     {
       "sourceNumber": "72",
@@ -19950,7 +22097,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-72"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-72"
     },
     {
       "sourceNumber": "73",
@@ -19966,7 +22113,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-73"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-73"
     },
     {
       "sourceNumber": "74",
@@ -19982,7 +22129,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-74"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-74"
     },
     {
       "sourceNumber": "75",
@@ -19998,7 +22145,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-75"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-75"
     },
     {
       "sourceNumber": "76",
@@ -20014,7 +22161,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-76"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-76"
     },
     {
       "sourceNumber": "77",
@@ -20030,7 +22177,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-77"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-77"
     },
     {
       "sourceNumber": "78",
@@ -20046,7 +22193,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-78"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-78",
+      "image": "./assets/questions/PFP-045.jpg",
+      "imageCode": "PFP-045"
     },
     {
       "sourceNumber": "79",
@@ -20062,7 +22211,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-79"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-79",
+      "image": "./assets/questions/PFP-045.jpg",
+      "imageCode": "PFP-045"
     },
     {
       "sourceNumber": "80",
@@ -20078,7 +22229,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-80"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-80",
+      "image": "./assets/questions/PFP-061.jpg",
+      "imageCode": "PFP-061"
     },
     {
       "sourceNumber": "81",
@@ -20094,7 +22247,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 18,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-81"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p18-81",
+      "image": "./assets/questions/PFP-062.jpg",
+      "imageCode": "PFP-062"
     },
     {
       "sourceNumber": "82",
@@ -20110,7 +22265,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 18,
-      "id": "7-provedeni-a-planovani-letu-–-vrtulnik-opr.1-82"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p18-82",
+      "image": "./assets/questions/PFP-063.jpg",
+      "imageCode": "PFP-063"
     },
     {
       "sourceNumber": "1",
@@ -20126,7 +22283,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-1"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -20142,7 +22299,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-2"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -20158,7 +22315,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-3"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -20174,7 +22331,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-4"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -20190,7 +22347,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-5"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -20206,7 +22363,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-6"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -20222,7 +22379,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-7"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -20238,7 +22395,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-8"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -20254,7 +22411,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-9"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -20270,7 +22427,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-10"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-10"
     },
     {
       "sourceNumber": "11",
@@ -20286,7 +22443,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-11"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -20302,7 +22459,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-12"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -20318,7 +22475,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-13"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -20334,7 +22491,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-14"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -20350,7 +22507,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-15"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-15"
     },
     {
       "sourceNumber": "16",
@@ -20366,7 +22523,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-16"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -20382,7 +22539,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-17"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -20398,7 +22555,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-18"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -20414,7 +22571,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-19"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -20430,7 +22587,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-20"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-20"
     },
     {
       "sourceNumber": "21",
@@ -20446,7 +22603,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-21"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -20462,7 +22619,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-22"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -20478,7 +22635,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-23"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -20494,7 +22651,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-24"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -20510,7 +22667,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-25"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-25"
     },
     {
       "sourceNumber": "26",
@@ -20526,7 +22683,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-26"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-26",
+      "image": "./assets/questions/PFP-052E.jpg",
+      "imageCode": "PFP-052E"
     },
     {
       "sourceNumber": "27",
@@ -20542,7 +22701,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-27"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -20558,7 +22717,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-28"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -20574,7 +22733,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-29"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -20590,7 +22749,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-30"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-30"
     },
     {
       "sourceNumber": "31",
@@ -20606,7 +22765,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-31"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-31",
+      "image": "./assets/questions/PFP-053E.jpg",
+      "imageCode": "PFP-053E"
     },
     {
       "sourceNumber": "32",
@@ -20622,7 +22783,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-32"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-32",
+      "image": "./assets/questions/PFP-003.jpg",
+      "imageCode": "PFP-003"
     },
     {
       "sourceNumber": "33",
@@ -20638,7 +22801,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-33"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-33",
+      "image": "./assets/questions/PFP-004.jpg",
+      "imageCode": "PFP-004"
     },
     {
       "sourceNumber": "34",
@@ -20654,11 +22819,13 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-34"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-34",
+      "image": "./assets/questions/PFP-005.jpg",
+      "imageCode": "PFP-005"
     },
     {
       "sourceNumber": "35",
-      "question": "Viz obr. (PFP-006)",
+      "question": "Jaká je naposledy stanovená prázdná hmotnost a poloha těžiště (CG) z dokumentace letadla? Viz obr. (PFP-006)",
       "options": [
         "512 kg, 285.39 m",
         "400 kg, 1.1 m",
@@ -20670,7 +22837,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-35"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-35",
+      "image": "./assets/questions/PFP-006.jpg",
+      "imageCode": "PFP-006"
     },
     {
       "sourceNumber": "36",
@@ -20686,7 +22855,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-36"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-36",
+      "image": "./assets/questions/PFP-007.jpg",
+      "imageCode": "PFP-007"
     },
     {
       "sourceNumber": "37",
@@ -20702,7 +22873,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-37"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -20718,7 +22889,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-38"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -20734,7 +22905,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-39"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-39"
     },
     {
       "sourceNumber": "40",
@@ -20750,7 +22921,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-40"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-40"
     },
     {
       "sourceNumber": "41",
@@ -20766,7 +22937,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-41"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-41"
     },
     {
       "sourceNumber": "42",
@@ -20782,7 +22953,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-42"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -20798,7 +22969,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-43"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-43"
     },
     {
       "sourceNumber": "44",
@@ -20814,7 +22985,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-44"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-44"
     },
     {
       "sourceNumber": "45",
@@ -20830,7 +23001,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-45"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-45"
     },
     {
       "sourceNumber": "46",
@@ -20846,7 +23017,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-46"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-46"
     },
     {
       "sourceNumber": "47",
@@ -20862,7 +23033,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-47"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-47"
     },
     {
       "sourceNumber": "48",
@@ -20878,7 +23049,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-48"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-48",
+      "image": "./assets/questions/PFP-008.jpg",
+      "imageCode": "PFP-008"
     },
     {
       "sourceNumber": "49",
@@ -20894,7 +23067,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-49"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-49",
+      "image": "./assets/questions/PFP-008.jpg",
+      "imageCode": "PFP-008"
     },
     {
       "sourceNumber": "50",
@@ -20910,7 +23085,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-50"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-50",
+      "image": "./assets/questions/PFP-008.jpg",
+      "imageCode": "PFP-008"
     },
     {
       "sourceNumber": "51",
@@ -20926,7 +23103,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-51"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-51"
     },
     {
       "sourceNumber": "52",
@@ -20942,7 +23119,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-52"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-52"
     },
     {
       "sourceNumber": "53",
@@ -20958,7 +23135,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-53"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-53",
+      "image": "./assets/questions/PFP-009.jpg",
+      "imageCode": "PFP-009"
     },
     {
       "sourceNumber": "54",
@@ -20974,7 +23153,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-54"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-54"
     },
     {
       "sourceNumber": "55",
@@ -20990,7 +23169,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-55"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-55",
+      "image": "./assets/questions/PFP-009.jpg",
+      "imageCode": "PFP-009"
     },
     {
       "sourceNumber": "56",
@@ -21006,7 +23187,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-56"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-56",
+      "image": "./assets/questions/PFP-009.jpg",
+      "imageCode": "PFP-009"
     },
     {
       "sourceNumber": "57",
@@ -21022,7 +23205,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-57"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-57"
     },
     {
       "sourceNumber": "58",
@@ -21038,7 +23221,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-58"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-58",
+      "image": "./assets/questions/PFP-012.jpg",
+      "imageCode": "PFP-012"
     },
     {
       "sourceNumber": "59",
@@ -21054,7 +23239,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-59"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-59",
+      "image": "./assets/questions/PFP-011.jpg",
+      "imageCode": "PFP-011"
     },
     {
       "sourceNumber": "60",
@@ -21070,7 +23257,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-60"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-60",
+      "image": "./assets/questions/PFP-013.jpg",
+      "imageCode": "PFP-013"
     },
     {
       "sourceNumber": "61",
@@ -21086,7 +23275,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-61"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-61",
+      "image": "./assets/questions/PFP-013.jpg",
+      "imageCode": "PFP-013"
     },
     {
       "sourceNumber": "62",
@@ -21102,7 +23293,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-62"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-62",
+      "image": "./assets/questions/PFP-014.jpg",
+      "imageCode": "PFP-014"
     },
     {
       "sourceNumber": "63",
@@ -21118,7 +23311,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 13,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-63"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-63",
+      "image": "./assets/questions/PFP-014.jpg",
+      "imageCode": "PFP-014"
     },
     {
       "sourceNumber": "64",
@@ -21134,7 +23329,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-64"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-64",
+      "image": "./assets/questions/PFP-011.jpg",
+      "imageCode": "PFP-011"
     },
     {
       "sourceNumber": "65",
@@ -21150,7 +23347,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-65"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-65",
+      "image": "./assets/questions/PFP-011.jpg",
+      "imageCode": "PFP-011"
     },
     {
       "sourceNumber": "66",
@@ -21166,7 +23365,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-66"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-66",
+      "image": "./assets/questions/PFP-012.jpg",
+      "imageCode": "PFP-012"
     },
     {
       "sourceNumber": "67",
@@ -21182,7 +23383,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 14,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-67"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-67",
+      "image": "./assets/questions/PFP-012.jpg",
+      "imageCode": "PFP-012"
     },
     {
       "sourceNumber": "68",
@@ -21198,7 +23401,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-68"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-68",
+      "image": "./assets/questions/PFP-014.jpg",
+      "imageCode": "PFP-014"
     },
     {
       "sourceNumber": "69",
@@ -21214,7 +23419,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-69"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-69",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "70",
@@ -21230,7 +23437,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-70"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-70",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "71",
@@ -21246,7 +23455,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 15,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-71"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-71",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "72",
@@ -21262,7 +23473,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-72"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-72",
+      "image": "./assets/questions/PFP-023.jpg",
+      "imageCode": "PFP-023"
     },
     {
       "sourceNumber": "73",
@@ -21270,14 +23483,15 @@ window.PPL_QUESTIONS = {
       "options": [
         "nejvyšší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva, zaokrouhleno na nejbližších vyšších 100 ft",
         "nejvyšší nadmořská výška terénu pokrývající oblast 30 minut zeměpisné šířky a délky plus bezpečnostní rezerva 1000 ft (305 m), zaokrouhleno na nejbližších vyšších 100 ft",
-        "největší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky největší nadmořská výška terénu pokrývající oblast 1 stupně zeměpisné šířky a délky plus bezpečnostní rezerva zaokrouhlená na nejbližších nižších 100 ft"
+        "největší nadmořská výška terénu v oblasti pokrývající 30 minut zeměpisné šířky a délky",
+        "největší nadmořská výška terénu pokrývající oblast 1 stupně zeměpisné šířky a délky plus bezpečnostní rezerva zaokrouhlená na nejbližších nižších 100 ft"
       ],
       "correctIndex": 2,
       "category": "Provedeni a planovani letu",
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-73"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-73"
     },
     {
       "sourceNumber": "74",
@@ -21293,7 +23507,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-74"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-74"
     },
     {
       "sourceNumber": "75",
@@ -21309,7 +23523,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-75"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-75"
     },
     {
       "sourceNumber": "76",
@@ -21325,7 +23539,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-76"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-76"
     },
     {
       "sourceNumber": "77",
@@ -21341,7 +23555,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-77"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-77",
+      "image": "./assets/questions/PFP-056.jpg",
+      "imageCode": "PFP-056"
     },
     {
       "sourceNumber": "78",
@@ -21357,7 +23573,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-78"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-78",
+      "image": "./assets/questions/PFP-030.jpg",
+      "imageCode": "PFP-030"
     },
     {
       "sourceNumber": "79",
@@ -21373,7 +23591,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-79"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-79"
     },
     {
       "sourceNumber": "80",
@@ -21389,7 +23607,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-80"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-80"
     },
     {
       "sourceNumber": "81",
@@ -21405,7 +23623,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-81"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-81",
+      "image": "./assets/questions/PFP-026.jpg",
+      "imageCode": "PFP-026"
     },
     {
       "sourceNumber": "82",
@@ -21421,7 +23641,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-82"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-82",
+      "image": "./assets/questions/PFP-024.jpg",
+      "imageCode": "PFP-024"
     },
     {
       "sourceNumber": "83",
@@ -21437,7 +23659,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-83"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-83"
     },
     {
       "sourceNumber": "84",
@@ -21453,7 +23675,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-84"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-84",
+      "image": "./assets/questions/PFP-051A.jpg",
+      "imageCode": "PFP-051A"
     },
     {
       "sourceNumber": "85",
@@ -21469,7 +23693,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-85"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-85",
+      "image": "./assets/questions/PFP-051.jpg",
+      "imageCode": "PFP-051"
     },
     {
       "sourceNumber": "86",
@@ -21485,7 +23711,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-86"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-86"
     },
     {
       "sourceNumber": "87",
@@ -21501,7 +23727,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-87"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-87"
     },
     {
       "sourceNumber": "88",
@@ -21517,7 +23743,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-88"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-88"
     },
     {
       "sourceNumber": "89",
@@ -21533,7 +23759,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-89"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-89"
     },
     {
       "sourceNumber": "90",
@@ -21549,7 +23775,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-90"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-90"
     },
     {
       "sourceNumber": "91",
@@ -21565,7 +23791,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-91"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-91"
     },
     {
       "sourceNumber": "92",
@@ -21581,7 +23807,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-92"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-92"
     },
     {
       "sourceNumber": "93",
@@ -21597,7 +23823,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-93"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-93",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "94",
@@ -21613,7 +23841,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-94"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-94",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "95",
@@ -21629,7 +23859,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 21,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-95"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p21-95",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "96",
@@ -21645,7 +23877,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 21,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-96"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p21-96",
+      "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
+      "imageCode": "CAP697_TABLE-2-2-3"
     },
     {
       "sourceNumber": "97",
@@ -21661,22 +23895,24 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 21,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-97"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p21-97"
     },
     {
       "sourceNumber": "98",
-      "question": "Pro let je dáno: Traťové palivo = 70 US galonů, palivo pro mimořádné okolnosti = 5 % traťového paliva, palivo pro let na náhradní letiště a konečná zásoba paliva = 20 US galonů. Využitelné palivo při vzletu = 90 US galonů. Po uletění poloviny vzdálenosti bylo spotřebováno 30 US galonů. Předpokládejte, že spotřeba paliva zůstane nezměněna. Který výrok je pravdivý? po přistání bude zbytek paliva 10.0 US galonů plus palivo pro let na náhradní letiště a konečná záloha paliva",
+      "question": "Pro let je dáno: Traťové palivo = 70 US galonů, palivo pro mimořádné okolnosti = 5 % traťového paliva, palivo pro let na náhradní letiště a konečná zásoba paliva = 20 US galonů. Využitelné palivo při vzletu = 90 US galonů. Po uletění poloviny vzdálenosti bylo spotřebováno 30 US galonů. Předpokládejte, že spotřeba paliva zůstane nezměněna. Který výrok je pravdivý?",
       "options": [
+        "po přistání bude zbytek paliva 10.0 US galonů plus palivo pro let na náhradní letiště a konečná",
+        "záloha paliva",
         "zbývající palivo nestačí pro přistání na cílovém letišti se zbytkem paliva pro let na náhradní letiště a konečnou zálohou paliva",
         "po přistání zbyde 30.0 US galonů plus palivo pro let na náhradní letiště a konečná záloha paliva",
         "po přistání zbyde celkem 10.0 US galonů paliva"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Provedeni a planovani letu",
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-98"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-98"
     },
     {
       "sourceNumber": "99",
@@ -21692,7 +23928,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-99"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-99",
+      "image": "./assets/questions/PFP-061.jpg",
+      "imageCode": "PFP-061"
     },
     {
       "sourceNumber": "100",
@@ -21708,7 +23946,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-100"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-100",
+      "image": "./assets/questions/PFP-062.jpg",
+      "imageCode": "PFP-062"
     },
     {
       "sourceNumber": "101",
@@ -21724,27 +23964,32 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-(2)-101"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-101",
+      "image": "./assets/questions/PFP-063.jpg",
+      "imageCode": "PFP-063"
     },
     {
       "sourceNumber": "1",
       "question": "Doba letu je definována jako:",
       "options": [
         "celková doba od okamžiku, kdy se letoun pohne, dokud se po skončení letu nezastaví",
-        "doba od zahájení vzletu do dosednutí při přistání celková doba od prvního vzletu do posledního přistání v souvislosti s jedním nebo více po sobě následujícími lety doba od spuštění motoru za účelem vzletu do opuštění letadla po vypnutí motoru"
+        "doba od zahájení vzletu do dosednutí při přistání",
+        "celková doba od prvního vzletu do posledního přistání v souvislosti s jedním nebo více po sobě následujícími lety",
+        "doba od spuštění motoru za účelem vzletu do opuštění letadla po vypnutí motoru"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-(2)-1"
+      "id": "6-provozni-postupy-letoun-2-p1-1"
     },
     {
       "sourceNumber": "2",
       "question": "Co je třeba vzít v úvahu při plánování letu nad vodou, když při nouzovém přistání nelze doletět na zem?",
       "options": [
-        "pro všechny cestující musí být k dispozici plovací vesty nebo záchranné čluny během celého letu musí být spojení s nejbližším stanovištěm služby řízení letů",
+        "pro všechny cestující musí být k dispozici plovací vesty nebo záchranné čluny",
+        "během celého letu musí být spojení s nejbližším stanovištěm služby řízení letů",
         "letový plán musí obsahovat přesné traťové body",
         "během celého letu musí být odpovídač sekundárního radaru nastaven na kód 7600"
       ],
@@ -21753,21 +23998,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-(2)-2"
+      "id": "6-provozni-postupy-letoun-2-p1-2"
     },
     {
       "sourceNumber": "3",
       "question": "Který z následujících jevů má vliv na hluk vnímaný osobou na zemi? 1) nastavení výkonu motoru 2) otáčky vrtule 3) poloha podvozku 4) poloha vztlakových klapek 5) trať letu 6) výška letu nad zemí 7) pravidla letu",
       "options": [
         "1, 2, 3, 4, 5, 6",
-        "1, 5, 6 1, 5, 6, 7 3, 4, 5, 6, 7"
+        "1, 5, 6",
+        "1, 5, 6, 7",
+        "3, 4, 5, 6, 7"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-(2)-3"
+      "id": "6-provozni-postupy-letoun-2-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -21783,7 +24030,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-(2)-4"
+      "id": "6-provozni-postupy-letoun-2-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -21791,28 +24038,31 @@ window.PPL_QUESTIONS = {
       "options": [
         "při klesání",
         "při horizontálním letu",
-        "při stoupání při přiblížení"
+        "při stoupání",
+        "při přiblížení"
       ],
       "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-(2)-5"
+      "id": "6-provozni-postupy-letoun-2-p2-5"
     },
     {
       "sourceNumber": "6",
-      "question": "Jak mají být prováděny odlety v blízkosti vesnic? nízko a rychle mezi vesnicemi pomalu s nízkými otáčkami vrtule",
+      "question": "Jak mají být prováděny odlety v blízkosti vesnic?",
       "options": [
+        "nízko a rychle mezi vesnicemi",
+        "pomalu s nízkými otáčkami vrtule",
         "vesnice mají být oblétány a přelétány v dostatečné výšce",
         "stoupání a změny směru mají být prováděny co nejpomaleji"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-(2)-6"
+      "id": "6-provozni-postupy-letoun-2-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -21828,49 +24078,71 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-(2)-7"
+      "id": "6-provozni-postupy-letoun-2-p2-7"
     },
     {
       "sourceNumber": "8",
       "question": "Proč je nebezpečné pumpovat plynovou pákou p ři sp o uštění motoru ve studeném počasí?",
       "options": [
         "může to způsobit požár karburátoru",
-        "může dojít k tvorbě námrazy v karburátoru rozředí se tím olej může dojít ke spuštění motoru s nedostatečným výkonem"
+        "může dojít k tvorbě námrazy v karburátoru",
+        "rozředí se tím olej",
+        "může dojít ke spuštění motoru s nedostatečným výkonem"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-(2)-8"
+      "id": "6-provozni-postupy-letoun-2-p2-8"
+    },
+    {
+      "sourceNumber": "9",
+      "question": "Jaké nebezpečí existuje při spouštění motoru?",
+      "options": [
+        "jiskření",
+        "požár kabeláže",
+        "požár karburátoru",
+        "výfuk dýmu"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 2,
+      "id": "6-provozni-postupy-letoun-2-p2-9"
     },
     {
       "sourceNumber": "10",
       "question": "Může být znovu spuštěn motor, na kterém byl před tím požár?",
       "options": [
         "ne, nebezpečí nového vznícení požáru by bylo příliš vysoké",
-        "ano, pokud letadlo letí v bezpečné výšce ano, ale pouze na zemi pro účely pojíždění ano, ale pouze došlo-li během spouštění motoru k požáru karburátoru"
+        "ano, pokud letadlo letí v bezpečné výšce",
+        "ano, ale pouze na zemi pro účely pojíždění",
+        "ano, ale pouze došlo-li během spouštění motoru k požáru karburátoru"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-(2)-10"
+      "id": "6-provozni-postupy-letoun-2-p3-10"
     },
     {
       "sourceNumber": "11",
-      "question": "Jaký plyn je při požáru motoru nejnebezpečnější? kyslík dusík",
+      "question": "Jaký plyn je při požáru motoru nejnebezpečnější?",
       "options": [
+        "kyslík",
+        "dusík",
         "kysličník uhelnatý",
         "kysličník uhličitý"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-(2)-11"
+      "id": "6-provozni-postupy-letoun-2-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -21886,35 +24158,55 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-(2)-12"
+      "id": "6-provozni-postupy-letoun-2-p3-12"
     },
     {
       "sourceNumber": "13",
       "question": "Co má být první akcí při požáru kabeláže za letu?",
       "options": [
         "vypnout hlavní vypínač",
-        "uzavřít palivový ventil otevřít okna otevřít větrání kabiny"
+        "uzavřít palivový ventil",
+        "otevřít okna",
+        "otevřít větrání kabiny"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-(2)-13"
+      "id": "6-provozni-postupy-letoun-2-p3-13"
+    },
+    {
+      "sourceNumber": "14",
+      "question": "Jaká hasící látka je nejméně vhodná pro hašení požáru letadla?",
+      "options": [
+        "pěna",
+        "prášek",
+        "voda",
+        "halon"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 3,
+      "id": "6-provozni-postupy-letoun-2-p3-14"
     },
     {
       "sourceNumber": "15",
       "question": "Za letu se za přístrojovou deskou objeví trocha dýmu. Lze předpokládat požár elektrického systému. Co má udělat pilot s ohledem na letovou příručku?",
       "options": [
         "vypnout hlavní vypínač",
-        "vypnout topení vypnout motor použít hasící přístroj"
+        "vypnout topení",
+        "vypnout motor",
+        "použít hasící přístroj"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-(2)-15"
+      "id": "6-provozni-postupy-letoun-2-p4-15"
     },
     {
       "sourceNumber": "16",
@@ -21930,80 +24222,103 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-(2)-16"
+      "id": "6-provozni-postupy-letoun-2-p4-16"
     },
     {
       "sourceNumber": "17",
-      "question": "Střih větru je: pomalý nárůst rychlosti větru ve výškách nad 13000 ft",
+      "question": "Střih větru je:",
       "options": [
+        "pomalý nárůst rychlosti větru ve výškách nad 13000 ft",
         "sestupný vítr za pohořím",
         "změna vertikální nebo horizontální složky a směru větru",
         "změna rychlosti větru o více než 15 kt"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-(2)-17"
+      "id": "6-provozni-postupy-letoun-2-p4-17"
     },
     {
       "sourceNumber": "18",
       "question": "Jaký meteorologický jev typicky souvisí se střihem větru?",
       "options": [
         "bouřky",
-        "teplá fronta mlha stabilní oblasti vysokého tlaku vzduchu"
+        "teplá fronta",
+        "mlha",
+        "stabilní oblasti vysokého tlaku vzduchu"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-(2)-18"
+      "id": "6-provozni-postupy-letoun-2-p4-18"
+    },
+    {
+      "sourceNumber": "19",
+      "question": "Kdy lze očekávat střih větru?",
+      "options": [
+        "p ři průletu teplou frontou",
+        "při inverzi",
+        "ze bezvětří ve studeném počasí",
+        "za letních dnů za bezvětří"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 4,
+      "id": "6-provozni-postupy-letoun-2-p4-19"
     },
     {
       "sourceNumber": "20",
       "question": "Při přiblížení je zaznamenán střih větru se snížením čelní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprovede-li pilot žádné korekce?",
       "options": [
         "trajektorie se sníží, IAS klesne",
-        "trajektorie se zvýší, IAS klesne trajektorie se sníží, IAS vzroste trajektorie se zvýší, IAS vzroste"
+        "trajektorie se zvýší, IAS klesne",
+        "trajektorie se sníží, IAS vzroste",
+        "trajektorie se zvýší, IAS vzroste"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-(2)-20"
+      "id": "6-provozni-postupy-letoun-2-p5-20"
     },
     {
       "sourceNumber": "21",
       "question": "Při přiblížení je zaznamenán střih větru s nárůstem čelní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprojde-li pilot žádné korekce?",
       "options": [
-        "trajektorie se sníží, IAS klesne trajektorie se zvýší, IAS klesne",
+        "trajektorie se sníží, IAS klesne",
+        "trajektorie se zvýší, IAS klesne",
         "trajektorie se sníží, IAS vzroste",
         "trajektorie se zvýší, IAS vzroste"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-(2)-21"
+      "id": "6-provozni-postupy-letoun-2-p5-21"
     },
     {
       "sourceNumber": "22",
-      "question": "Při přiblížení je zaznamenán střih větru s poklesem zadní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprovede-li pilot žádné korekce? trajektorie se sníží, IAS klesne",
+      "question": "Při přiblížení je zaznamenán střih větru s poklesem zadní složky větru. Jak se změní trajektorie letu a indikovaná rychlost (IAS), neprovede-li pilot žádné korekce?",
       "options": [
+        "trajektorie se sníží, IAS klesne",
         "trajektorie se zvýší, IAS vzroste",
         "trajektorie se sníží, IAS vzroste",
         "trajektorie se zvýší, IAS klesne"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-(2)-22"
+      "id": "6-provozni-postupy-letoun-2-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -22011,48 +24326,56 @@ window.PPL_QUESTIONS = {
       "options": [
         "letadlo letí nad očekávanou trajektorií stoupání",
         "pravá vzdušná rychlost (TAS) vzroste",
-        "letadlo letí pod očekávanou trajektorií stoupání traťová rychlost (GS) klesne"
+        "letadlo letí pod očekávanou trajektorií stoupání",
+        "traťová rychlost (GS) klesne"
       ],
       "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-(2)-23"
+      "id": "6-provozni-postupy-letoun-2-p5-23"
     },
     {
       "sourceNumber": "24",
       "question": "Jak lze za letu rozpoznat střih větru?",
       "options": [
-        "náhlé změny polohy letadla, rychlosti letu a stoupavosti náhlé změny kurzu, rychlosti zatáčení, otáček motoru a teploty oleje",
-        "nečekaný nástup kouřma související s vysokými straty, které následují oblohu bez oblačnosti a s bezvětřím náhlé změny tlaku oleje, teploty oleje, otáček motoru a nadmořské výšky"
+        "náhlé změny polohy letadla, rychlosti letu a stoupavosti",
+        "náhlé změny kurzu, rychlosti zatáčení, otáček motoru a teploty oleje",
+        "nečekaný nástup kouřma související s vysokými straty, které následují oblohu bez oblačnosti a s bezvětřím",
+        "náhlé změny tlaku oleje, teploty oleje, otáček motoru a nadmořské výšky"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-(2)-24"
+      "id": "6-provozni-postupy-letoun-2-p5-24"
     },
     {
       "sourceNumber": "25",
       "question": "Jaký jev lze očekávat v bodu 2 mikroburstu? Viz příloha (OPR-001)",
       "options": [
         "pokles stoupavosti",
-        "nárůst rychlosti letu zmenšení úhlu klesání stejný úhel k lesání"
+        "nárůst rychlosti letu",
+        "zmenšení úhlu klesání",
+        "stejný úhel k lesání"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-(2)-25"
+      "id": "6-provozni-postupy-letoun-2-p6-25",
+      "image": "./assets/questions/OPR-001.jpg",
+      "imageCode": "OPR-001"
     },
     {
       "sourceNumber": "26",
       "question": "Jaký jev lze očekávat v bodu 3 mikroburstu? Viz příloha (OPR-001)",
       "options": [
-        "pokles rychlosti letu nárůst rychlosti letu",
+        "pokles rychlosti letu",
+        "nárůst rychlosti letu",
         "pokles stoupavosti",
         "konstantní rychlost klesání"
       ],
@@ -22061,7 +24384,9 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-(2)-26"
+      "id": "6-provozni-postupy-letoun-2-p6-26",
+      "image": "./assets/questions/OPR-001.jpg",
+      "imageCode": "OPR-001"
     },
     {
       "sourceNumber": "27",
@@ -22077,21 +24402,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-(2)-27"
+      "id": "6-provozni-postupy-letoun-2-p6-27"
     },
     {
       "sourceNumber": "28",
-      "question": "Co má pilot provést, když nastal střih větru? 1. snížit rychlost letu 2. zasunout podvozek a klapky 3. zachovat stávající konfiguraci 4. nastavit výkon motoru 1 a 2",
+      "question": "Co má pilot provést, když nastal střih větru? 1. snížit rychlost letu 2. zasunout podvozek a klapky 3. zachovat stávající konfiguraci 4. nastavit výkon motoru",
       "options": [
+        "1 a 2",
         "3 a 4",
-        "1 a 3 2 a 4"
+        "1 a 3",
+        "2 a 4"
+      ],
+      "correctIndex": 1,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 6,
+      "id": "6-provozni-postupy-letoun-2-p6-28"
+    },
+    {
+      "sourceNumber": "29",
+      "question": "Po vzletu v počáteční fázi stoupání dojde k nečekaně silnému nárůstu rychlosti letu. Co může následovat, vlétlo-li letadlo do mikroburstu?",
+      "options": [
+        "pokles stoupavosti a rychlosti letu",
+        "nárůst stoupavosti a rychlosti letu",
+        "nárůst stoupavosti a pokles rychlosti letu",
+        "pokles stoupavosti a nárůst rychlosti letu"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-(2)-28"
+      "id": "6-provozni-postupy-letoun-2-p6-29"
     },
     {
       "sourceNumber": "31",
@@ -22099,20 +24442,38 @@ window.PPL_QUESTIONS = {
       "options": [
         "začne zrychlovat",
         "dosáhne výšky 15 ft",
-        "nadzdvihne příďové kolo odpoutá od země hlavní podvozek"
+        "nadzdvihne příďové kolo",
+        "odpoutá od země hlavní podvozek"
       ],
       "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 7,
-      "id": "6-provozni-postupy-letoun-(2)-31"
+      "id": "6-provozni-postupy-letoun-2-p7-31"
+    },
+    {
+      "sourceNumber": "32",
+      "question": "Turbulence v úplavu je způsobena:",
+      "options": [
+        "vyrovnáváním tlaku na koncích křídel",
+        "výfukovými plyny turbínového motoru",
+        "střihem větru na koncích křídel",
+        "turbulencí na závětrné straně pohoří"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 7,
+      "id": "6-provozni-postupy-letoun-2-p7-32"
     },
     {
       "sourceNumber": "33",
       "question": "Turbulence v úplavu je zvláště intenzivní:",
       "options": [
-        "při letu nízkými rychlostmi při letu vysokými rychlostmi",
+        "při letu nízkými rychlostmi",
+        "při letu vysokými rychlostmi",
         "při letu ve velkých výškách",
         "při letu v malých výškách"
       ],
@@ -22121,36 +24482,39 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 7,
-      "id": "6-provozni-postupy-letoun-(2)-33"
+      "id": "6-provozni-postupy-letoun-2-p7-33"
     },
     {
       "sourceNumber": "34",
       "question": "Turbulence v úplavu je zvláště intenzivní:",
       "options": [
         "při velké hmotnosti letadla",
-        "při malé hmotnosti letadla při letu s velkým výkonem motoru při letu s malým výkonem motoru"
+        "při malé hmotnosti letadla",
+        "při letu s velkým výkonem motoru",
+        "při letu s malým výkonem motoru"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 7,
-      "id": "6-provozni-postupy-letoun-(2)-34"
+      "id": "6-provozni-postupy-letoun-2-p7-34"
     },
     {
       "sourceNumber": "35",
       "question": "Intenzita turbulence v úplavu závisí na:",
       "options": [
-        "teplotě úhlu nastavení listů vrtule",
+        "teplotě",
+        "úhlu nastavení listů vrtule",
         "hmotnosti letadla",
         "nadmořské výšce letu"
       ],
-      "correctIndex": 1,
+      "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-(2)-35"
+      "id": "6-provozni-postupy-letoun-2-p8-35"
     },
     {
       "sourceNumber": "36",
@@ -22166,13 +24530,15 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-(2)-36"
+      "id": "6-provozni-postupy-letoun-2-p8-36"
     },
     {
       "sourceNumber": "37",
       "question": "Dvě letadla stejného typu, stejných hmotností a ve stejné konfiguraci letí rozdílnými rychlostmi a v rozdílných nadmořských výškách. Které z nich vyvolá intenzivnější turbulenci v úplavu?",
       "options": [
-        "letadlo letící pomaleji letadlo letící rychleji letadlo letící ve větší nadmořské výšce",
+        "letadlo letící pomaleji",
+        "letadlo letící rychleji",
+        "letadlo letící ve větší nadmořské výšce",
         "letadlo letící v menší nadmořské výšce"
       ],
       "correctIndex": 0,
@@ -22180,7 +24546,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-(2)-37"
+      "id": "6-provozni-postupy-letoun-2-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -22188,14 +24554,15 @@ window.PPL_QUESTIONS = {
       "options": [
         "turbulence v úplavu na vzletové dráze nebo v její blízkosti",
         "turbulence v úplavu je rozptýlena a odkloněna",
-        "turbulence v úplavu rotuje rychleji a výše turbulence v úplavu se otáčí napříč vzletovou dráhou"
+        "turbulence v úplavu rotuje rychleji a výše",
+        "turbulence v úplavu se otáčí napříč vzletovou dráhou"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-(2)-38"
+      "id": "6-provozni-postupy-letoun-2-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -22203,14 +24570,15 @@ window.PPL_QUESTIONS = {
       "options": [
         "strmým přiblížením a dotykem se zemí až za bodem dotyku příďového podvozku dopravního letadla",
         "nízkým přiblížením a velmi krátkým přistáním. Lehké letadlo by mělo být schopné zastavit před bodem dotyku dopravního letadla",
-        "nízkým přiblížením a dlouhým přistáním s dotykem se zemí za bodem dotyku příďového podvozku dopravního letadla strmým přiblížením a velmi krátkým přistáním. Lehké letadlo by mělo bý t schopné zastavit před bodem dotyku se zemí dopravního letadla"
+        "nízkým přiblížením a dlouhým přistáním s dotykem se zemí za bodem dotyku příďového podvozku dopravního letadla",
+        "strmým přiblížením a velmi krátkým přistáním. Lehké letadlo by mělo bý t schopné zastavit před bodem dotyku se zemí dopravního letadla"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-(2)-39"
+      "id": "6-provozni-postupy-letoun-2-p9-39"
     },
     {
       "sourceNumber": "40",
@@ -22218,14 +24586,15 @@ window.PPL_QUESTIONS = {
       "options": [
         "vyhnout se proudu plynů za jeho motory, dodržet minimální vzdálenost 200 m",
         "vyhnout se proudu plynů za jeho motory, dodržet minimální vzdálenost 600 m",
-        "vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 300 m vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 700 m"
+        "vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 300 m",
+        "vyhnout se turbulenci v úplavu, dodržet minimální vzdálenost 700 m"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-(2)-40"
+      "id": "6-provozni-postupy-letoun-2-p9-40"
     },
     {
       "sourceNumber": "41",
@@ -22241,21 +24610,23 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-(2)-41"
+      "id": "6-provozni-postupy-letoun-2-p9-41"
     },
     {
       "sourceNumber": "42",
-      "question": "Jaká metoda je vhodná pro přiblížení na nepřipravené přistání do terénu? strmé přiblížení pro zachování nízké hladiny hluku",
+      "question": "Jaká metoda je vhodná pro přiblížení na nepřipravené přistání do terénu?",
       "options": [
-        "prohlídka terénu pro stanovení trajektorie přiblížení a přistání nízké přímé přiblížení, aby byl zajištěn vizuální kontakt se zemí",
+        "strmé přiblížení pro zachování nízké hladiny hluku",
+        "prohlídka terénu pro stanovení trajektorie přiblížení a přistání",
+        "nízké přímé přiblížení, aby byl zajištěn vizuální kontakt se zemí",
         "rychlé přiblížení, kontrola výkonu, přistání s co nejkratším dojezdem"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-(2)-42"
+      "id": "6-provozni-postupy-letoun-2-p9-42"
     },
     {
       "sourceNumber": "43",
@@ -22263,20 +24634,22 @@ window.PPL_QUESTIONS = {
       "options": [
         "zorané pole",
         "plocha pro sport na vesnici",
-        "sklizené obilné pole paseka s vysokou suchou trávou"
+        "sklizené obilné pole",
+        "paseka s vysokou suchou trávou"
       ],
       "correctIndex": 2,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-(2)-43"
+      "id": "6-provozni-postupy-letoun-2-p10-43"
     },
     {
       "sourceNumber": "44",
       "question": "Nouzové přistání je:",
       "options": [
-        "provedeno jako reakce na okolnosti nutící letadlo přistát provedeno při pokusu zachovat bezpečnost letadla a osob na palubě",
+        "provedeno jako reakce na okolnosti nutící letadlo přistát",
+        "provedeno při pokusu zachovat bezpečnost letadla a osob na palubě",
         "provedeno bez výkonu motorů",
         "provedeno se zasunutými klapkami"
       ],
@@ -22285,7 +24658,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-(2)-44"
+      "id": "6-provozni-postupy-letoun-2-p10-44"
     },
     {
       "sourceNumber": "45",
@@ -22301,93 +24674,135 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-(2)-45"
+      "id": "6-provozni-postupy-letoun-2-p10-45"
     },
     {
       "sourceNumber": "46",
       "question": "Bezpečnostní přistání je:",
       "options": [
         "provedeno jako reakce na okolnosti nutící letadlo přistát",
-        "provedeno jako pokus zachovat bezpečnost letu provedeno při vysazení pohonné jednotky letadla provedeno se zasunutými klapkami"
+        "provedeno jako pokus zachovat bezpečnost letu",
+        "provedeno při vysazení pohonné jednotky letadla",
+        "provedeno se zasunutými klapkami"
       ],
       "correctIndex": 1,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-(2)-46"
+      "id": "6-provozni-postupy-letoun-2-p10-46"
+    },
+    {
+      "sourceNumber": "47",
+      "question": "Která z následujících ploch je nejvhodnější pro přistání mimo letiště?",
+      "options": [
+        "lehce hnědé pole s málo vzrostlými plodinami",
+        "louka bez zvířat",
+        "pole se vrostlou vlnící se úrodou",
+        "jezero s klidnou hladinou"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 10,
+      "id": "6-provozni-postupy-letoun-2-p10-47"
     },
     {
       "sourceNumber": "48",
       "question": "Jak se má pilot připravit na let VFR na dlouhou vzdálenost nad vodou, je-li nepravděpodobné, že při vysazení motoru lze dosáhnout pobřeží?",
       "options": [
         "mít k dispozici plovací vesty nebo záchranné čluny pro všechny osoby na palubě",
-        "podat letový plán obsahující přesné traťové body být připraven letět s odpovídačem sekundárního radaru udržovat nepřetržité spojení se službami řízení letového provozu"
+        "podat letový plán obsahující přesné traťové body",
+        "být připraven letět s odpovídačem sekundárního radaru",
+        "udržovat nepřetržité spojení se službami řízení letového provozu"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-(2)-48"
+      "id": "6-provozni-postupy-letoun-2-p11-48"
     },
     {
       "sourceNumber": "49",
       "question": "Co má obsahovat instruktáž pro cestující v případě neodkladného nouzového přistání?",
       "options": [
-        "druh nebezpečí, úmysl, bezpečnostní poloha, evakuační cesty, činnost po přistání jak pracuje palubní radiostanice, kód nouzového majáku polohy, telefonní číslo na příslušné stanoviště pátrání a záchrany",
+        "druh nebezpečí, úmysl, bezpečnostní poloha, evakuační cesty, činnost po přistání",
+        "jak pracuje palubní radiostanice, kód nouzového majáku polohy, telefonní číslo na příslušné stanoviště pátrání a záchrany",
         "jak číst seznam nouzových úkonů, jak vypnout motor, telefonní číslo na domácí letiště",
         "krevní skupiny osob na palubě, umístění soupravy pro první pomoc"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 11,
+      "id": "6-provozni-postupy-letoun-2-p11-49"
+    },
+    {
+      "sourceNumber": "50",
+      "question": "Brzdy a kola jsou po bezpečnostním přistání velmi horké. Jak se k nim má pilot přibližovat?",
+      "options": [
+        "zleva nebo zprava",
+        "zepředu nebo zezadu",
+        "pod úhlem 45°",
+        "zepředu a zleva nebo zprava"
       ],
       "correctIndex": 1,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-(2)-49"
-    },
-    {
-      "sourceNumber": "50",
-      "question": "Brzdy a kola jsou po bezpečnostním přistání velmi horké. Jak se k nim má pilot přibližovat? zleva nebo zprava",
-      "options": [
-        "zepředu nebo zezadu",
-        "pod úhlem 45°",
-        "zepředu a zleva nebo zprava"
-      ],
-      "correctIndex": 0,
-      "category": "Provozni postupy",
-      "aircraft": "Letoun",
-      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
-      "page": 11,
-      "id": "6-provozni-postupy-letoun-(2)-50"
+      "id": "6-provozni-postupy-letoun-2-p11-50"
     },
     {
       "sourceNumber": "51",
       "question": "Co může nastat při přehřátí brzd?",
       "options": [
         "zasažené pneumatiky se mohou roztrhnout podélně",
-        "zasažené pneumatiky se mohou roztrhnout příčně nebo ve směru rotace zasažené brzdy je třeba chladit halonem je třeba odstranit kryty kol, aby se zlepšilo chlazení"
+        "zasažené pneumatiky se mohou roztrhnout příčně nebo ve směru rotace",
+        "zasažené brzdy je třeba chladit halonem",
+        "je třeba odstranit kryty kol, aby se zlepšilo chlazení"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-(2)-51"
+      "id": "6-provozni-postupy-letoun-2-p11-51"
+    },
+    {
+      "sourceNumber": "52",
+      "question": "V případě nouzového přistání na vodu se mají záchranné vesty nafukovat:",
+      "options": [
+        "před opuštěním letadla",
+        "při opuštění letadla",
+        "po opuštění letadla",
+        "po opuštění letadla v bezpečné vzdálenosti asi 10 m"
+      ],
+      "correctIndex": 2,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 11,
+      "id": "6-provozni-postupy-letoun-2-p11-52"
     },
     {
       "sourceNumber": "53",
       "question": "Jaký je účinek mokré trávy na délku vzletu a přistání?",
       "options": [
         "zkrácení délky vzletu a prodloužení délky přistání",
-        "prodloužení délky vzletu a prodloužení délky přistání prodloužení délky vzletu a zkrácení délky přistání zkrácení délky vzletu a zkrácení délky přistání"
+        "prodloužení délky vzletu a prodloužení délky přistání",
+        "prodloužení délky vzletu a zkrácení délky přistání",
+        "zkrácení délky vzletu a zkrácení délky přistání"
       ],
       "correctIndex": 1,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-(2)-53"
+      "id": "6-provozni-postupy-letoun-2-p12-53"
     },
     {
       "sourceNumber": "54",
@@ -22403,50 +24818,71 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-(2)-54"
+      "id": "6-provozni-postupy-letoun-2-p12-54"
     },
     {
       "sourceNumber": "55",
-      "question": "Jaké musí být minimální pokrytí dráhy ledem nebo sněhem, aby byla znečištěnou? 75 %",
+      "question": "Jaké musí být minimální pokrytí dráhy ledem nebo sněhem, aby byla znečištěnou?",
       "options": [
+        "75 %",
         "50 %",
         "10 %",
         "0,25"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-(2)-55"
+      "id": "6-provozni-postupy-letoun-2-p12-55"
     },
     {
       "sourceNumber": "56",
       "question": "Mokrý sníh na dráze může způsobit:",
       "options": [
         "zvětšenou délku rozjezdu při vzletu",
-        "snížený odpor při rozjezdu během vzletu nárůst vztlaku pokles vztlaku"
+        "snížený odpor při rozjezdu během vzletu",
+        "nárůst vztlaku",
+        "pokles vztlaku"
       ],
       "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-(2)-56"
+      "id": "6-provozni-postupy-letoun-2-p12-56"
+    },
+    {
+      "sourceNumber": "57",
+      "question": "Jaké nebezpečí pro letadla představuje stojatá voda na dráze?",
+      "options": [
+        "zvýšený odpor při rozjezdu během vzletu",
+        "snížený odpor při rozjezdu během vzletu",
+        "zvýšení vztlaku",
+        "snížení vztlaku"
+      ],
+      "correctIndex": 0,
+      "category": "Provozni postupy",
+      "aircraft": "Letoun",
+      "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
+      "page": 12,
+      "id": "6-provozni-postupy-letoun-2-p12-57"
     },
     {
       "sourceNumber": "58",
       "question": "Jaké nebezpečí pro přistávající letadlo představuje intenzivní dešťová přeháňka?",
       "options": [
         "posun označení prokluzu pneumatiky",
-        "delší brzdná vzdálenost kvůli akvaplaninku zmenšená brzdná vzdálenost kvůli akvaplaninku obtížné podrovnání kvůli odrazu světla"
+        "delší brzdná vzdálenost kvůli akvaplaninku",
+        "zmenšená brzdná vzdálenost kvůli akvaplaninku",
+        "obtížné podrovnání kvůli odrazu světla"
       ],
       "correctIndex": 1,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 13,
-      "id": "6-provozni-postupy-letoun-(2)-58"
+      "id": "6-provozni-postupy-letoun-2-p13-58"
     },
     {
       "sourceNumber": "59",
@@ -22462,7 +24898,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 13,
-      "id": "6-provozni-postupy-letoun-(2)-59"
+      "id": "6-provozni-postupy-letoun-2-p13-59"
     },
     {
       "sourceNumber": "60",
@@ -22478,7 +24914,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 13,
-      "id": "6-provozni-postupy-letoun-(2)-60"
+      "id": "6-provozni-postupy-letoun-2-p13-60"
     },
     {
       "sourceNumber": "1",
@@ -22494,7 +24930,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-1"
+      "id": "6-provozni-postupy-vrtulnik-p1-1"
     },
     {
       "sourceNumber": "2",
@@ -22510,7 +24946,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-2"
+      "id": "6-provozni-postupy-vrtulnik-p1-2"
     },
     {
       "sourceNumber": "3",
@@ -22526,7 +24962,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-3"
+      "id": "6-provozni-postupy-vrtulnik-p1-3"
     },
     {
       "sourceNumber": "4",
@@ -22542,7 +24978,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-4"
+      "id": "6-provozni-postupy-vrtulnik-p1-4"
     },
     {
       "sourceNumber": "5",
@@ -22558,7 +24994,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-5"
+      "id": "6-provozni-postupy-vrtulnik-p1-5"
     },
     {
       "sourceNumber": "6",
@@ -22574,7 +25010,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-6"
+      "id": "6-provozni-postupy-vrtulnik-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -22590,7 +25026,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-7"
+      "id": "6-provozni-postupy-vrtulnik-p2-7"
     },
     {
       "sourceNumber": "8",
@@ -22606,7 +25042,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-8"
+      "id": "6-provozni-postupy-vrtulnik-p2-8"
     },
     {
       "sourceNumber": "9",
@@ -22622,7 +25058,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-9"
+      "id": "6-provozni-postupy-vrtulnik-p2-9"
     },
     {
       "sourceNumber": "10",
@@ -22638,7 +25074,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-10"
+      "id": "6-provozni-postupy-vrtulnik-p2-10"
     },
     {
       "sourceNumber": "11",
@@ -22654,7 +25090,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-11"
+      "id": "6-provozni-postupy-vrtulnik-p3-11"
     },
     {
       "sourceNumber": "12",
@@ -22670,7 +25106,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-12"
+      "id": "6-provozni-postupy-vrtulnik-p3-12"
     },
     {
       "sourceNumber": "13",
@@ -22686,7 +25122,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-13"
+      "id": "6-provozni-postupy-vrtulnik-p3-13"
     },
     {
       "sourceNumber": "14",
@@ -22702,7 +25138,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-14"
+      "id": "6-provozni-postupy-vrtulnik-p3-14"
     },
     {
       "sourceNumber": "15",
@@ -22718,7 +25154,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-15"
+      "id": "6-provozni-postupy-vrtulnik-p3-15"
     },
     {
       "sourceNumber": "16",
@@ -22734,7 +25170,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-16"
+      "id": "6-provozni-postupy-vrtulnik-p4-16"
     },
     {
       "sourceNumber": "17",
@@ -22750,7 +25186,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-17"
+      "id": "6-provozni-postupy-vrtulnik-p4-17"
     },
     {
       "sourceNumber": "18",
@@ -22766,7 +25202,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-18"
+      "id": "6-provozni-postupy-vrtulnik-p4-18"
     },
     {
       "sourceNumber": "19",
@@ -22782,7 +25218,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-19"
+      "id": "6-provozni-postupy-vrtulnik-p4-19"
     },
     {
       "sourceNumber": "20",
@@ -22798,7 +25234,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-20"
+      "id": "6-provozni-postupy-vrtulnik-p4-20"
     },
     {
       "sourceNumber": "21",
@@ -22814,7 +25250,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-21"
+      "id": "6-provozni-postupy-vrtulnik-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -22830,7 +25266,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-22"
+      "id": "6-provozni-postupy-vrtulnik-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -22846,7 +25282,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-23"
+      "id": "6-provozni-postupy-vrtulnik-p5-23"
     },
     {
       "sourceNumber": "24",
@@ -22862,7 +25298,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-24"
+      "id": "6-provozni-postupy-vrtulnik-p5-24"
     },
     {
       "sourceNumber": "25",
@@ -22878,7 +25314,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-25"
+      "id": "6-provozni-postupy-vrtulnik-p5-25"
     },
     {
       "sourceNumber": "26",
@@ -22894,7 +25330,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-26"
+      "id": "6-provozni-postupy-vrtulnik-p6-26"
     },
     {
       "sourceNumber": "27",
@@ -22910,7 +25346,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-27"
+      "id": "6-provozni-postupy-vrtulnik-p6-27"
     },
     {
       "sourceNumber": "28",
@@ -22926,7 +25362,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-28"
+      "id": "6-provozni-postupy-vrtulnik-p6-28"
     },
     {
       "sourceNumber": "29",
@@ -22942,7 +25378,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-29"
+      "id": "6-provozni-postupy-vrtulnik-p6-29"
     },
     {
       "sourceNumber": "30",
@@ -22958,7 +25394,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-30"
+      "id": "6-provozni-postupy-vrtulnik-p6-30"
     },
     {
       "sourceNumber": "31",
@@ -22974,7 +25410,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-31"
+      "id": "6-provozni-postupy-vrtulnik-p7-31"
     },
     {
       "sourceNumber": "32",
@@ -22990,7 +25426,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-32"
+      "id": "6-provozni-postupy-vrtulnik-p7-32"
     },
     {
       "sourceNumber": "33",
@@ -23006,7 +25442,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-33"
+      "id": "6-provozni-postupy-vrtulnik-p7-33"
     },
     {
       "sourceNumber": "34",
@@ -23022,7 +25458,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-34"
+      "id": "6-provozni-postupy-vrtulnik-p7-34"
     },
     {
       "sourceNumber": "35",
@@ -23038,7 +25474,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-35"
+      "id": "6-provozni-postupy-vrtulnik-p7-35"
     },
     {
       "sourceNumber": "36",
@@ -23054,7 +25490,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-36"
+      "id": "6-provozni-postupy-vrtulnik-p8-36"
     },
     {
       "sourceNumber": "37",
@@ -23070,7 +25506,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-37"
+      "id": "6-provozni-postupy-vrtulnik-p8-37"
     },
     {
       "sourceNumber": "38",
@@ -23086,7 +25522,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-38"
+      "id": "6-provozni-postupy-vrtulnik-p8-38"
     },
     {
       "sourceNumber": "39",
@@ -23102,7 +25538,7 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-39"
+      "id": "6-provozni-postupy-vrtulnik-p8-39"
     },
     {
       "sourceNumber": "40",
@@ -23118,7 +25554,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-40"
+      "id": "6-provozni-postupy-vrtulnik-p8-40"
     }
   ]
-};
+}
+;

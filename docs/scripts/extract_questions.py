@@ -151,7 +151,7 @@ def checkbox_score(
 
 def has_checkbox(image: Image.Image, page_width: float, page_height: float, line: Line) -> bool:
     all_dark, _inner_dark = checkbox_score(image, page_width, page_height, line)
-    return all_dark >= 20 and 64 <= line.min_x <= 108
+    return all_dark >= 16 and 64 <= line.min_x <= 108
 
 
 def is_checked(image: Image.Image, page_width: float, page_height: float, line: Line) -> bool:
@@ -247,7 +247,7 @@ def extract_pdf(pdf_path: Path) -> list[dict]:
                 parsed["aircraft"] = aircraft_for(pdf_path)
                 parsed["sourceFile"] = pdf_path.name
                 parsed["page"] = page_index + 1
-                parsed["id"] = f"{ascii_key(pdf_path.stem).replace(' ', '-')}-{parsed['sourceNumber']}"
+                parsed["id"] = f"{ascii_key(pdf_path.stem).replace(' ', '-')}-p{page_index + 1}-{parsed['sourceNumber']}"
                 questions.append(parsed)
     return questions
 

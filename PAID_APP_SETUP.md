@@ -5,6 +5,9 @@
 ## Co je už dostupné
 
 - `docs/clenstvi.html`: responzivní prezentace tarifů, bez výběru peněz.
+- `docs/ucet.html`: připravené UI pro registraci a přihlášení; formuláře jsou bezpečně vypnuté, dokud není nastaven veřejný Supabase projekt.
+- `docs/pilot-public-config.js` (a synchronizované kopie): prázdné **veřejné** nastavení Supabase URL a publishable key. Bez tajných klíčů.
+- Položky `Členství a tarify` a `Studentský účet` jsou již v menu na webu i v mobilní kopii.
 - Stejná stránka v `ppl_app` a `ppl_mobile/www`.
 - `supabase/migrations/20261107_pilot_academy.sql`: výchozí tabulky pro studenty, přístup, studijní pokrok a idempotenci Stripe událostí.
 - Původní veřejné testy nejsou zamčené, aby nepřestaly fungovat.
@@ -21,7 +24,7 @@ Dobu jednorázového přístupu počítat od potvrzené platby podle jednotné o
 
 ## Nasazení – co zbývá
 
-1. Založit projekt Supabase a propojit ověřené domény v Authentication.
+1. Založit projekt Supabase a propojit ověřené domény v Authentication. Do všech tří `pilot-public-config.js` souborů zapsat **jen veřejné** Supabase URL a publishable key. Před spuštěním otestovat ověřovací e-maily, URL přesměrování a reset hesla.
 2. Spustit migraci v SQL editoru; zapnout e-mailovou verifikaci a zkontrolovat RLS politiky.
 3. Založit Stripe účet a čtyři produkty/ceny v CZK (test mode); do backendu uložit přesné price ID. **Nedávat Stripe secret key ani Supabase secret key do GitHub Pages.**
 4. Implementovat bezpečnou serverovou funkci **create-checkout**: ověřit JWT, vybírat Stripe Price ID pouze ze serverového seznamu, vytvořit Checkout Session, zabránit neoprávněnému prodloužení nebo duplicitním předplatným.

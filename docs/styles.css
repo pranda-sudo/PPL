@@ -718,3 +718,22 @@ h1 {
 .global-app-nav .module-nav button{width:auto;min-height:45px;min-width:122px;text-align:center;padding:9px 14px}
 .app-shell{padding-top:74px}
 @media(max-width:690px){.global-app-nav{gap:7px;padding:8px 10px;min-height:73px;flex-direction:column}.global-app-name{font-size:12px}.global-app-logo{width:22px;height:22px;font-size:10px}.global-app-nav .module-nav{gap:5px;width:100%}.global-app-nav .module-nav button{flex:1;min-width:0;min-height:35px;padding:6px 4px;font-size:12px}.app-shell{padding-top:94px}}
+
+/* v23: make switched modules actually visible above the fold on phones */
+.app-shell.module-secondary{grid-template-columns:minmax(0,1fr)}
+.app-shell.module-secondary>.sidebar{display:none!important}
+.app-shell.module-secondary>.embedded-workspace{display:block!important;width:100%;min-width:0}
+.app-shell.module-secondary #pplWorkspace{display:none!important}
+.global-app-nav{padding-top:max(10px,env(safe-area-inset-top));}
+.app-shell.module-secondary .embedded-workspace iframe{
+  display:block;width:100%;height:calc(100dvh - 74px);min-height:480px;
+  overflow:auto;-webkit-overflow-scrolling:touch;
+}
+@media(max-width:690px){
+  .global-app-nav{padding:calc(env(safe-area-inset-top) + 6px) 10px 7px;min-height:calc(86px + env(safe-area-inset-top));}
+  .global-app-nav .module-nav{width:100%;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:6px}
+  .global-app-nav .module-nav button{width:100%;min-width:0;min-height:40px;padding:8px 3px;font-size:12px;white-space:nowrap;touch-action:manipulation}
+  .app-shell{padding-top:calc(96px + env(safe-area-inset-top))}
+  .app-shell.module-secondary .embedded-workspace{height:calc(100dvh - 96px - env(safe-area-inset-top));min-height:480px}
+  .app-shell.module-secondary .embedded-workspace iframe{height:100%;min-height:480px}
+}

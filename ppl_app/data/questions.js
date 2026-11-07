@@ -4093,7 +4093,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-2"
+      "id": "2-lidska-vykonnost-letoun-2-p1-2",
+      "explanation": "Model švýcarského sýra popisuje bezpečnostní bariéry jako vrstvy s nedokonalostmi. Nehoda může vzniknout, když se slabiny několika vrstev současně seřadí a nebezpečí projde všemi bariérami."
     },
     {
       "sourceNumber": "3",
@@ -4109,7 +4110,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-3"
+      "id": "2-lidska-vykonnost-letoun-2-p1-3",
+      "explanation": "Podíl kyslíku v suchém vzduchu zůstává v běžných letových výškách přibližně 20,95 %. S výškou klesá celkový atmosférický tlak, a tedy i parciální tlak kyslíku; proto může vzniknout hypoxie, přestože procento kyslíku zůstává stejné."
     },
     {
       "sourceNumber": "4",
@@ -4125,7 +4127,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-4"
+      "id": "2-lidska-vykonnost-letoun-2-p1-4",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a přibližně 1 % ostatních plynů. Tyto podíly jsou v nižší atmosféře relativně stálé."
     },
     {
       "sourceNumber": "5",
@@ -4141,7 +4144,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-5"
+      "id": "2-lidska-vykonnost-letoun-2-p1-5",
+      "explanation": "Ve standardní atmosféře klesá tlak s výškou nelineárně. Přibližně v 18 000 ft dosahuje asi poloviny tlaku u hladiny moře; proto je ve výšce významně nižší i parciální tlak kyslíku."
     },
     {
       "sourceNumber": "6",
@@ -4157,7 +4161,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-6"
+      "id": "2-lidska-vykonnost-letoun-2-p2-6",
+      "explanation": "Kromě přibližně 78 % dusíku a 21 % kyslíku tvoří zhruba 1 % suchého vzduchu zejména argon, oxid uhličitý a další stopové plyny."
     },
     {
       "sourceNumber": "7",
@@ -4173,7 +4178,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-7"
+      "id": "2-lidska-vykonnost-letoun-2-p2-7",
+      "explanation": "Cigaretový kouř obsahuje oxid uhelnatý (CO). Ten se váže na hemoglobin mnohem silněji než kyslík, a tím omezuje přenos kyslíku krví; i kuřák proto může mít zvýšenou hladinu karboxyhemoglobinu."
     },
     {
       "sourceNumber": "8",
@@ -4189,7 +4195,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-8"
+      "id": "2-lidska-vykonnost-letoun-2-p2-8",
+      "explanation": "Při záporném násobku zatížení se krev přesouvá směrem k hlavě. Zvýšené prokrvení cév v oku může vyvolat červené vidění (red-out), na rozdíl od šedého až černého vidění při vysokém kladném násobku."
     },
     {
       "sourceNumber": "9",
@@ -4205,7 +4212,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-9"
+      "id": "2-lidska-vykonnost-letoun-2-p2-9",
+      "explanation": "U některých pístových letadel se kabina vytápí vzduchem ohřívaným kolem výfukového potrubí. Netěsnost výměníku může do kabiny přivést oxid uhelnatý z výfukových plynů; podezření na CO vyžaduje okamžitou reakci podle postupů letounu."
     },
     {
       "sourceNumber": "10",
@@ -4235,7 +4243,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-letoun-2-p3-11"
+      "id": "2-lidska-vykonnost-letoun-2-p3-11",
+      "explanation": "Při nedostatečném okysličení krve se může objevit cyanóza – namodralé zbarvení rtů a konečků prstů. Je to závažný příznak hypoxie, ale nemusí být přítomen u každého postiženého."
     },
     {
       "sourceNumber": "12",
@@ -4251,7 +4260,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-letoun-2-p3-12"
+      "id": "2-lidska-vykonnost-letoun-2-p3-12",
+      "explanation": "Sítnice oka a zrakové funkce jsou citlivé na nedostatek kyslíku. Hypoxie může zhoršovat zejména noční vidění ještě před výraznějšími subjektivními příznaky."
     },
     {
       "sourceNumber": "13",
@@ -4299,7 +4309,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-15"
+      "id": "2-lidska-vykonnost-letoun-2-p4-15",
+      "explanation": "Červené krvinky obsahují hemoglobin, který váže kyslík v plicích a přenáší jej do tkání. Nedostatečný počet krvinek nebo porucha hemoglobinu snižují schopnost krve zásobovat tělo kyslíkem."
     },
     {
       "sourceNumber": "16",
@@ -4315,7 +4326,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-16"
+      "id": "2-lidska-vykonnost-letoun-2-p4-16",
+      "explanation": "Krevní destičky (trombocyty) se při poranění cévy shlukují a podílejí se na vytvoření krevní zátky. Společně s koagulačními faktory umožňují zastavení krvácení."
     },
     {
       "sourceNumber": "17",
@@ -4331,7 +4343,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-17"
+      "id": "2-lidska-vykonnost-letoun-2-p4-17",
+      "explanation": "Bílé krvinky (leukocyty) rozpoznávají a potlačují infekce a podílejí se na imunitních reakcích. Na rozdíl od červených krvinek není jejich hlavním úkolem přenos kyslíku."
     },
     {
       "sourceNumber": "18",
@@ -4347,7 +4360,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-18"
+      "id": "2-lidska-vykonnost-letoun-2-p4-18",
+      "explanation": "Krevní destičky pomáhají zastavit krvácení vytvořením primární krevní zátky a podporují srážecí proces. Červené krvinky přenášejí kyslík, bílé krvinky se účastní imunitní obrany."
     },
     {
       "sourceNumber": "19",
@@ -4379,7 +4393,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-20"
+      "id": "2-lidska-vykonnost-letoun-2-p5-20",
+      "explanation": "Oxid uhelnatý se váže na hemoglobin a vytváří karboxyhemoglobin, který nemůže přenášet kyslík. Jde tedy o poruchu transportní kapacity krve – anemický typ hypoxie."
     },
     {
       "sourceNumber": "21",
@@ -4411,7 +4426,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-22"
+      "id": "2-lidska-vykonnost-letoun-2-p5-22",
+      "explanation": "Reflex je rychlá, mimovolní odpověď nervového systému na podnět, například mrknutí při přiblížení předmětu k oku. Nemusí vyžadovat vědomé rozhodnutí."
     },
     {
       "sourceNumber": "23",
@@ -4427,7 +4443,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-23"
+      "id": "2-lidska-vykonnost-letoun-2-p5-23",
+      "explanation": "Autonomní nervový systém řídí mnoho mimovolních funkcí, například srdeční frekvenci, trávení a regulaci cév. Dýchání má automatickou složku, ale lze je do určité míry ovládat i vědomě."
     },
     {
       "sourceNumber": "24",
@@ -4443,7 +4460,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-24"
+      "id": "2-lidska-vykonnost-letoun-2-p5-24",
+      "explanation": "Paralaxa vzniká, když pozorovatel sleduje ručičku vůči stupnici pod šikmým úhlem. Zdánlivá poloha ručičky se pak liší od správné hodnoty; analogové přístroje je vhodné číst kolmo."
     },
     {
       "sourceNumber": "25",
@@ -4475,7 +4493,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-26"
+      "id": "2-lidska-vykonnost-letoun-2-p6-26",
+      "explanation": "Čípky na sítnici umožňují barevné vidění a ostré rozlišování detailů při dostatečném osvětlení. Tyčinky jsou citlivější za šera, ale barvy nerozlišují."
     },
     {
       "sourceNumber": "27",
@@ -4491,7 +4510,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-27"
+      "id": "2-lidska-vykonnost-letoun-2-p6-27",
+      "explanation": "Eustachova trubice spojuje středoušní dutinu s nosohltanem. Při polykání či zívání pomáhá vyrovnávat tlak mezi středním uchem a okolím."
     },
     {
       "sourceNumber": "28",
@@ -4507,7 +4527,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-28"
+      "id": "2-lidska-vykonnost-letoun-2-p6-28",
+      "explanation": "Při otoku nebo neprůchodnosti Eustachovy trubice se tlak ve středním uchu vyrovnává obtížně. Změny výšky pak mohou vyvolat bolest nebo barotrauma; let s výraznou rýmou proto představuje riziko."
     },
     {
       "sourceNumber": "29",
@@ -4523,7 +4544,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-29"
+      "id": "2-lidska-vykonnost-letoun-2-p6-29",
+      "explanation": "Po delší koordinované zatáčce se polokruhovité kanálky vnitřního ucha přizpůsobí stálému otáčení. Při vyrovnání zatáčky mohou krátce vyvolat falešný pocit otáčení na opačnou stranu."
     },
     {
       "sourceNumber": "30",
@@ -4555,7 +4577,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-31"
+      "id": "2-lidska-vykonnost-letoun-2-p7-31",
+      "explanation": "Při dopředném zrychlení může otolitový aparát vnitřního ucha zaměnit výsledné zrychlení za zaklonění hlavy. Pilot tak může mylně vnímat stoupání – jde o somatogravickou iluzi."
     },
     {
       "sourceNumber": "32",
@@ -4571,7 +4594,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-32"
+      "id": "2-lidska-vykonnost-letoun-2-p7-32",
+      "explanation": "Při zpomalení může otolitový aparát vyvolat falešný pocit sklopení přídě a klesání. Bez spolehlivých vnějších orientačních bodů je nutné důvěřovat letovým přístrojům."
     },
     {
       "sourceNumber": "33",
@@ -4587,7 +4611,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-33"
+      "id": "2-lidska-vykonnost-letoun-2-p7-33",
+      "explanation": "Dráha stoupající do kopce může působit dojmem, že letoun je při přiblížení příliš vysoko. Pilot pak může nevědomky snížit skutečnou sestupovou dráhu; pomáhá stabilizované přiblížení a správné vizuální či přístrojové vodítko."
     },
     {
       "sourceNumber": "34",
@@ -4619,7 +4644,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-35"
+      "id": "2-lidska-vykonnost-letoun-2-p8-35",
+      "explanation": "Pohyb hlavy při ustálené zatáčce stimuluje různé polokruhovité kanálky současně. Může vzniknout Coriolisova iluze – intenzivní falešný pocit rotace nebo náklonu."
     },
     {
       "sourceNumber": "36",
@@ -4635,7 +4661,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-36"
+      "id": "2-lidska-vykonnost-letoun-2-p8-36",
+      "explanation": "Při kladném přetížení se krev přesouvá od hlavy k dolním částem těla. Snížené prokrvení sítnice může nejprve vyvolat šedé vidění (grey-out), později black-out a případně ztrátu vědomí."
     },
     {
       "sourceNumber": "37",
@@ -4651,7 +4678,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-37"
+      "id": "2-lidska-vykonnost-letoun-2-p8-37",
+      "explanation": "Mozek vyhodnocuje zrakové podněty na základě zkušeností a očekávání. Pokud okolní podmínky vytvářejí zavádějící perspektivu nebo kontrast, může vzniknout optický klam i při zdravém zraku."
     },
     {
       "sourceNumber": "38",
@@ -4683,7 +4711,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-39"
+      "id": "2-lidska-vykonnost-letoun-2-p9-39",
+      "explanation": "Nadváha a zejména nadbytek viscerálního tuku souvisejí s inzulinovou rezistencí, a tím se zvýšeným rizikem diabetu 2. typu. Pro leteckou zdravotní způsobilost je důležitý i způsob léčby a riziko hypoglykémie."
     },
     {
       "sourceNumber": "40",
@@ -4699,7 +4728,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-40"
+      "id": "2-lidska-vykonnost-letoun-2-p9-40",
+      "explanation": "Po přístrojovém potápění může být v tkáních zvýšené množství rozpuštěného dusíku. Pokles okolního tlaku při letu podporuje vznik bublinek a dekompresní nemoci; před letem je nutný odpovídající časový odstup."
     },
     {
       "sourceNumber": "41",
@@ -4747,7 +4777,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-43"
+      "id": "2-lidska-vykonnost-letoun-2-p10-43",
+      "explanation": "Latentní (skrytá) chyba může být zabudovaná do postupů, organizace nebo technického systému a dlouho se neprojevit. Nehoda vzniká, když se taková slabina spojí s dalšími chybami nebo nepříznivými okolnostmi."
     },
     {
       "sourceNumber": "44",
@@ -4763,7 +4794,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-44"
+      "id": "2-lidska-vykonnost-letoun-2-p10-44",
+      "explanation": "Potvrzovací zkreslení znamená, že člověk vyhledává a upřednostňuje informace podporující jeho dosavadní názor a podceňuje protichůdné důkazy. Pilot mu čelí aktivním ověřováním alternativních vysvětlení."
     },
     {
       "sourceNumber": "45",
@@ -4779,7 +4811,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-45"
+      "id": "2-lidska-vykonnost-letoun-2-p10-45",
+      "explanation": "Situační povědomí zahrnuje vnímání aktuálních informací, porozumění jejich významu a předvídání dalšího vývoje. Pilot sleduje polohu, počasí, provoz, stav letounu i časové rezervy."
     },
     {
       "sourceNumber": "46",
@@ -4795,7 +4828,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-46"
+      "id": "2-lidska-vykonnost-letoun-2-p10-46",
+      "explanation": "Standardní radiotelefonní frazeologie snižuje nejednoznačnost. Pilot i řídící používají stejný význam předepsaných výrazů a správné opakování klíčových údajů pomáhá odhalit chyby."
     },
     {
       "sourceNumber": "47",
@@ -4811,7 +4845,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-47"
+      "id": "2-lidska-vykonnost-letoun-2-p10-47",
+      "explanation": "Základní reakce na riziko zahrnují vyhnutí se činnosti, snížení pravděpodobnosti či následků, přenesení některých dopadů a vědomé přijetí zbytkového rizika. V letectví nelze nepřijatelné bezpečnostní riziko jednoduše „převést“ a ignorovat."
     },
     {
       "sourceNumber": "48",
@@ -4827,7 +4862,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-48"
+      "id": "2-lidska-vykonnost-letoun-2-p11-48",
+      "explanation": "Skupinový tlak může vést k přijetí většího rizika, než by člověk připustil sám. Pilot musí rozhodovat podle provozních limitů a bezpečnostních kritérií, nikoli podle očekávání cestujících nebo kolegů."
     },
     {
       "sourceNumber": "49",
@@ -4843,7 +4879,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-49"
+      "id": "2-lidska-vykonnost-letoun-2-p11-49",
+      "explanation": "Posun rizika (risky shift) popisuje situaci, kdy skupina přijme rizikovější rozhodnutí než její členové samostatně. Příčinou může být rozptýlení odpovědnosti či vzájemné povzbuzování."
     },
     {
       "sourceNumber": "50",
@@ -4859,7 +4896,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-50"
+      "id": "2-lidska-vykonnost-letoun-2-p11-50",
+      "explanation": "Předvádění se může vést k nebezpečným manévrům, zatímco pocit nezranitelnosti vede k podceňování následků. Tyto postoje se vzájemně posilují a zvyšují pravděpodobnost nehody."
     },
     {
       "sourceNumber": "51",
@@ -4875,7 +4913,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-51"
+      "id": "2-lidska-vykonnost-letoun-2-p11-51",
+      "explanation": "Snaha zapůsobit na diváky nebo cestující může svádět k nízkým průletům, prudkým manévrům či jinému zbytečnému riziku. Bezpečný pilot upřednostňuje limity letounu a předpisy před dojmem na okolí."
     },
     {
       "sourceNumber": "52",
@@ -4891,7 +4930,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-52"
+      "id": "2-lidska-vykonnost-letoun-2-p11-52",
+      "explanation": "Očekávání ovlivňují to, co člověk skutečně zaznamená. Pilot může například přehlédnout neobvyklý údaj přístroje, protože očekává běžný stav; pomáhá systematická kontrola a vzájemné ověřování."
     },
     {
       "sourceNumber": "53",
@@ -4923,7 +4963,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-54"
+      "id": "2-lidska-vykonnost-letoun-2-p12-54",
+      "explanation": "Přílišná důvěra v automatizaci může snížit pozornost pilota a připravenost převzít řízení. Automatické systémy je nutné průběžně monitorovat a rozumět jejich režimům a omezením."
     },
     {
       "sourceNumber": "55",
@@ -4975,7 +5016,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-57"
+      "id": "2-lidska-vykonnost-letoun-2-p12-57",
+      "explanation": "Stres může ovlivnit rozsah pozornosti, soustředění, pracovní paměť i rozhodování a odpovědné jednání. Při vysoké zátěži pomáhají nacvičené postupy, priority a kontrolní seznamy."
     },
     {
       "sourceNumber": "58",

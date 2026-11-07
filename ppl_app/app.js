@@ -623,20 +623,20 @@ function loadData(data) {
   buildDeck();
 }
 
-if (window.PPL_QUESTIONS) {
-  loadData(window.PPL_QUESTIONS);
-} else {
-  fetch("./data/questions.json")
-    .then((response) => {
-      if (!response.ok) throw new Error("questions.json nenalezen");
-      return response.json();
-    })
-    .then(loadData)
-    .catch((error) => {
+fetch("./data/questions.json", { cache: "no-cache" })
+  .then((response) => {
+    if (!response.ok) throw new Error("questions.json nenalezen");
+    return response.json();
+  })
+  .then(loadData)
+  .catch((error) => {
+    if (window.PPL_QUESTIONS) {
+      loadData(window.PPL_QUESTIONS);
+    } else {
       els.questionCount.textContent = "Chybí data";
       els.questionText.textContent = `Nejde načíst data: ${error.message}`;
-    });
-}
+    }
+  });
 
 if ("serviceWorker" in navigator) {
 window.addEventListener("load", () => {

@@ -1021,7 +1021,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-63"
+      "id": "komunikace-p13-63",
+      "explanation": "V leteckých meteorologických informacích se dohlednost 10 km a více uvádí jako „10 km nebo více“; proto se 12 km nehlásí jako přesná hodnota 12 km. V radiotelefonii se číslice vyslovují jednotlivě."
     },
     {
       "sourceNumber": "64",
@@ -1037,7 +1038,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-64"
+      "id": "komunikace-p13-64",
+      "explanation": "Podle způsobu uvádění dohlednosti v těchto podkladech se hodnoty do 5 km vyjadřují v metrech. U nízké dohlednosti je údaj v metrech přesnější a pro pilota provozně užitečnější."
     },
     {
       "sourceNumber": "65",
@@ -1053,7 +1055,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-65"
+      "id": "komunikace-p13-65",
+      "explanation": "V rozsahu nad 5 km se dohlednost v tomto testovém kontextu uvádí v kilometrech. U hodnot 10 km a více se standardně používá hlášení „10 km nebo více“."
     },
     {
       "sourceNumber": "66",
@@ -1188,7 +1191,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-74"
+      "id": "komunikace-p15-74",
+      "explanation": "Při ztrátě radiového spojení za VFR pilot postupuje podle posledního přijatého povolení a použitelných postupů pro ztrátu spojení; pokud je to možné a vhodné, řízený prostor opustí nejkratší bezpečnou cestou. Současně se pokusí obnovit spojení a nastaví odpovídač na kód 7600, je-li jím vybaven."
     },
     {
       "sourceNumber": "75",

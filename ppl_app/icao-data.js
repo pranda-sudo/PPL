@@ -344,5 +344,249 @@ window.ICAO_DATA = {
       ],
       "why": "Kód transpondéru se v komunikaci označuje slovem squawk. Použij přesný přidělený kód."
     }
+  ],
+  "circuit": [
+    {
+      "id": "c1",
+      "prompt": "Letíš po větru pro dráhu 27. Jak stručně ohlásíš polohu?",
+      "correct": "Downwind runway 27.",
+      "options": [
+        "Downwind runway 27.",
+        "Final runway 27.",
+        "Crosswind runway 27."
+      ],
+      "why": "DOWNWIND = poloha po větru; letíš přibližně rovnoběžně s dráhou v protisměru přistání. Uveď volací značku a případně další údaje požadované místními postupy."
+    },
+    {
+      "id": "c2",
+      "prompt": "Jsi na úseku okruhu po vzletu, před první zatáčkou. Jak se nazývá?",
+      "correct": "Upwind leg.",
+      "options": [
+        "Downwind leg.",
+        "Upwind leg.",
+        "Base leg."
+      ],
+      "why": "UPWIND = úsek ve směru vzletu. Někdy se odlišuje initial climb podle místních postupů."
+    },
+    {
+      "id": "c3",
+      "prompt": "Po první zatáčce letíš napříč směrem dráhy. Jak se úsek nazývá?",
+      "correct": "Crosswind leg.",
+      "options": [
+        "Crosswind leg.",
+        "Final approach.",
+        "Downwind leg."
+      ],
+      "why": "CROSSWIND = příčný úsek okruhu mezi odletem a polohou po větru."
+    },
+    {
+      "id": "c4",
+      "prompt": "Dokončil jsi zatáčku z polohy po větru na základní úsek před finále. Jak hlásíš polohu?",
+      "correct": "Base runway 27.",
+      "options": [
+        "Final runway 27.",
+        "Base runway 27.",
+        "Long final runway 27."
+      ],
+      "why": "BASE = základní úsek okruhu před poslední zatáčkou na finále. V českém AIP se uvádí poloha před poslední zatáčkou."
+    },
+    {
+      "id": "c5",
+      "prompt": "Jsi po poslední (čtvrté) okruhové zatáčce, v ose dráhy 27. Jak se hlásíš?",
+      "correct": "Final runway 27.",
+      "options": [
+        "Crosswind runway 27.",
+        "Downwind runway 27.",
+        "Final runway 27."
+      ],
+      "why": "Po poslední zatáčce jsi na FINAL (finále). Standardní anglické hlášení polohy je FINAL, nikoli „fourth turn“."
+    },
+    {
+      "id": "c6",
+      "prompt": "Blížíš se ke čtvrté zatáčce z base na finále. Co popisuje tvoji činnost?",
+      "correct": "Turning final.",
+      "options": [
+        "Turning final.",
+        "Turning downwind.",
+        "Vacating runway."
+      ],
+      "why": "TURNING FINAL znamená zatáčím na finále. Standardní polohové hlášení po dokončení zatáčky je FINAL."
+    },
+    {
+      "id": "c7",
+      "prompt": "Chceš se zařadit na finále dráhy 09. Jak popíšeš svůj záměr?",
+      "correct": "Request to join final runway 09.",
+      "options": [
+        "Request to join final runway 09.",
+        "Request to cross runway 09.",
+        "Request to taxi runway 09."
+      ],
+      "why": "REQUEST TO JOIN FINAL je srozumitelná žádost o zařazení na konečné přiblížení; konkrétní pokyny a požadavky závisí na letišti a stanovišti."
+    },
+    {
+      "id": "c8",
+      "prompt": "Chceš se zařadit do okruhu v poloze po větru dráhy 27. Jaký záměr oznámíš?",
+      "correct": "Request to join downwind runway 27.",
+      "options": [
+        "Request to join downwind runway 27.",
+        "Cleared to land runway 27.",
+        "Vacated runway 27."
+      ],
+      "why": "JOIN DOWNWIND znamená zařadit se do okruhu v poloze po větru. Žádost není sama o sobě povolením."
+    },
+    {
+      "id": "c9",
+      "prompt": "Řídící požaduje: „Report base.“ Co máš udělat?",
+      "correct": "Ohlásit polohu base.",
+      "options": [
+        "Ihned přistát.",
+        "Ohlásit polohu base.",
+        "Opustit okruh."
+      ],
+      "why": "REPORT BASE = ohlaste základní úsek okruhu před poslední zatáčkou."
+    },
+    {
+      "id": "c10",
+      "prompt": "Řídící požaduje: „Report final.“ Co to znamená?",
+      "correct": "Ohlásit finále.",
+      "options": [
+        "Ohlásit finále.",
+        "Zastavit na vyčkávacím místě.",
+        "Změnit kód odpovídače."
+      ],
+      "why": "REPORT FINAL = ohlaste konečné přiblížení. Neznamená to automaticky povolení k přistání."
+    },
+    {
+      "id": "c11",
+      "prompt": "Letíš přímé přiblížení a jsi ve větší vzdálenosti od prahu dráhy. Jak se označuje dlouhé finále?",
+      "correct": "Long final.",
+      "options": [
+        "Long approach clearance.",
+        "Long final.",
+        "Long downwind."
+      ],
+      "why": "LONG FINAL je hlášení polohy na vzdáleném finále podle definovaných vzdáleností; není zaměnitelné s pokynem MAKE LONG APPROACH. SERA uvádí pro přímé přiblížení hlášení long final při 8 NM a final při 4 NM."
+    },
+    {
+      "id": "c12",
+      "prompt": "Jsi na přímém přiblížení přibližně 8 NM od prahu. Které polohové hlášení je vhodné?",
+      "correct": "Long final runway 27.",
+      "options": [
+        "Base runway 27.",
+        "Long final runway 27.",
+        "Crosswind runway 27."
+      ],
+      "why": "Při přímém přiblížení je LONG FINAL hlášení okolo 8 NM; přibližně ve 4 NM pak následuje FINAL, pokud platné místní postupy nestanoví jinak."
+    },
+    {
+      "id": "c13",
+      "prompt": "Letíš na finále asi 4 NM od prahu po ohlášení long final. Co nyní hlásíš?",
+      "correct": "Final runway 27.",
+      "options": [
+        "Long final runway 27.",
+        "Final runway 27.",
+        "Downwind runway 27."
+      ],
+      "why": "Po hlášení LONG FINAL se podle standardní frazeologie opakuje poloha FINAL ve vzdálenosti přibližně 4 NM."
+    },
+    {
+      "id": "c14",
+      "prompt": "ATC ti oznámí: „Extend downwind.“ Co provedeš?",
+      "correct": "Prodloužím úsek po větru.",
+      "options": [
+        "Prodloužím úsek po větru.",
+        "Začnu okamžitě čtvrtou zatáčku.",
+        "Přejdu do stoupání."
+      ],
+      "why": "EXTEND DOWNWIND znamená pokračovat po větru déle než obvykle; další zatáčku zahajuj podle pokynů a provozní situace."
+    },
+    {
+      "id": "c15",
+      "prompt": "ATC požaduje: „Make short approach.“ Co znamená pokyn?",
+      "correct": "Provést zkrácené přiblížení.",
+      "options": [
+        "Provést zkrácené přiblížení.",
+        "Letět na vzdálené finále.",
+        "Prodloužit po větru."
+      ],
+      "why": "MAKE SHORT APPROACH = provést krátké přiblížení v souladu s bezpečností letu a konkrétními pokyny."
+    },
+    {
+      "id": "c16",
+      "prompt": "ATC požaduje: „Make long approach.“ Co znamená pokyn?",
+      "correct": "Provést prodloužené přiblížení.",
+      "options": [
+        "Provést prodloužené přiblížení.",
+        "Ohlásit pozici long final.",
+        "Uvolnit dráhu."
+      ],
+      "why": "MAKE LONG APPROACH je instrukce k vedení delšího přiblížení. LONG FINAL je naproti tomu hlášení polohy."
+    },
+    {
+      "id": "c17",
+      "prompt": "Jsi na finále, ale před tebou je provoz a přistání není možné. Co oznámíš při přerušení přistání?",
+      "correct": "Going around.",
+      "options": [
+        "Going around.",
+        "Joining downwind.",
+        "Landing complete."
+      ],
+      "why": "GOING AROUND = přerušuji přistání a provádím postup nezdařeného přiblížení nebo další okruh. Prioritou je bezpečné řízení letu."
+    },
+    {
+      "id": "c18",
+      "prompt": "Jak anglicky označíš pravý letištní okruh?",
+      "correct": "Right-hand circuit.",
+      "options": [
+        "Right-hand circuit.",
+        "Left final.",
+        "Crosswind approach."
+      ],
+      "why": "RIGHT-HAND CIRCUIT znamená pravý okruh. Směr okruhu může být místně předepsán a musíš jej respektovat."
+    },
+    {
+      "id": "c19",
+      "prompt": "Jak anglicky označíš levý letištní okruh?",
+      "correct": "Left-hand circuit.",
+      "options": [
+        "Right base.",
+        "Left-hand circuit.",
+        "Long final."
+      ],
+      "why": "LEFT-HAND CIRCUIT znamená levý okruh. Bez výslovného potvrzení nelze automaticky předpokládat směr okruhu na konkrétním letišti."
+    },
+    {
+      "id": "c20",
+      "prompt": "Co znamená fráze „Straight-in approach“?",
+      "correct": "Přímé přiblížení bez běžného obletu celého okruhu.",
+      "options": [
+        "Přímé přiblížení bez běžného obletu celého okruhu.",
+        "Start první okruhové zatáčky.",
+        "Zkrácené pojíždění."
+      ],
+      "why": "STRAIGHT-IN APPROACH = přímé přiblížení. Podle českého AIP se při něm nehlásí downwind a base, protože se tyto úseky neletí."
+    },
+    {
+      "id": "c21",
+      "prompt": "Chceš požádat o přímé přiblížení pro dráhu 27. Co řekneš?",
+      "correct": "Request straight-in approach runway 27.",
+      "options": [
+        "Request straight-in approach runway 27.",
+        "Report crosswind runway 27.",
+        "Hold short runway 27."
+      ],
+      "why": "REQUEST STRAIGHT-IN APPROACH je žádost o přímé přiblížení, nikoli povolení. U nekontrolovaného letiště přizpůsob komunikaci místním postupům."
+    },
+    {
+      "id": "c22",
+      "prompt": "Jak hlásíš, že opouštíš dráhu po přistání?",
+      "correct": "Runway vacated.",
+      "options": [
+        "Final.",
+        "Runway vacated.",
+        "Going around."
+      ],
+      "why": "RUNWAY VACATED = dráha je uvolněná. Hlášení prováděj podle místních postupů a požadavků ATC/AFIS."
+    }
   ]
 };

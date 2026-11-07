@@ -14814,7 +14814,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-1",
+      "explanation": "Maximální tloušťka profilu je největší vzdálenost mezi horním a dolním obrysem profilu, obvykle měřená kolmo k tětivě. Není určena polohou křídla vůči trupu."
     },
     {
       "sourceNumber": "2",
@@ -14830,7 +14831,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-2",
+      "explanation": "Příhradový trup tvoří soustava ocelových trubek přenášejících zatížení; plátěný či jiný nenosný potah především vytváří aerodynamický povrch. U skořepinové konstrukce naopak zatížení přenáší i potah."
     },
     {
       "sourceNumber": "3",
@@ -14846,7 +14848,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-3",
+      "explanation": "Přepážky dávají trupu příčný tvar a přenášejí soustředěná zatížení, podélníky zajišťují podélnou tuhost. U konkrétních konstrukcí se mohou vyskytovat i další prvky; test se ptá na základní dvojici."
     },
     {
       "sourceNumber": "4",
@@ -14880,7 +14883,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-5",
+      "explanation": "Poloskořepinový (semi-monocoque) trup přenáší zatížení kombinací nosného potahu, přepážek a podélných výztuh. Na rozdíl od čistě příhradové konstrukce není potah pouze aerodynamickým krytem."
     },
     {
       "sourceNumber": "6",
@@ -14914,7 +14918,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-7",
+      "explanation": "Ocasní plochy tvoří vodorovná a svislá část. Vodorovná zajišťuje především podélnou stabilitu a řízení klopení, svislá směrovou stabilitu a řízení bočení."
     },
     {
       "sourceNumber": "8",
@@ -14930,7 +14935,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-8",
+      "explanation": "Sendvičový panel má dvě relativně tenké, pevné povrchové vrstvy oddělené lehkým jádrem. Oddálení vrstev výrazně zvyšuje ohybovou tuhost při malé hmotnosti."
     },
     {
       "sourceNumber": "9",
@@ -14946,7 +14952,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-9",
+      "explanation": "Žebra určují průřezový aerodynamický profil křídla a podpírají potah. Nosníky přenášejí hlavní ohybová a smyková zatížení křídla."
     },
     {
       "sourceNumber": "10",
@@ -14962,7 +14969,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-10",
+      "explanation": "Násobek zatížení n je poměr aerodynamické vztlakové síly k tíze letadla: n = L/W. Při ustáleném přímém vodorovném letu je přibližně 1; v koordinované horizontální zatáčce roste jako 1/cos náklonu."
     },
     {
       "sourceNumber": "11",
@@ -14978,7 +14986,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-11",
+      "explanation": "Pevné tenké povrchové vrstvy a lehké jádro vytvářejí velkou ohybovou tuhost a dobrý poměr pevnosti k hmotnosti. Skutečné vlastnosti závisí na materiálu, tloušťce jádra a kvalitě spojení vrstev."
     },
     {
       "sourceNumber": "12",
@@ -15010,7 +15019,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-13"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-13",
+      "explanation": "Překročení provozních limitů může způsobit skryté strukturální poškození. Před dalším letem je nutné postupovat podle údržbové dokumentace a zajistit předepsanou kontrolu oprávněnou osobou; samotná prohlídka pilotem nemusí stačit."
     },
     {
       "sourceNumber": "14",
@@ -15026,7 +15036,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-14"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-14",
+      "explanation": "Tvrdé přistání nebo překročení dovoleného zatížení může vyvolat lokální plastickou deformaci a vznik trhlin v namáhaných místech. Trhliny však mohou vznikat také únavou nebo korozí, proto je formulace otázky zjednodušená."
     },
     {
       "sourceNumber": "15",
@@ -15076,7 +15087,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-17"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-17",
+      "explanation": "Silné poryvy mohou zvýšit okamžitý násobek zatížení nad konstrukční limity. Manévrovací rychlost VA není univerzální ochranou před všemi poryvy a současnými či opakovanými zásahy do řízení."
     },
     {
       "sourceNumber": "18",
@@ -15110,7 +15122,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-19"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-19",
+      "explanation": "U mnoha malých letadel jsou pedály směrového řízení mechanicky propojeny s řízením příďového nebo ostruhového kola. Konkrétní rozsah řízení závisí na typu letadla."
     },
     {
       "sourceNumber": "20",
@@ -15126,7 +15139,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-20"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-20",
+      "explanation": "Hlavní podvozek nese při pojíždění a brzdění rozhodující část zatížení; brzdy jsou proto běžně na jeho kolech. Příďové nebo ostruhové kolo zpravidla slouží především k vedení směru."
     },
     {
       "sourceNumber": "21",
@@ -15142,7 +15156,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-21"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-21",
+      "explanation": "U letounů s mechanicky řízeným příďovým kolem bývá řízení spojeno s pedály směrovky. Při pohybu pedálů se proto vychyluje směrové kormidlo a současně se může natáčet příďové kolo."
     },
     {
       "sourceNumber": "22",
@@ -15176,7 +15191,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-23"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-23",
+      "explanation": "Letoun má tři rotační osy: podélnou (klonění), příčnou (klopení) a svislou (bočení). Osy jsou vzájemně kolmé a procházejí přibližně těžištěm."
     },
     {
       "sourceNumber": "24",
@@ -15192,7 +15208,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-24"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-24",
+      "explanation": "Křidélka vytvářejí rozdíl vztlaku mezi levým a pravým křídlem, čímž vzniká moment kolem podélné osy a letoun se naklání."
     },
     {
       "sourceNumber": "25",
@@ -15208,7 +15225,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-25"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-25",
+      "explanation": "U běžných lehkých pístových letounů jsou primární řídicí plochy ovládány mechanicky lany, táhly či jejich kombinací. Hydraulické posilovače a fly-by-wire se používají především u jiných konstrukcí."
     },
     {
       "sourceNumber": "26",
@@ -15224,7 +15242,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-26"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-26",
+      "explanation": "Vychýlení směrovky doleva vyvolá primárně bočení doleva. Následkem směrového pohybu a rozdílu rychlostí obou křídel může vznikat sekundární klonění doleva; velikost závisí na typu a režimu letu."
     },
     {
       "sourceNumber": "27",
@@ -15240,7 +15259,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-27"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-27",
+      "explanation": "Přitažení řídicí páky zpravidla vychýlí výškové kormidlo nahoru, čímž se na běžné ocasní konfiguraci zvětší síla ocasních ploch směrem dolů. To vytvoří moment zvedající příď. Účinek závisí na konfiguraci letounu."
     },
     {
       "sourceNumber": "28",
@@ -15256,7 +15276,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-28"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-28",
+      "explanation": "Přitažení páky na běžném letounu s klasickými ocasními plochami zvyšuje aerodynamickou sílu na ocase směrem dolů a tím klopný moment zvedající příď. Jde o stejný princip jako u předchozí otázky."
     },
     {
       "sourceNumber": "29",
@@ -15272,7 +15293,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-29"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-29",
+      "explanation": "Při posunutí páky vpřed se sníží úhel náběhu a příď zpravidla klesne. Bez dalších korekcí se v běžném ustáleném režimu zvětšuje klesání a rychlost se může zvýšit; přesná odezva závisí na výchozím letu a výkonu."
     },
     {
       "sourceNumber": "30",
@@ -15288,7 +15310,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-30"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-30",
+      "explanation": "Primární řízení tvoří křidélka (klonění), výškové kormidlo (klopení) a směrové kormidlo (bočení). Klapky, sloty a trimy patří mezi pomocná či sekundární zařízení."
     },
     {
       "sourceNumber": "31",
@@ -15304,7 +15327,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-31"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-31",
+      "explanation": "Sekundární zařízení, například klapky a vyvažování, upravují letové vlastnosti, výkonnost a síly v řízení. Nenahrazují tři základní řídicí plochy."
     },
     {
       "sourceNumber": "32",

@@ -6090,7 +6090,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-1"
+      "id": "3-meteorologie-letoun-1-p1-1",
+      "explanation": "Vlhký nestabilní vzduch se při proudění proti pohoří nuceně zvedá a ochlazuje. Kondenzace a další konvekce podporují mohutnou kupovitou oblačnost, přeháňky a případně bouřky s kroupami."
     },
     {
       "sourceNumber": "2",
@@ -6106,7 +6107,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-2"
+      "id": "3-meteorologie-letoun-1-p1-2",
+      "explanation": "Při výstupu vlhkého vzduchu po svahu klesá jeho teplota adiabatickým ochlazováním. Po dosažení rosného bodu se vodní pára sráží a může vzniknout orografická mlha."
     },
     {
       "sourceNumber": "3",
@@ -6122,7 +6124,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-3"
+      "id": "3-meteorologie-letoun-1-p1-3",
+      "explanation": "V nestabilním prostředí může konvekce pokračovat do velké výšky. Kupovitá oblačnost pak vertikálně mohutní a při dostatečné vlhkosti může přejít v přeháňkovou či bouřkovou oblačnost."
     },
     {
       "sourceNumber": "4",
@@ -6138,7 +6141,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-4"
+      "id": "3-meteorologie-letoun-1-p1-4",
+      "explanation": "Suchý vzduch tvoří přibližně 78 % dusíku, 21 % kyslíku a necelé 1 % argonu a dalších stopových plynů včetně oxidu uhličitého. Obsah vodní páry je proměnlivý."
     },
     {
       "sourceNumber": "5",
@@ -6154,7 +6158,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-5"
+      "id": "3-meteorologie-letoun-1-p1-5",
+      "explanation": "Troposféra obsahuje většinu atmosférické vodní páry a probíhá v ní hlavní část vertikálního promíchávání. Proto se zde tvoří většina oblaků, srážek a běžných povětrnostních jevů."
     },
     {
       "sourceNumber": "6",
@@ -6170,7 +6175,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-6"
+      "id": "3-meteorologie-letoun-1-p2-6",
+      "explanation": "Mezinárodní standardní atmosféra stanovuje u hladiny moře hustotu vzduchu na 1,225 kg/m³. Jeden krychlový metr vzduchu má proto za těchto podmínek hmotnost 1,225 kg."
     },
     {
       "sourceNumber": "7",
@@ -6186,7 +6192,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-7"
+      "id": "3-meteorologie-letoun-1-p2-7",
+      "explanation": "Ve standardní troposféře klesá teplota o 6,5 °C na kilometr, což je přibližně 1,98 °C na 1 000 ft. Proto se při výpočtech používá zaokrouhlení 2 °C na 1 000 ft."
     },
     {
       "sourceNumber": "8",
@@ -6202,7 +6209,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-8"
+      "id": "3-meteorologie-letoun-1-p2-8",
+      "explanation": "V modelu mezinárodní standardní atmosféry sahá troposféra do výšky 11 km. Tato hodnota je modelová; skutečná výška tropopauzy se mění podle zeměpisné šířky a počasí."
     },
     {
       "sourceNumber": "9",
@@ -6218,7 +6226,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-9"
+      "id": "3-meteorologie-letoun-1-p2-9",
+      "explanation": "Tropopauza je přechodová hranice mezi troposférou a stratosférou. V její blízkosti se výrazně mění průběh teploty s výškou."
     },
     {
       "sourceNumber": "10",
@@ -6234,7 +6243,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-10"
+      "id": "3-meteorologie-letoun-1-p2-10",
+      "explanation": "Letecké meteorologické zprávy v běžné mezinárodní praxi uvádějí teplotu vzduchu a rosný bod ve stupních Celsia. Stejnou jednotku používají také zprávy METAR."
     },
     {
       "sourceNumber": "11",
@@ -6250,7 +6260,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-11"
+      "id": "3-meteorologie-letoun-1-p3-11",
+      "explanation": "Teplotní inverze znamená, že teplota vzduchu s výškou roste namísto obvyklého poklesu. Inverze omezuje vertikální promíchávání a může podporovat vznik mlhy nebo nízké oblačnosti."
     },
     {
       "sourceNumber": "12",
@@ -6266,7 +6277,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-12"
+      "id": "3-meteorologie-letoun-1-p3-12",
+      "explanation": "V izotermální vrstvě se teplota s výškou nemění, takže svislý teplotní gradient je přibližně nulový."
     },
     {
       "sourceNumber": "13",
@@ -6282,7 +6294,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-13"
+      "id": "3-meteorologie-letoun-1-p3-13",
+      "explanation": "Standardní teplotní gradient v troposféře činí −6,5 °C/km. Po přepočtu na 100 metrů jde o pokles 0,65 °C."
     },
     {
       "sourceNumber": "14",
@@ -6298,7 +6311,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-14"
+      "id": "3-meteorologie-letoun-1-p3-14",
+      "explanation": "Při rozsáhlém sestupném proudění v tlakové výši se vzduch adiabaticky otepluje. Nad chladnější spodní vrstvou tak může vzniknout výšková subsidenční inverze."
     },
     {
       "sourceNumber": 15,
@@ -6314,7 +6328,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-15"
+      "id": "3-meteorologie-letoun-1-p3-15",
+      "explanation": "Za jasné a klidné noci zemský povrch vyzařováním ztrácí teplo a ochlazuje vzduch těsně nad sebou. Výše položený vzduch zůstává teplejší, čímž vzniká přízemní radiační inverze."
     },
     {
       "sourceNumber": 16,
@@ -6330,7 +6345,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-16"
+      "id": "3-meteorologie-letoun-1-p4-16",
+      "explanation": "V mezinárodní standardní atmosféře odpovídá tlak přibližně 500 hPa výšce kolem 5,5 km neboli FL180. Jde o standardní hodnotu, nikoli zaručený skutečný tlak v této výšce."
     },
     {
       "sourceNumber": 17,
@@ -6346,7 +6362,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-17"
+      "id": "3-meteorologie-letoun-1-p4-17",
+      "explanation": "QFF je tlak vzduchu přepočtený na střední hladinu moře s použitím skutečných meteorologických podmínek. Liší se od QNH, které slouží zejména k nastavení leteckého výškoměru."
     },
     {
       "sourceNumber": "18",
@@ -6362,7 +6379,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-18"
+      "id": "3-meteorologie-letoun-1-p4-18",
+      "explanation": "Z rovnice ideálního plynu vyplývá, že při stejném složení vzduchu hustota roste s tlakem a klesá s absolutní teplotou. Vyšší teplota a nižší tlak proto vedou k menší hustotě."
     },
     {
       "sourceNumber": "19",
@@ -6378,7 +6396,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-19"
+      "id": "3-meteorologie-letoun-1-p4-19",
+      "explanation": "Mezinárodní standardní atmosféra definuje tlak na střední hladině moře jako 1013,25 hPa, což odpovídá 29,92 inHg."
     },
     {
       "sourceNumber": "20",
@@ -6394,7 +6413,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-20"
+      "id": "3-meteorologie-letoun-1-p4-20",
+      "explanation": "Standardní výška tropopauzy je 11 000 m, což je přibližně 36 090 ft. Pro testové účely se používá zaokrouhlená hodnota 36 000 ft."
     },
     {
       "sourceNumber": "21",
@@ -6410,7 +6430,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-21"
+      "id": "3-meteorologie-letoun-1-p5-21",
+      "explanation": "Barometrický výškoměr odvozuje výšku z atmosférického tlaku a z nastavené referenční hodnoty. Jeho údaj se proto vždy vztahuje ke zvolené tlakové hladině."
     },
     {
       "sourceNumber": "22",
@@ -6426,7 +6447,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-22"
+      "id": "3-meteorologie-letoun-1-p5-22",
+      "explanation": "Po nastavení místního QNH by výškoměr na letišti měl přibližně ukazovat jeho známou nadmořskou výšku. Výraznější rozdíl může upozornit na chybu přístroje nebo nastavení."
     },
     {
       "sourceNumber": "23",
@@ -6442,7 +6464,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-23"
+      "id": "3-meteorologie-letoun-1-p5-23",
+      "explanation": "QFE je tlak vztažený k úrovni letiště nebo stanovenému referenčnímu bodu. Při nastavení QFE ukazuje výškoměr na tomto bodě přibližně nulu a za letu výšku nad touto tlakovou úrovní."
     },
     {
       "sourceNumber": "24",
@@ -6458,7 +6481,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-24"
+      "id": "3-meteorologie-letoun-1-p5-24",
+      "explanation": "QNH je nastavení tlaku, při kterém barometrický výškoměr na letišti ukazuje jeho nadmořskou výšku. Za letu pak udává barometrickou nadmořskou výšku vzhledem ke střední hladině moře."
     },
     {
       "sourceNumber": "25",

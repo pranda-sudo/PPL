@@ -15449,13 +15449,13 @@ window.PPL_QUESTIONS = {
         "to závisí na poloze těžiště",
         "pohybuje se ve směru výchylky směrovky"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Obecna znalost o letadle",
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-34",
-      "explanation": "Je-li letoun 'těžký na ocas', potřebuje pro vyvážení moment přídí dolů. Na klasické výškovce se trimovací ploška vychýlí dolů, čímž aerodynamicky vychýlí výškovku nahoru či dolů podle konkrétního mechanismu; u běžné trimovací plošky vychýlení dolů způsobuje výškovku nahoru, tedy moment přídí nahoru. Pozor: text odpovědního klíče je proto fyzikálně podezřelý a je nutné ověřit přesnou definici 'těžký na ocas' u zdrojové metodiky."
+      "explanation": "Je-li letoun těžký na ocas (má tendenci zvedat příď), je potřeba vyvážit momentem přídí dolů. U klasického trimovacího plíšku na výškovce se ploška vychýlí nahoru, čímž aerodynamicky vychýlí výškovku dolů a vznikne potřebný moment přídí dolů. Platí pro běžné uspořádání s trimovací ploškou, nikoli automaticky pro všechny stabilizátory či servotaby. Poznámka: zdrojové PDF uvádí možnosti bez explicitně označeného správného řešení; předchozí klíč 'dolů' byl v rozporu s fyzikou tohoto uspořádání."
     },
     {
       "sourceNumber": "35",

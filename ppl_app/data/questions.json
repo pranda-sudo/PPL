@@ -35,7 +35,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-1"
+      "id": "komunikace-p1-1",
+      "explanation": "Vysílání naslepo se používá, když nelze navázat obousměrné spojení a pilot nemá potvrzeno, že jeho zprávy byly přijaty. Nejde o běžné hromadné hlášení ani o automatický postup při ztrátě viditelnosti; při poruše spojení je nutné dodržet příslušné postupy."
     },
     {
       "sourceNumber": "2",
@@ -51,7 +52,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-2"
+      "id": "komunikace-p1-2",
+      "explanation": "Opuštění přidělené řídicí frekvence vyžaduje souhlas příslušného stanoviště ATS, aby zůstala zachována kontinuita spojení a řízení. Pouhé oznámení přeladění není totéž jako schválení; výjimkou v otázce je ukončení spojení po příjezdu na parkovací místo."
     },
     {
       "sourceNumber": "3",
@@ -67,7 +69,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-3"
+      "id": "komunikace-p1-3",
+      "explanation": "ABM je mezinárodní letecká zkratka pro „abeam“, tedy „na úrovni“ určitého bodu po straně letadla. Ostatní uvedené kombinace nejsou správnou zkratkou tohoto pojmu."
     },
     {
       "sourceNumber": "4",
@@ -83,7 +86,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-4"
+      "id": "komunikace-p1-4",
+      "explanation": "VFR znamená Visual Flight Rules, tedy pravidla pro let za viditelnosti. VMC označuje meteorologické podmínky pro let za viditelnosti, nikoli samotná pravidla; ostatní nabídnuté zkratky nejsou správné."
     },
     {
       "sourceNumber": "5",
@@ -99,7 +103,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-5"
+      "id": "komunikace-p1-5",
+      "explanation": "OBST je standardní zkratka pro obstacle, tedy překážku. V leteckých informacích může označovat například terénní nebo umělou překážku důležitou pro bezpečnost letu."
     },
     {
       "sourceNumber": "6",
@@ -115,7 +120,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-6"
+      "id": "komunikace-p2-6",
+      "explanation": "FIS znamená Flight Information Service, česky letová informační služba. Poskytuje informace a rady užitečné pro bezpečné a efektivní provedení letu; nejde o technický informační systém."
     },
     {
       "sourceNumber": "7",
@@ -131,7 +137,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-7"
+      "id": "komunikace-p2-7",
+      "explanation": "FIR znamená Flight Information Region, tedy letovou informační oblast. Jde o vymezený vzdušný prostor, ve kterém se poskytuje letová informační a pohotovostní služba; zkratka neoznačuje radar ani přijímač."
     },
     {
       "sourceNumber": "8",
@@ -147,7 +154,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-8"
+      "id": "komunikace-p2-8",
+      "explanation": "H24 v leteckých publikacích znamená nepřetržitý provoz nebo poskytování služby 24 hodin denně. Nejde o dobu omezenou východem či západem slunce."
     },
     {
       "sourceNumber": "9",
@@ -163,7 +171,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-9"
+      "id": "komunikace-p2-9",
+      "explanation": "HX znamená, že provozní doba služby není stanovena pevnými hodinami. Neznamená automaticky nepřetržitý provoz (ten se značí H24) ani provoz pouze za dne či noci."
     },
     {
       "sourceNumber": "10",
@@ -179,7 +188,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-10"
+      "id": "komunikace-p2-10",
+      "explanation": "QFE je tlak vztažený k referenční úrovni letiště; při nastavení QFE ukazuje výškoměr na této referenční úrovni přibližně nulu. QNH naproti tomu ukazuje nadmořskou výšku a standardní tlak 1013,25 hPa slouží k určení tlakové výšky/letové hladiny."
     },
     {
       "sourceNumber": "11",
@@ -195,7 +205,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-11"
+      "id": "komunikace-p3-11",
+      "explanation": "Při nastavení QNH ukazuje výškoměr nadmořskou výšku (altitude), tedy výšku vztaženou ke střední hladině moře. Na letišti pak přibližně ukazuje jeho nadmořskou výšku, nikoli nulu; tu na referenční úrovni ukazuje QFE."
     },
     {
       "sourceNumber": "12",
@@ -211,7 +222,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-12"
+      "id": "komunikace-p3-12",
+      "explanation": "QFE je tlak vztažený k referenční úrovni letiště. Výškoměr nastavený na QFE ukazuje výšku nad touto tlakovou referencí a na referenční úrovni letiště přibližně nulu. QNH naproti tomu udává nadmořskou výšku."
     },
     {
       "sourceNumber": "13",
@@ -227,7 +239,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-13"
+      "id": "komunikace-p3-13",
+      "explanation": "QDR je magnetický směrník OD zaměřovací stanice k letadlu, měřený od magnetického severu. Zapamatuj si dvojici: QDR = od stanice, QDM = ke stanici. Například QDR 090° znamená, že letadlo leží magneticky na východ od stanice; opačný QDM je přibližně 270°. QTE a QUJ používají zeměpisný, nikoli magnetický sever."
     },
     {
       "sourceNumber": "14",
@@ -243,7 +256,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-14"
+      "id": "komunikace-p3-14",
+      "explanation": "QUJ je zeměpisný (pravý) směrník KE stanici, měřený od zeměpisného severu. Jeho magnetickou obdobou je QDM. Opačný zeměpisný směrník OD stanice je QTE. Rozlišení magnetického a zeměpisného severu je důležité kvůli magnetické deklinaci."
     },
     {
       "sourceNumber": "15",
@@ -259,7 +273,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-15"
+      "id": "komunikace-p3-15",
+      "explanation": "QTE je zeměpisný (pravý) směrník OD stanice, tedy směr od zeměpisného severu ke směru stanice–letadlo. Magnetická obdoba je QDR. Opačný pravý směr KE stanici je QUJ. Rozdíl mezi QTE a QDR vyplývá z magnetické deklinace."
     },
     {
       "sourceNumber": "16",
@@ -275,7 +290,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-16"
+      "id": "komunikace-p4-16",
+      "explanation": "Magnetický směr OD stanice se označuje QDR. QDM znamená magnetický směr KE stanici, zatímco QTE a QUJ jsou směry vztažené k zeměpisnému severu."
     },
     {
       "sourceNumber": "17",
@@ -291,7 +307,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-17"
+      "id": "komunikace-p4-17",
+      "explanation": "QTE znamená zeměpisný směr OD stanice. QDR označuje magnetický směr od stanice; QDM a QUJ naopak směřují ke stanici."
     },
     {
       "sourceNumber": "18",
@@ -307,7 +324,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-18"
+      "id": "komunikace-p4-18",
+      "explanation": "QUJ znamená zeměpisný směr KE stanici. Magnetický směr ke stanici se značí QDM; QDR a QTE označují směry od stanice."
     },
     {
       "sourceNumber": "19",
@@ -323,7 +341,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-19"
+      "id": "komunikace-p4-19",
+      "explanation": "Zprávy o radiovém zaměřování mají v pořadí radiotelefonních zpráv přednost před běžnými zprávami týkajícími se bezpečnosti letu. Hlášení polohy, meteorologické zprávy ani zprávy o pravidelnosti letu nemají v uvedené skupině vyšší prioritu."
     },
     {
       "sourceNumber": "20",
@@ -339,7 +358,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-20"
+      "id": "komunikace-p4-20",
+      "explanation": "Zprávy nezbytné pro řízení letového provozu spadají mezi zprávy týkající se bezpečnosti letu (flight safety messages). Nejde o běžné provozně-organizační zprávy ani automaticky o tísňovou či pilnostní komunikaci."
     },
     {
       "sourceNumber": "21",
@@ -355,7 +375,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-21"
+      "id": "komunikace-p5-21",
+      "explanation": "Tíseň (MAYDAY) znamená vážné a bezprostřední nebezpečí pro letadlo nebo osoby a potřebu okamžité pomoci. Je naléhavější než pilnost (PAN PAN), která se týká bezpečnosti, ale sama o sobě nemusí znamenat bezprostřední ohrožení."
     },
     {
       "sourceNumber": "22",
@@ -371,7 +392,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-22"
+      "id": "komunikace-p5-22",
+      "explanation": "Pilnost (PAN PAN) se používá pro naléhavou zprávu týkající se bezpečnosti letadla nebo osob, aniž by nutně šlo o vážné a bezprostřední nebezpečí vyžadující okamžitou pomoc. Taková situace by už byla tísní (MAYDAY)."
     },
     {
       "sourceNumber": "23",
@@ -387,7 +409,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-23"
+      "id": "komunikace-p5-23",
+      "explanation": "Zprávy o pravidelnosti letu se týkají provozních záležitostí, například fungování nebo údržby zařízení důležitých pro bezpečný a pravidelný provoz. Nejde o tísňové ani pilnostní zprávy."
     },
     {
       "sourceNumber": "24",
@@ -403,7 +426,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-24"
+      "id": "komunikace-p5-24",
+      "explanation": "Radiotelefonní provoz má stanovené pořadí priorit: tíseň, pilnost, radiové zaměřování, zprávy týkající se bezpečnosti letu a další provozní zprávy. Žádost o QDM je žádostí o magnetický směr ke stanici a patří mezi zprávy radiového zaměřování. Proto má v uvedené nabídce přednost před běžnými pokyny či meteorologickými údaji; před tísní nebo pilností by ale přednost neměla."
     },
     {
       "sourceNumber": "25",
@@ -419,7 +443,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-25"
+      "id": "komunikace-p5-25",
+      "explanation": "Mezinárodní hláskovací abeceda ICAO používá Hotel–Bravo–Yankee–Kilo–Mike. „Home“, „Yuliett“ a „Mikro“ nejsou správná kódová slova pro uvedená písmena."
     },
     {
       "sourceNumber": "26",
@@ -435,7 +460,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-26"
+      "id": "komunikace-p6-26",
+      "explanation": "Volací značka OE-JVK se hláskuje Oscar–Echo–Juliett–Victor–Kilo podle abecedy ICAO. „Omega“, „Jankee“ ani „Kilogramm“ nejsou správná kódová slova."
     },
     {
       "sourceNumber": "27",
@@ -451,7 +477,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-27"
+      "id": "komunikace-p6-27",
+      "explanation": "Výška 4500 ft se podle radiotelefonní frazeologie vyjadřuje jako „čtyři tisíce pět set stop“; při hlášení výšky se běžně vyslovují celé tisíce a stovky, nikoli každá číslice samostatně jako u kurzu."
     },
     {
       "sourceNumber": "28",
@@ -467,7 +494,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-28"
+      "id": "komunikace-p6-28",
+      "explanation": "Směry a kurzy se v radiotelefonii vyslovují po jednotlivých číslicích: kurz 285° tedy „dva osm pět“. Tím se omezuje riziko přeslechnutí, na rozdíl od vyslovování čísla jako celku."
     },
     {
       "sourceNumber": "29",
@@ -483,7 +511,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-29"
+      "id": "komunikace-p6-29",
+      "explanation": "Při vysílání frekvence se číslice říkají jednoznačně po jednotlivých číslicích; v této testové otázce je pro 119,500 MHz přijatá zkrácená podoba „jedna jedna devět čárka pět“. Nuly na konci se v příslušných případech mohou vynechat, pokud tím nevznikne nejasnost. U kanálů s rozestupem 8,33 kHz je však nutné používat přesné přidělené označení kanálu, nikoli automaticky zkracovat."
     },
     {
       "sourceNumber": "30",
@@ -499,7 +528,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-30"
+      "id": "komunikace-p6-30",
+      "explanation": "Směr vůči letadlu se při použití hodinové orientace uvádí jako „dvanáct hodin“ pro směr přímo vpřed. Jde o polohu na pomyslném ciferníku, nikoli o číselný kurz nebo čas."
     },
     {
       "sourceNumber": "31",
@@ -515,7 +545,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-31"
+      "id": "komunikace-p7-31",
+      "explanation": "V letecké radiotelefonii se standardně používá koordinovaný světový čas UTC, aby mezi stanovišti a časovými pásmy nedocházelo k nejasnostem. Místní čas se bez výslovného upřesnění nepředpokládá."
     },
     {
       "sourceNumber": "32",
@@ -531,7 +562,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-32"
+      "id": "komunikace-p7-32",
+      "explanation": "Pokud by bylo možné zaměnit časový údaj, vyslovují se všechny čtyři číslice: 1620 jako „jedna šest dva nula“. Zkrácené hlášení pouze minut je vhodné jen tehdy, když nehrozí nejasnost."
     },
     {
       "sourceNumber": "33",
@@ -547,7 +579,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-33"
+      "id": "komunikace-p7-33",
+      "explanation": "„Rozumím“ (ROGER) potvrzuje příjem posledního vysílání. Samo o sobě neznamená souhlas s instrukcí ani závazek podle ní postupovat; ten vyjadřují jiné standardní výrazy, například WILCO."
     },
     {
       "sourceNumber": "34",
@@ -563,7 +596,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-34"
+      "id": "komunikace-p7-34",
+      "explanation": "„Oprava“ (CORRECTION) upozorňuje, že v právě vysílané zprávě došlo k chybě a následuje správné znění. Není to potvrzení přijetí zprávy ani udělení povolení."
     },
     {
       "sourceNumber": "35",
@@ -579,7 +613,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-35"
+      "id": "komunikace-p7-35",
+      "explanation": "„Schváleno“ (APPROVED) znamená, že požadovaný úkon byl povolen. Liší se od potvrzení příjmu („rozumím“) i od vyjádření, že pilot instrukci provede."
     },
     {
       "sourceNumber": "36",
@@ -595,7 +630,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-36"
+      "id": "komunikace-p8-36",
+      "explanation": "Pro kontrolu kvality radiového spojení se používá standardní dotaz „Jak slyšíte?“ (RADIO CHECK). Pozemní stanice odpovídá stupněm srozumitelnosti, nikoli pouhým potvrzením, že signál zaznamenala."
     },
     {
       "sourceNumber": "37",
@@ -611,7 +647,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-37"
+      "id": "komunikace-p8-37",
+      "explanation": "V radiotelefonii se pro vyžádání povolení používá standardní výraz „žádám“ (REQUEST). Vstup do řízeného prostoru podléhá příslušnému povolení, pokud je pro daný let vyžadováno; neformální „chtěl bych“ jej nenahrazuje."
     },
     {
       "sourceNumber": "38",
@@ -627,7 +664,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-38"
+      "id": "komunikace-p8-38",
+      "explanation": "Pro kladnou odpověď se používá „potvrzuji“ (AFFIRM). „Rozumím“ (ROGER) potvrzuje přijetí zprávy, nikoli nutně kladnou odpověď na otázku."
     },
     {
       "sourceNumber": "39",
@@ -643,7 +681,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-39"
+      "id": "komunikace-p8-39",
+      "explanation": "Záporná odpověď ve standardní frazeologii je „NEGATIV“ (NEGATIVE). Jednoznačný ustálený výraz omezuje záměnu s jinými částmi radiového provozu."
     },
     {
       "sourceNumber": "40",
@@ -659,7 +698,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-40"
+      "id": "komunikace-p8-40",
+      "explanation": "Pilot oznamuje „připraven k odletu“ (READY FOR DEPARTURE), nikoli „žádám vzlet“; povolení ke vzletu je samostatný jednoznačný pokyn řídícího. To snižuje riziko nechtěného vyvolání či pochopení vzletového povolení."
     },
     {
       "sourceNumber": "41",
@@ -675,7 +715,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-41"
+      "id": "komunikace-p9-41",
+      "explanation": "Pro oznámení zamýšleného nebo prováděného průletu bez přistání se používá odpovídající fráze „provádím průlet“. Nejde automaticky o nezdařené přiblížení ani o povolení ke vzletu."
     },
     {
       "sourceNumber": "42",
@@ -691,7 +732,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-42"
+      "id": "komunikace-p9-42",
+      "explanation": "Stanoviště letištního řízení (aerodrome control tower) používá v české radiotelefonii označení „věž“ (TOWER). „Oblast“ patří oblastnímu řízení a „zem/ground“ jinému stanovišti."
     },
     {
       "sourceNumber": "43",
@@ -707,7 +749,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-43"
+      "id": "komunikace-p9-43",
+      "explanation": "Stanoviště pro řízení pohybů na zemi používá volací označení GROUND, v otázce „ground“. Jde o jinou funkci než letištní věž, která zajišťuje zejména řízení provozu na dráze a v jejím okolí."
     },
     {
       "sourceNumber": "44",
@@ -723,7 +766,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-44"
+      "id": "komunikace-p9-44",
+      "explanation": "Letová informační služba používá v české frazeologii označení „informace“ (INFORMATION). Poskytuje informace pro bezpečný let; její volací označení není totožné s označením letištního řízení."
     },
     {
       "sourceNumber": "45",
@@ -739,7 +783,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-45"
+      "id": "komunikace-p9-45",
+      "explanation": "Zkrácená značka letadla může být tvořena prvním znakem registrační značky a nejméně posledními dvěma znaky: D-EAZF tedy DZF. Zkratka se však nesmí použít svévolně při prvním volání."
     },
     {
       "sourceNumber": "46",
@@ -755,7 +800,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-46"
+      "id": "komunikace-p10-46",
+      "explanation": "Zkrácení volacího znaku smí pilot převzít teprve poté, co jej použije příslušná pozemní stanice. Například D-EAZF může být zkráceno na DZF, ale při prvním navázání spojení se použije úplná značka. Pokud by hrozila záměna s jiným letadlem, zkrácený znak se nepoužívá."
     },
     {
       "sourceNumber": "47",
@@ -771,7 +817,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-47"
+      "id": "komunikace-p10-47",
+      "explanation": "Při prvním navázání spojení se používá úplný volací znak letadla. Zkracovat jej lze až za podmínek stanovených radiotelefonními postupy, zejména po použití zkratky pozemní stanicí."
     },
     {
       "sourceNumber": "48",
@@ -787,7 +834,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-48"
+      "id": "komunikace-p10-48",
+      "explanation": "Standardní pořadí prvního volání je nejprve volaná stanice a poté vlastní volací znak: „Tuřany věž, OK-ABC“. Tím je jasné, komu je zpráva určena a kdo vysílá."
     },
     {
       "sourceNumber": "50",
@@ -803,7 +851,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-50"
+      "id": "komunikace-p10-50",
+      "explanation": "Stupeň srozumitelnosti 1 znamená, že vysílání je nesrozumitelné. Jde o nejnižší hodnotu pětistupňové stupnice radiového spojení."
     },
     {
       "sourceNumber": "51",
@@ -819,7 +868,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-51"
+      "id": "komunikace-p11-51",
+      "explanation": "Stupeň 2 znamená, že vysílání je srozumitelné jen občas (přerušovaně). Stupeň 1 je nesrozumitelné a stupeň 3 již srozumitelné, ale s obtížemi."
     },
     {
       "sourceNumber": "52",
@@ -835,7 +885,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-52"
+      "id": "komunikace-p11-52",
+      "explanation": "Stupeň 3 označuje vysílání srozumitelné s obtížemi. Je lepší než přerušovaná srozumitelnost stupně 2, ale horší než dobře srozumitelné vysílání stupně 4."
     },
     {
       "sourceNumber": "53",
@@ -851,7 +902,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-53"
+      "id": "komunikace-p11-53",
+      "explanation": "Stupeň 5 znamená dokonale srozumitelné vysílání. Na pětistupňové škále jde o nejlepší možný výsledek kontroly spojení."
     },
     {
       "sourceNumber": "54",
@@ -867,7 +919,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-54"
+      "id": "komunikace-p11-54",
+      "explanation": "Informaci o větru pilot zpravidla nemusí doslovně číst zpět: jde o sdělení meteorologických podmínek, nikoli o pokyn měnící povolení. Naopak bezpečnostně důležité části povolení, zejména povolení ke vzletu nebo přistání, číslo dráhy, přidělené výšky a kurzy či kód odpovídače, vyžadují odpovídající zpětné potvrzení, aby řídící mohl odhalit přeslechnutí."
     },
     {
       "sourceNumber": "55",
@@ -883,7 +936,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-55"
+      "id": "komunikace-p11-55",
+      "explanation": "Informace o provozu se obvykle potvrzuje přijetím, nikoli doslovným zopakováním. Nastavení výškoměru, přidělený kurz a důležité pokyny pro pojíždění patří mezi údaje vyžadující správné zpětné přečtení."
     },
     {
       "sourceNumber": "56",
@@ -899,7 +953,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-56"
+      "id": "komunikace-p12-56",
+      "explanation": "Při zpětném potvrzení (readback) musí pilot zopakovat všechny bezpečnostně významné části pokynu: po odpoutání stoupat přímo do 2 500 ft, poté zatočit doprava na kurz 220°, dráha 12 a vzlet povolen. Vítr 090° o rychlosti 5 kt je pouze doplňující meteorologická informace a v tomto případě se neopakuje. Smyslem readbacku je umožnit řídícímu ověřit, že pilot správně pochopil povolení a dráhu."
     },
     {
       "sourceNumber": "57",
@@ -915,7 +970,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-57"
+      "id": "komunikace-p12-57",
+      "explanation": "„Provedu“ (WILCO) vyjadřuje, že pilot zprávě porozuměl a bude podle ní postupovat. U jednoduchého pokynu k příštímu hlášení může být použito; v praxi je vhodné dbát na jednoznačnost potvrzení."
     },
     {
       "sourceNumber": "58",
@@ -931,7 +987,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-58"
+      "id": "komunikace-p12-58",
+      "explanation": "„Squawk 4321“ znamená nastavit na odpovídači SSR čtyřmístný kód 4321. Zároveň pilot dostal pokyn přeladit na Bremen Radar 131,325 MHz. Správné potvrzení musí zahrnovat jak kód odpovídače, tak frekvenci; pouhé „rozumím“ by neumožnilo odhalit přeslechnutou číslici. Při skutečném provozu se uvádí i volací znak podle platné frazeologie."
     },
     {
       "sourceNumber": "59",
@@ -947,7 +1004,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-59"
+      "id": "komunikace-p12-59",
+      "explanation": "Věta „nyní vstupujete do vzdušného prostoru Delta“ je informace, nikoli nový příkaz. „Rozumím“ potvrzuje její přijetí, zatímco „provedu“ by znamenalo závazek provést instrukci."
     },
     {
       "sourceNumber": "63",
@@ -963,7 +1021,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-63"
+      "id": "komunikace-p13-63",
+      "explanation": "V uvedené testové frazeologii se dohlednost 12 km hlásí jako „10 kilometrů nebo více“, protože pro hodnoty nad 10 km se používá horní hlášená hranice. Pozor: konkrétní pravidla pro METAR a radiové hlášení se mohou lišit podle druhu informace."
     },
     {
       "sourceNumber": "64",
@@ -979,7 +1038,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-64"
+      "id": "komunikace-p13-64",
+      "explanation": "Podle členění použitého v této otázce se dohlednost do 5 km uvádí v metrech, aby se zachovala potřebná přesnost. Nejde o pravidlo pro každou meteorologickou zprávu bez výjimky."
     },
     {
       "sourceNumber": "65",
@@ -995,7 +1055,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-65"
+      "id": "komunikace-p13-65",
+      "explanation": "Podle členění použitého v této otázce se dohlednost nad 5 km uvádí v kilometrech. Při interpretaci je nutné rozlišovat radiotelefonní hlášení a kódované meteorologické zprávy, které mají vlastní pravidla."
     },
     {
       "sourceNumber": "66",
@@ -1011,7 +1072,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-66"
+      "id": "komunikace-p14-66",
+      "explanation": "VOLMET je pravidelné vysílání meteorologických informací pro letadla za letu, například zpráv o počasí na vybraných letištích. NOTAM je jiný druh letecké informace a navigační údaje nejsou hlavním obsahem VOLMET."
     },
     {
       "sourceNumber": "67",
@@ -1027,7 +1089,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-67"
+      "id": "komunikace-p14-67",
+      "explanation": "ATIS je automatické vysílání aktuálních letištních provozních informací. Jeho zvukový signál lze v některých instalacích přenášet i prostřednictvím hlasového kanálu VOR; DME slouží k měření vzdálenosti a GPS není pozemní hlasový vysílač."
     },
     {
       "sourceNumber": "68",
@@ -1043,7 +1106,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-68"
+      "id": "komunikace-p14-68",
+      "explanation": "VOLMET umožňuje posádce za letu přijímat meteorologické zprávy pro vybraná letiště. METAR je samotná pravidelná letištní meteorologická zpráva; GAMET a AIRMET mají odlišný účel."
     },
     {
       "sourceNumber": "70",
@@ -1059,7 +1123,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-70"
+      "id": "komunikace-p14-70",
+      "explanation": "Jestliže pilot nemůže navázat spojení a vysílá bez očekávaného potvrzení, uvede zprávu frází „vysílám naslepo“ (TRANSMITTING BLIND). Tím upozorní ostatní, že neprobíhá běžná obousměrná komunikace."
     },
     {
       "sourceNumber": "71",
@@ -1075,7 +1140,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-71"
+      "id": "komunikace-p15-71",
+      "explanation": "Vysílání naslepo při ztrátě obousměrného spojení se zahajuje na dosud používané frekvenci, kde jej příslušné stanoviště nejspíše přijme. Další pokusy na jiných vhodných frekvencích se řídí postupy pro ztrátu spojení."
     },
     {
       "sourceNumber": "72",
@@ -1091,7 +1157,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-72"
+      "id": "komunikace-p15-72",
+      "explanation": "Při vysílání naslepo se zpráva opakuje dvakrát, aby se zvýšila pravděpodobnost správného příjmu bez potvrzení. Pilot přitom uvede, že vysílá naslepo."
     },
     {
       "sourceNumber": "73",
@@ -1107,7 +1174,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-73"
+      "id": "komunikace-p15-73",
+      "explanation": "Kód SSR 7600 upozorňuje stanoviště ATS na poruchu radiového spojení. Pomůcka: 7500 = protiprávní zásah, 7600 = ztráta radiového spojení, 7700 = všeobecná nouze. Nastavení 7600 nenahrazuje pokusy obnovit spojení ani dodržení publikovaných postupů při jeho ztrátě."
     },
     {
       "sourceNumber": "74",
@@ -1123,7 +1191,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-74"
+      "id": "komunikace-p15-74",
+      "explanation": "Při ztrátě obousměrného radiového spojení za VFR ve třídě D nelze předpokládat, že řídící slyší další hlášení nebo že vydal nové povolení. Testová varianta proto uvádí pokračování v souladu s posledním povolením a pravidly VFR, případně opuštění řízeného prostoru co nejkratší vhodnou cestou. Současně je třeba pokusit se obnovit spojení, použít příslušný postup a nastavit SSR 7600, je-li odpovídač k dispozici. V reálném letu mají přednost aktuální publikované postupy a bezpečné řešení konkrétní situace."
     },
     {
       "sourceNumber": "75",
@@ -1139,7 +1208,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-75"
+      "id": "komunikace-p15-75",
+      "explanation": "Ztráta spojení sama o sobě nezakládá nové povolení ke vstupu do řízeného prostoru třídy D. Uvedená testová výjimka předpokládá, že potřebné povolení bylo vydáno ještě před ztrátou spojení; jinak pilot nesmí vstup považovat za automaticky schválený."
     },
     {
       "sourceNumber": "76",
@@ -1155,7 +1225,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-76"
+      "id": "komunikace-p16-76",
+      "explanation": "„PAN PAN“ se při zahájení pilnostní zprávy vysloví třikrát. Používá se, když je nutné naléhavě řešit bezpečnost letadla nebo osoby, ale nejde o vážné a bezprostřední ohrožení vyžadující okamžitou pomoc. Pro takovou tíseň se používá třikrát „MAYDAY“. Obě zprávy mají vyšší prioritu než běžný provoz."
     },
     {
       "sourceNumber": "77",
@@ -1171,7 +1242,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-77"
+      "id": "komunikace-p16-77",
+      "explanation": "Pilnostní zpráva se týká naléhavé situace ovlivňující bezpečnost letadla nebo osob, ale nemusí jít o bezprostřední vážné nebezpečí. Při takovém nebezpečí s potřebou okamžité pomoci se používá tísňové volání MAYDAY."
     },
     {
       "sourceNumber": "78",
@@ -1187,7 +1259,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-78"
+      "id": "komunikace-p16-78",
+      "explanation": "Tísňová zpráva oznamuje vážné a bezprostřední nebezpečí a potřebu okamžité pomoci. Její priorita je nejvyšší; oproti tomu pilnostní zpráva PAN PAN nemusí znamenat bezprostřední ohrožení."
     },
     {
       "sourceNumber": "79",
@@ -1203,7 +1276,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-79"
+      "id": "komunikace-p16-79",
+      "explanation": "Tísňové volání MAYDAY se zahajuje zpravidla na frekvenci, kterou pilot právě používá: na této frekvenci je největší šance, že jej okamžitě uslyší příslušné stanoviště. Pokud spojení nefunguje, lze zkusit například mezinárodní tísňovou frekvenci 121,500 MHz. Prioritou je co nejrychleji předat povahu tísně, polohu, úmysl pilota a další podstatné informace."
     },
     {
       "sourceNumber": "84",
@@ -1219,7 +1293,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 17,
-      "id": "komunikace-p17-84"
+      "id": "komunikace-p17-84",
+      "explanation": "Frekvenční pásmo 118,000–136,975 MHz patří do VHF (Very High Frequency), česky velmi krátké vlny. LF, MF a HF jsou nižší frekvenční oblasti s jinými vlastnostmi šíření."
     },
     {
       "sourceNumber": "85",
@@ -1235,7 +1310,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 18,
-      "id": "komunikace-p18-85"
+      "id": "komunikace-p18-85",
+      "explanation": "VKV/VHF letecké spojení se šíří převážně přímou viditelností. Větší výška letadla zpravidla prodlužuje rádiový horizont a zlepšuje možnost příjmu vzdálených stanic; ionosférické efekty typické pro HF zde nejsou hlavním faktorem."
     },
     {
       "sourceNumber": "1",
@@ -1251,7 +1327,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-1"
+      "id": "5-letove-zasady-vrtulnik-p1-1",
+      "explanation": "Zatížení disku je poměr hmotnosti vrtulníku k ploše opisované hlavním rotorem (v jednotkách kg/m²). V aerodynamických výpočtech se obdobně používá poměr tíhy k ploše (N/m²). Vyšší zatížení disku obecně zvyšuje nároky na indukovaný výkon při visu."
     },
     {
       "sourceNumber": "2",
@@ -1267,7 +1344,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-2"
+      "id": "5-letove-zasady-vrtulnik-p1-2",
+      "explanation": "Reakce mávajícího rotorového listu na periodické aerodynamické buzení je ovlivněna jeho setrvačností, rozložením hmotnosti a aerodynamickými silami. U idealizovaného rotoru se maximální odezva projevuje přibližně o čtvrt otáčky později; nejde o důsledek samotného tvaru konce listu."
     },
     {
       "sourceNumber": "3",
@@ -1283,7 +1361,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-3"
+      "id": "5-letove-zasady-vrtulnik-p1-3",
+      "explanation": "Po překročení kritického úhlu náběhu již mezní vrstva na sací (obvykle horní) straně profilu nedokáže sledovat jeho povrch a výrazně se odtrhává. Výsledkem je ztráta vztlaku a prudký růst odporu, tedy pád profilu."
     },
     {
       "sourceNumber": "4",
@@ -1299,7 +1378,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-4"
+      "id": "5-letove-zasady-vrtulnik-p1-4",
+      "explanation": "Na profilu může mezní vrstva začínat laminárním prouděním a dále po směru proudu přecházet v turbulentní. Poloha přechodu závisí na Reynoldsově čísle, drsnosti povrchu a tlakovém gradientu."
     },
     {
       "sourceNumber": "5",
@@ -1315,7 +1395,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-5"
+      "id": "5-letove-zasady-vrtulnik-p1-5",
+      "explanation": "Turbulentní mezní vrstva má větší přenos hybnosti směrem k povrchu, a proto lépe odolává nepříznivému tlakovému gradientu. Odtržení se může posunout dále dozadu, i když turbulentní vrstva obvykle vykazuje vyšší třecí odpor."
     },
     {
       "sourceNumber": "6",
@@ -1331,7 +1412,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-6"
+      "id": "5-letove-zasady-vrtulnik-p2-6",
+      "explanation": "Rovina trajektorie konců rotorových listů popisuje skutečný rotující disk. Její normála určuje efektivní osu rotace; kvůli mávání a naklonění disku nemusí být totožná s mechanickou osou hřídele."
     },
     {
       "sourceNumber": "7",
@@ -1347,7 +1429,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-7"
+      "id": "5-letove-zasady-vrtulnik-p2-7",
+      "explanation": "Efektivní úhel náběhu je úhel mezi tětivou profilu a výsledným relativním prouděním, které profil skutečně obtéká. Zahrnuje vliv obvodové rychlosti, dopředného letu i indukovaného proudění."
     },
     {
       "sourceNumber": "8",
@@ -1363,7 +1446,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-8"
+      "id": "5-letove-zasady-vrtulnik-p2-8",
+      "explanation": "Vytváření vztlaku mění proudění a vytváří indukovaný odpor. U rotoru souvisí s urychlováním vzduchu diskem; je odlišný od profilového třecího a tvarového odporu."
     },
     {
       "sourceNumber": "9",
@@ -1379,7 +1463,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-9"
+      "id": "5-letove-zasady-vrtulnik-p2-9",
+      "explanation": "Složka aerodynamické síly působící tangenciálně proti směru pohybu listu vytváří brzdicí moment rotoru. Motor jej musí při poháněném letu překonávat; nejde o sílu působící dopředu ve směru rotace."
     },
     {
       "sourceNumber": "10",
@@ -1395,7 +1480,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-10"
+      "id": "5-letove-zasady-vrtulnik-p2-10",
+      "explanation": "Výsledný tah rotoru se v jednoduchém modelu uvažuje přibližně kolmo k rovině trajektorie konců listů. Tato rovina se při mávání může lišit od roviny hlavy rotoru i od osy hřídele."
     },
     {
       "sourceNumber": "11",
@@ -1411,7 +1497,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-11"
+      "id": "5-letove-zasady-vrtulnik-p3-11",
+      "explanation": "Při stejném nastavení listů a srovnatelných podmínkách klesají aerodynamické síly s poklesem otáček, protože dynamický tlak závisí na druhé mocnině rychlosti proudění. Pokles otáček o 10 % tedy obvykle sníží tah i tangenciální sílu; přesná změna závisí na režimu letu."
     },
     {
       "sourceNumber": "12",
@@ -1427,7 +1514,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-12"
+      "id": "5-letove-zasady-vrtulnik-p3-12",
+      "explanation": "Obvodová rychlost bodu rotorového listu je součinem úhlové rychlosti a vzdálenosti od osy rotace (v = ωr). Proto při stejných otáčkách roste od kořene ke konci listu a mění se i výsledná rychlost obtékání. Formulace správné varianty vyjadřuje, že blíže ke konci listu je obvodová rychlost větší."
     },
     {
       "sourceNumber": "13",
@@ -1459,7 +1547,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-14"
+      "id": "5-letove-zasady-vrtulnik-p3-14",
+      "explanation": "Efektivní úhel náběhu listu závisí nejen na geometrickém nastavení, ale také na výsledném směru relativního proudění, který ovlivňuje obvodová rychlost a indukované proudění rotorem. Změna svislé složky proudění tedy může změnit úhel náběhu i při nezměněném nastavení listu. K odtržení proudění dochází až při překročení kritického efektivního úhlu náběhu; samotná malá svislá rychlost je bez dalších podmínek nevysvětluje."
     },
     {
       "sourceNumber": "15",
@@ -1475,7 +1564,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-15"
+      "id": "5-letove-zasady-vrtulnik-p3-15",
+      "explanation": "Aerodynamický střed profilu je místo, vůči němuž se klopivý moment při změně úhlu náběhu mění jen málo. Otázka používá termín „neutrální bod“; podstatná je zde přibližná stálost aerodynamického momentu, nikoli nulový moment."
     },
     {
       "sourceNumber": "16",
@@ -1491,7 +1581,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-16"
+      "id": "5-letove-zasady-vrtulnik-p4-16",
+      "explanation": "Rozložení vztlaku po poloměru rotoru závisí na místní rychlosti obtékání, délce tětivy a nastavení listu. Vhodné zužování a zkroucení listu mohou rozložení zatížení vyrovnávat a omezovat ztráty u kořene a konce. Samotné označení půdorysu však nestačí k obecně platnému závěru o optimálním tvaru; konkrétní test upřednostňuje dvojitý lichoběžník se zaobleným koncem."
     },
     {
       "sourceNumber": "17",
@@ -1507,7 +1598,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-17"
+      "id": "5-letove-zasady-vrtulnik-p4-17",
+      "explanation": "Půdorysný tvar a geometrické zkroucení rotorového listu ovlivňují místní tětivu, rychlost obtékání i úhel náběhu. Tím určují rozložení vztlaku po poloměru rotoru; ostatní možnosti nejsou přímým obecným důsledkem samotného tvaru."
     },
     {
       "sourceNumber": "18",
@@ -1523,7 +1615,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-18"
+      "id": "5-letove-zasady-vrtulnik-p4-18",
+      "explanation": "Rotor vírníku je při běžném letu poháněn autorotací: proud vzduchu procházející rotorem vytváří hnací aerodynamický moment. Motor zpravidla pohání samostatnou vrtuli pro dopředný tah, nikoli trvale hlavní rotor."
     },
     {
       "sourceNumber": "19",
@@ -1539,7 +1632,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-19"
+      "id": "5-letove-zasady-vrtulnik-p4-19",
+      "explanation": "Otáčky poháněného rotoru se udržují změnou výkonu motoru pomocí plynu a regulátoru otáček (governoru). Kolektiv mění nastavení listů a tím zatížení rotoru, ale sám není přímým regulátorem otáček."
     },
     {
       "sourceNumber": "20",
@@ -1555,7 +1649,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-20"
+      "id": "5-letove-zasady-vrtulnik-p4-20",
+      "explanation": "Teorie hybnosti (momentum theory) popisuje rotor jako disk, který urychluje proud vzduchu. Z potřebného tahu a indukované rychlosti lze odhadnout indukovaný výkon, a tím i požadavky na výkon při visu."
     },
     {
       "sourceNumber": "21",
@@ -1571,7 +1666,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-21"
+      "id": "5-letove-zasady-vrtulnik-p5-21",
+      "explanation": "Při visu rotor urychluje vzduch směrem dolů. V ideálním modelu proud za rotorovým diskem dále zrychluje až do vzdálenějšího proudu; rychlost v proudu za rotorem je vyšší než v rovině disku."
     },
     {
       "sourceNumber": "22",
@@ -1587,7 +1683,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-22"
+      "id": "5-letove-zasady-vrtulnik-p5-22",
+      "explanation": "Po zvýšení kolektivu se úhel nastavení listů zvětší a vlivem setrvačnosti vzduchu se indukované proudění nepřizpůsobí okamžitě. Přechodně se proto zvýší efektivní úhel náběhu a tah; s rozvojem stoupání a indukovaného proudění se ustaví nový rovnovážný stav."
     },
     {
       "sourceNumber": "23",
@@ -1619,7 +1716,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-24"
+      "id": "5-letove-zasady-vrtulnik-p5-24",
+      "explanation": "Při naklonění rotorového tahu vzniká vodorovná složka síly, která vrtulník zrychluje. Rychlost roste, dokud tuto složku nevyrovná aerodynamický odpor a výsledná vodorovná síla neklesne k nule."
     },
     {
       "sourceNumber": "25",
@@ -1635,7 +1733,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-25"
+      "id": "5-letove-zasady-vrtulnik-p5-25",
+      "explanation": "Ustupující list má při dopředném letu nižší relativní rychlost obtékání než postupující list. Aby vytvářel potřebný vztlak, pracuje s vyšším úhlem náběhu; při překročení kritické hodnoty nastává odtržení proudění (retreating blade stall)."
     },
     {
       "sourceNumber": "26",
@@ -1651,7 +1750,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-26"
+      "id": "5-letove-zasady-vrtulnik-p6-26",
+      "explanation": "V dopředném letu není indukované proudění hlavním rotorem všude stejné. V zadní části disku se uplatňuje proudění a vírová stopa vytvořená přední částí rotoru, takže zde může být indukovaná rychlost větší. Přesné rozložení závisí na rychlosti letu, tahu a geometrii rotoru; nejde o konstantní hodnotu v celé ploše disku."
     },
     {
       "sourceNumber": "27",
@@ -1667,7 +1767,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-27"
+      "id": "5-letove-zasady-vrtulnik-p6-27",
+      "explanation": "Při dopředném letu se rychlost dopředného pohybu na postupující straně přičítá k obvodové rychlosti listu a na ustupující straně se od ní odečítá. Vzniká asymetrie relativního proudění, kterou rotor vyrovnává zejména máváním a cyklickou změnou nastavení listů."
     },
     {
       "sourceNumber": "28",
@@ -1683,7 +1784,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-28"
+      "id": "5-letove-zasady-vrtulnik-p6-28",
+      "explanation": "Při přechodu z visu do dopředného letu rotor získává účinnější proudění a klesá indukovaný výkon potřebný pro daný tah. V oblasti efektivního translačního vztlaku se mohou projevit změny vibrací, které pilot zaznamená."
     },
     {
       "sourceNumber": "29",
@@ -1699,7 +1801,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-29"
+      "id": "5-letove-zasady-vrtulnik-p6-29",
+      "explanation": "V ustálené koordinované horizontální zatáčce musí svislá složka tahu vyrovnat tíhu. S rostoucím náklonem proto roste požadovaný celkový tah přibližně jako 1/cos(náklon), a tím i zatížení rotorového disku."
     },
     {
       "sourceNumber": "30",
@@ -1715,7 +1818,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-30"
+      "id": "5-letove-zasady-vrtulnik-p6-30",
+      "explanation": "Při vstupu do horizontální zatáčky se část rotorového tahu využívá pro dostředivou sílu. Pro zachování výšky je proto potřeba zvýšit celkový tah, typicky přitažením cykliky a/nebo zvýšením kolektivu podle typu vrtulníku a letového režimu."
     },
     {
       "sourceNumber": "31",
@@ -1731,7 +1835,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-31"
+      "id": "5-letove-zasady-vrtulnik-p7-31",
+      "explanation": "Při vysoké dopředné rychlosti klesá na ustupující straně rotoru relativní rychlost obtékání. K udržení vztlaku musí list pracovat s vyšším úhlem náběhu, který může překročit kritickou hodnotu a způsobit odtržení proudění."
     },
     {
       "sourceNumber": "32",
@@ -1747,7 +1852,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-32"
+      "id": "5-letove-zasady-vrtulnik-p7-32",
+      "explanation": "Visení je pro pilota náročné na průběžné drobné korekce. Přízemní efekt mění indukované proudění a při malých odchylkách výšky se mění i jeho účinnost, což může přispívat k mírnému kolísání výšky. Výrazné klonění o desítky stupňů ani rychlé bočení nejsou běžným nevyhnutelným projevem stabilního visu."
     },
     {
       "sourceNumber": "33",
@@ -1763,7 +1869,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-33"
+      "id": "5-letove-zasady-vrtulnik-p7-33",
+      "explanation": "Při visu blízko rovného povrchu zem omezuje rozvoj rotorového proudu směrem dolů a mění indukované proudění. Pro stejný tah je pak obvykle potřeba menší indukovaný výkon než mimo přízemní efekt (IGE oproti OGE)."
     },
     {
       "sourceNumber": "34",
@@ -1779,7 +1886,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-34"
+      "id": "5-letove-zasady-vrtulnik-p7-34",
+      "explanation": "Nad malou lesní pasekou se proud od rotoru může odklánět a vracet od okolních stromů; překážky zároveň narušují pravidelné rozložení tlaku a proudění. Přízemní efekt proto nemusí odpovídat visu nad velkou otevřenou rovnou plochou."
     },
     {
       "sourceNumber": "35",
@@ -1795,7 +1903,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-35"
+      "id": "5-letove-zasady-vrtulnik-p7-35",
+      "explanation": "Souvislý rovný terén umožňuje vytvoření relativně pravidelného tlakového pole a proudění pod rotorovým diskem. Hrany vyvýšené plošiny, svah nebo malá mýtina mohou přízemní efekt oslabit či učinit nerovnoměrným."
     },
     {
       "sourceNumber": "36",
@@ -1811,7 +1920,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-36"
+      "id": "5-letove-zasady-vrtulnik-p8-36",
+      "explanation": "Režim vírového prstence (vortex ring state) může nastat při malém dopředném pohybu a výrazném klesání s výkonem. Rotor pak částečně pracuje ve vlastním recirkulujícím proudu a může dojít k prudkému, obtížně zastavitelnému nárůstu rychlosti klesání."
     },
     {
       "sourceNumber": "37",
@@ -1827,7 +1937,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-37"
+      "id": "5-letove-zasady-vrtulnik-p8-37",
+      "explanation": "Cílem vybrání vírového prstence je opustit recirkulující proudění, typicky získáním dopředné nebo boční rychlosti a vhodným snížením kolektivu podle letové příručky konkrétního typu. Samotné zvýšení kolektivu může klesání zhoršit; při vhodných podmínkách může být nutný přechod do autorotace."
     },
     {
       "sourceNumber": "38",
@@ -1843,7 +1954,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-38"
+      "id": "5-letove-zasady-vrtulnik-p8-38",
+      "explanation": "Při vírovém prstenci je proudění rotorem nestabilní a část vzduchu opakovaně recirkuluje. Projevuje se rychlým klesáním, vibracemi a nepravidelnými změnami klopení, klonění či bočení, přestože motor může dodávat výkon."
     },
     {
       "sourceNumber": "39",
@@ -1859,7 +1971,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-39"
+      "id": "5-letove-zasady-vrtulnik-p8-39",
+      "explanation": "Při přechodu z téměř svislé autorotace do dopředného letu před přistáním je zásadní správně odhadnout získanou rychlost, zbývající výšku a energii rotoru. Pozdní nebo příliš prudký manévr může zanechat málo prostoru pro podrovnání a dosednutí. Konkrétní technika musí odpovídat letové příručce vrtulníku."
     },
     {
       "sourceNumber": "40",
@@ -1875,7 +1988,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-40"
+      "id": "5-letove-zasady-vrtulnik-p8-40",
+      "explanation": "Při autorotaci proudí vzduch rotorovým diskem relativně zdola nahoru. Výsledná aerodynamická síla v hnací oblasti listu má složku ve směru rotace, která vyrovnává brzdicí moment ostatních oblastí rotoru a udržuje otáčky bez pohonu motorem."
     },
     {
       "sourceNumber": "41",
@@ -1907,7 +2021,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-p9-42"
+      "id": "5-letove-zasady-vrtulnik-p9-42",
+      "explanation": "Hmotnost ovlivňuje požadovaný rotorový tah a energii při autorotaci; hustotní výška ovlivňuje aerodynamické síly a výkonnost rotoru. Proto oba faktory mění rychlost klesání, rozsah použitelných rychlostí a rezervu energie pro závěrečné podrovnání."
     },
     {
       "sourceNumber": "43",
@@ -1923,7 +2038,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-p9-43"
+      "id": "5-letove-zasady-vrtulnik-p9-43",
+      "explanation": "Při dopředné autorotaci je relativní proudění na postupující a ustupující straně rotoru rozdílné. Oblasti, kde aerodynamická síla pohání rotaci, se proto po disku přesouvají a mohou být výraznější na ustupující straně. Rotor se udržuje v otáčkách rovnováhou hnacího a brzdicího momentu; neznamená to, že celý ustupující list vždy jen pohání rotor."
     },
     {
       "sourceNumber": "44",
@@ -1955,7 +2071,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-p9-45"
+      "id": "5-letove-zasady-vrtulnik-p9-45",
+      "explanation": "Otáčky rotoru při autorotaci určuje rovnováha aerodynamického hnacího a brzdicího momentu. Ovlivňuje je kolektiv, rychlost a trajektorie letu i manévrování. Brzda rotoru se za letu nepoužívá; její použití by ovšem rotor mechanicky brzdilo, takže doslovná formulace otázky „nemá vliv“ je fyzikálně zavádějící. Odpověď v původním klíči je nutné ověřit proti zdrojovému testu."
     },
     {
       "sourceNumber": "46",
@@ -2003,7 +2120,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 10,
-      "id": "5-letove-zasady-vrtulnik-p10-48"
+      "id": "5-letove-zasady-vrtulnik-p10-48",
+      "explanation": "Při autorotaci motor nedodává hlavnímu rotoru potřebný hnací moment. Energie se získává především přeměnou potenciální energie při klesání, případně kinetické energie při změnách rychlosti letu. Proud vzduchu procházející diskem vytváří v hnací oblasti listů moment, který udržuje rotor v otáčkách. Rotační energie samotného rotoru slouží zejména jako zásoba pro přechodové děje a podrovnání."
     },
     {
       "sourceNumber": "49",
@@ -2035,7 +2153,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 10,
-      "id": "5-letove-zasady-vrtulnik-p10-50"
+      "id": "5-letove-zasady-vrtulnik-p10-50",
+      "explanation": "Při podrovnání v autorotaci pilot mění podélný sklon a zpomaluje dopředný pohyb. Přechodně se změní relativní proudění rotorem, což může zvýšit hnací aerodynamický moment a otáčky rotoru. Takto získaná rotační energie je důležitá pro následné bezpečné dosednutí; přesný postup i limity otáček stanoví příručka konkrétního vrtulníku."
     },
     {
       "sourceNumber": "51",
@@ -2051,7 +2170,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-51"
+      "id": "5-letove-zasady-vrtulnik-p11-51",
+      "explanation": "Při mávání rotorového listu se mění vzdálenost jeho hmoty od osy otáčení. Zachování momentu hybnosti pak vyvolává tendenci ke změně úhlové rychlosti listu: při pohybu hmoty blíže k ose má list tendenci předbíhat v rovině otáčení, při pohybu ven zaostávat. Tyto pohyby se nazývají předbíhání a zaostávání (lead–lag) a souvisejí s Coriolisovým efektem."
     },
     {
       "sourceNumber": "52",
@@ -2067,7 +2187,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-52"
+      "id": "5-letove-zasady-vrtulnik-p11-52",
+      "explanation": "Rotor s vyšším momentem setrvačnosti uchovává více rotační energie při stejných otáčkách (E = ½Iω²), a proto při ztrátě výkonu zpravidla zpomaluje pomaleji. Pilot tím získává více času k okamžitému snížení kolektivu a zahájení autorotace. Tato rezerva není neomezená a reakce musí být podle letové příručky bezodkladná."
     },
     {
       "sourceNumber": "53",
@@ -2099,7 +2220,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-54"
+      "id": "5-letove-zasady-vrtulnik-p11-54",
+      "explanation": "U polotuhého rotoru je hlava obvykle uložena na společném kyvném závěsu, který umožňuje vzájemné mávání listů. Takové uložení přenáší na trup jiné momenty než tuhý rotor, a proto se liší dynamická odezva na zásahy cyklikou. Konkrétní rychlost reakce závisí i na konstrukci rotoru a řízení; nelze ji odvodit pouze z počtu závěsů."
     },
     {
       "sourceNumber": "55",
@@ -2115,7 +2237,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-55"
+      "id": "5-letove-zasady-vrtulnik-p11-55",
+      "explanation": "Úhel nastavení listů ocasního rotoru se u běžného vrtulníku mění kolektivně, tedy současně a přibližně stejně na všech listech. Pedály tak mění boční tah ocasního rotoru, který vyrovnává reakční moment hlavního rotoru a řídí bočení. Cyklická změna nastavení je typická pro řízení směru tahu hlavního rotoru."
     },
     {
       "sourceNumber": "56",
@@ -2131,7 +2254,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-56"
+      "id": "5-letove-zasady-vrtulnik-p12-56",
+      "explanation": "Delta závěs je konstrukční řešení, při němž geometrie závěsů spojuje mávání listu se změnou jeho úhlu nastavení. Tato vazba může při mávnutí listu snížit jeho úhel nastavení a tím omezit další nárůst aerodynamického zatížení. Přesný účinek a znaménko změny závisí na geometrii konkrétní rotorové hlavy."
     },
     {
       "sourceNumber": "57",
@@ -2147,7 +2271,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-57"
+      "id": "5-letove-zasady-vrtulnik-p12-57",
+      "explanation": "Dočasná ztráta účinnosti ocasního rotoru (LTE) může souviset s nepříznivým obtékáním, například s vírovým prstencem ocasního rotoru nebo s interakcí s proudem hlavního rotoru. Vrtulník pak může nečekaně začít bočit, i když ocasní rotor není mechanicky poškozen. Riziko ovlivňují zejména vítr, výkon a nízká dopředná rychlost; náprava se řídí příručkou typu."
     },
     {
       "sourceNumber": "58",
@@ -2163,7 +2288,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-58"
+      "id": "5-letove-zasady-vrtulnik-p12-58",
+      "explanation": "Větší stabilita znamená výraznější tendenci vrtulníku vracet se po malé poruše k rovnovážnému stavu. To zpravidla snižuje pracovní zátěž pilota a může přispět k bezpečnosti letu. Stabilita ale není totožná s obratností: velmi stabilní konstrukce může být méně pohotová při manévrování."
     },
     {
       "sourceNumber": "59",
@@ -2179,7 +2305,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-59"
+      "id": "5-letove-zasady-vrtulnik-p12-59",
+      "explanation": "Stabilnější vrtulník vyžaduje při běžném letu méně neustálých opravných zásahů, a tím snižuje pracovní zátěž pilota. Neznamená to automaticky menší síly v řízení za všech podmínek ani větší povolenou hmotnost. Příliš vysoká stabilita může naopak omezovat obratnost."
     },
     {
       "sourceNumber": "60",
@@ -2195,7 +2322,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-60"
+      "id": "5-letove-zasady-vrtulnik-p12-60",
+      "explanation": "Nedostatečná statická nebo dynamická stabilita může vést k tomu, že se odchylky po poryvu samy nezmenšují, ale přetrvávají či rostou. Pilot pak musí neustále zasahovat a v krajním případě může dojít ke ztrátě ovladatelnosti. Stabilita proto patří mezi zásadní konstrukční i provozní bezpečnostní požadavky."
     },
     {
       "sourceNumber": "61",
@@ -2211,7 +2339,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-61"
+      "id": "5-letove-zasady-vrtulnik-p13-61",
+      "explanation": "Stabilizační plocha vytváří při změně polohy či rychlosti letu aerodynamické síly a momenty, které mohou působit proti nežádoucí odchylce. Její účinnost závisí na obtékání a rychlosti; při visu může být malá. Samotné snížení otáček rotoru nebo jeho hmotnosti nezaručuje vyšší stabilitu."
     },
     {
       "sourceNumber": "62",
@@ -2227,7 +2356,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-62"
+      "id": "5-letove-zasady-vrtulnik-p13-62",
+      "explanation": "Svislý stabilizátor vytváří při bočním obtékání aerodynamickou sílu s ramenem vůči těžišti, čímž přispívá ke směrové stabilitě kolem svislé osy. Jeho účinek roste s rychlostí proudění. Není primárně určen k řízení podélného sklonu, které souvisí s klopením."
     },
     {
       "sourceNumber": "63",
@@ -2243,7 +2373,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-63"
+      "id": "5-letove-zasady-vrtulnik-p13-63",
+      "explanation": "Vyšší stabilita vytváří silnější tendenci vracet se po vychýlení do rovnovážného stavu. To snižuje nutnost neustálých zásahů, ale může současně zmenšit obratnost a rychlost reakce na řízení. Test proto uvádí zhoršenou řiditelnost ve smyslu menší pohotovosti manévrování; nejde o tvrzení, že stabilnější vrtulník je obecně méně bezpečný."
     },
     {
       "sourceNumber": "64",
@@ -2259,7 +2390,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-64"
+      "id": "5-letove-zasady-vrtulnik-p13-64",
+      "explanation": "U vrtulníku bez stabilizačních systémů mohou po poryvu vznikat pohyby, které se bez zásahu pilota časem zesilují. Test označuje kombinaci kladné statické a záporné dynamické stability: počáteční tendence může směřovat zpět k rovnováze, ale následné kmity se netlumí. Skutečné vlastnosti závisí na konstrukci a režimu letu; nejde o univerzální vlastnost každého vrtulníku."
     },
     {
       "sourceNumber": "65",
@@ -2275,7 +2407,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-65"
+      "id": "5-letove-zasady-vrtulnik-p13-65",
+      "explanation": "Násobek zatížení popisuje poměr výsledné aerodynamické síly nesoucí vrtulník k jeho tíze. Při manévru s nízkým násobkem se rotor a drak dočasně odlehčí. Proudění diskem a odezva rotoru se přitom mohou výrazně změnit; zvlášť u dvoulistého polotuhého rotoru jsou nízké až záporné násobky nebezpečné. Hmotnost cestujících ani jejich skutečná tíha se tím nemění."
     },
     {
       "sourceNumber": "66",
@@ -2291,7 +2424,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-p14-66"
+      "id": "5-letove-zasady-vrtulnik-p14-66",
+      "explanation": "VX je rychlost nejlepšího úhlu stoupání: při ní vrtulník získá největší výšku na jednotku vodorovné vzdálenosti. Je důležitá například při překonávání překážek po vzletu. Není totožná s VY, která poskytuje největší výškový přírůstek za jednotku času. Konkrétní hodnoty stanoví letová příručka typu."
     },
     {
       "sourceNumber": "67",
@@ -2307,7 +2441,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-p14-67"
+      "id": "5-letove-zasady-vrtulnik-p14-67",
+      "explanation": "VY je rychlost nejlepší stoupavosti, tedy největšího přírůstku výšky za jednotku času. VX naproti tomu poskytuje nejlepší úhel stoupání, a je proto důležitá pro překonání překážek na krátké vzdálenosti. Rychlosti a jejich závislost na podmínkách je nutné ověřit v letové příručce."
     },
     {
       "sourceNumber": "1",
@@ -2323,7 +2458,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-1"
+      "id": "letove-zasady-letoun-p1-1",
+      "explanation": "Slot nebo štěrbina na náběžné hraně přivádí energičtější vzduch do mezní vrstvy na horní straně křídla, oddaluje její odtržení a umožňuje dosáhnout vyššího kritického úhlu náběhu. Oproti výrazně vysunutým klapkám na odtokové hraně obvykle přidává méně odporu. Klapky naopak zejména zvyšují zakřivení profilu a maximální vztlak."
     },
     {
       "sourceNumber": "2",
@@ -2339,7 +2475,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-2"
+      "id": "letove-zasady-letoun-p1-2",
+      "explanation": "Pohyb kolem příčné osy je klopení (pitch). Podélnou stabilitu při klopení zajišťuje především vodorovná ocasní plocha – stabilizátor – spolu s polohou těžiště. Směrové kormidlo působí kolem svislé osy a křidélka kolem podélné osy; vztlakové klapky nejsou primárním stabilizačním prvkem."
     },
     {
       "sourceNumber": "3",
@@ -2355,7 +2492,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-3"
+      "id": "letove-zasady-letoun-p1-3",
+      "explanation": "VNE (never-exceed speed) je maximální nepřekročitelná rychlost stanovená pro daný typ. Nad ní může aerodynamické zatížení nebo aeroelastická nestabilita vyvolat flutter – nebezpečné samobuzené kmitání konstrukce – a následné poškození či destrukci. Proto není překročení VNE přípustné ani v hladkém vzduchu."
     },
     {
       "sourceNumber": "4",
@@ -2371,7 +2509,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-4"
+      "id": "letove-zasady-letoun-p1-4",
+      "explanation": "Námraza narušuje profil vrtulového listu, snižuje jeho aerodynamickou účinnost, zvyšuje odpor a může způsobit vibrace či nevyváženost. Změna otáček ale závisí na typu vrtule, regulátoru a nastavení výkonu. Původní klíč uvádí nárůst otáček, což nelze považovat za obecné pravidlo pro všechny vrtule; tuto konkrétní volbu je třeba ověřit v původním podkladu."
     },
     {
       "sourceNumber": "5",
@@ -2387,7 +2526,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-5"
+      "id": "letove-zasady-letoun-p1-5",
+      "explanation": "V ustáleném stoupání působí proti pohybu po šikmé dráze nejen aerodynamický odpor, ale také složka tíhy W·sin(γ), kde γ je úhel stoupání. Potřebný tah tedy musí pokrýt odpor i tuto složku tíhy; při stejných ostatních podmínkách je proto pro stoupání potřeba větší výkon než pro vodorovný let."
     },
     {
       "sourceNumber": "6",
@@ -2403,7 +2543,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-6"
+      "id": "letove-zasady-letoun-p2-6",
+      "explanation": "Statický tlak plynu působí v každém bodě všemi směry. Na povrch tělesa působí kolmo k tomuto povrchu bez ohledu na směr proudění. Nesmí se zaměňovat s dynamickým tlakem q = ½ρV², který souvisí s rychlostí proudění."
     },
     {
       "sourceNumber": "7",
@@ -2419,7 +2560,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-7"
+      "id": "letove-zasady-letoun-p2-7",
+      "explanation": "Pro ustálené, nevazké a nestlačitelné proudění podél proudnice platí Bernoulliho vztah p + ½ρV² = konstanta (při zanedbání změny výšky). Statický tlak p a dynamický tlak ½ρV² tedy tvoří celkový neboli stagnační tlak. Zrychlí-li se proudění, statický tlak za těchto předpokladů klesá."
     },
     {
       "sourceNumber": "9",
@@ -2435,7 +2577,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-9"
+      "id": "letove-zasady-letoun-p2-9",
+      "explanation": "Aerodynamický střed je referenční bod profilu, vůči němuž se aerodynamický klopivý moment při změnách úhlu náběhu mění jen málo (v běžném podzvukovém rozsahu). Test jej zjednodušeně označuje jako bod působení aerodynamických sil. Přesněji však výsledná síla působí v okamžitém středu tlaku a v aerodynamickém středu je třeba uvažovat také moment; těžiště je působiště tíhy."
     },
     {
       "sourceNumber": 10,
@@ -2451,7 +2594,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-10"
+      "id": "letove-zasady-letoun-p2-10",
+      "explanation": "V testu je aerodynamický střed popsán zjednodušeně jako bod působení aerodynamických sil. Přesná definice je jiná: jde o bod, kolem něhož je aerodynamický klopivý moment přibližně nezávislý na úhlu náběhu. Výslednici sil lze soustředit do středu tlaku, jehož poloha se s úhlem náběhu mění. Proto tyto dva body nezaměňuj."
     },
     {
       "sourceNumber": 11,
@@ -2503,7 +2647,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-13"
+      "id": "letove-zasady-letoun-p3-13",
+      "explanation": "Úhel náběhu α je úhel mezi tětivou profilu křídla a směrem nenarušeného relativního proudění vzduchu. Není totožný s úhlem sklonu letadla vůči horizontu: i letoun s nosem pod horizontem může mít vysoký úhel náběhu. Překročení kritického úhlu náběhu vede k odtržení proudění."
     },
     {
       "sourceNumber": 14,
@@ -2519,7 +2664,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-14"
+      "id": "letove-zasady-letoun-p3-14",
+      "explanation": "Štíhlost křídla (aspect ratio) vyjadřuje poměr druhé mocniny rozpětí k ploše křídla AR = b²/S. U obdélníkového křídla je to totéž jako rozpětí dělené tětivou; obecně lze použít rozpětí dělené střední geometrickou tětivou S/b. Vyšší štíhlost zpravidla snižuje indukovaný odpor při stejném vztlaku."
     },
     {
       "sourceNumber": 15,
@@ -2571,7 +2717,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-17"
+      "id": "letove-zasady-letoun-p4-17",
+      "explanation": "Koncové víry vznikají, jakmile křídlo vytváří vztlak: tlakový rozdíl mezi spodní a horní stranou vede k obtékání vzduchu kolem konců křídla. Víry jsou projevem trojrozměrného proudění a souvisejí s indukovaným odporem. Samotné vysunutí klapek bez vytvoření vztlaku není základní příčinou."
     },
     {
       "sourceNumber": 18,
@@ -2605,7 +2752,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-19"
+      "id": "letove-zasady-letoun-p4-19",
+      "explanation": "Stagnační bod je místo, kde se relativní rychlost vzduchu u povrchu profilu zmenšuje k nule a proud se rozděluje na větev obtékající horní a spodní stranu. Nejde o bod odtržení mezní vrstvy ani o aerodynamický střed profilu."
     },
     {
       "sourceNumber": 20,
@@ -2621,7 +2769,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-20"
+      "id": "letove-zasady-letoun-p4-20",
+      "explanation": "U běžného křídla vytvářejícího kladný vztlak je na horní straně zpravidla nižší tlak než v okolním proudu a na části spodní strany vyšší tlak. Integrací rozdílu tlaků po povrchu vzniká výsledná aerodynamická síla se složkou vztlaku. Rozložení tlaku není všude stejné a závisí na profilu i úhlu náběhu."
     },
     {
       "sourceNumber": 21,
@@ -2638,7 +2787,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-21"
+      "id": "letove-zasady-letoun-p5-21",
+      "explanation": "U prohnutého profilu se působiště výsledné vztlakové síly (střed tlaku) s úhlem náběhu obvykle posouvá. Při zvyšování úhlu náběhu v běžném předpádovém rozsahu se zpravidla posouvá dopředu. Naopak aerodynamický střed je bod, kolem něhož se moment mění s úhlem náběhu jen málo; oba pojmy se nesmějí zaměňovat."
     },
     {
       "sourceNumber": 22,
@@ -2670,7 +2820,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-23"
+      "id": "letove-zasady-letoun-p5-23",
+      "explanation": "Se zvětšováním úhlu náběhu roste součinitel vztlaku jen do kritického úhlu. Po jeho překročení se proudění na horní straně profilu výrazně odtrhne, vztlak klesá a odpor prudce roste – nastává pád profilu. Pád tedy závisí primárně na úhlu náběhu, nikoli na jediné pevné rychlosti."
     },
     {
       "sourceNumber": 24,
@@ -2686,7 +2837,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-24"
+      "id": "letove-zasady-letoun-p5-24",
+      "explanation": "Při zvětšování kladného úhlu náběhu se stagnační bod na náběžné hraně běžného profilu posouvá směrem dolů na spodní stranu. Poloha aerodynamického středu se naproti tomu v podzvukovém rozsahu mění jen málo; není to totéž jako stagnační bod."
     },
     {
       "sourceNumber": 25,
@@ -2702,7 +2854,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-25"
+      "id": "letove-zasady-letoun-p5-25",
+      "explanation": "Při zmenšení úhlu náběhu se stagnační bod na náběžné hraně posouvá směrem vzhůru. Jde o opačný pohyb než při zvětšování kladného úhlu náběhu. Aerodynamický střed se tím automaticky neposouvá podél profilu."
     },
     {
       "sourceNumber": 26,
@@ -2736,7 +2889,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-27"
+      "id": "letove-zasady-letoun-p6-27",
+      "explanation": "Geometrické zkroucení (washout) znamená změnu úhlu geometrického nastavení profilu po rozpětí křídla. Obvykle mají konce křídla menší úhel nastavení než kořen, takže při přetažení se proudění odtrhává nejprve u kořene a křidélka na koncích zůstávají déle účinná. Aerodynamické zkroucení naproti tomu mění vlastnosti použitých profilů."
     },
     {
       "sourceNumber": 28,
@@ -2752,7 +2906,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-28"
+      "id": "letove-zasady-letoun-p6-28",
+      "explanation": "Vhodné zkroucení křídla snižuje místní úhel náběhu na koncích. Při přibližování k pádu proto nejprve ztrácí vztlak vnitřní část křídla, zatímco proudění u křidélek zůstává déle připojené. Výsledkem je lepší ovladatelnost kolem podélné osy při vysokém úhlu náběhu."
     },
     {
       "sourceNumber": "29",
@@ -2768,7 +2923,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-29"
+      "id": "letove-zasady-letoun-p6-29",
+      "explanation": "Při malých a středních úhlech náběhu součinitel vztlaku obvykle roste se zvětšujícím se úhlem. Po překročení kritického úhlu náběhu však nastane výrazné odtržení proudění, součinitel vztlaku klesne a odpor prudce vzroste. Úhel náběhu může být i záporný a během letu se mění."
     },
     {
       "sourceNumber": 30,
@@ -2784,7 +2940,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-30"
+      "id": "letove-zasady-letoun-p6-30",
+      "explanation": "Škodlivý odpor lze při přibližně stálé hustotě vzduchu, čelní ploše a součiniteli odporu vyjádřit D = ½ρV²SC_D. Závisí tedy přibližně na druhé mocnině rychlosti: při dvojnásobné rychlosti vzroste zhruba čtyřikrát. Toto pravidlo platí přibližně pro srovnatelné podmínky proudění."
     },
     {
       "sourceNumber": 31,
@@ -2800,7 +2957,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-31"
+      "id": "letove-zasady-letoun-p7-31",
+      "explanation": "Součinitel odporu C_D je bezrozměrné číslo vyjadřující aerodynamický odpor vůči dynamickému tlaku a referenční ploše. Reálný profil má kvůli tření a tlakovým ztrátám nenulový minimální odpor i při nulovém vztlaku. Nelze předpokládat, že odpor roste prostě úměrně rychlosti nebo součiniteli vztlaku."
     },
     {
       "sourceNumber": 32,
@@ -2816,7 +2974,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-32"
+      "id": "letove-zasady-letoun-p7-32",
+      "explanation": "Při vytváření vztlaku je pod křídlem vyšší a nad křídlem nižší tlak. V blízkosti konce křídla proudí vzduch ze spodní strany kolem konce směrem nahoru, což vytváří koncový vír. Tento trojrozměrný jev souvisí s indukovaným odporem."
     },
     {
       "sourceNumber": 33,
@@ -2832,7 +2991,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-33"
+      "id": "letove-zasady-letoun-p7-33",
+      "explanation": "Indukovaný odpor souvisí s vytvářením vztlaku konečným křídlem. Přibližně platí C_Di = C_L²/(π e AR), kde AR je štíhlost a e Oswaldův faktor účinnosti. Při stejném součiniteli vztlaku tedy menší štíhlost znamená větší indukovaný odpor."
     },
     {
       "sourceNumber": 34,
@@ -2848,7 +3008,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-34"
+      "id": "letove-zasady-letoun-p7-34",
+      "explanation": "Koncové víry vznikají kvůli tlakovému rozdílu mezi spodní a horní stranou křídla. Způsobují downwash a naklonění výsledné aerodynamické síly dozadu, tedy indukovaný odpor. Jeho velikost ovlivňuje celé rozložení vztlaku po rozpětí, ale konce křídel jsou s tvorbou vírů výrazně spojeny."
     },
     {
       "sourceNumber": 35,
@@ -2864,7 +3025,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-35"
+      "id": "letove-zasady-letoun-p7-35",
+      "explanation": "Interferenční odpor vzniká tam, kde se setkávají proudění kolem různých částí letadla, například v přechodu křídla do trupu u kořene křídla. Vzájemné ovlivnění mezních vrstev a tlakových polí může zvýšit odpor nad součet odporů izolovaných částí. Proto se používají aerodynamické přechodové kryty."
     },
     {
       "sourceNumber": 36,
@@ -2898,7 +3060,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-37"
+      "id": "letove-zasady-letoun-p8-37",
+      "explanation": "Škodlivý (parazitní) odpor zahrnuje třecí odpor povrchu, tvarový neboli tlakový odpor a interferenční odpor. Na rozdíl od indukovaného odporu nevzniká přímo jako důsledek vytváření vztlaku. V běžném rozsahu rychlostí jeho síla přibližně roste s druhou mocninou rychlosti."
     },
     {
       "sourceNumber": 38,
@@ -2914,7 +3077,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-38"
+      "id": "letove-zasady-letoun-p8-38",
+      "explanation": "Indukovaný odpor je cena za vytváření vztlaku konečným křídlem a vzniká v souvislosti s koncovými víry a downwashem. Proto nepatří mezi škodlivé odpory. Třecí, tvarový a interferenční odpor naopak tvoří jednotlivé složky škodlivého odporu."
     },
     {
       "sourceNumber": "39",
@@ -2930,7 +3094,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-39"
+      "id": "letove-zasady-letoun-p8-39",
+      "explanation": "Při ustáleném vodorovném letu musí vztlak vyrovnávat tíhu. S rostoucí rychlostí je pro stejný vztlak potřeba menší součinitel vztlaku, takže indukovaný odpor přibližně klesá jako 1/V². Škodlivý odpor naopak přibližně roste jako V². Součet vytváří charakteristickou křivku celkového odporu s minimem."
     },
     {
       "sourceNumber": 40,
@@ -2946,7 +3111,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-40"
+      "id": "letove-zasady-letoun-p8-40",
+      "explanation": "Eliptické rozložení vztlaku po rozpětí je pro dané rozpětí a celkový vztlak v ideálním modelu spojeno s minimálním indukovaným odporem. Eliptický půdorys křídla k takovému rozložení může přispět, a proto je správnou testovou odpovědí elipsa. V praxi lze podobného rozložení dosáhnout i vhodným zkroucením jiných půdorysů."
     },
     {
       "sourceNumber": 41,
@@ -2962,7 +3128,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-41"
+      "id": "letove-zasady-letoun-p9-41",
+      "explanation": "Při ustáleném horizontálním letu se vztlak rovná tíze. Pokud rychlost klesá, musí vzrůst součinitel vztlaku C_L, aby se stejná tíha unesla při menším dynamickém tlaku. Protože indukovaný odpor přibližně závisí na C_L², při snižování rychlosti roste. Nejvýrazněji se to projevuje při pomalém letu."
     },
     {
       "sourceNumber": 42,
@@ -2978,7 +3145,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-42"
+      "id": "letove-zasady-letoun-p9-42",
+      "explanation": "Při stejné hmotnosti a ustáleném horizontálním letu platí přibližně D_i ∝ 1/V². S rostoucí rychlostí klesá potřebný součinitel vztlaku a tím i indukovaný odpor. Škodlivý odpor se naopak s rychlostí zvětšuje; nesmí se zaměňovat s indukovaným."
     },
     {
       "sourceNumber": 43,
@@ -2994,7 +3162,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-43"
+      "id": "letove-zasady-letoun-p9-43",
+      "explanation": "V jednoduchém modelu odporu D = aV² + b/V² má škodlivý odpor první člen a indukovaný odpor druhý. Minimum jejich součtu nastává, když jsou oba odpory stejně velké. Tato rychlost odpovídá nejlepšímu poměru vztlaku k odporu (maximální klouzavosti) v daných podmínkách."
     },
     {
       "sourceNumber": 44,
@@ -3010,7 +3179,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-44"
+      "id": "letove-zasady-letoun-p9-44",
+      "explanation": "Celkový aerodynamický odpor letounu lze rozdělit na indukovaný a škodlivý (parazitní). Indukovaný vzniká jako důsledek vytváření vztlaku konečným křídlem; škodlivý zahrnuje třecí, tvarový a interferenční odpor. Proto samotný výčet těchto tří složek není úplným výčtem celkového odporu."
     },
     {
       "sourceNumber": 45,
@@ -3026,7 +3196,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-45"
+      "id": "letove-zasady-letoun-p9-45",
+      "explanation": "Při ustáleném vodorovném letu s násobkem n = 1 je vztlak roven tíze letounu. S klesající rychlostí směrem k pádové musí součinitel vztlaku a úhel náběhu růst, aby se vztlak zachoval. Indukovaný odpor proto roste, i když požadovaný vztlak zůstává stejný."
     },
     {
       "sourceNumber": 46,
@@ -3042,7 +3213,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-46"
+      "id": "letove-zasady-letoun-p10-46",
+      "explanation": "Základem vybrání přetažení je snížení úhlu náběhu pod kritickou hodnotu uvolněním odpovídajícího tlaku na výškovku. Následně se podle příručky letadla používá potřebný výkon a obnovuje bezpečná rychlost. Samotné zvýšení výkonu bez snížení úhlu náběhu nemusí přetažení odstranit."
     },
     {
       "sourceNumber": 47,
@@ -3058,7 +3230,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-47"
+      "id": "letove-zasady-letoun-p10-47",
+      "explanation": "Při překročení kritického úhlu náběhu se proudění na horní straně křídla výrazně odtrhává. Součinitel vztlaku klesá, zatímco součinitel odporu prudce roste. Letoun může ztrácet výšku, i když má nos vysoko; rozhodující je úhel náběhu, nikoli samotná poloha vůči horizontu."
     },
     {
       "sourceNumber": "48",
@@ -3074,7 +3247,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-48"
+      "id": "letove-zasady-letoun-p10-48",
+      "explanation": "Kritický úhel náběhu je pro daný profil a konfiguraci přibližně určen aerodynamickými vlastnostmi, nikoli samotnou rychlostí letu. Rychlost, při které jej letoun dosáhne, se však mění s hmotností, násobkem, konfigurací a dalšími podmínkami. Proto lze přetáhnout letoun i při relativně vysoké rychlosti."
     },
     {
       "sourceNumber": "49",
@@ -3090,7 +3264,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-49"
+      "id": "letove-zasady-letoun-p10-49",
+      "explanation": "Pádová rychlost vyjádřená IAS při stejné konfiguraci a násobku přibližně roste s odmocninou hmotnosti: V_S ∝ √W. Při menší tíze proto k udržení letu stačí menší rychlost a pádová IAS klesá. Zvýšení násobku ji naopak zvyšuje; změna hustoty ovlivňuje zejména TAS, nikoli stejným způsobem IAS."
     },
     {
       "sourceNumber": 50,
@@ -3106,7 +3281,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-50"
+      "id": "letove-zasady-letoun-p10-50",
+      "explanation": "Varování před pádem je nastaveno tak, aby pilota upozornilo ještě před dosažením pádové rychlosti V_S, respektive kritického úhlu náběhu. Dává čas ke snížení úhlu náběhu a zabránění přetažení. V_NE je nepřekročitelná rychlost a V_X rychlost nejlepšího úhlu stoupání."
     },
     {
       "sourceNumber": 51,
@@ -3122,7 +3298,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-51"
+      "id": "letove-zasady-letoun-p11-51",
+      "explanation": "U běžných mechanických snímačů varování před pádem mění rostoucí úhel náběhu polohu stagnační oblasti na náběžné hraně. Proudění pak vychýlí jazýček nebo spustí tlakový snímač. Nejde o pohyb těžiště ani o změnu aerodynamického středu."
     },
     {
       "sourceNumber": 52,
@@ -3138,7 +3315,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-52"
+      "id": "letove-zasady-letoun-p11-52",
+      "explanation": "Při varování před pádem je zásadní snížit úhel náběhu povolením výškovky. Podle letové příručky se přidává výkon k omezení ztráty výšky a obnovuje bezpečná rychlost. Přitažení výškovky by úhel náběhu ještě zvýšilo a mohlo přetažení zhoršit."
     },
     {
       "sourceNumber": 53,
@@ -3154,7 +3332,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-53"
+      "id": "letove-zasady-letoun-p11-53",
+      "explanation": "Při vybírání vývrtky se křidélka zpravidla drží v neutrálu, protože jejich vychýlení může na přetaženém křídle prohloubit asymetrii proudění. Dále se postupuje přesně podle schválené letové příručky konkrétního typu; obecné schéma zahrnuje přerušení rotace směrovým kormidlem a snížení úhlu náběhu."
     },
     {
       "sourceNumber": 54,
@@ -3170,7 +3349,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-54"
+      "id": "letove-zasady-letoun-p11-54",
+      "explanation": "Vysunutí vztlakových klapek zvyšuje zakřivení profilu, a tím při stejném úhlu náběhu obvykle zvyšuje součinitel vztlaku C_L. Současně zpravidla roste odpor. Díky vyššímu maximálnímu C_L lze létat a přistávat při nižší rychlosti."
     },
     {
       "sourceNumber": 55,
@@ -3186,7 +3366,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-55"
+      "id": "letove-zasady-letoun-p11-55",
+      "explanation": "Hlavním účinkem vztlakových klapek je zvýšení zakřivení (camber) profilu, případně i plochy křídla u některých konstrukcí. Při stejném úhlu náběhu tím obvykle roste součinitel vztlaku. Zmenšení odporu není jejich základním účelem, zejména v přistávací poloze odpor výrazně roste."
     },
     {
       "sourceNumber": 56,
@@ -3202,7 +3383,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-56"
+      "id": "letove-zasady-letoun-p12-56",
+      "explanation": "Vysunutí klapek mění vztlak, odpor a klopivý moment křídla. Letoun proto může změnit podélné vyvážení a pilot pocítí jinou sílu na výškovce nebo musí použít trim. Samotné vysunutí klapek neposouvá podstatně těžiště ani přímo neurčuje otáčky či krouticí moment motoru."
     },
     {
       "sourceNumber": 57,
@@ -3218,7 +3400,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-57"
+      "id": "letove-zasady-letoun-p12-57",
+      "explanation": "Fowlerova klapka se při vysouvání pohybuje dozadu a dolů. Tím zvětšuje účinnou plochu křídla a jeho zakřivení, takže významně zvyšuje maximální vztlak. Liší se od jednoduché klapky, která se převážně jen otáčí dolů kolem závěsu."
     },
     {
       "sourceNumber": "58",
@@ -3234,7 +3417,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-58"
+      "id": "letove-zasady-letoun-p12-58",
+      "explanation": "Vzletová poloha klapek zvyšuje maximální součinitel vztlaku a snižuje potřebnou rychlost odpoutání, takže může zkrátit rozjezd. Současně ale zvyšuje odpor; větší vysunutí proto nemusí zlepšit stoupavost ani zrychlení. Správné nastavení určuje letová příručka konkrétního typu."
     },
     {
       "sourceNumber": "59",
@@ -3250,7 +3434,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-59"
+      "id": "letove-zasady-letoun-p12-59",
+      "explanation": "Při vysouvání klapek roste zakřivení profilu, a tím zpravidla součinitel vztlaku i součinitel odporu. Vzletové nastavení využívá příznivý nárůst vztlaku, zatímco velké přistávací vysunutí vytváří také značný odpor, který pomáhá při strmém přiblížení."
     },
     {
       "sourceNumber": 60,
@@ -3266,7 +3451,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-60"
+      "id": "letove-zasady-letoun-p12-60",
+      "explanation": "Mezní vrstva je tenká oblast proudění těsně u povrchu, kde se významně projevuje viskozita. Na běžném hladkém profilu začíná za stagnační oblastí jako laminární a v bodě přechodu se mění na turbulentní. Bod odtržení je jiný jev: proudění v něm přestává sledovat povrch profilu."
     },
     {
       "sourceNumber": 61,
@@ -3282,7 +3468,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-61"
+      "id": "letove-zasady-letoun-p13-61",
+      "explanation": "Při obvyklém obtékání hladkého profilu vzniká u náběžné hrany nejprve laminární mezní vrstva. Dále po směru proudu může přejít do turbulentní. Přechod závisí na Reynoldsově čísle, drsnosti a tlakovém gradientu; nejde o absolutní pravidlo pro všechny profily a režimy letu."
     },
     {
       "sourceNumber": 62,
@@ -3298,7 +3485,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-62"
+      "id": "letove-zasady-letoun-p13-62",
+      "explanation": "Turbulentní mezní vrstva intenzivněji přenáší hybnost z rychlejšího proudu k povrchu, a proto zpravidla lépe odolává nepříznivému tlakovému gradientu a odtrhává se později. Oproti laminární vrstvě ale obvykle způsobuje větší třecí odpor. Neplatí, že pouze jeden typ mezní vrstvy vytváří vztlak."
     },
     {
       "sourceNumber": 63,
@@ -3314,7 +3502,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-63"
+      "id": "letove-zasady-letoun-p13-63",
+      "explanation": "Vzepětí křídla přispívá k příčné (klonivé) stabilitě. Při vychýlení do skluzu vznikne mezi oběma polovinami křídla rozdíl účinných úhlů náběhu a vztlaku, který vytváří vratný klonivý moment. Svislá ocasní plocha zajišťuje hlavně směrovou stabilitu a výškovka řídí klopení."
     },
     {
       "sourceNumber": 64,
@@ -3330,7 +3519,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-64"
+      "id": "letove-zasady-letoun-p13-64",
+      "explanation": "Kladná statická stabilita znamená, že po malé vnější poruše vznikne vratná tendence směrem k původní rovnovážné poloze. Neříká však sama o sobě, zda se následné kmity budou tlumit: to popisuje dynamická stabilita. Pokud se výchylka dále zvětšuje, jde o zápornou statickou stabilitu."
     },
     {
       "sourceNumber": 65,
@@ -3346,7 +3536,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-65"
+      "id": "letove-zasady-letoun-p13-65",
+      "explanation": "Podélná stabilita se týká klopení kolem příčné osy letounu, tedy změn polohy přídě nahoru a dolů. Významnou roli hraje vodorovná ocasní plocha a poloha těžiště. Stabilita kolem podélné osy se naopak označuje jako příčná (klonivá)."
     },
     {
       "sourceNumber": 66,
@@ -3362,7 +3553,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-66"
+      "id": "letove-zasady-letoun-p14-66",
+      "explanation": "Posun těžiště dopředu či dozadu mění momentové rameno mezi těžištěm a aerodynamickými silami křídla a ocasních ploch. Silně proto ovlivňuje podélnou stabilitu a řízení klopení kolem příčné osy. Příliš zadní těžiště může snížit stabilitu i účinnost vybrání přetažení."
     },
     {
       "sourceNumber": 67,
@@ -3378,7 +3570,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-67"
+      "id": "letove-zasady-letoun-p14-67",
+      "explanation": "Svislá ocasní plocha působí při vybočení letounu vůči nabíhajícímu proudu jako směrová stabilizační plocha. Aerodynamická síla na ní vytváří vratný moment kolem svislé osy, který má tendenci natočit příď zpět do směru letu. Vzepětí křídla souvisí hlavně s příčnou stabilitou."
     },
     {
       "sourceNumber": 68,
@@ -3394,7 +3587,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-68"
+      "id": "letove-zasady-letoun-p14-68",
+      "explanation": "Bočení (yaw) je otáčení letounu kolem svislé osy, tedy pohyb přídě doleva nebo doprava. Primárně je ovládáno směrovým kormidlem. Klopení (pitch) probíhá kolem příčné osy a klonění (roll) kolem podélné osy."
     },
     {
       "sourceNumber": "69",
@@ -3410,7 +3604,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-69"
+      "id": "letove-zasady-letoun-p14-69",
+      "explanation": "Klopení (pitch) je otáčení kolem příčné osy, při kterém se příď pohybuje nahoru nebo dolů. Ovládá se především výškovým kormidlem. Bočení probíhá kolem svislé osy, klonění kolem podélné."
     },
     {
       "sourceNumber": 70,
@@ -3426,7 +3621,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-70"
+      "id": "letove-zasady-letoun-p14-70",
+      "explanation": "Kritický úhel náběhu je především vlastností profilu a jeho konfigurace, nikoli samotné hmotnosti letadla. Větší hmotnost zvyšuje potřebný vztlak a tím pádovou rychlost, ale nepřevádí automaticky kritický úhel na jinou hodnotu. Je třeba rozlišovat kritický úhel náběhu a rychlost, při níž ho letoun dosáhne."
     },
     {
       "sourceNumber": 71,
@@ -3442,7 +3638,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-71"
+      "id": "letove-zasady-letoun-p15-71",
+      "explanation": "Úhel náběhu je úhel mezi tětivou křídla a relativním proudem, nikoli úhel mezi osou trupu a horizontem. Při přechodu z vodorovného letu do ustáleného stoupání se mění rychlost, tah, vyvážení i požadovaný součinitel vztlaku. V běžném režimu stoupání při nižší rychlosti bývá úhel náběhu vyšší, ale bez určení rychlostí a konfigurace nelze tvrzení zobecnit na každý let."
     },
     {
       "sourceNumber": 72,
@@ -3458,7 +3655,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-72"
+      "id": "letove-zasady-letoun-p15-72",
+      "explanation": "Vodorovná ocasní plocha přispívá k podélné stabilitě: při změně úhlu náběhu nebo klopení vytváří moment, který pomáhá obnovit rovnovážnou polohu. Působí kolem příčné osy. Svislá ocasní plocha je určena především pro směrovou stabilitu kolem svislé osy."
     },
     {
       "sourceNumber": 73,
@@ -3474,7 +3672,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-73"
+      "id": "letove-zasady-letoun-p15-73",
+      "explanation": "Při přední centráži má těžiště větší momentové rameno vůči aerodynamickým silám a pro zvednutí přídě při rotaci bývá nutný větší klopivý moment ocasních ploch. Pilot proto zpravidla potřebuje větší výchylku výškovky než při zadní centráži. Vždy musí být dodrženy limity těžiště v letové příručce."
     },
     {
       "sourceNumber": 74,
@@ -3490,7 +3689,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-74"
+      "id": "letove-zasady-letoun-p15-74",
+      "explanation": "Výškovka mění aerodynamickou sílu na vodorovné ocasní ploše, čímž vytváří klopivý moment kolem příčné osy. Při běžném uspořádání přitažení řízení zvedá příď. Směrovka řídí bočení kolem svislé osy a křidélka klonění kolem podélné osy."
     },
     {
       "sourceNumber": 75,
@@ -3506,7 +3706,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-75"
+      "id": "letove-zasady-letoun-p15-75",
+      "explanation": "Těžiště určuje rozložení hmotnosti letounu, cestujících, zavazadel a paliva. Před letem se musí ověřit výpočtem hmotnosti a vyvážení, že leží v povoleném rozsahu. Trim pouze vyrovnává síly v řízení; nespraví těžiště mimo schválené meze."
     },
     {
       "sourceNumber": 76,
@@ -3522,7 +3723,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-76"
+      "id": "letove-zasady-letoun-p16-76",
+      "explanation": "Směrové kormidlo na svislé ocasní ploše mění boční aerodynamickou sílu a vytváří moment kolem svislé osy letounu. Primárně tedy řídí bočení, nikoli klopení nebo klonění. Sekundárně může ovlivnit i náklon vlivem skluzu a vzepětí."
     },
     {
       "sourceNumber": 77,
@@ -3538,7 +3740,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-77"
+      "id": "letove-zasady-letoun-p16-77",
+      "explanation": "Vychýlení směrovky doleva vytváří na ocasní části boční sílu doprava, takže se příď natočí doleva – letoun bočí vlevo. Následný skluz může vyvolat také klonivou reakci, ale primárním účinkem směrovky je bočení kolem svislé osy."
     },
     {
       "sourceNumber": 78,
@@ -3554,7 +3757,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-78"
+      "id": "letove-zasady-letoun-p16-78",
+      "explanation": "Při diferenciálním řízení se křidélko vychyluje nahoru o větší úhel než opačné křidélko dolů. Tím se omezuje rozdíl odporů mezi oběma polovinami křídla a zmenšuje nežádoucí bočení proti směru zatáčky (adverse yaw). Úplné odstranění nežádoucího bočení není zaručeno; pilot stále koordinuje let směrovkou."
     },
     {
       "sourceNumber": "79",
@@ -3570,7 +3774,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-79"
+      "id": "letove-zasady-letoun-p16-79",
+      "explanation": "Při klonění dolů vychýlené křidélko zpravidla zvyšuje místní vztlak i odpor, což může stáčet příď proti směru požadovaného náklonu. Diferenciální výchylky, kdy se křidélko nahoru vychyluje více než křidélko dolů, tento rozdíl odporů omezují. Pilot zároveň používá směrovku ke koordinaci zatáčky."
     },
     {
       "sourceNumber": 80,
@@ -3586,7 +3791,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-80"
+      "id": "letove-zasady-letoun-p16-80",
+      "explanation": "Diferenciální křidélka mají větší výchylku nahoru než dolů. Tím snižují nežádoucí rozdíl odporu při klonění a omezují adverse yaw, tedy bočení přídě proti směru požadovaného náklonu. Neslouží primárně ke zvýšení klesavosti ani k zabránění přetažení."
     },
     {
       "sourceNumber": 81,
@@ -3602,7 +3808,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-81"
+      "id": "letove-zasady-letoun-p17-81",
+      "explanation": "Vztlak je podle aerodynamické definice složka výsledné aerodynamické síly kolmá ke směru relativního nabíhajícího proudu vzduchu. Odpor je naopak složka rovnoběžná s tímto proudem a působící proti pohybu. V zatáčce nemusí vztlak směřovat svisle vzhůru vůči zemi."
     },
     {
       "sourceNumber": 82,
@@ -3618,7 +3825,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-82"
+      "id": "letove-zasady-letoun-p17-82",
+      "explanation": "Aerodynamické vyvážení směrovky snižuje síly potřebné k její výchylce. Část plochy před osou závěsu nebo vhodné vyvažovací prvky vytvářejí moment, který částečně kompenzuje aerodynamický moment na kormidle. Tím se mohou zmenšit síly na pedálech; nejde o prostředek ke snížení pádové rychlosti."
     },
     {
       "sourceNumber": 83,
@@ -3634,7 +3842,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-83"
+      "id": "letove-zasady-letoun-p17-83",
+      "explanation": "Aerodynamické vyvážení řídicí plochy snižuje moment kolem jejího závěsu, a tím i sílu, kterou musí pilot dlouhodobě vyvíjet. K tomuto účelu se používají například vyvažovací rohy či části plochy před osou závěsu. Trim slouží k odstranění trvalé síly při konkrétním režimu letu; není totožný s hmotovým vyvážením proti flutteru."
     },
     {
       "sourceNumber": 84,
@@ -3650,7 +3859,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-84"
+      "id": "letove-zasady-letoun-p17-84",
+      "explanation": "Hmotové vyvážení kormidel umísťuje závaží tak, aby se těžiště pohyblivé plochy přiblížilo k ose závěsu. Tím se omezuje riziko aeroelastických kmitů (flutteru), které mohou vést až k destrukci. Hmotové vyvážení není totéž co aerodynamické vyvážení, jehož hlavním účelem je snížit ovládací síly."
     },
     {
       "sourceNumber": 85,
@@ -3666,7 +3876,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-85"
+      "id": "letove-zasady-letoun-p17-85",
+      "explanation": "Pokud má letoun při ustáleném výkonu tendenci zvedat příď, je třeba vytvořit vyvažovací moment přídí dolů. Podle testového značení toho lze dosáhnout vychýlením trimovací plošky výškovky nahoru: ploška vyvolá aerodynamický moment, který vychýlí samotnou výškovku dolů. Pozor, směr indikace trimu a konstrukční řešení se mohou podle typu lišit."
     },
     {
       "sourceNumber": 86,
@@ -3682,7 +3893,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-86"
+      "id": "letove-zasady-letoun-p18-86",
+      "explanation": "Trim výškovky slouží k odstranění trvalé síly v podélném řízení. U klasické trimovací plošky vychýlení plošky nahoru obvykle vyvolá vychýlení samotné výškovky dolů a klopivý moment přídí dolů, tedy nastavení „těžký na hlavu“. U letounů s jiným systémem trimu se směr mechanického pohybu a indikace mohou lišit; vždy rozhoduje značení a příručka typu."
     },
     {
       "sourceNumber": 87,
@@ -3698,7 +3910,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-87"
+      "id": "letove-zasady-letoun-p18-87",
+      "explanation": "Plošné zatížení křídla je hmotnost letounu dělená plochou křídla (m/S), případně v silových jednotkách tíha dělená plochou (W/S). Vyšší plošné zatížení obvykle znamená vyšší pádovou rychlost a větší rychlosti potřebné k letu při stejné konfiguraci."
     },
     {
       "sourceNumber": 88,
@@ -3714,7 +3927,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-88"
+      "id": "letove-zasady-letoun-p18-88",
+      "explanation": "Vzestupný poryv může náhle zvýšit efektivní úhel náběhu a vztlak křídla, a tím i násobek zatížení n = L/W. Proto mohou poryvy vyvolat značné zatížení konstrukce i bez pilotova prudkého zásahu do řízení. Samotná vyšší hmotnost automaticky neznamená vyšší násobek."
     },
     {
       "sourceNumber": "89",
@@ -3730,7 +3944,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-89"
+      "id": "letove-zasady-letoun-p18-89",
+      "explanation": "Regulátor vrtule konstantních otáček automaticky mění úhel nastavení listů tak, aby udržel pilotem zvolené otáčky v pracovním rozsahu. Při růstu dopředné rychlosti zpravidla zvětší úhel nastavení listů, aby zabránil růstu otáček. Konstantní otáčky vrtule neznamenají konstantní rychlost letounu."
     },
     {
       "sourceNumber": 90,
@@ -3746,7 +3961,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-90"
+      "id": "letove-zasady-letoun-p18-90",
+      "explanation": "Obvodová rychlost bodu vrtulového listu roste se vzdáleností od osy otáčení. Proto mají listy geometrické zkroucení: u kořene bývá větší úhel nastavení než u konce. Cílem je udržet vhodný efektivní úhel náběhu a rozumné rozložení aerodynamického zatížení po délce listu."
     },
     {
       "sourceNumber": 91,
@@ -3762,7 +3978,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-91"
+      "id": "letove-zasady-letoun-p19-91",
+      "explanation": "Po vysazení motoru může proudící vzduch roztáčet vrtuli (mlýnkování). V takovém stavu vrtule odebírá energii proudění a vytváří výrazný aerodynamický odpor, který zhoršuje klouzavost. U vrtulí umožňujících praporování se odpor obvykle podstatně sníží nastavením listů přibližně do směru proudění."
     },
     {
       "sourceNumber": 92,
@@ -3778,7 +3995,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-92"
+      "id": "letove-zasady-letoun-p19-92",
+      "explanation": "Posunutí páky vrtule dozadu obvykle volí nižší otáčky. Regulátor proto zvětší úhel nastavení listů. Při klesání s malým výkonem může větší úhel listů snížit odpor mlýnkující vrtule a umožnit plošší sestup. Skutečný účinek závisí na typu vrtule, regulátoru a režimu; rozhodující je letová příručka."
     },
     {
       "sourceNumber": 93,
@@ -3830,7 +4048,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-95"
+      "id": "letove-zasady-letoun-p19-95",
+      "explanation": "Při standardní zatáčce o 360° za dvě minuty je úhlová rychlost zatáčení 3° za sekundu. Potřebný náklon závisí na pravé vzdušné rychlosti: přibližně platí tan φ = V·ω/g. Čím vyšší TAS, tím větší náklon je při stejné úhlové rychlosti nutný. Vítr mění stopu nad zemí, nikoli tento základní vztah vůči vzduchu."
     },
     {
       "sourceNumber": 96,
@@ -3846,7 +4065,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-96"
+      "id": "letove-zasady-letoun-p20-96",
+      "explanation": "V ustálené koordinované horizontální zatáčce je násobek n = 1/cos φ, kde φ je náklon. Pro nenulový náklon tedy n > 1. Pádová rychlost roste přibližně podle V_S,zatáčka = V_S,rovně·√n. Například při náklonu 60° je n = 2 a pádová rychlost asi 1,41krát vyšší."
     },
     {
       "sourceNumber": 97,
@@ -3862,7 +4082,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-97"
+      "id": "letove-zasady-letoun-p20-97",
+      "explanation": "V koordinované horizontální zatáčce je vztlak nakloněn spolu s letounem. Jeho svislá složka L·cos φ musí vyrovnat tíhu W a vodorovná složka L·sin φ zajišťuje dostředivé zrychlení. Celkový potřebný vztlak proto s rostoucím náklonem roste; v neinerciální soustavě se někdy popisuje rovnováha s odstředivou setrvačnou silou."
     },
     {
       "sourceNumber": 98,
@@ -3878,7 +4099,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-98"
+      "id": "letove-zasady-letoun-p20-98",
+      "explanation": "Rozdíl tlaků mezi spodní a horní stranou křídla vede k obtékání kolem konců a vzniku koncových vírů. Ty vytvářejí downwash a indukovaný odpor, který souvisí s vytvářením vztlaku. Nejde o třecí ani čistě profilový odpor."
     },
     {
       "sourceNumber": "99",
@@ -3894,7 +4116,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-99"
+      "id": "letove-zasady-letoun-p20-99",
+      "explanation": "V blízkosti země se mění vírové pole křídla a zmenšuje se downwash i indukovaný odpor. Při stejném úhlu náběhu může být vztlak větší; prakticky letoun při přistání déle „plave“ nad dráhou. Přízemní efekt je výrazný především ve výšce řádově menší než rozpětí křídla."
     },
     {
       "sourceNumber": 100,
@@ -3910,7 +4133,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-100"
+      "id": "letove-zasady-letoun-p20-100",
+      "explanation": "Vývrtka je autorotační sestup v přetažení: proudění je odtržené na obou křídlech, zpravidla výrazněji na vnitřním, a rychlost bývá relativně nízká. Strmá spirála naopak není přetažením; letoun zatáčí s velkým náklonem a rychlost může rychle růst. Postup vybrání se zásadně liší, proto je nutné správně rozpoznat situaci a dodržet příručku typu."
     },
     {
       "sourceNumber": "1",
@@ -3926,7 +4150,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-1"
+      "id": "2-lidska-vykonnost-letoun-2-p1-1",
+      "explanation": "V letectví je lidský faktor významnou příčinou nebo spolupříčinou nehod: chyby v rozhodování, komunikaci, přípravě či řízení rizik mohou prolomit více bezpečnostních bariér. Neznamená to, že každá nehoda má jedinou příčinu nebo že technické a meteorologické vlivy nehrají roli."
     },
     {
       "sourceNumber": "2",
@@ -3942,7 +4167,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-2"
+      "id": "2-lidska-vykonnost-letoun-2-p1-2",
+      "explanation": "Reasonův model švýcarského sýra znázorňuje několik vrstev bezpečnostních opatření. Každá má slabiny („díry“); k nehodě může dojít, když se slabiny více vrstev současně propojí a nebezpečí projde všemi bariérami. Proto je důležité nejen vyhýbat se individuálním chybám, ale budovat i systémové pojistky."
     },
     {
       "sourceNumber": "3",
@@ -3958,7 +4184,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-3"
+      "id": "2-lidska-vykonnost-letoun-2-p1-3",
+      "explanation": "Podíl kyslíku v suchém vzduchu zůstává přibližně 20,9 % i ve výšce 6 000 ft. S rostoucí výškou ale klesá celkový atmosférický tlak, a tedy i parciální tlak kyslíku. Právě menší dostupný parciální tlak může způsobovat hypoxii, nikoli výrazný pokles procentuálního zastoupení kyslíku."
     },
     {
       "sourceNumber": "4",
@@ -3974,7 +4201,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-4"
+      "id": "2-lidska-vykonnost-letoun-2-p1-4",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a asi 1 % ostatních plynů, zejména argonu. Vodní pára je proměnlivá složka a její množství závisí na podmínkách."
     },
     {
       "sourceNumber": "5",
@@ -3990,7 +4218,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-5"
+      "id": "2-lidska-vykonnost-letoun-2-p1-5",
+      "explanation": "Ve standardní atmosféře klesne tlak přibližně na polovinu hodnoty u hladiny moře kolem 18 000 ft (asi 5,5 km). Proto s výškou klesá i parciální tlak kyslíku a zhoršují se podmínky pro jeho přestup do krve."
     },
     {
       "sourceNumber": "6",
@@ -4006,7 +4235,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-6"
+      "id": "2-lidska-vykonnost-letoun-2-p2-6",
+      "explanation": "Zbývající přibližně 1 % suché atmosféry tvoří zejména argon (asi 0,93 %) a v menší míře oxid uhličitý a další stopové plyny. Základní školní zaokrouhlení složení vzduchu je 78 % dusíku, 21 % kyslíku a 1 % ostatních plynů."
     },
     {
       "sourceNumber": "7",
@@ -4022,7 +4252,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-7"
+      "id": "2-lidska-vykonnost-letoun-2-p2-7",
+      "explanation": "Tabákový kouř obsahuje oxid uhelnatý (CO), který se váže na hemoglobin mnohem silněji než kyslík. Tím snižuje schopnost krve přenášet kyslík a zvyšuje riziko hypoxie, zejména ve výšce. CO je bezbarvý a bez zápachu; příznaky otravy mohou zahrnovat bolest hlavy, slabost a zmatenost."
     },
     {
       "sourceNumber": "8",
@@ -4038,7 +4269,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-8"
+      "id": "2-lidska-vykonnost-letoun-2-p2-8",
+      "explanation": "Při záporném přetížení se krev přesouvá směrem k hlavě a může dojít k překrvení očí a červenému zabarvení zorného pole (red-out). Jde o jiný jev než grey-out či black-out při kladném přetížení, kdy se naopak zhoršuje prokrvení mozku a sítnice."
     },
     {
       "sourceNumber": "9",
@@ -4054,7 +4286,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-9"
+      "id": "2-lidska-vykonnost-letoun-2-p2-9",
+      "explanation": "Poškozený výměník tepla nebo netěsnosti výfukové soustavy mohou propustit spaliny s oxidem uhelnatým do vytápění kabiny. CO je bez zápachu a barvy a může rychle zhoršit úsudek i vědomí pilota. Při podezření je nutné postupovat podle nouzových postupů letadla, zajistit čerstvý vzduch a bezpečně přistát."
     },
     {
       "sourceNumber": "10",
@@ -4084,7 +4317,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-letoun-2-p3-11"
+      "id": "2-lidska-vykonnost-letoun-2-p3-11",
+      "explanation": "Modravé zbarvení rtů a konečků prstů (cyanóza) může svědčit o nedostatečném okysličení krve. Výšková hypoxie ale může začít i bez viditelné cyanózy, například zhoršeným úsudkem, bolestí hlavy nebo poruchami vidění."
     },
     {
       "sourceNumber": "12",
@@ -4100,7 +4334,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-letoun-2-p3-12"
+      "id": "2-lidska-vykonnost-letoun-2-p3-12",
+      "explanation": "Sítnice a nervová soustava jsou citlivé na nedostatek kyslíku. Zrak, zejména noční vidění, se může při sníženém parciálním tlaku kyslíku zhoršovat ještě před výraznými dalšími příznaky. Pilot proto nemusí vlastní hypoxii včas rozpoznat."
     },
     {
       "sourceNumber": "13",
@@ -4116,7 +4351,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-letoun-2-p3-13"
+      "id": "2-lidska-vykonnost-letoun-2-p3-13",
+      "explanation": "U některých lidí se účinky nižšího parciálního tlaku kyslíku mohou projevovat už kolem 7 000 ft, například zhoršením nočního vidění. Citlivost se liší podle zdravotního stavu, únavy a individuálních faktorů; tato hranice není univerzální práh náhlého vzniku hypoxie."
     },
     {
       "sourceNumber": "14",
@@ -4148,7 +4384,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-15"
+      "id": "2-lidska-vykonnost-letoun-2-p4-15",
+      "explanation": "Červené krvinky obsahují hemoglobin, který váže kyslík v plicích a dopravuje jej do tkání. Při sníženém množství hemoglobinu nebo jeho zablokování oxidem uhelnatým se přenos kyslíku zhoršuje."
     },
     {
       "sourceNumber": "16",
@@ -4164,7 +4401,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-16"
+      "id": "2-lidska-vykonnost-letoun-2-p4-16",
+      "explanation": "Krevní destičky (trombocyty) se při poškození cévy shlukují a pomáhají vytvořit prvotní krevní zátku. Spolu se srážecími faktory se podílejí na zástavě krvácení. Červené krvinky přenášejí kyslík a bílé krvinky zajišťují imunitní obranu."
     },
     {
       "sourceNumber": "17",
@@ -4180,7 +4418,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-17"
+      "id": "2-lidska-vykonnost-letoun-2-p4-17",
+      "explanation": "Bílé krvinky (leukocyty) chrání organismus proti infekcím a podílejí se na imunitní odpovědi. Kyslík přenášejí hlavně červené krvinky; krevní destičky pomáhají při srážení krve."
     },
     {
       "sourceNumber": "18",
@@ -4196,7 +4435,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-18"
+      "id": "2-lidska-vykonnost-letoun-2-p4-18",
+      "explanation": "Krevní destičky neboli trombocyty jsou důležité pro hemostázu: po poranění cévy přilnou k poškozenému místu, shlukují se a spolu se srážecími faktory pomáhají zastavit krvácení."
     },
     {
       "sourceNumber": "19",
@@ -4212,7 +4452,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-19"
+      "id": "2-lidska-vykonnost-letoun-2-p4-19",
+      "explanation": "V kontextu této testové otázky je jako výjimka uvedeno potápění. Potápění před letem je však zásadním rizikovým faktorem dekompresní nemoci při následném poklesu tlaku; tento pojem je nutné odlišovat od hypoxie a běžné výškové nemoci. Formulace otázky je nepřesná a zaslouží kontrolu proti zdroji."
     },
     {
       "sourceNumber": "20",
@@ -4228,7 +4469,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-20"
+      "id": "2-lidska-vykonnost-letoun-2-p5-20",
+      "explanation": "Anemická hypoxie vzniká tehdy, když krev nedokáže přenášet dostatek kyslíku, přestože kyslík může být v plicích přítomen. Oxid uhelnatý se pevně váže na hemoglobin a blokuje vazebná místa pro kyslík. Výšková hypoxie je naproti tomu primárně způsobena nízkým parciálním tlakem kyslíku."
     },
     {
       "sourceNumber": "21",
@@ -4244,7 +4486,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-21"
+      "id": "2-lidska-vykonnost-letoun-2-p5-21",
+      "explanation": "Při nevolnosti cestujícího pomůže stabilní, plynulý let bez prudkých zatáček a přetížení, přiměřené větrání a komfortní teplota kabiny. Pokud by se objevily příznaky hypoxie nebo otravy CO, je situace závažnější a vyžaduje odpovídající okamžitý postup."
     },
     {
       "sourceNumber": "22",
@@ -4260,7 +4503,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-22"
+      "id": "2-lidska-vykonnost-letoun-2-p5-22",
+      "explanation": "Reflex je automatická, mimovolní odpověď nervového systému na určitý podnět, například mrknutí při ohrožení oka. Probíhá reflexním obloukem a nevyžaduje vědomé rozhodnutí."
     },
     {
       "sourceNumber": "23",
@@ -4276,7 +4520,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-23"
+      "id": "2-lidska-vykonnost-letoun-2-p5-23",
+      "explanation": "Autonomní (vegetativní) nervový systém řídí řadu mimovolních funkcí, například srdeční frekvenci, trávení a regulaci dýchání. Zahrnuje sympatickou a parasympatickou část, které se podílejí na reakci na stres i odpočinek."
     },
     {
       "sourceNumber": "24",
@@ -4292,7 +4537,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-24"
+      "id": "2-lidska-vykonnost-letoun-2-p5-24",
+      "explanation": "Paralaxa je zdánlivá změna polohy ukazatele vůči stupnici při pohledu z různých úhlů. Na analogový přístroj je proto vhodné dívat se pokud možno kolmo, aby se předešlo chybné interpretaci údaje."
     },
     {
       "sourceNumber": "25",
@@ -4308,7 +4554,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-25"
+      "id": "2-lidska-vykonnost-letoun-2-p6-25",
+      "explanation": "Polarizované brýle mohou ztížit čtení některých LCD displejů a potlačovat odlesky, které pilot využívá k rozpoznání dalších letadel či povrchů. Proto se v letectví často doporučují kvalitní nepolarizované brýle s UV ochranou a vhodným propouštěním světla."
     },
     {
       "sourceNumber": "26",
@@ -4324,7 +4571,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-26"
+      "id": "2-lidska-vykonnost-letoun-2-p6-26",
+      "explanation": "Čípky na sítnici zajišťují barevné a ostré vidění hlavně za denního osvětlení. Tyčinky jsou citlivější při slabém světle, ale barvy nerozlišují; proto je noční vidění méně barevné."
     },
     {
       "sourceNumber": "27",
@@ -4340,7 +4588,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-27"
+      "id": "2-lidska-vykonnost-letoun-2-p6-27",
+      "explanation": "Eustachova (sluchová) trubice spojuje střední ucho s nosohltanem a umožňuje vyrovnávat tlak na obou stranách bubínku. Při změnách výšky se otevírá například při polykání nebo zívání."
     },
     {
       "sourceNumber": "28",
@@ -4356,7 +4605,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-28"
+      "id": "2-lidska-vykonnost-letoun-2-p6-28",
+      "explanation": "Pokud je Eustachova trubice ucpaná, například při rýmě, tlak ve středním uchu se nemůže snadno vyrovnat s tlakem okolí. Zvláště při klesání může vzniknout bolestivé barotrauma. Při nachlazení je proto nutné pečlivě posoudit způsobilost k letu."
     },
     {
       "sourceNumber": "29",
@@ -4372,7 +4622,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-29"
+      "id": "2-lidska-vykonnost-letoun-2-p6-29",
+      "explanation": "Po delší ustálené zatáčce se polokruhové kanálky vnitřního ucha přizpůsobí stálé úhlové rychlosti. Při srovnání křídel pak změna pohybu tekutiny vyvolá klamný pocit zatáčení na opačnou stranu. Jde o vestibulární iluzi, proto je při ztrátě vnějších vizuálních referencí zásadní důvěřovat přístrojům."
     },
     {
       "sourceNumber": "30",
@@ -4388,7 +4639,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-30"
+      "id": "2-lidska-vykonnost-letoun-2-p7-30",
+      "explanation": "Rovný ustálený let s konstantní rychlostí sám o sobě nevyvolává typické zrychlové vestibulární iluze. Alkohol, turbulence a pohyby hlavou při zatáčení naopak mohou narušovat vnímání polohy a pohybu letadla."
     },
     {
       "sourceNumber": "31",
@@ -4404,7 +4656,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-31"
+      "id": "2-lidska-vykonnost-letoun-2-p7-31",
+      "explanation": "Při dopředném zrychlení mohou otolitové orgány vnitřního ucha zaměnit setrvačné zrychlení za změnu sklonu a vyvolat pocit zvedání přídě (somatogravická iluze). Pilot pak může mít nebezpečnou tendenci tlačit řízení dopředu, ačkoli letoun ve skutečnosti stoupání nezahájil."
     },
     {
       "sourceNumber": "32",
@@ -4420,7 +4673,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-32"
+      "id": "2-lidska-vykonnost-letoun-2-p7-32",
+      "explanation": "Při zpomalování může somatogravická iluze vyvolat falešný pocit sklopení přídě nebo klesání. Vestibulární systém totiž nerozlišuje dokonale mezi podélným zrychlením a působením gravitace. Při špatné viditelnosti je nutné kontrolovat skutečný sklon podle přístrojů."
     },
     {
       "sourceNumber": "33",
@@ -4436,7 +4690,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-33"
+      "id": "2-lidska-vykonnost-letoun-2-p7-33",
+      "explanation": "Dráha stoupající do kopce může z perspektivy vypadat, jako by byl letoun na přiblížení příliš vysoko. Pilot může mylně snížit dráhu sestupu a přiblížit se pod správný sestupový úhel. Pomáhají standardní přibližovací postupy a vizuální indikátory sestupové roviny, jsou-li k dispozici."
     },
     {
       "sourceNumber": "34",
@@ -4452,7 +4707,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-34"
+      "id": "2-lidska-vykonnost-letoun-2-p8-34",
+      "explanation": "Při přiblížení na dráhu se sklonem vzhůru může pilot vnímat svou polohu jako příliš vysokou a sestoupit pod správnou sestupovou rovinu. To vede k riziku krátkého přistání před prahem, nikoli automaticky k dlouhému přistání. **Pozor: původní klíč této otázky označuje dlouhé přistání; podle běžně popisované optické iluze je to sporné a vyžaduje kontrolu zdroje.**"
     },
     {
       "sourceNumber": "35",
@@ -4468,7 +4724,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-35"
+      "id": "2-lidska-vykonnost-letoun-2-p8-35",
+      "explanation": "Pohyb hlavou během zatáčení může současně podráždit více polokruhových kanálků vnitřního ucha a vyvolat silnou závrať či dezorientaci (Coriolisova iluze). Proto je při letu bez spolehlivého výhledu důležité vyhýbat se prudkým pohybům hlavy."
     },
     {
       "sourceNumber": "36",
@@ -4484,7 +4741,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-36"
+      "id": "2-lidska-vykonnost-letoun-2-p8-36",
+      "explanation": "Při kladném přetížení (+Gz) krev vlivem setrvačnosti odtéká z oblasti hlavy do dolních částí těla. Snižuje se prokrvení sítnice a nejprve může nastat šednutí zorného pole (grey-out), později ztráta vidění či vědomí."
     },
     {
       "sourceNumber": "37",
@@ -4500,7 +4758,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-37"
+      "id": "2-lidska-vykonnost-letoun-2-p8-37",
+      "explanation": "Zrakový vjem není přímým obrazem reality: mozek jej vyhodnocuje podle zkušeností a dostupných vodítek. Při letu, zejména při špatné viditelnosti, může chybná interpretace podnětů vést k prostorové dezorientaci."
     },
     {
       "sourceNumber": "38",
@@ -4532,7 +4791,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-39"
+      "id": "2-lidska-vykonnost-letoun-2-p9-39",
+      "explanation": "Nadváha, zvláště zvýšené množství viscerálního tuku, souvisí s inzulinovou rezistencí a zvyšuje riziko diabetu 2. typu. Samotná nadváha však neznamená, že člověk diabetes má."
     },
     {
       "sourceNumber": "40",
@@ -4548,7 +4808,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-40"
+      "id": "2-lidska-vykonnost-letoun-2-p9-40",
+      "explanation": "Po přístrojovém potápění zůstává v tkáních zvýšené množství rozpuštěného dusíku. Při následném poklesu okolního tlaku ve výšce se mohou tvořit bubliny a vzniknout dekompresní nemoc. Proto je nutné dodržet dostatečný odstup mezi potápěním a letem."
     },
     {
       "sourceNumber": "41",
@@ -4580,7 +4841,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-42"
+      "id": "2-lidska-vykonnost-letoun-2-p9-42",
+      "explanation": "Bez opakování uchovává krátkodobá paměť informaci zpravidla jen několik desítek sekund; v tradičních učebnicových modelech se uvádí přibližně 10–20 sekund. Délka závisí na pozornosti a podmínkách."
     },
     {
       "sourceNumber": "43",
@@ -4596,7 +4858,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-43"
+      "id": "2-lidska-vykonnost-letoun-2-p10-43",
+      "explanation": "Skrytá (latentní) chyba je nedostatek v systému, organizaci nebo postupech, který nemusí okamžitě vyvolat nehodu. Může dlouho zůstat neodhalen a projevit se až v kombinaci s dalšími okolnostmi."
     },
     {
       "sourceNumber": "44",
@@ -4612,7 +4875,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-44"
+      "id": "2-lidska-vykonnost-letoun-2-p10-44",
+      "explanation": "Potvrzovací zkreslení vede člověka k tomu, že přednostně vyhledává a přijímá informace podporující jeho původní představu. Pilot má proto aktivně ověřovat i údaje, které jeho očekávání odporují."
     },
     {
       "sourceNumber": "45",
@@ -4628,7 +4892,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-45"
+      "id": "2-lidska-vykonnost-letoun-2-p10-45",
+      "explanation": "Situační povědomí znamená průběžně vnímat důležité prvky okolí, chápat jejich význam a předvídat další vývoj. Zahrnuje například polohu, provoz, počasí, stav letadla i plán letu."
     },
     {
       "sourceNumber": "46",
@@ -4644,7 +4909,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-46"
+      "id": "2-lidska-vykonnost-letoun-2-p10-46",
+      "explanation": "Standardizovaná radiotelefonní frazeologie omezuje nejednoznačnost mezi pilotem a stanovištěm ATS. Používání společně definovaných výrazů a potvrzování důležitých pokynů snižuje riziko nedorozumění."
     },
     {
       "sourceNumber": "47",
@@ -4660,7 +4926,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-47"
+      "id": "2-lidska-vykonnost-letoun-2-p10-47",
+      "explanation": "S rizikem lze pracovat čtyřmi základními způsoby: vyhnout se nebezpečné činnosti, snížit pravděpodobnost či následky, přenést část dopadu na jiný subjekt nebo vědomě přijmout zbytkové riziko. V letectví je přijetí rizika podmíněno tím, že zůstává na přijatelné úrovni."
     },
     {
       "sourceNumber": "48",
@@ -4676,7 +4943,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-48"
+      "id": "2-lidska-vykonnost-letoun-2-p11-48",
+      "explanation": "Skupinová dynamika může vést k tlaku na souhlas a k odvážnějším rozhodnutím, než by jednotlivci přijali sami. Pomáhá otevřená komunikace a nezávislé posouzení rizik."
     },
     {
       "sourceNumber": "49",
@@ -4692,7 +4960,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-49"
+      "id": "2-lidska-vykonnost-letoun-2-p11-49",
+      "explanation": "Posun rizika (risky shift) je jev, při kterém skupina po společné diskusi přijme rizikovější rozhodnutí než jednotlivci samostatně. Souvisí mimo jiné s rozptýlením odpovědnosti a skupinovým tlakem."
     },
     {
       "sourceNumber": "50",
@@ -4708,7 +4977,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-50"
+      "id": "2-lidska-vykonnost-letoun-2-p11-50",
+      "explanation": "Předvádění se může doprovázet pocit nezranitelnosti: pilot chce prokázat schopnosti a současně podceňuje pravděpodobnost nehody. Tato kombinace podporuje zbytečně riskantní manévry."
     },
     {
       "sourceNumber": "51",
@@ -4724,7 +4994,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-51"
+      "id": "2-lidska-vykonnost-letoun-2-p11-51",
+      "explanation": "Předvádění se (macho attitude) vede k demonstraci schopností, například riskantními manévry před diváky. Bezpečný pilot se řídí limity letadla a situací, nikoli snahou zapůsobit."
     },
     {
       "sourceNumber": "52",
@@ -4740,7 +5011,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-52"
+      "id": "2-lidska-vykonnost-letoun-2-p11-52",
+      "explanation": "Očekávání mohou zkreslit vnímání: člověk někdy vidí to, co předpokládá, místo toho, co přístroje skutečně ukazují. Pomáhá systematická kontrola údajů a checklisty."
     },
     {
       "sourceNumber": "53",
@@ -4756,7 +5028,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-53"
+      "id": "2-lidska-vykonnost-letoun-2-p12-53",
+      "explanation": "Starší výukové typologie někdy upřednostňují emocionální stabilitu a extroverzi. Nejde však o obecně platné vědecké pravidlo, že extrovertní člověk je lepším pilotem; rozhodující jsou dovednosti, úsudek a bezpečné chování."
     },
     {
       "sourceNumber": "54",
@@ -4772,7 +5045,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-54"
+      "id": "2-lidska-vykonnost-letoun-2-p12-54",
+      "explanation": "Při vysoké míře automatizace může pilot příliš důvěřovat systémům a omezit aktivní monitorování. Tato samolibost (complacency) zvyšuje riziko pozdního rozpoznání chyby automatizace."
     },
     {
       "sourceNumber": "55",
@@ -4790,7 +5064,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-letoun-2-p12-55",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Podle Yerkesova–Dodsonova vztahu bývá výkon nejlepší při střední míře aktivace. Příliš nízké i příliš vysoké vybuzení výkon snižuje; označení bodu je třeba ověřit podle přiloženého grafu."
     },
     {
       "sourceNumber": "56",
@@ -4808,7 +5083,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-letoun-2-p12-56",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Přetížení odpovídá vysokému stresu za vrcholem křivky výkonu: další aktivace už výkon snižuje. Konkrétní písmeno bodu závisí na přiloženém diagramu."
     },
     {
       "sourceNumber": "57",
@@ -4824,7 +5100,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-57"
+      "id": "2-lidska-vykonnost-letoun-2-p12-57",
+      "explanation": "Stres může měnit pozornost, schopnost soustředění, paměť i rozhodování a chování včetně přebírání odpovědnosti. Výrazný stres vede k tunelovému vidění a zhoršenému výkonu."
     },
     {
       "sourceNumber": "58",
@@ -4840,7 +5117,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 13,
-      "id": "2-lidska-vykonnost-letoun-2-p13-58"
+      "id": "2-lidska-vykonnost-letoun-2-p13-58",
+      "explanation": "Stres vzniká při vnímaném nepoměru mezi požadavky situace a možnostmi člověka je zvládnout. Pocit, že problém nemá řešení, může stres výrazně zvýšit; reakce jsou individuální."
     },
     {
       "sourceNumber": "1",
@@ -4856,7 +5134,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-1"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-1",
+      "explanation": "V letectví je lidský faktor významnou příčinou nebo spolupříčinou nehod: chyby v rozhodování, komunikaci, přípravě či řízení rizik mohou prolomit více bezpečnostních bariér. Neznamená to, že každá nehoda má jedinou příčinu nebo že technické a meteorologické vlivy nehrají roli."
     },
     {
       "sourceNumber": "2",
@@ -4872,7 +5151,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-2"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-2",
+      "explanation": "Reasonův model švýcarského sýra znázorňuje několik vrstev bezpečnostních opatření. Každá má slabiny („díry“); k nehodě může dojít, když se slabiny více vrstev současně propojí a nebezpečí projde všemi bariérami. Proto je důležité nejen vyhýbat se individuálním chybám, ale budovat i systémové pojistky."
     },
     {
       "sourceNumber": "3",
@@ -4888,7 +5168,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-3"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-3",
+      "explanation": "Podíl kyslíku v suchém vzduchu zůstává přibližně 20,9 % i ve výšce 6 000 ft. S rostoucí výškou ale klesá celkový atmosférický tlak, a tedy i parciální tlak kyslíku. Právě menší dostupný parciální tlak může způsobovat hypoxii, nikoli výrazný pokles procentuálního zastoupení kyslíku."
     },
     {
       "sourceNumber": "4",
@@ -4904,7 +5185,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-4"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-4",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a asi 1 % ostatních plynů, zejména argonu. Vodní pára je proměnlivá složka a její množství závisí na podmínkách."
     },
     {
       "sourceNumber": "5",
@@ -4920,7 +5202,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-5"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-5",
+      "explanation": "Ve standardní atmosféře klesne tlak přibližně na polovinu hodnoty u hladiny moře kolem 18 000 ft (asi 5,5 km). Proto s výškou klesá i parciální tlak kyslíku a zhoršují se podmínky pro jeho přestup do krve."
     },
     {
       "sourceNumber": "6",
@@ -4936,7 +5219,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-6"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-6",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a zhruba 1 % ostatních plynů, zejména argonu a stopového oxidu uhličitého. Vodní pára má proměnlivý podíl."
     },
     {
       "sourceNumber": "7",
@@ -4952,7 +5236,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-7"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-7",
+      "explanation": "Poškozený výměník tepla nebo netěsnosti výfukové soustavy mohou propustit spaliny s oxidem uhelnatým do vytápění kabiny. CO je bez zápachu a barvy a může rychle zhoršit úsudek i vědomí pilota. Při podezření je nutné postupovat podle nouzových postupů letadla, zajistit čerstvý vzduch a bezpečně přistát."
     },
     {
       "sourceNumber": "8",
@@ -4968,7 +5253,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-8"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-8",
+      "explanation": "Při záporném přetížení se krev přesouvá směrem k hlavě a může dojít k překrvení očí a červenému zabarvení zorného pole (red-out). Jde o jiný jev než grey-out či black-out při kladném přetížení, kdy se naopak zhoršuje prokrvení mozku a sítnice."
     },
     {
       "sourceNumber": "9",
@@ -4984,7 +5270,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-9"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-9",
+      "explanation": "Poškozený výměník tepla nebo netěsnosti výfukové soustavy mohou propustit spaliny s oxidem uhelnatým do vytápění kabiny. CO je bez zápachu a barvy a může rychle zhoršit úsudek i vědomí pilota. Při podezření je nutné postupovat podle nouzových postupů letadla, zajistit čerstvý vzduch a bezpečně přistát."
     },
     {
       "sourceNumber": "10",
@@ -5000,7 +5287,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-10"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-10",
+      "explanation": "Hyperventilace snižuje parciální tlak CO₂ v krvi a může způsobit brnění, závratě, svalové křeče i poruchy vědomí. Cyanóza (namodralé zbarvení při nedostatečném okysličení krve) není typickým příznakem samotné hyperventilace."
     },
     {
       "sourceNumber": "11",
@@ -5016,7 +5304,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-11"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-11",
+      "explanation": "Modravé zbarvení rtů a konečků prstů (cyanóza) může svědčit o nedostatečném okysličení krve. Výšková hypoxie ale může začít i bez viditelné cyanózy, například zhoršeným úsudkem, bolestí hlavy nebo poruchami vidění."
     },
     {
       "sourceNumber": "12",
@@ -5032,7 +5321,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-12"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-12",
+      "explanation": "Sítnice a nervová soustava jsou citlivé na nedostatek kyslíku. Zrak, zejména noční vidění, se může při sníženém parciálním tlaku kyslíku zhoršovat ještě před výraznými dalšími příznaky. Pilot proto nemusí vlastní hypoxii včas rozpoznat."
     },
     {
       "sourceNumber": "13",
@@ -5048,7 +5338,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-13"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-13",
+      "explanation": "U některých lidí se účinky nižšího parciálního tlaku kyslíku mohou projevovat už kolem 7 000 ft, například zhoršením nočního vidění. Citlivost se liší podle zdravotního stavu, únavy a individuálních faktorů; tato hranice není univerzální práh náhlého vzniku hypoxie."
     },
     {
       "sourceNumber": "14",
@@ -5080,7 +5371,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-15"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-15",
+      "explanation": "Červené krvinky obsahují hemoglobin, který váže kyslík v plicích a dopravuje jej do tkání. Při sníženém množství hemoglobinu nebo jeho zablokování oxidem uhelnatým se přenos kyslíku zhoršuje."
     },
     {
       "sourceNumber": "16",
@@ -5096,7 +5388,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-16"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-16",
+      "explanation": "Krevní destičky (trombocyty) se při poškození cévy shlukují a pomáhají vytvořit prvotní krevní zátku. Spolu se srážecími faktory se podílejí na zástavě krvácení. Červené krvinky přenášejí kyslík a bílé krvinky zajišťují imunitní obranu."
     },
     {
       "sourceNumber": "17",
@@ -5112,7 +5405,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-17"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-17",
+      "explanation": "Bílé krvinky (leukocyty) chrání organismus proti infekcím a podílejí se na imunitní odpovědi. Kyslík přenášejí hlavně červené krvinky; krevní destičky pomáhají při srážení krve."
     },
     {
       "sourceNumber": "18",
@@ -5128,7 +5422,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-18"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-18",
+      "explanation": "Krevní destičky neboli trombocyty jsou důležité pro hemostázu: po poranění cévy přilnou k poškozenému místu, shlukují se a spolu se srážecími faktory pomáhají zastavit krvácení."
     },
     {
       "sourceNumber": "19",
@@ -5144,7 +5439,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-19"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-19",
+      "explanation": "V kontextu této testové otázky je jako výjimka uvedeno potápění. Potápění před letem je však zásadním rizikovým faktorem dekompresní nemoci při následném poklesu tlaku; tento pojem je nutné odlišovat od hypoxie a běžné výškové nemoci. Formulace otázky je nepřesná a zaslouží kontrolu proti zdroji."
     },
     {
       "sourceNumber": "20",
@@ -5160,7 +5456,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-20"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-20",
+      "explanation": "Anemická hypoxie vzniká tehdy, když krev nedokáže přenášet dostatek kyslíku, přestože kyslík může být v plicích přítomen. Oxid uhelnatý se pevně váže na hemoglobin a blokuje vazebná místa pro kyslík. Výšková hypoxie je naproti tomu primárně způsobena nízkým parciálním tlakem kyslíku."
     },
     {
       "sourceNumber": "21",
@@ -5176,7 +5473,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-21"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-21",
+      "explanation": "Při nevhodném směru větru se mohou výfukové plyny dostávat k nasávání ventilace či do kabiny. Oxid uhelnatý je bezbarvý plyn bez zápachu a může způsobit nebezpečnou hypoxii."
     },
     {
       "sourceNumber": "22",
@@ -5192,7 +5490,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-22"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-22",
+      "explanation": "Záblesky protisrážkových světel odrážené od sněhu a rotoru mohou vyvolávat blikající světelné podněty a dezorientaci. Ve vířícím sněhu navíc rychle mizí vnější vizuální reference."
     },
     {
       "sourceNumber": "23",
@@ -5208,7 +5507,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-23"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-23",
+      "explanation": "Při nevolnosti cestujícího pomůže stabilní, plynulý let bez prudkých zatáček a přetížení, přiměřené větrání a komfortní teplota kabiny. Pokud by se objevily příznaky hypoxie nebo otravy CO, je situace závažnější a vyžaduje odpovídající okamžitý postup."
     },
     {
       "sourceNumber": "24",
@@ -5224,7 +5524,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-24"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-24",
+      "explanation": "Reflex je automatická, mimovolní odpověď nervového systému na určitý podnět, například mrknutí při ohrožení oka. Probíhá reflexním obloukem a nevyžaduje vědomé rozhodnutí."
     },
     {
       "sourceNumber": "25",
@@ -5240,7 +5541,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-25"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-25",
+      "explanation": "Autonomní (vegetativní) nervový systém řídí řadu mimovolních funkcí, například srdeční frekvenci, trávení a regulaci dýchání. Zahrnuje sympatickou a parasympatickou část, které se podílejí na reakci na stres i odpočinek."
     },
     {
       "sourceNumber": "26",
@@ -5256,7 +5558,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-26"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-26",
+      "explanation": "Paralaxa je zdánlivá změna polohy ukazatele vůči stupnici při pohledu z různých úhlů. Na analogový přístroj je proto vhodné dívat se pokud možno kolmo, aby se předešlo chybné interpretaci údaje."
     },
     {
       "sourceNumber": "27",
@@ -5272,7 +5575,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-27"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-27",
+      "explanation": "Polarizované brýle mohou ztížit čtení některých LCD displejů a potlačovat odlesky, které pilot využívá k rozpoznání dalších letadel či povrchů. Proto se v letectví často doporučují kvalitní nepolarizované brýle s UV ochranou a vhodným propouštěním světla."
     },
     {
       "sourceNumber": "28",
@@ -5288,7 +5592,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-28"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-28",
+      "explanation": "Čípky na sítnici zajišťují barevné a ostré vidění hlavně za denního osvětlení. Tyčinky jsou citlivější při slabém světle, ale barvy nerozlišují; proto je noční vidění méně barevné."
     },
     {
       "sourceNumber": "29",
@@ -5304,7 +5609,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-29"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-29",
+      "explanation": "Eustachova (sluchová) trubice spojuje střední ucho s nosohltanem a umožňuje vyrovnávat tlak na obou stranách bubínku. Při změnách výšky se otevírá například při polykání nebo zívání."
     },
     {
       "sourceNumber": "30",
@@ -5320,7 +5626,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-30"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-30",
+      "explanation": "Pokud je Eustachova trubice ucpaná, například při rýmě, tlak ve středním uchu se nemůže snadno vyrovnat s tlakem okolí. Zvláště při klesání může vzniknout bolestivé barotrauma. Při nachlazení je proto nutné pečlivě posoudit způsobilost k letu."
     },
     {
       "sourceNumber": "31",
@@ -5336,7 +5643,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-31"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-31",
+      "explanation": "Po delší ustálené zatáčce se polokruhové kanálky vnitřního ucha přizpůsobí stálé úhlové rychlosti. Při srovnání křídel pak změna pohybu tekutiny vyvolá klamný pocit zatáčení na opačnou stranu. Jde o vestibulární iluzi, proto je při ztrátě vnějších vizuálních referencí zásadní důvěřovat přístrojům."
     },
     {
       "sourceNumber": "32",
@@ -5352,7 +5660,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-32"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-32",
+      "explanation": "Rovný ustálený let s konstantní rychlostí sám o sobě nevyvolává typické zrychlové vestibulární iluze. Alkohol, turbulence a pohyby hlavou při zatáčení naopak mohou narušovat vnímání polohy a pohybu letadla."
     },
     {
       "sourceNumber": "33",
@@ -5368,7 +5677,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-33"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-33",
+      "explanation": "Při dopředném zrychlení mohou otolitové orgány vnitřního ucha zaměnit setrvačné zrychlení za změnu sklonu a vyvolat pocit zvedání přídě (somatogravická iluze). Pilot pak může mít nebezpečnou tendenci tlačit řízení dopředu, ačkoli letoun ve skutečnosti stoupání nezahájil."
     },
     {
       "sourceNumber": "34",
@@ -5384,7 +5694,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-34"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-34",
+      "explanation": "Při zpomalování může somatogravická iluze vyvolat falešný pocit sklopení přídě nebo klesání. Vestibulární systém totiž nerozlišuje dokonale mezi podélným zrychlením a působením gravitace. Při špatné viditelnosti je nutné kontrolovat skutečný sklon podle přístrojů."
     },
     {
       "sourceNumber": "35",
@@ -5400,7 +5711,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-35"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-35",
+      "explanation": "Klesající sklon dráhy může vyvolat dojem příliš nízkého přiblížení. Pilot pak může korigovat dráhu letu výše, než odpovídá správnému sestupovému úhlu."
     },
     {
       "sourceNumber": "36",
@@ -5416,7 +5728,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-36"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-36",
+      "explanation": "Vzestupně skloněná dráha může vyvolat dojem, že je letadlo výše, než ve skutečnosti. Pilot má tendenci letět níže, což zvyšuje riziko krátkého přistání. Pozor: uvedená správná možnost v databázi ('dlouhý') se s obvyklým popisem této iluze neshoduje; otázka vyžaduje kontrolu zdroje."
     },
     {
       "sourceNumber": "37",
@@ -5432,7 +5745,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-37"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-37",
+      "explanation": "Pohyb hlavy při zatáčce může současně stimulovat více polokruhovitých kanálků vestibulárního systému. Výsledkem může být Coriolisova iluze, silná závrať a chybný pocit pohybu letadla."
     },
     {
       "sourceNumber": "38",
@@ -5448,7 +5762,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-38"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-38",
+      "explanation": "Při kladném přetížení (+Gz) krev odtéká z hlavy do dolních částí těla. Zhoršené prokrvení sítnice způsobuje šednutí zorného pole (grey-out), při vyšším zatížení může následovat black-out či ztráta vědomí."
     },
     {
       "sourceNumber": "39",
@@ -5464,7 +5779,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-39"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-39",
+      "explanation": "Mozek interpretuje zrakové informace na základě očekávání a zkušeností. Chybná interpretace vjemů může způsobit iluzi, zejména při nedostatku vnějších vizuálních referencí."
     },
     {
       "sourceNumber": "40",
@@ -5496,7 +5812,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-41"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-41",
+      "explanation": "Nadváha, zejména nadbytek viscerálního tuku, souvisí s inzulinovou rezistencí a zvyšuje riziko diabetu 2. typu. Nejde však o jediný rizikový faktor."
     },
     {
       "sourceNumber": "42",
@@ -5512,7 +5829,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-42"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-42",
+      "explanation": "Po přístrojovém potápění je v tkáních více rozpuštěného dusíku. Pokles tlaku při následném letu může vést k tvorbě bublinek a dekompresní nemoci; je nutné dodržet doporučený odstup od potápění."
     },
     {
       "sourceNumber": "43",
@@ -5544,7 +5862,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-44"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-44",
+      "explanation": "Bez opakování uchovává krátkodobá paměť informaci zpravidla jen několik desítek sekund; v tradičních učebnicových modelech se uvádí přibližně 10–20 sekund. Délka závisí na pozornosti a podmínkách."
     },
     {
       "sourceNumber": "45",
@@ -5560,7 +5879,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-45"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-45",
+      "explanation": "Latentní chyba je systémový nebo organizační nedostatek, který může zůstat dlouho neodhalen. K nehodě přispěje často až ve spojení s aktivní chybou či dalšími okolnostmi."
     },
     {
       "sourceNumber": "46",
@@ -5576,7 +5896,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-46"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-46",
+      "explanation": "Potvrzovací zkreslení znamená upřednostňování informací, které podporují vlastní očekávání. Pilot musí vědomě hledat i důkazy, které jeho původní představu vyvracejí."
     },
     {
       "sourceNumber": "47",
@@ -5592,7 +5913,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-47"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-47",
+      "explanation": "Situační povědomí zahrnuje vnímání aktuálních podmínek, porozumění jejich významu a předvídání vývoje. Pilot průběžně sleduje polohu, provoz, počasí i stav letadla."
     },
     {
       "sourceNumber": "48",
@@ -5608,7 +5930,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-48"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-48",
+      "explanation": "Standardní radiotelefonní frazeologie poskytuje pilotům a stanovištím ATS společný význam výrazů. Omezuje nejednoznačnost a společně se správným opakováním pokynů snižuje riziko nedorozumění."
     },
     {
       "sourceNumber": "49",
@@ -5624,7 +5947,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-49"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-49",
+      "explanation": "Základní strategie jsou vyhnout se riziku, snížit jeho pravděpodobnost nebo následky, převést část dopadu a přijmout zbytkové riziko. V letectví musí být přijaté riziko bezpečnostně přijatelné."
     },
     {
       "sourceNumber": "50",
@@ -5640,7 +5964,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-50"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-50",
+      "explanation": "Skupinová dynamika může vést k tlaku na souhlas a k odvážnějším rozhodnutím, než by jednotlivci přijali sami. Pomáhá otevřená komunikace a nezávislé posouzení rizik."
     },
     {
       "sourceNumber": "51",
@@ -5656,7 +5981,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-51"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-51",
+      "explanation": "Posun rizika (risky shift) je jev, při kterém skupina po společné diskusi přijme rizikovější rozhodnutí než jednotlivci samostatně. Souvisí mimo jiné s rozptýlením odpovědnosti a skupinovým tlakem."
     },
     {
       "sourceNumber": "52",
@@ -5672,7 +5998,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-52"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-52",
+      "explanation": "Předvádění se může doprovázet pocit nezranitelnosti: pilot chce prokázat schopnosti a současně podceňuje pravděpodobnost nehody. Tato kombinace podporuje zbytečně riskantní manévry."
     },
     {
       "sourceNumber": "53",
@@ -5688,7 +6015,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-53"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-53",
+      "explanation": "Předvádění se (macho attitude) vede k demonstraci schopností, například riskantními manévry před diváky. Bezpečný pilot se řídí limity letadla a situací, nikoli snahou zapůsobit."
     },
     {
       "sourceNumber": "54",
@@ -5704,7 +6032,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-54"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-54",
+      "explanation": "Očekávání mohou zkreslit vnímání: člověk někdy vidí to, co předpokládá, místo toho, co přístroje skutečně ukazují. Pomáhá systematická kontrola údajů a checklisty."
     },
     {
       "sourceNumber": "55",
@@ -5720,7 +6049,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-55"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-55",
+      "explanation": "Starší výukové typologie někdy upřednostňují emocionální stabilitu a extroverzi. Nejde však o obecně platné vědecké pravidlo, že extrovertní člověk je lepším pilotem; rozhodující jsou dovednosti, úsudek a bezpečné chování."
     },
     {
       "sourceNumber": "56",
@@ -5736,7 +6066,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-56"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-56",
+      "explanation": "Při vysoké míře automatizace může pilot příliš důvěřovat systémům a omezit aktivní monitorování. Tato samolibost (complacency) zvyšuje riziko pozdního rozpoznání chyby automatizace."
     },
     {
       "sourceNumber": "57",
@@ -5754,7 +6085,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-vrtulnik-p12-57",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Podle Yerkesova–Dodsonova vztahu bývá výkon nejlepší při střední míře aktivace. Příliš nízké i příliš vysoké vybuzení výkon snižuje; označení bodu je třeba ověřit podle přiloženého grafu."
     },
     {
       "sourceNumber": "58",
@@ -5772,7 +6104,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-vrtulnik-p12-58",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Přetížení odpovídá vysokému stresu za vrcholem křivky výkonu: další aktivace už výkon snižuje. Konkrétní písmeno bodu závisí na přiloženém diagramu."
     },
     {
       "sourceNumber": "59",
@@ -5788,7 +6121,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-59"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-59",
+      "explanation": "Stres může měnit pozornost, schopnost soustředění, paměť i rozhodování a chování včetně přebírání odpovědnosti. Výrazný stres vede k tunelovému vidění a zhoršenému výkonu."
     },
     {
       "sourceNumber": "60",
@@ -5804,7 +6138,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-60"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-60",
+      "explanation": "Stres vzniká při vnímaném nepoměru mezi požadavky situace a možnostmi člověka je zvládnout. Pocit, že problém nemá řešení, může stres výrazně zvýšit; reakce jsou individuální."
     },
     {
       "sourceNumber": "1",

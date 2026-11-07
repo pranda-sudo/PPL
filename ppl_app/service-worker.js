@@ -1,4 +1,4 @@
-const CACHE_NAME = "ppl-testy-v28";
+const CACHE_NAME = "ppl-testy-v29";
 const ASSETS = [
   "./",
   "./index.html",
@@ -90,7 +90,21 @@ const ASSETS = [
 ];
 
 self.addEventListener("install", (event) => {
-  event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(ASSETS)));
+  event.waitUntil(
+    caches.open(CACHE_NAME).then(async (cache) => {
+      // A missing optional illustration must not prevent the whole PWA update.
+      const essential = ["./index.html", "./styles.css", "./app.js", "./data/questions.js", "./preflight.html", "./preflight.css", "./preflight.js", "./preflight-data.js"];
+      await Promise.all(essential.map(async (asset) => {
+        const response = await fetch(asset, {cache: "reload"});
+        if (!response.ok) throw new Error("Essential PWA asset unavailable: " + asset);
+        await cache.put(asset, response);
+      }));
+      await Promise.allSettled(ASSETS.filter((asset) => !essential.includes(asset)).map(async (asset) => {
+        const response = await fetch(asset, {cache: "reload"});
+        if (response.ok) await cache.put(asset, response);
+      }));
+    })
+  );
   self.skipWaiting();
 });
 

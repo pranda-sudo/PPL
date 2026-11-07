@@ -19574,7 +19574,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-43"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-43",
+      "explanation": "Při stoupání se výškoměr přestavuje z QNH na standardních 1013,25 hPa při průletu převodní výškou (transition altitude). Převodní výška je publikována pro daný prostor; není všude pevně 4000 ft."
     },
     {
       "sourceNumber": "44",
@@ -19590,7 +19591,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-44"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-44",
+      "explanation": "Letová hladina FL 80 znamená tlakovou výšku 8000 ft při standardním nastavení výškoměru 1013,25 hPa. Místní QNH se používá pod převodní hladinou podle příslušných pravidel."
     },
     {
       "sourceNumber": "45",
@@ -19606,7 +19608,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-45"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-45",
+      "explanation": "Půlkruhové pravidlo přiřazuje cestovní hladiny podle směru magnetické tratě, aby se snížila pravděpodobnost protisměrných letů ve stejné hladině. Konkrétní hladiny a výjimky závisí na pravidlech daného vzdušného prostoru."
     },
     {
       "sourceNumber": "46",
@@ -19622,7 +19625,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-46"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-46",
+      "explanation": "Základní režimy sekundárního přehledového radaru jsou Mode A (identifikační kód), Mode C (tlaková výška) a Mode S (selektivní adresování a další údaje). Ne každý odpovídač podporuje všechny režimy."
     },
     {
       "sourceNumber": "47",
@@ -19638,7 +19642,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-47"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-47",
+      "explanation": "Mode C poskytuje údaj o tlakové výšce, zatímco Mode S může tento údaj rovněž vysílat. Mode A přenáší zejména čtyřmístný kód, nikoli výšku."
     },
     {
       "sourceNumber": "51",
@@ -19654,7 +19659,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-51"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-51",
+      "explanation": "Řízení letového provozu (ATC) poskytuje stanovené služby a rozstupy v příslušném řízeném vzdušném prostoru. Za bezpečné provedení letu a vyhýbání se srážkám však nadále odpovídá velitel letadla v rozsahu svých povinností; formulace otázky je zjednodušená."
     },
     {
       "sourceNumber": "52",
@@ -19670,7 +19676,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-52"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-52",
+      "explanation": "Tři základní složky služby řízení letového provozu jsou oblastní služba řízení (ACC), přibližovací služba řízení (APP) a letištní služba řízení (TWR). FIS a pohotovostní služba jsou další služby ATS, nikoli typy ATC."
     },
     {
       "sourceNumber": "53",
@@ -19686,7 +19693,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-53"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-53",
+      "explanation": "Ve třídě E jsou poskytovány rozstupy mezi lety IFR navzájem. Letům VFR se rozstupy od ostatních letů běžně nezajišťují, i když mohou dostávat provozní informace, pokud je to možné."
     },
     {
       "sourceNumber": "54",
@@ -19702,7 +19710,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-54"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-54",
+      "explanation": "V letové informační oblasti FIR se zajišťuje letová informační služba FIS a pohotovostní služba ALR. Řízení letového provozu se poskytuje jen v příslušných řízených částech prostoru."
     },
     {
       "sourceNumber": "55",
@@ -19718,7 +19727,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-55"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-55",
+      "explanation": "Za letu lze službu FIS kontaktovat radiostanicí na publikovaném kmitočtu. Pilot může získat provozní a meteorologické informace, ale FIS zpravidla nevydává povolení ATC."
     },
     {
       "sourceNumber": "56",
@@ -19734,7 +19744,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-56"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-56",
+      "explanation": "Výstraha „pozor, turbulence v úplavu“ upozorňuje na víry za jiným letadlem. Jejich síla souvisí s hmotností, konfigurací a rychlostí předcházejícího letadla; pilot musí zajistit bezpečný odstup."
     },
     {
       "sourceNumber": "57",
@@ -19750,7 +19761,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-57"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-57",
+      "explanation": "Standardní hlášení polohy obsahuje volací znak, polohu a podle situace čas, hladinu a další údaje. Z uvedených možností je nejbližší „OKABC, N, 2500 ft“, ale přesná frazeologie závisí na požadovaném typu hlášení a správném uvedení výšky či hladiny."
     },
     {
       "sourceNumber": "58",
@@ -19766,7 +19778,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-58"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-58",
+      "explanation": "AIREP je hlášení z letadla (air-report), které může obsahovat polohu, čas, hladinu a meteorologické informace. Zvláštní hlášení AIREP SPECIAL se používá pro významné meteorologické jevy."
     },
     {
       "sourceNumber": "59",
@@ -19782,7 +19795,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-59"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-59",
+      "explanation": "Část GEN (General) AIP obsahuje všeobecné informace, například zkratky a symboly, administrativní údaje, poplatky a vybrané přehledy služeb. Informace o tratích a prostorech jsou především v ENR a podrobnosti letišť v AD."
     },
     {
       "sourceNumber": "60",
@@ -19798,7 +19812,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-60"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-60",
+      "explanation": "AIP je členěna na GEN (všeobecně), ENR (traťové informace a vzdušný prostor) a AD (letiště). Toto členění usnadňuje vyhledání pravidel a údajů potřebných k přípravě letu."
     },
     {
       "sourceNumber": "61",
@@ -19814,7 +19829,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-61"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-61",
+      "explanation": "Část AD (Aerodromes) obsahuje informace o letištích včetně drah, provozních postupů, zařízení a letištních map. Vzdušné prostory a tratě jsou primárně v části ENR."
     },
     {
       "sourceNumber": "63",
@@ -19830,7 +19846,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-63"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-63",
+      "explanation": "PIB (Pre-flight Information Bulletin) je předletový výběr aktuálních NOTAM relevantních pro plánovaný let. Nenahrazuje kontrolu dalších informací, například AIP, počasí a provozních omezení."
     },
     {
       "sourceNumber": "64",
@@ -19846,7 +19863,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-64"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-64",
+      "explanation": "Nadmořská výška letiště (aerodrome elevation) je nadmořská výška nejvyššího bodu přistávací plochy. Je důležitá pro výškoměrná nastavení a výkonnostní výpočty."
     },
     {
       "sourceNumber": "65",
@@ -19862,7 +19880,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-65"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-65",
+      "explanation": "Vzletová a přistávací dráha (runway) je vymezená obdélníková plocha na pozemním letišti upravená pro přistání a vzlet letadel. Vodní přistávací plocha se v terminologii ICAO posuzuje odlišně."
     },
     {
       "sourceNumber": "66",
@@ -19878,7 +19897,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-66"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-66",
+      "explanation": "Vyčkávací místo (holding position) je určené místo, kde letadlo nebo vozidlo zastaví a vyčkává, pokud není oprávněno pokračovat. Zvláštní význam má vyčkávací místo před dráhou; bez příslušného povolení se na dráhu nevjíždí."
     },
     {
       "sourceNumber": "67",
@@ -19894,7 +19914,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-67"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-67",
+      "explanation": "Označení „wet“ znamená mokrou dráhu, jejíž povrch je viditelně mokrý nebo pokrytý vodou do stanovené malé hloubky; významné stojící vrstvy vody spadají do jiných kategorií. POZOR: klíč označuje „velká část zatopená vodou“, což neodpovídá běžnému významu wet. Způsob hlášení se řídí aktuální metodikou stavu dráhy (GRF)."
     },
     {
       "sourceNumber": "68",
@@ -19910,7 +19931,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-68"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-68",
+      "explanation": "„Damp“ historicky označuje vlhký povrch, u něhož je patrná změna barvy, ale není viditelná významná vrstva vody. Aktuální globální metodika GRF může takový stav posuzovat jinak; pro provoz je rozhodující zveřejněný runway condition report."
     },
     {
       "sourceNumber": "69",
@@ -19926,7 +19948,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-69"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-69",
+      "explanation": "„Water patches“ v tradičním popisu označuje jednotlivé plochy stojící vody na dráze. Pro současné rozhodování je třeba vycházet z aktuálního hlášení stavu dráhy, hloubky a rozsahu kontaminace."
     },
     {
       "sourceNumber": "70",
@@ -19942,7 +19965,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-70"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-70",
+      "explanation": "Ukazatel směru větru (větrný rukáv) může být pro lepší rozpoznání obklopen výrazným bílým kruhem. Poskytuje orientační směr a sílu větru v místě umístění, nikoli přesné měření pro všechny části letiště."
     },
     {
       "sourceNumber": "71",
@@ -19958,7 +19982,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-71"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-71",
+      "explanation": "Blikající červené světlo směrované na letadlo za letu znamená „letiště není bezpečné, nepřistávejte“. Je třeba odlišovat tento signál od stálého červeného světla, které znamená dát přednost a pokračovat po okruhu."
     },
     {
       "sourceNumber": "72",
@@ -19974,7 +19999,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-72"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-72",
+      "explanation": "Blikající zelené světlo pro letadlo za letu znamená „vraťte se na přistání“; samotné povolení k přistání následuje stálým zeleným světlem. Pilot musí rozlišovat jednotlivé světelné signály."
     },
     {
       "sourceNumber": "73",
@@ -19990,7 +20016,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-73"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-73",
+      "explanation": "Stálé zelené světlo pro letadlo za letu znamená „přistání povoleno“. Význam světelných signálů závisí na tom, zda je letadlo ve vzduchu, nebo na zemi."
     },
     {
       "sourceNumber": "74",
@@ -20006,7 +20033,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-74"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-74",
+      "explanation": "Blikající bílé světlo pro letadlo na zemi znamená „vraťte se na výchozí místo na letišti“ (zpravidla na odbavovací plochu). Nejde o povolení vzletu ani pojíždění."
     },
     {
       "sourceNumber": "75",
@@ -20022,7 +20050,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-75"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-75",
+      "explanation": "Blikající červené světlo pro letadlo na zemi znamená „opusťte používanou přistávací plochu / dráhu“. Je nutné odlišit od stálého červeného světla, které znamená zastavit."
     },
     {
       "sourceNumber": "76",
@@ -20038,7 +20067,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-76"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-76",
+      "explanation": "Blikající zelené světlo pro letadlo na zemi znamená „pojíždění povoleno“. Stálé zelené světlo na zemi naopak znamená „vzlet povolen“."
     },
     {
       "sourceNumber": "77",

@@ -2373,7 +2373,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-1"
+      "id": "letove-zasady-letoun-p1-1",
+      "explanation": "Slot na náběžné hraně pomáhá udržet proudění přilnuté k horní straně křídla i při vyšším úhlu náběhu. Oproti běžným vztlakovým klapkám na odtokové hraně je jeho hlavním přínosem oddálení odtržení proudění; účinek na odpor závisí na konkrétním provedení."
     },
     {
       "sourceNumber": "2",
@@ -2389,7 +2390,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-2"
+      "id": "letove-zasady-letoun-p1-2",
+      "explanation": "Podélnou stabilitu, tedy stabilitu kolem příčné osy (klopení), významně zajišťuje vodorovná ocasní plocha – stabilizátor. Při změně úhlu náběhu vytváří vratný klopivý moment."
     },
     {
       "sourceNumber": "3",
@@ -2405,7 +2407,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-3"
+      "id": "letove-zasady-letoun-p1-3",
+      "explanation": "VNE je maximální nepřekročitelná rychlost stanovená pro daný letoun. Její překročení může vyvolat aeroelastické kmitání (flutter) a nadměrné zatížení konstrukce, proto jde o nepřípustnou oblast letu."
     },
     {
       "sourceNumber": "4",
@@ -2437,7 +2440,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-5"
+      "id": "letove-zasady-letoun-p1-5",
+      "explanation": "Při ustáleném stoupání působí část tíhové síly proti směru pohybu po šikmé trajektorii. Motor musí vedle aerodynamického odporu překonávat také tuto složku tíhy, a proto je ke stoupání potřeba přebytek výkonu."
     },
     {
       "sourceNumber": "6",
@@ -2453,7 +2457,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-6"
+      "id": "letove-zasady-letoun-p2-6",
+      "explanation": "Statický tlak je v klidné tekutině v daném bodě izotropní, tedy působí všemi směry. Nejde o tlak vyvolaný samotnou rychlostí proudění, který se označuje jako dynamický."
     },
     {
       "sourceNumber": "7",
@@ -2469,7 +2474,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-7"
+      "id": "letove-zasady-letoun-p2-7",
+      "explanation": "Pro ideální ustálené proudění nestlačitelné tekutiny podél proudnice platí součet statického a dynamického tlaku jako konstanta (při zanedbání změn výšky). Zvětšení rychlosti tak odpovídá poklesu statického tlaku."
     },
     {
       "sourceNumber": "9",
@@ -2553,7 +2559,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-13"
+      "id": "letove-zasady-letoun-p3-13",
+      "explanation": "Úhel náběhu je úhel mezi tětivou profilu křídla a směrem relativního nabíhajícího proudu vzduchu. Není totožný s úhlem podélného sklonu letadla vůči horizontu."
     },
     {
       "sourceNumber": 14,
@@ -2569,7 +2576,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 3,
-      "id": "letove-zasady-letoun-p3-14"
+      "id": "letove-zasady-letoun-p3-14",
+      "explanation": "Štíhlost křídla je poměr rozpětí k jeho střední tětivě; ekvivalentně lze u běžné definice použít druhou mocninu rozpětí dělenou plochou křídla. Vyšší štíhlost obvykle snižuje indukovaný odpor při stejném vztlaku."
     },
     {
       "sourceNumber": 15,
@@ -2621,7 +2629,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-17"
+      "id": "letove-zasady-letoun-p4-17",
+      "explanation": "Koncové víry vznikají kvůli rozdílu tlaku mezi spodní a horní stranou křídla vytvářejícího vztlak. Vzduch se u konce křídla stáčí a vytváří vír, jakmile křídlo produkuje významný vztlak."
     },
     {
       "sourceNumber": 18,
@@ -2655,7 +2664,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-19"
+      "id": "letove-zasady-letoun-p4-19",
+      "explanation": "Ve stagnačním bodě se nabíhající proud zpomalí téměř na nulovou rychlost vzhledem k profilu a proudnice se zde rozdělují na proudění po horní a spodní straně profilu."
     },
     {
       "sourceNumber": 20,
@@ -2671,7 +2681,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 4,
-      "id": "letove-zasady-letoun-p4-20"
+      "id": "letove-zasady-letoun-p4-20",
+      "explanation": "V běžném režimu kladného vztlaku je tlak na horní straně křídla zpravidla nižší než okolní tlak a na spodní straně relativně vyšší. Rozdíl tlaků vytváří výslednou vztlakovou sílu; skutečné rozložení závisí na profilu a úhlu náběhu."
     },
     {
       "sourceNumber": 21,
@@ -2720,7 +2731,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-23"
+      "id": "letove-zasady-letoun-p5-23",
+      "explanation": "Se zvětšováním úhlu náběhu vztlak zpočátku roste, ale po dosažení kritického úhlu se proudění výrazně odtrhává. Součinitel vztlaku pak klesá a dochází k přetažení, i když rychlost letu nemusí být nulová."
     },
     {
       "sourceNumber": 24,
@@ -2736,7 +2748,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-24"
+      "id": "letove-zasady-letoun-p5-24",
+      "explanation": "Při zvětšování kladného úhlu náběhu se přední stagnační bod typicky posouvá po náběžné hraně směrem ke spodní straně profilu. Souvisí to se změnou rozdělení proudění kolem křídla."
     },
     {
       "sourceNumber": 25,
@@ -2752,7 +2765,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-25"
+      "id": "letove-zasady-letoun-p5-25",
+      "explanation": "Při zmenšování kladného úhlu náběhu se přední stagnační bod obvykle posouvá vzhůru po náběžné hraně. Je to opačný pohyb než při zvětšování úhlu náběhu."
     },
     {
       "sourceNumber": 26,
@@ -2786,7 +2800,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-27"
+      "id": "letove-zasady-letoun-p6-27",
+      "explanation": "Geometrické zkroucení křídla znamená, že úhel nastavení profilu se podél rozpětí mění. Často má konec křídla menší úhel nastavení než kořen, aby se při vysokém úhlu náběhu nejprve přetahovala vnitřní část křídla."
     },
     {
       "sourceNumber": 28,
@@ -2802,7 +2817,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-28"
+      "id": "letove-zasady-letoun-p6-28",
+      "explanation": "Díky vhodnému geometrickému zkroucení může kořen křídla dosáhnout kritického úhlu náběhu dříve než jeho konce. Proudění u křidélek pak zůstává déle přilnuté a řízení náklonu je účinnější."
     },
     {
       "sourceNumber": "29",

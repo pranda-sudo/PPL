@@ -2370,7 +2370,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-63"
+      "id": "5-letove-zasady-vrtulnik-p13-63",
+      "explanation": "Vyšší stabilita vytváří silnější tendenci vracet se po vychýlení do rovnovážného stavu. To snižuje nutnost neustálých zásahů, ale může současně zmenšit obratnost a rychlost reakce na řízení. Test proto uvádí zhoršenou řiditelnost ve smyslu menší pohotovosti manévrování; nejde o tvrzení, že stabilnější vrtulník je obecně méně bezpečný."
     },
     {
       "sourceNumber": "64",
@@ -2386,7 +2387,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-64"
+      "id": "5-letove-zasady-vrtulnik-p13-64",
+      "explanation": "U vrtulníku bez stabilizačních systémů mohou po poryvu vznikat pohyby, které se bez zásahu pilota časem zesilují. Test označuje kombinaci kladné statické a záporné dynamické stability: počáteční tendence může směřovat zpět k rovnováze, ale následné kmity se netlumí. Skutečné vlastnosti závisí na konstrukci a režimu letu; nejde o univerzální vlastnost každého vrtulníku."
     },
     {
       "sourceNumber": "65",
@@ -2570,7 +2572,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-9"
+      "id": "letove-zasady-letoun-p2-9",
+      "explanation": "Aerodynamický střed je referenční bod profilu, vůči němuž se aerodynamický klopivý moment při změnách úhlu náběhu mění jen málo (v běžném podzvukovém rozsahu). Test jej zjednodušeně označuje jako bod působení aerodynamických sil. Přesněji však výsledná síla působí v okamžitém středu tlaku a v aerodynamickém středu je třeba uvažovat také moment; těžiště je působiště tíhy."
     },
     {
       "sourceNumber": 10,
@@ -2586,7 +2589,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-10"
+      "id": "letove-zasady-letoun-p2-10",
+      "explanation": "V testu je aerodynamický střed popsán zjednodušeně jako bod působení aerodynamických sil. Přesná definice je jiná: jde o bod, kolem něhož je aerodynamický klopivý moment přibližně nezávislý na úhlu náběhu. Výslednici sil lze soustředit do středu tlaku, jehož poloha se s úhlem náběhu mění. Proto tyto dva body nezaměňuj."
     },
     {
       "sourceNumber": 11,

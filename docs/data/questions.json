@@ -630,7 +630,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-36"
+      "id": "komunikace-p8-36",
+      "explanation": "Pro kontrolu kvality radiového spojení se používá standardní dotaz „Jak slyšíte?“ (RADIO CHECK). Pozemní stanice odpovídá stupněm srozumitelnosti, nikoli pouhým potvrzením, že signál zaznamenala."
     },
     {
       "sourceNumber": "37",
@@ -646,7 +647,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-37"
+      "id": "komunikace-p8-37",
+      "explanation": "V radiotelefonii se pro vyžádání povolení používá standardní výraz „žádám“ (REQUEST). Vstup do řízeného prostoru podléhá příslušnému povolení, pokud je pro daný let vyžadováno; neformální „chtěl bych“ jej nenahrazuje."
     },
     {
       "sourceNumber": "38",
@@ -662,7 +664,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-38"
+      "id": "komunikace-p8-38",
+      "explanation": "Pro kladnou odpověď se používá „potvrzuji“ (AFFIRM). „Rozumím“ (ROGER) potvrzuje přijetí zprávy, nikoli nutně kladnou odpověď na otázku."
     },
     {
       "sourceNumber": "39",
@@ -678,7 +681,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-39"
+      "id": "komunikace-p8-39",
+      "explanation": "Záporná odpověď ve standardní frazeologii je „NEGATIV“ (NEGATIVE). Jednoznačný ustálený výraz omezuje záměnu s jinými částmi radiového provozu."
     },
     {
       "sourceNumber": "40",
@@ -694,7 +698,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-40"
+      "id": "komunikace-p8-40",
+      "explanation": "Pilot oznamuje „připraven k odletu“ (READY FOR DEPARTURE), nikoli „žádám vzlet“; povolení ke vzletu je samostatný jednoznačný pokyn řídícího. To snižuje riziko nechtěného vyvolání či pochopení vzletového povolení."
     },
     {
       "sourceNumber": "41",
@@ -710,7 +715,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-41"
+      "id": "komunikace-p9-41",
+      "explanation": "Pro oznámení zamýšleného nebo prováděného průletu bez přistání se používá odpovídající fráze „provádím průlet“. Nejde automaticky o nezdařené přiblížení ani o povolení ke vzletu."
     },
     {
       "sourceNumber": "42",
@@ -726,7 +732,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-42"
+      "id": "komunikace-p9-42",
+      "explanation": "Stanoviště letištního řízení (aerodrome control tower) používá v české radiotelefonii označení „věž“ (TOWER). „Oblast“ patří oblastnímu řízení a „zem/ground“ jinému stanovišti."
     },
     {
       "sourceNumber": "43",
@@ -742,7 +749,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-43"
+      "id": "komunikace-p9-43",
+      "explanation": "Stanoviště pro řízení pohybů na zemi používá volací označení GROUND, v otázce „ground“. Jde o jinou funkci než letištní věž, která zajišťuje zejména řízení provozu na dráze a v jejím okolí."
     },
     {
       "sourceNumber": "44",
@@ -758,7 +766,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-44"
+      "id": "komunikace-p9-44",
+      "explanation": "Letová informační služba používá v české frazeologii označení „informace“ (INFORMATION). Poskytuje informace pro bezpečný let; její volací označení není totožné s označením letištního řízení."
     },
     {
       "sourceNumber": "45",
@@ -774,7 +783,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-45"
+      "id": "komunikace-p9-45",
+      "explanation": "Zkrácená značka letadla může být tvořena prvním znakem registrační značky a nejméně posledními dvěma znaky: D-EAZF tedy DZF. Zkratka se však nesmí použít svévolně při prvním volání."
     },
     {
       "sourceNumber": "46",
@@ -790,7 +800,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-46"
+      "id": "komunikace-p10-46",
+      "explanation": "Pilot smí použít zkrácený volací znak až poté, co jej takto použila pozemní stanice. Předčasné zkrácení může vést k záměně dvou podobných značek na stejné frekvenci."
     },
     {
       "sourceNumber": "47",
@@ -806,7 +817,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-47"
+      "id": "komunikace-p10-47",
+      "explanation": "Při prvním navázání spojení se používá úplný volací znak letadla. Zkracovat jej lze až za podmínek stanovených radiotelefonními postupy, zejména po použití zkratky pozemní stanicí."
     },
     {
       "sourceNumber": "48",
@@ -822,7 +834,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-48"
+      "id": "komunikace-p10-48",
+      "explanation": "Standardní pořadí prvního volání je nejprve volaná stanice a poté vlastní volací znak: „Tuřany věž, OK-ABC“. Tím je jasné, komu je zpráva určena a kdo vysílá."
     },
     {
       "sourceNumber": "50",
@@ -838,7 +851,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-50"
+      "id": "komunikace-p10-50",
+      "explanation": "Stupeň srozumitelnosti 1 znamená, že vysílání je nesrozumitelné. Jde o nejnižší hodnotu pětistupňové stupnice radiového spojení."
     },
     {
       "sourceNumber": "51",
@@ -854,7 +868,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-51"
+      "id": "komunikace-p11-51",
+      "explanation": "Stupeň 2 znamená, že vysílání je srozumitelné jen občas (přerušovaně). Stupeň 1 je nesrozumitelné a stupeň 3 již srozumitelné, ale s obtížemi."
     },
     {
       "sourceNumber": "52",
@@ -870,7 +885,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-52"
+      "id": "komunikace-p11-52",
+      "explanation": "Stupeň 3 označuje vysílání srozumitelné s obtížemi. Je lepší než přerušovaná srozumitelnost stupně 2, ale horší než dobře srozumitelné vysílání stupně 4."
     },
     {
       "sourceNumber": "53",
@@ -886,7 +902,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-53"
+      "id": "komunikace-p11-53",
+      "explanation": "Stupeň 5 znamená dokonale srozumitelné vysílání. Na pětistupňové škále jde o nejlepší možný výsledek kontroly spojení."
     },
     {
       "sourceNumber": "54",
@@ -902,7 +919,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-54"
+      "id": "komunikace-p11-54",
+      "explanation": "Údaj o větru je zpravidla informací, kterou není nutné doslovně opakovat. Naproti tomu povolení k vzletu/přistání, dráha v používání, kód odpovídače a bezpečnostně významné instrukce vyžadují odpovídající zpětné potvrzení."
     },
     {
       "sourceNumber": "55",
@@ -918,7 +936,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-55"
+      "id": "komunikace-p11-55",
+      "explanation": "Informace o provozu se obvykle potvrzuje přijetím, nikoli doslovným zopakováním. Nastavení výškoměru, přidělený kurz a důležité pokyny pro pojíždění patří mezi údaje vyžadující správné zpětné přečtení."
     },
     {
       "sourceNumber": "56",
@@ -934,7 +953,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-56"
+      "id": "komunikace-p12-56",
+      "explanation": "Zpětné potvrzení musí zahrnovat stoupání na 2500 ft, následnou pravou zatáčku na kurz 220, dráhu 12 a povolení ke vzletu. Vítr 090°/5 kt je doplňující informace a nemusí se opakovat. Správná varianta proto obsahuje bezpečnostně významné pokyny bez údaje o větru."
     },
     {
       "sourceNumber": "57",
@@ -950,7 +970,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-57"
+      "id": "komunikace-p12-57",
+      "explanation": "„Provedu“ (WILCO) vyjadřuje, že pilot zprávě porozuměl a bude podle ní postupovat. U jednoduchého pokynu k příštímu hlášení může být použito; v praxi je vhodné dbát na jednoznačnost potvrzení."
     },
     {
       "sourceNumber": "58",
@@ -966,7 +987,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-58"
+      "id": "komunikace-p12-58",
+      "explanation": "Zpětné potvrzení zahrnuje přidělený kód odpovídače 4321 i frekvenci 131,325 MHz. Pouhé „rozumím“ by nepotvrdilo správnost obou bezpečnostně důležitých údajů."
     },
     {
       "sourceNumber": "59",
@@ -982,7 +1004,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-59"
+      "id": "komunikace-p12-59",
+      "explanation": "Věta „nyní vstupujete do vzdušného prostoru Delta“ je informace, nikoli nový příkaz. „Rozumím“ potvrzuje její přijetí, zatímco „provedu“ by znamenalo závazek provést instrukci."
     },
     {
       "sourceNumber": "63",
@@ -998,7 +1021,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-63"
+      "id": "komunikace-p13-63",
+      "explanation": "V uvedené testové frazeologii se dohlednost 12 km hlásí jako „10 kilometrů nebo více“, protože pro hodnoty nad 10 km se používá horní hlášená hranice. Pozor: konkrétní pravidla pro METAR a radiové hlášení se mohou lišit podle druhu informace."
     },
     {
       "sourceNumber": "64",
@@ -1014,7 +1038,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-64"
+      "id": "komunikace-p13-64",
+      "explanation": "Podle členění použitého v této otázce se dohlednost do 5 km uvádí v metrech, aby se zachovala potřebná přesnost. Nejde o pravidlo pro každou meteorologickou zprávu bez výjimky."
     },
     {
       "sourceNumber": "65",
@@ -1030,7 +1055,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 13,
-      "id": "komunikace-p13-65"
+      "id": "komunikace-p13-65",
+      "explanation": "Podle členění použitého v této otázce se dohlednost nad 5 km uvádí v kilometrech. Při interpretaci je nutné rozlišovat radiotelefonní hlášení a kódované meteorologické zprávy, které mají vlastní pravidla."
     },
     {
       "sourceNumber": "66",

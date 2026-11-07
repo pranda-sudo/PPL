@@ -239,7 +239,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-13"
+      "id": "komunikace-p3-13",
+      "explanation": "QDR označuje magnetický směr OD radiové stanice k letadlu. Opačný magnetický směr KE stanici je QDM; zeměpisné směry se označují jinými Q-kódy."
     },
     {
       "sourceNumber": "14",
@@ -255,7 +256,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-14"
+      "id": "komunikace-p3-14",
+      "explanation": "QUJ označuje zeměpisný (pravý) směr KE stanici. Na rozdíl od magnetického QDM se vztahuje k zeměpisnému severu; QTE je pravý směr OD stanice."
     },
     {
       "sourceNumber": "15",
@@ -271,7 +273,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-15"
+      "id": "komunikace-p3-15",
+      "explanation": "QTE je zeměpisný (pravý) směr OD stanice. Liší se od QDR, který je rovněž směr od stanice, ale magnetický; opačný pravý směr ke stanici označuje QUJ."
     },
     {
       "sourceNumber": "16",
@@ -287,7 +290,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-16"
+      "id": "komunikace-p4-16",
+      "explanation": "Magnetický směr OD stanice se označuje QDR. QDM znamená magnetický směr KE stanici, zatímco QTE a QUJ jsou směry vztažené k zeměpisnému severu."
     },
     {
       "sourceNumber": "17",
@@ -303,7 +307,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-17"
+      "id": "komunikace-p4-17",
+      "explanation": "QTE znamená zeměpisný směr OD stanice. QDR označuje magnetický směr od stanice; QDM a QUJ naopak směřují ke stanici."
     },
     {
       "sourceNumber": "18",
@@ -319,7 +324,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-18"
+      "id": "komunikace-p4-18",
+      "explanation": "QUJ znamená zeměpisný směr KE stanici. Magnetický směr ke stanici se značí QDM; QDR a QTE označují směry od stanice."
     },
     {
       "sourceNumber": "19",
@@ -335,7 +341,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-19"
+      "id": "komunikace-p4-19",
+      "explanation": "Zprávy o radiovém zaměřování mají v pořadí radiotelefonních zpráv přednost před běžnými zprávami týkajícími se bezpečnosti letu. Hlášení polohy, meteorologické zprávy ani zprávy o pravidelnosti letu nemají v uvedené skupině vyšší prioritu."
     },
     {
       "sourceNumber": "20",
@@ -351,7 +358,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-20"
+      "id": "komunikace-p4-20",
+      "explanation": "Zprávy nezbytné pro řízení letového provozu spadají mezi zprávy týkající se bezpečnosti letu (flight safety messages). Nejde o běžné provozně-organizační zprávy ani automaticky o tísňovou či pilnostní komunikaci."
     },
     {
       "sourceNumber": "21",
@@ -367,7 +375,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-21"
+      "id": "komunikace-p5-21",
+      "explanation": "Tíseň (MAYDAY) znamená vážné a bezprostřední nebezpečí pro letadlo nebo osoby a potřebu okamžité pomoci. Je naléhavější než pilnost (PAN PAN), která se týká bezpečnosti, ale sama o sobě nemusí znamenat bezprostřední ohrožení."
     },
     {
       "sourceNumber": "22",
@@ -383,7 +392,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-22"
+      "id": "komunikace-p5-22",
+      "explanation": "Pilnost (PAN PAN) se používá pro naléhavou zprávu týkající se bezpečnosti letadla nebo osob, aniž by nutně šlo o vážné a bezprostřední nebezpečí vyžadující okamžitou pomoc. Taková situace by už byla tísní (MAYDAY)."
     },
     {
       "sourceNumber": "23",
@@ -399,7 +409,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-23"
+      "id": "komunikace-p5-23",
+      "explanation": "Zprávy o pravidelnosti letu se týkají provozních záležitostí, například fungování nebo údržby zařízení důležitých pro bezpečný a pravidelný provoz. Nejde o tísňové ani pilnostní zprávy."
     },
     {
       "sourceNumber": "24",
@@ -415,7 +426,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-24"
+      "id": "komunikace-p5-24",
+      "explanation": "Žádost o QDM se týká radiového zaměřování, jehož zprávy mají podle pořadí priorit přednost před běžnými zprávami o bezpečnosti letu, jako jsou pokyny k zatáčení nebo údaje o QNH a větru. V konkrétní mimořádné situaci má ovšem přednost tísňový a pilnostní provoz."
     },
     {
       "sourceNumber": "25",
@@ -431,7 +443,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-25"
+      "id": "komunikace-p5-25",
+      "explanation": "Mezinárodní hláskovací abeceda ICAO používá Hotel–Bravo–Yankee–Kilo–Mike. „Home“, „Yuliett“ a „Mikro“ nejsou správná kódová slova pro uvedená písmena."
     },
     {
       "sourceNumber": "26",
@@ -447,7 +460,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-26"
+      "id": "komunikace-p6-26",
+      "explanation": "Volací značka OE-JVK se hláskuje Oscar–Echo–Juliett–Victor–Kilo podle abecedy ICAO. „Omega“, „Jankee“ ani „Kilogramm“ nejsou správná kódová slova."
     },
     {
       "sourceNumber": "27",
@@ -463,7 +477,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-27"
+      "id": "komunikace-p6-27",
+      "explanation": "Výška 4500 ft se podle radiotelefonní frazeologie vyjadřuje jako „čtyři tisíce pět set stop“; při hlášení výšky se běžně vyslovují celé tisíce a stovky, nikoli každá číslice samostatně jako u kurzu."
     },
     {
       "sourceNumber": "28",
@@ -479,7 +494,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-28"
+      "id": "komunikace-p6-28",
+      "explanation": "Směry a kurzy se v radiotelefonii vyslovují po jednotlivých číslicích: kurz 285° tedy „dva osm pět“. Tím se omezuje riziko přeslechnutí, na rozdíl od vyslovování čísla jako celku."
     },
     {
       "sourceNumber": "29",
@@ -495,7 +511,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-29"
+      "id": "komunikace-p6-29",
+      "explanation": "U frekvencí se musí vyslovit dostatečný počet číslic pro jednoznačnou identifikaci kanálu. U 119,500 MHz je v uvedeném testu správná zkrácená podoba „jedna jedna devět čárka pět“; v praxi je nutné respektovat platné postupy pro 8,33kHz kanály a případnou potřebu úplného označení."
     },
     {
       "sourceNumber": "30",
@@ -511,7 +528,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-30"
+      "id": "komunikace-p6-30",
+      "explanation": "Směr vůči letadlu se při použití hodinové orientace uvádí jako „dvanáct hodin“ pro směr přímo vpřed. Jde o polohu na pomyslném ciferníku, nikoli o číselný kurz nebo čas."
     },
     {
       "sourceNumber": "31",
@@ -527,7 +545,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-31"
+      "id": "komunikace-p7-31",
+      "explanation": "V letecké radiotelefonii se standardně používá koordinovaný světový čas UTC, aby mezi stanovišti a časovými pásmy nedocházelo k nejasnostem. Místní čas se bez výslovného upřesnění nepředpokládá."
     },
     {
       "sourceNumber": "32",
@@ -543,7 +562,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-32"
+      "id": "komunikace-p7-32",
+      "explanation": "Pokud by bylo možné zaměnit časový údaj, vyslovují se všechny čtyři číslice: 1620 jako „jedna šest dva nula“. Zkrácené hlášení pouze minut je vhodné jen tehdy, když nehrozí nejasnost."
     },
     {
       "sourceNumber": "33",
@@ -559,7 +579,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-33"
+      "id": "komunikace-p7-33",
+      "explanation": "„Rozumím“ (ROGER) potvrzuje příjem posledního vysílání. Samo o sobě neznamená souhlas s instrukcí ani závazek podle ní postupovat; ten vyjadřují jiné standardní výrazy, například WILCO."
     },
     {
       "sourceNumber": "34",
@@ -575,7 +596,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-34"
+      "id": "komunikace-p7-34",
+      "explanation": "„Oprava“ (CORRECTION) upozorňuje, že v právě vysílané zprávě došlo k chybě a následuje správné znění. Není to potvrzení přijetí zprávy ani udělení povolení."
     },
     {
       "sourceNumber": "35",
@@ -591,7 +613,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-35"
+      "id": "komunikace-p7-35",
+      "explanation": "„Schváleno“ (APPROVED) znamená, že požadovaný úkon byl povolen. Liší se od potvrzení příjmu („rozumím“) i od vyjádření, že pilot instrukci provede."
     },
     {
       "sourceNumber": "36",

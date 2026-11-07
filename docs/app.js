@@ -63,6 +63,9 @@ const els = {
   questionImage: document.querySelector("#questionImage"),
   questionImageCaption: document.querySelector("#questionImageCaption"),
   answers: document.querySelector("#answers"),
+  answerExplanation: document.querySelector("#answerExplanation"),
+  answerExplanationTitle: document.querySelector("#answerExplanationTitle"),
+  answerExplanationText: document.querySelector("#answerExplanationText"),
   showAnswerBtn: document.querySelector("#showAnswerBtn"),
   markKnownBtn: document.querySelector("#markKnownBtn"),
   finishExamBtn: document.querySelector("#finishExamBtn"),
@@ -418,6 +421,21 @@ function modeTitle() {
   return "Procvičování";
 }
 
+const VERIFIED_EXPLANATIONS = {
+  "9-navigace-letoun-1-p25-119": "Radiál VOR udává magnetický směr OD stanice VOR k letadlu. Tomu odpovídá QDR, tedy magnetický směr od stanice. QDM naopak označuje magnetický směr KE stanici. Například na radiálu 090° leží letadlo východně od VOR a směr zpět ke stanici je přibližně 270° (bez započtení dalších odchylek).",
+  "9-navigace-vrtulnik-p24-115": "Radiál VOR udává magnetický směr OD stanice VOR k letadlu. Tomu odpovídá QDR, tedy magnetický směr od stanice. QDM naopak označuje magnetický směr KE stanici. Například na radiálu 090° leží letadlo východně od VOR a směr zpět ke stanici je přibližně 270° (bez započtení dalších odchylek).",
+};
+
+function renderAnswerExplanation(question, answer) {
+  const show = state.mode === "practice" && Boolean(question && answer?.revealed);
+  els.answerExplanation.hidden = !show;
+  if (!show) return;
+  const correct = question.options[question.correctIndex];
+  els.answerExplanationTitle.textContent = `Správná odpověď: ${correct}`;
+  els.answerExplanationText.textContent = question.explanation || VERIFIED_EXPLANATIONS[question.id] ||
+    "Podrobné odborné vysvětlení této otázky zatím není doplněno. Správná odpověď vychází z databáze otázek; její zdůvodnění bude postupně ověřeno a doplněno.";
+}
+
 function renderQuestion() {
   const question = currentQuestion();
   const score = sessionScore();
@@ -437,6 +455,7 @@ function renderQuestion() {
     els.sourceText.textContent = "";
     els.questionText.textContent = "Pro vybrané filtry nejsou žádné otázky.";
     renderQuestionImage(null);
+    renderAnswerExplanation(null, null);
     els.answers.innerHTML = "";
     els.cardPrevBtn.disabled = true;
     els.cardNextBtn.disabled = true;
@@ -451,6 +470,7 @@ function renderQuestion() {
   els.sourceText.textContent = `${question.sourceFile} · otázka ${question.sourceNumber} · strana ${question.page} · pokusy ${stat?.attempts || 0}, chyby ${stat?.wrong || 0}`;
   els.questionText.textContent = question.question;
   renderQuestionImage(question);
+  renderAnswerExplanation(question, answer);
   els.answers.innerHTML = "";
   els.cardPrevBtn.disabled = state.index === 0;
   els.cardNextBtn.disabled = state.index >= state.deck.length - 1;

@@ -2861,7 +2861,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-27"
+      "id": "letove-zasady-letoun-p6-27",
+      "explanation": "Geometrické zkroucení (washout) znamená změnu úhlu geometrického nastavení profilu po rozpětí křídla. Obvykle mají konce křídla menší úhel nastavení než kořen, takže při přetažení se proudění odtrhává nejprve u kořene a křidélka na koncích zůstávají déle účinná. Aerodynamické zkroucení naproti tomu mění vlastnosti použitých profilů."
     },
     {
       "sourceNumber": 28,
@@ -2877,7 +2878,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-28"
+      "id": "letove-zasady-letoun-p6-28",
+      "explanation": "Vhodné zkroucení křídla snižuje místní úhel náběhu na koncích. Při přibližování k pádu proto nejprve ztrácí vztlak vnitřní část křídla, zatímco proudění u křidélek zůstává déle připojené. Výsledkem je lepší ovladatelnost kolem podélné osy při vysokém úhlu náběhu."
     },
     {
       "sourceNumber": "29",
@@ -2893,7 +2895,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-29"
+      "id": "letove-zasady-letoun-p6-29",
+      "explanation": "Při malých a středních úhlech náběhu součinitel vztlaku obvykle roste se zvětšujícím se úhlem. Po překročení kritického úhlu náběhu však nastane výrazné odtržení proudění, součinitel vztlaku klesne a odpor prudce vzroste. Úhel náběhu může být i záporný a během letu se mění."
     },
     {
       "sourceNumber": 30,
@@ -2909,7 +2912,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-30"
+      "id": "letove-zasady-letoun-p6-30",
+      "explanation": "Škodlivý odpor lze při přibližně stálé hustotě vzduchu, čelní ploše a součiniteli odporu vyjádřit D = ½ρV²SC_D. Závisí tedy přibližně na druhé mocnině rychlosti: při dvojnásobné rychlosti vzroste zhruba čtyřikrát. Toto pravidlo platí přibližně pro srovnatelné podmínky proudění."
     },
     {
       "sourceNumber": 31,
@@ -2925,7 +2929,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-31"
+      "id": "letove-zasady-letoun-p7-31",
+      "explanation": "Součinitel odporu C_D je bezrozměrné číslo vyjadřující aerodynamický odpor vůči dynamickému tlaku a referenční ploše. Reálný profil má kvůli tření a tlakovým ztrátám nenulový minimální odpor i při nulovém vztlaku. Nelze předpokládat, že odpor roste prostě úměrně rychlosti nebo součiniteli vztlaku."
     },
     {
       "sourceNumber": 32,
@@ -2941,7 +2946,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-32"
+      "id": "letove-zasady-letoun-p7-32",
+      "explanation": "Při vytváření vztlaku je pod křídlem vyšší a nad křídlem nižší tlak. V blízkosti konce křídla proudí vzduch ze spodní strany kolem konce směrem nahoru, což vytváří koncový vír. Tento trojrozměrný jev souvisí s indukovaným odporem."
     },
     {
       "sourceNumber": 33,
@@ -2957,7 +2963,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-33"
+      "id": "letove-zasady-letoun-p7-33",
+      "explanation": "Indukovaný odpor souvisí s vytvářením vztlaku konečným křídlem. Přibližně platí C_Di = C_L²/(π e AR), kde AR je štíhlost a e Oswaldův faktor účinnosti. Při stejném součiniteli vztlaku tedy menší štíhlost znamená větší indukovaný odpor."
     },
     {
       "sourceNumber": 34,
@@ -2973,7 +2980,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-34"
+      "id": "letove-zasady-letoun-p7-34",
+      "explanation": "Koncové víry vznikají kvůli tlakovému rozdílu mezi spodní a horní stranou křídla. Způsobují downwash a naklonění výsledné aerodynamické síly dozadu, tedy indukovaný odpor. Jeho velikost ovlivňuje celé rozložení vztlaku po rozpětí, ale konce křídel jsou s tvorbou vírů výrazně spojeny."
     },
     {
       "sourceNumber": 35,
@@ -2989,7 +2997,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-35"
+      "id": "letove-zasady-letoun-p7-35",
+      "explanation": "Interferenční odpor vzniká tam, kde se setkávají proudění kolem různých částí letadla, například v přechodu křídla do trupu u kořene křídla. Vzájemné ovlivnění mezních vrstev a tlakových polí může zvýšit odpor nad součet odporů izolovaných částí. Proto se používají aerodynamické přechodové kryty."
     },
     {
       "sourceNumber": 36,
@@ -3023,7 +3032,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-37"
+      "id": "letove-zasady-letoun-p8-37",
+      "explanation": "Škodlivý (parazitní) odpor zahrnuje třecí odpor povrchu, tvarový neboli tlakový odpor a interferenční odpor. Na rozdíl od indukovaného odporu nevzniká přímo jako důsledek vytváření vztlaku. V běžném rozsahu rychlostí jeho síla přibližně roste s druhou mocninou rychlosti."
     },
     {
       "sourceNumber": 38,
@@ -3039,7 +3049,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-38"
+      "id": "letove-zasady-letoun-p8-38",
+      "explanation": "Indukovaný odpor je cena za vytváření vztlaku konečným křídlem a vzniká v souvislosti s koncovými víry a downwashem. Proto nepatří mezi škodlivé odpory. Třecí, tvarový a interferenční odpor naopak tvoří jednotlivé složky škodlivého odporu."
     },
     {
       "sourceNumber": "39",
@@ -3055,7 +3066,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-39"
+      "id": "letove-zasady-letoun-p8-39",
+      "explanation": "Při ustáleném vodorovném letu musí vztlak vyrovnávat tíhu. S rostoucí rychlostí je pro stejný vztlak potřeba menší součinitel vztlaku, takže indukovaný odpor přibližně klesá jako 1/V². Škodlivý odpor naopak přibližně roste jako V². Součet vytváří charakteristickou křivku celkového odporu s minimem."
     },
     {
       "sourceNumber": 40,
@@ -3071,7 +3083,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-40"
+      "id": "letove-zasady-letoun-p8-40",
+      "explanation": "Eliptické rozložení vztlaku po rozpětí je pro dané rozpětí a celkový vztlak v ideálním modelu spojeno s minimálním indukovaným odporem. Eliptický půdorys křídla k takovému rozložení může přispět, a proto je správnou testovou odpovědí elipsa. V praxi lze podobného rozložení dosáhnout i vhodným zkroucením jiných půdorysů."
     },
     {
       "sourceNumber": 41,

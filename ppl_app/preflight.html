@@ -1,0 +1,55 @@
+<!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>Předletová a přeletová příprava – Letecké testy</title><meta name="theme-color" content="#16202a"><link rel="stylesheet" href="./preflight.css?v=1"></head>
+<body><main class="shell">
+<header class="app-head"><div><span class="eyebrow">Výcvik · PPL / ULL</span><h1>Předletová a přeletová příprava</h1><p>Vyplň formulář, projdi checklist a vytiskni si plán letu.</p></div><a class="home no-print" href="./index.html?v=27">← Zpět na testy</a></header>
+<div class="alert"><strong>VÝUKOVÝ CHECKLIST – NENAHRAZUJE AFM/POH.</strong> Není schváleným provozním checklistem pro žádný typ letadla. Neobsahuje typové úkony ani letová povolení. Pilot musí použít platnou příručku a postupy svého letadla i aktuální předpisy. Za rozhodnutí o letu odpovídá velitel letadla.</div>
+<section class="print-heading" aria-label="Identifikace letu">
+<div class="row-title"><h2>Údaje o letu</h2><span class="small">Příprava pro výcvik a záznam</span></div>
+<div class="fields" id="details">
+<label>Datum letu<input name="date" type="date"></label>
+<label>Pilot / žák<input name="pilot" placeholder="Jméno pilota"></label>
+<label>Instruktor (je-li přítomen)<input name="instructor" placeholder="Jméno instruktora"></label>
+<label>Letadlo / typ<input name="type" placeholder="Např. Cessna 172"></label>
+<label>Registrace<input name="registration" placeholder="OK-..."></label>
+<label>Režim letu<select name="flightType"><option value="VFR">VFR</option><option value="IFR">IFR (jen s odpovídající kvalifikací)</option></select></label>
+<label>Odletové letiště<input name="departure" placeholder="ICAO kód / název"></label>
+<label>Cílové letiště<input name="arrival" placeholder="ICAO kód / název"></label>
+<label>Záložní letiště<input name="alternate" placeholder="Alternativa"></label>
+<label>Plánovaný odlet UTC<input name="etd" type="time"></label>
+<label>Plánovaný přílet UTC<input name="eta" type="time"></label>
+<label>Trasa / hlavní body<input name="route" placeholder="Body plánované trasy"></label>
+</div></section>
+<section class="summary"><div><strong id="doneCount">0</strong><span>splněno</span></div><div><strong id="allCount">0</strong><span>bodů checklistu</span></div><div><strong id="percentage">0 %</strong><span>postup přípravy</span></div></section>
+<section class="planning">
+<h2>Výpočty a rozhodnutí</h2>
+<p class="helper">Doplň vypočtené údaje podle konkrétního letadla. Prázdná pole znamenají neověřenou hodnotu, nikoliv nulu.</p>
+<div class="fields">
+<label>Plánovaná vzdálenost (NM)<input name="distance" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Očekávaná GS (kt)<input name="gs" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Předpokládaná doba letu (min)<input name="duration" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Použitelné palivo (l)<input name="fuel" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Plánovaná spotřeba (l)<input name="fuelUse" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Požadovaná palivová rezerva (l)<input name="fuelReserve" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Vzletová hmotnost (kg)<input name="mass" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Vypočtené těžiště (podle AFM/POH)<input name="cg" placeholder="Hodnota a jednotka"></label>
+<label>Odhadnutá potřeba dráhy (m)<input name="takeoffDistance" type="number" min="0" step="any" inputmode="decimal"></label>
+<label>Minimální plánovaná bezpečná výška<input name="safeAltitude" placeholder="Hodnota + ft AMSL"></label>
+<label>Aktuální informace zkontrolovány v (UTC)<input name="briefingTime" type="time"></label>
+<label>Rozhodnutí o letu<select name="decision"><option value="Nerozhodnuto">Nerozhodnuto</option><option value="GO – po splnění všech podmínek">GO – po splnění všech podmínek</option><option value="NO-GO">NO-GO</option><option value="Odložit / přehodnotit">Odložit / přehodnotit</option></select></label>
+</div>
+<label class="note-label">Poznámky k trase, počasí, prostoru a alternativám<textarea name="notes" rows="4" placeholder="Např. výstrahy, NOTAM, frekvence, hranice prostoru, bod návratu…"></textarea></label>
+<div class="form-advice" id="fuelSummary" aria-live="polite">Pro zobrazení orientační palivové bilance doplň palivo, spotřebu a rezervu.</div>
+<div class="quicklinks no-print"><a href="./calc.html?v=26">Otevřít leteckou kalkulačku</a> <a href="https://aim.rlp.cz" target="_blank" rel="noopener">AIS / AIP ČR</a> <a href="https://www.chmi.cz" target="_blank" rel="noopener">ČHMÚ</a></div>
+</section>
+<div class="check-header"><h2>Kontrolní seznamy</h2><p class="helper">Označení bodu znamená, že jej student zkontroloval. Kliknutím na vysvětlení zobrazíš, proč je důležitý.</p></div>
+<div id="checklists"></div>
+<section class="signoff"><h2>Závěrečné potvrzení</h2><p>Provozní rozhodnutí, skutečné povolení letu a finální kontrola letadla nejsou výsledkem zaškrtání tohoto seznamu.</p>
+<div class="fields"><label>Podpis / potvrzení pilota<input name="signature" placeholder="Jméno a datum"></label><label>Kontrola instruktorem (volitelně)<input name="instructorSign" placeholder="Jméno a datum"></label></div></section>
+<section class="actions no-print">
+<p id="saveStatus" class="status" role="status">Údaje se ukládají lokálně v tomto prohlížeči.</p>
+<button type="button" id="printFilled" class="primary">Tisk / uložit jako PDF</button>
+<button type="button" id="printBlank">Vytisknout prázdný checklist</button>
+<button type="button" id="clearAll" class="danger">Vymazat přípravu</button>
+</section>
+<footer>Výukový materiál · Autor: <strong>Petr Randa</strong> · <a href="mailto:petr.randa@gmail.com">petr.randa@gmail.com</a><span class="print-date" id="printDate"></span>
+<p>Zdroje: SERA.2010, EASA Part-NCO (NCO.OP.135 / NCO.GEN.105). Pro konkrétní let použij aktuální AIP, NOTAM, provozní požadavky a AFM/POH.</p></footer>
+</main><script src="./preflight-data.js?v=1"></script><script src="./preflight.js?v=1"></script></body></html>

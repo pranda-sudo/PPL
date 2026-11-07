@@ -240,7 +240,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 3,
       "id": "komunikace-p3-13",
-      "explanation": "QDR označuje magnetický směr OD radiové stanice k letadlu. Opačný magnetický směr KE stanici je QDM; zeměpisné směry se označují jinými Q-kódy."
+      "explanation": "QDR je magnetický směrník OD zaměřovací stanice k letadlu, měřený od magnetického severu. Zapamatuj si dvojici: QDR = od stanice, QDM = ke stanici. Například QDR 090° znamená, že letadlo leží magneticky na východ od stanice; opačný QDM je přibližně 270°. QTE a QUJ používají zeměpisný, nikoli magnetický sever."
     },
     {
       "sourceNumber": "14",
@@ -257,7 +257,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 3,
       "id": "komunikace-p3-14",
-      "explanation": "QUJ označuje zeměpisný (pravý) směr KE stanici. Na rozdíl od magnetického QDM se vztahuje k zeměpisnému severu; QTE je pravý směr OD stanice."
+      "explanation": "QUJ je zeměpisný (pravý) směrník KE stanici, měřený od zeměpisného severu. Jeho magnetickou obdobou je QDM. Opačný zeměpisný směrník OD stanice je QTE. Rozlišení magnetického a zeměpisného severu je důležité kvůli magnetické deklinaci."
     },
     {
       "sourceNumber": "15",
@@ -274,7 +274,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 3,
       "id": "komunikace-p3-15",
-      "explanation": "QTE je zeměpisný (pravý) směr OD stanice. Liší se od QDR, který je rovněž směr od stanice, ale magnetický; opačný pravý směr ke stanici označuje QUJ."
+      "explanation": "QTE je zeměpisný (pravý) směrník OD stanice, tedy směr od zeměpisného severu ke směru stanice–letadlo. Magnetická obdoba je QDR. Opačný pravý směr KE stanici je QUJ. Rozdíl mezi QTE a QDR vyplývá z magnetické deklinace."
     },
     {
       "sourceNumber": "16",
@@ -427,7 +427,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 5,
       "id": "komunikace-p5-24",
-      "explanation": "Žádost o QDM se týká radiového zaměřování, jehož zprávy mají podle pořadí priorit přednost před běžnými zprávami o bezpečnosti letu, jako jsou pokyny k zatáčení nebo údaje o QNH a větru. V konkrétní mimořádné situaci má ovšem přednost tísňový a pilnostní provoz."
+      "explanation": "Radiotelefonní provoz má stanovené pořadí priorit: tíseň, pilnost, radiové zaměřování, zprávy týkající se bezpečnosti letu a další provozní zprávy. Žádost o QDM je žádostí o magnetický směr ke stanici a patří mezi zprávy radiového zaměřování. Proto má v uvedené nabídce přednost před běžnými pokyny či meteorologickými údaji; před tísní nebo pilností by ale přednost neměla."
     },
     {
       "sourceNumber": "25",
@@ -512,7 +512,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 6,
       "id": "komunikace-p6-29",
-      "explanation": "U frekvencí se musí vyslovit dostatečný počet číslic pro jednoznačnou identifikaci kanálu. U 119,500 MHz je v uvedeném testu správná zkrácená podoba „jedna jedna devět čárka pět“; v praxi je nutné respektovat platné postupy pro 8,33kHz kanály a případnou potřebu úplného označení."
+      "explanation": "Při vysílání frekvence se číslice říkají jednoznačně po jednotlivých číslicích; v této testové otázce je pro 119,500 MHz přijatá zkrácená podoba „jedna jedna devět čárka pět“. Nuly na konci se v příslušných případech mohou vynechat, pokud tím nevznikne nejasnost. U kanálů s rozestupem 8,33 kHz je však nutné používat přesné přidělené označení kanálu, nikoli automaticky zkracovat."
     },
     {
       "sourceNumber": "30",
@@ -801,7 +801,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 10,
       "id": "komunikace-p10-46",
-      "explanation": "Pilot smí použít zkrácený volací znak až poté, co jej takto použila pozemní stanice. Předčasné zkrácení může vést k záměně dvou podobných značek na stejné frekvenci."
+      "explanation": "Zkrácení volacího znaku smí pilot převzít teprve poté, co jej použije příslušná pozemní stanice. Například D-EAZF může být zkráceno na DZF, ale při prvním navázání spojení se použije úplná značka. Pokud by hrozila záměna s jiným letadlem, zkrácený znak se nepoužívá."
     },
     {
       "sourceNumber": "47",
@@ -920,7 +920,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 11,
       "id": "komunikace-p11-54",
-      "explanation": "Údaj o větru je zpravidla informací, kterou není nutné doslovně opakovat. Naproti tomu povolení k vzletu/přistání, dráha v používání, kód odpovídače a bezpečnostně významné instrukce vyžadují odpovídající zpětné potvrzení."
+      "explanation": "Informaci o větru pilot zpravidla nemusí doslovně číst zpět: jde o sdělení meteorologických podmínek, nikoli o pokyn měnící povolení. Naopak bezpečnostně důležité části povolení, zejména povolení ke vzletu nebo přistání, číslo dráhy, přidělené výšky a kurzy či kód odpovídače, vyžadují odpovídající zpětné potvrzení, aby řídící mohl odhalit přeslechnutí."
     },
     {
       "sourceNumber": "55",
@@ -954,7 +954,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 12,
       "id": "komunikace-p12-56",
-      "explanation": "Zpětné potvrzení musí zahrnovat stoupání na 2500 ft, následnou pravou zatáčku na kurz 220, dráhu 12 a povolení ke vzletu. Vítr 090°/5 kt je doplňující informace a nemusí se opakovat. Správná varianta proto obsahuje bezpečnostně významné pokyny bez údaje o větru."
+      "explanation": "Při zpětném potvrzení (readback) musí pilot zopakovat všechny bezpečnostně významné části pokynu: po odpoutání stoupat přímo do 2 500 ft, poté zatočit doprava na kurz 220°, dráha 12 a vzlet povolen. Vítr 090° o rychlosti 5 kt je pouze doplňující meteorologická informace a v tomto případě se neopakuje. Smyslem readbacku je umožnit řídícímu ověřit, že pilot správně pochopil povolení a dráhu."
     },
     {
       "sourceNumber": "57",
@@ -988,7 +988,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 12,
       "id": "komunikace-p12-58",
-      "explanation": "Zpětné potvrzení zahrnuje přidělený kód odpovídače 4321 i frekvenci 131,325 MHz. Pouhé „rozumím“ by nepotvrdilo správnost obou bezpečnostně důležitých údajů."
+      "explanation": "„Squawk 4321“ znamená nastavit na odpovídači SSR čtyřmístný kód 4321. Zároveň pilot dostal pokyn přeladit na Bremen Radar 131,325 MHz. Správné potvrzení musí zahrnovat jak kód odpovídače, tak frekvenci; pouhé „rozumím“ by neumožnilo odhalit přeslechnutou číslici. Při skutečném provozu se uvádí i volací znak podle platné frazeologie."
     },
     {
       "sourceNumber": "59",
@@ -1175,7 +1175,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 15,
       "id": "komunikace-p15-73",
-      "explanation": "Kód odpovídače 7600 je mezinárodní signál poruchy radiového spojení. Kód 7700 označuje obecnou nouzi a 7500 protiprávní zásah; samotný vstup do oblačnosti není důvodem pro 7600."
+      "explanation": "Kód SSR 7600 upozorňuje stanoviště ATS na poruchu radiového spojení. Pomůcka: 7500 = protiprávní zásah, 7600 = ztráta radiového spojení, 7700 = všeobecná nouze. Nastavení 7600 nenahrazuje pokusy obnovit spojení ani dodržení publikovaných postupů při jeho ztrátě."
     },
     {
       "sourceNumber": "74",
@@ -1192,7 +1192,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 15,
       "id": "komunikace-p15-74",
-      "explanation": "Při poruše spojení za VFR v řízeném prostoru je třeba dodržet příslušné postupy pro ztrátu spojení a nepředpokládat nové povolení. Testová odpověď uvádí pokračování podle posledního povolení a pravidel VFR nebo co nejrychlejší opuštění prostoru; konkrétní postup vždy závisí také na publikovaných místních pravidlech a situaci."
+      "explanation": "Při ztrátě obousměrného radiového spojení za VFR ve třídě D nelze předpokládat, že řídící slyší další hlášení nebo že vydal nové povolení. Testová varianta proto uvádí pokračování v souladu s posledním povolením a pravidly VFR, případně opuštění řízeného prostoru co nejkratší vhodnou cestou. Současně je třeba pokusit se obnovit spojení, použít příslušný postup a nastavit SSR 7600, je-li odpovídač k dispozici. V reálném letu mají přednost aktuální publikované postupy a bezpečné řešení konkrétní situace."
     },
     {
       "sourceNumber": "75",
@@ -1226,7 +1226,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 16,
       "id": "komunikace-p16-76",
-      "explanation": "Pilnostní radiotelefonní volání se zahajuje třikrát opakovaným „PAN PAN“. „MAYDAY“ je vyhrazeno pro tíseň, tedy bezprostřední vážné ohrožení s potřebou okamžité pomoci."
+      "explanation": "„PAN PAN“ se při zahájení pilnostní zprávy vysloví třikrát. Používá se, když je nutné naléhavě řešit bezpečnost letadla nebo osoby, ale nejde o vážné a bezprostřední ohrožení vyžadující okamžitou pomoc. Pro takovou tíseň se používá třikrát „MAYDAY“. Obě zprávy mají vyšší prioritu než běžný provoz."
     },
     {
       "sourceNumber": "77",
@@ -1277,7 +1277,7 @@
       "sourceFile": "Komunikace.pdf",
       "page": 16,
       "id": "komunikace-p16-79",
-      "explanation": "Úvodní tísňové volání se zpravidla vysílá na právě používané frekvenci, protože na ní pilot již komunikuje se stanovištěm schopným zajistit pomoc. Nouzová frekvence 121,500 MHz je důležitá alternativa, pokud spojení na stávající frekvenci nefunguje."
+      "explanation": "Tísňové volání MAYDAY se zahajuje zpravidla na frekvenci, kterou pilot právě používá: na této frekvenci je největší šance, že jej okamžitě uslyší příslušné stanoviště. Pokud spojení nefunguje, lze zkusit například mezinárodní tísňovou frekvenci 121,500 MHz. Prioritou je co nejrychleji předat povahu tísně, polohu, úmysl pilota a další podstatné informace."
     },
     {
       "sourceNumber": "84",

@@ -18332,7 +18332,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-87"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-87",
+      "explanation": "Skutečná nadmořská výška je reálná výška nad střední hladinou moře. Barometrická indikace se od ní může lišit zejména při nestandardní teplotě a tlaku; pro přesnější odhad je nutná korekce."
     },
     {
       "sourceNumber": "88",
@@ -18348,7 +18349,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-88"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-88",
+      "explanation": "V chladnějším než standardním vzduchu jsou tlakové hladiny blíže u sebe. Barometrický výškoměr proto může ukazovat větší výšku, než je skutečná: pozor na nedostatečnou výšku nad terénem."
     },
     {
       "sourceNumber": "89",
@@ -18364,7 +18366,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-89"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p18-89",
+      "explanation": "Při standardním teplotním průběhu atmosféry a správném QNH barometrický výškoměr přibližně odpovídá skutečné nadmořské výšce. V praxi existují i další chyby měření."
     },
     {
       "sourceNumber": "90",
@@ -18380,7 +18383,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-90"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-90",
+      "explanation": "Hystereze aneroidních kapslí znamená, že jejich deformace může záviset na předchozí změně tlaku. Výškoměr pak může při stoupání a klesání vykazovat rozdílnou indikaci."
     },
     {
       "sourceNumber": "91",
@@ -18396,7 +18400,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-91"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-91",
+      "explanation": "Barometrický výškoměr využívá statický tlak, který s rostoucí výškou klesá. Mechanismus přístroje převádí tlak na údaj výšky podle modelu standardní atmosféry."
     },
     {
       "sourceNumber": "92",
@@ -18412,7 +18417,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-92"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-92",
+      "explanation": "Variometr porovnává okamžitý statický tlak s tlakem ve vyrovnávací komoře, jenž se mění se zpožděním. Z tlakového rozdílu odvozuje rychlost stoupání či klesání."
     },
     {
       "sourceNumber": "93",
@@ -18428,7 +18434,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-93"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-93",
+      "explanation": "Variometr využívá rozdíl mezi okamžitým statickým tlakem a jeho zpožděnou hodnotou ve vyrovnávací komoře. Neměří rozdíl dynamických tlaků."
     },
     {
       "sourceNumber": "94",
@@ -18444,7 +18451,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-94"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p19-94",
+      "explanation": "CAS je indikovaná rychlost IAS opravená o přístrojovou a polohovou chybu. Pro převod na skutečnou vzdušnou rychlost TAS je nutné zohlednit také hustotu vzduchu."
     },
     {
       "sourceNumber": "95",
@@ -18460,7 +18468,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-95"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-95",
+      "explanation": "Orientační pravidlo říká, že TAS ve standardní atmosféře roste oproti CAS přibližně o 2 % na každých 1 000 ft výšky. Jde pouze o přibližný odhad."
     },
     {
       "sourceNumber": "96",
@@ -18508,7 +18517,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-98"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-98",
+      "explanation": "Červená barva na letových přístrojích označuje mezní hodnoty nebo nebezpečné provozní stavy. Přesný význam určuje označení přístroje a letová příručka."
     },
     {
       "sourceNumber": "99",
@@ -18524,7 +18534,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-99"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p20-99",
+      "explanation": "Rychloměr vyhodnocuje rozdíl mezi celkovým tlakem z Pitotovy trubice a statickým tlakem. Tento rozdíl odpovídá dynamickému tlaku vzduchu."
     },
     {
       "sourceNumber": "100",
@@ -18540,7 +18551,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-100"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-100",
+      "explanation": "Červená čára rychloměru označuje nepřekročitelnou rychlost VNE. Překročení může způsobit konstrukční nebo aerodynamické poškození."
     },
     {
       "sourceNumber": "101",
@@ -18556,7 +18568,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-101"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-101",
+      "explanation": "Deviace kompasu vzniká působením magnetických polí samotného letadla. Není totožná s deklinací, tedy rozdílem mezi zeměpisným a magnetickým severem."
     },
     {
       "sourceNumber": "102",
@@ -18572,7 +18585,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-102"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-102",
+      "explanation": "Magnetický kompas může kromě deviace vykazovat také chyby při zatáčení a zrychlování, zejména kvůli inklinaci zemského magnetického pole."
     },
     {
       "sourceNumber": "103",
@@ -18588,7 +18602,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-103"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-103",
+      "explanation": "Pitotova trubice poskytuje celkový tlak rychloměru. Výškoměr a variometr jsou napojeny na statický tlak."
     },
     {
       "sourceNumber": "104",
@@ -18604,7 +18619,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-104"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p21-104",
+      "explanation": "Statický tlak využívá rychloměr, výškoměr i variometr. Rychloměr jej navíc porovnává s celkovým tlakem z Pitotovy trubice."
     },
     {
       "sourceNumber": "105",
@@ -18636,7 +18652,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-106"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-106",
+      "explanation": "Statický tlak je tlak okolního vzduchu bez dynamické složky vyvolané jeho prouděním vůči letadlu. Odebírá se na vhodně umístěném statickém otvoru."
     },
     {
       "sourceNumber": "107",
@@ -18668,7 +18685,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-108"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-108",
+      "explanation": "Dynamický tlak je q = ½ρV², tedy závisí na hustotě vzduchu a druhé mocnině rychlosti proudění. Při dvojnásobné rychlosti je čtyřnásobný."
     },
     {
       "sourceNumber": "109",
@@ -18684,7 +18702,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-109"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p22-109",
+      "explanation": "Akcelerační a decelerační chyby magnetického kompasu souvisejí s inklinací zemského magnetického pole a setrvačností magnetické soustavy."
     },
     {
       "sourceNumber": "110",
@@ -18700,7 +18719,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-110"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-110",
+      "explanation": "Volně uložený rotující gyroskop má díky momentu hybnosti tendenci zachovávat orientaci své osy v prostoru. Této vlastnosti využívají gyroskopické přístroje."
     },
     {
       "sourceNumber": "111",
@@ -18716,7 +18736,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-111"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-111",
+      "explanation": "Při působení momentu na rotující gyroskop vzniká precese, jejíž reakce se u ideálního gyroskopu projevuje přibližně o 90° dále ve směru otáčení."
     },
     {
       "sourceNumber": "112",
@@ -18732,7 +18753,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-112"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-112",
+      "explanation": "Standardní zatáčka o 360° za dvě minuty odpovídá úhlové rychlosti 3° za sekundu. Potřebný úhel náklonu roste s pravou vzdušnou rychlostí."
     },
     {
       "sourceNumber": "113",
@@ -18748,7 +18770,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-113"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p23-113",
+      "explanation": "Zatáčkoměr ukazuje úhlovou rychlost zatáčení a kulička sklonoměru signalizuje skluz nebo výkluz. Jejich společné použití pomáhá udržovat koordinovanou zatáčku."
     },
     {
       "sourceNumber": "114",
@@ -18780,7 +18803,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-115"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-115",
+      "explanation": "Oranžové či jantarové výstražné světlo obvykle označuje stav vyžadující pozornost a případný nápravný zásah. Konkrétní význam závisí na systému vrtulníku."
     },
     {
       "sourceNumber": "116",
@@ -18796,7 +18820,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-116"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-116",
+      "explanation": "Žlutá oblast rychloměru zpravidla upozorňuje na rozsah vyžadující zvýšenou opatrnost a omezení prudkých manévrů nebo letu v turbulenci."
     },
     {
       "sourceNumber": "117",
@@ -18828,7 +18853,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-118"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-118",
+      "explanation": "HSI je zkratka Horizontal Situation Indicator, česky indikátor horizontální situace. Spojuje údaj o směru s navigačními informacemi."
     },
     {
       "sourceNumber": "119",
@@ -18844,7 +18870,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-119"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p24-119",
+      "explanation": "HSI kombinuje směrovou referenci s navigačními údaji, například z VOR nebo ILS. Moderní provedení může používat také GPS."
     },
     {
       "sourceNumber": "120",
@@ -18860,7 +18887,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-120"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-120",
+      "explanation": "Při zvýšení barometrického nastavení výškoměru o 10 hPa se indikovaná výška zvýší přibližně o 270 ft, tedy asi o 80 m."
     },
     {
       "sourceNumber": "121",
@@ -18876,7 +18904,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-121"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-121",
+      "explanation": "Správné nastavení referenčního tlaku je třeba zkontrolovat před letem a aktualizovat během letu podle přechodových pravidel a dostupného QNH."
     },
     {
       "sourceNumber": "122",
@@ -18892,7 +18921,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-122"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-122",
+      "explanation": "Při nastavení QFE ukazuje výškoměr přibližnou výšku nad referenčním bodem letiště; v tomto bodě ukazuje nulu. Nejde automaticky o výšku nad terénem pod vrtulníkem."
     },
     {
       "sourceNumber": "123",
@@ -18908,7 +18938,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-123"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-123",
+      "explanation": "Variometr porovnává okamžitý statický tlak s jeho zpožděnou hodnotou ve vyrovnávací komoře. Z rozdílu určuje vertikální rychlost."
     },
     {
       "sourceNumber": "124",
@@ -18924,7 +18955,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-124"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p25-124",
+      "explanation": "Magnetická inklinace je úhel mezi siločárami zemského magnetického pole a vodorovnou rovinou. Má vliv na chyby magnetického kompasu."
     },
     {
       "sourceNumber": "125",
@@ -18972,7 +19004,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p26-127"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p26-127",
+      "explanation": "Motorový olej maže pohyblivé části, odvádí část tepla a pomáhá odnášet jemné nečistoty a otěr. Jeho tlak a teplota jsou důležitými provozními údaji."
     },
     {
       "sourceNumber": "1",

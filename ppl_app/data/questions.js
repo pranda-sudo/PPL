@@ -35,7 +35,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-1"
+      "id": "komunikace-p1-1",
+      "explanation": "Vysílání naslepo se používá, když se nepodaří navázat obousměrné spojení a pilot nemá potvrzení příjmu. Pilot předává důležité informace i bez odpovědi stanice; nejde o běžné nahrazení povinného rádiového spojení."
     },
     {
       "sourceNumber": "2",
@@ -51,7 +52,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-2"
+      "id": "komunikace-p1-2",
+      "explanation": "Řídící stanoviště potřebuje vědět, že letadlo nadále poslouchá přidělenou frekvenci. Proto se pilot z řídící frekvence nepřelaďuje svévolně; změnu musí schválit ATC, s výjimkami podle provozní situace a postupů."
     },
     {
       "sourceNumber": "3",
@@ -67,7 +69,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-3"
+      "id": "komunikace-p1-3",
+      "explanation": "ABM znamená „abeam“, česky „na úrovni“ nebo „na traverzu“. Používá se, když je bod přibližně kolmo na směr letu vedle letadla, například „abeam threshold“."
     },
     {
       "sourceNumber": "4",
@@ -83,7 +86,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-4"
+      "id": "komunikace-p1-4",
+      "explanation": "VFR je zkratka z anglického Visual Flight Rules, tedy pravidla letu za viditelnosti. Nezaměňuj ji s VMC: VMC jsou meteorologické podmínky pro let za viditelnosti, zatímco VFR označuje pravidla letu."
     },
     {
       "sourceNumber": "5",
@@ -99,7 +103,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-5"
+      "id": "komunikace-p1-5",
+      "explanation": "OBST je letecká zkratka pro obstruction, tedy překážku. V leteckých informacích může označovat objekt, který je významný z hlediska bezpečné výšky letu."
     },
     {
       "sourceNumber": "6",
@@ -115,7 +120,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-6"
+      "id": "komunikace-p2-6",
+      "explanation": "FIS znamená Flight Information Service – letová informační služba. Poskytuje informace užitečné pro bezpečné a efektivní provedení letu, například o provozu nebo počasí; sama o sobě nenahrazuje službu řízení letového provozu."
     },
     {
       "sourceNumber": "7",
@@ -131,7 +137,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-7"
+      "id": "komunikace-p2-7",
+      "explanation": "FIR znamená Flight Information Region – letová informační oblast. Jde o vymezený vzdušný prostor, v němž se poskytuje letová informační a pohotovostní služba."
     },
     {
       "sourceNumber": "8",
@@ -147,7 +154,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-8"
+      "id": "komunikace-p2-8",
+      "explanation": "H24 v leteckých publikacích označuje nepřetržitou dostupnost služby po 24 hodin denně. Není to označení konkrétního času zahájení provozu."
     },
     {
       "sourceNumber": "9",
@@ -163,7 +171,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-9"
+      "id": "komunikace-p2-9",
+      "explanation": "HX označuje provozní dobu bez pevně stanovených hodin. Aktuální dostupnost je proto nutné zjistit z příslušných publikovaných informací nebo u provozovatele."
     },
     {
       "sourceNumber": "10",
@@ -179,7 +188,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-10"
+      "id": "komunikace-p2-10",
+      "explanation": "QFE je tlak vztažený k referenčnímu bodu letiště. Výškoměr nastavený na QFE ukazuje na tomto referenčním bodě přibližně nulu; během letu pak indikuje výšku vůči této tlakové hladině."
     },
     {
       "sourceNumber": "11",
@@ -195,7 +205,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-11"
+      "id": "komunikace-p3-11",
+      "explanation": "QNH je nastavení tlaku přepočteného na střední hladinu moře. Výškoměr s QNH ukazuje nadmořskou výšku (altitude); na letišti má přibližně ukazovat publikovanou nadmořskou výšku letiště."
     },
     {
       "sourceNumber": "12",
@@ -211,7 +222,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-12"
+      "id": "komunikace-p3-12",
+      "explanation": "Při nastavení QFE výškoměr ukazuje výšku nad tlakovou hladinou referenčního bodu letiště. Na tomto bodě tedy ukazuje přibližně 0, na rozdíl od QNH, které vyjadřuje nadmořskou výšku."
     },
     {
       "sourceNumber": "13",
@@ -227,7 +239,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-13"
+      "id": "komunikace-p3-13",
+      "explanation": "QDR je magnetický směrník OD stanice. V případě VOR radiál vyjadřuje právě magnetický směr od stanice k letadlu; QDM označuje opačný směr KE stanici."
     },
     {
       "sourceNumber": "14",
@@ -243,7 +256,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-14"
+      "id": "komunikace-p3-14",
+      "explanation": "QUJ je zeměpisný (pravý) směrník KE stanici. Na rozdíl od QDM, který je magnetický, se vztahuje k zeměpisnému severu."
     },
     {
       "sourceNumber": "15",
@@ -259,7 +273,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-15"
+      "id": "komunikace-p3-15",
+      "explanation": "QTE označuje zeměpisný (pravý) směrník OD stanice. Rozdíl oproti QDR je v referenčním severu: QTE je pravý, QDR magnetický."
     },
     {
       "sourceNumber": "16",
@@ -275,7 +290,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-16"
+      "id": "komunikace-p4-16",
+      "explanation": "QDR je magnetický směrník OD stanice. Pomůcka: QDR = směr od radiomajáku; QDM = směr ke stanici. Při použití skutečných údajů je třeba rozlišovat magnetický a zeměpisný sever."
     },
     {
       "sourceNumber": "17",
@@ -25557,5 +25573,4 @@ window.PPL_QUESTIONS = {
       "id": "6-provozni-postupy-vrtulnik-p8-40"
     }
   ]
-}
-;
+};

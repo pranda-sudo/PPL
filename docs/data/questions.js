@@ -7347,7 +7347,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-1-p15-75"
+      "id": "3-meteorologie-letoun-1-p15-75",
+      "explanation": "V teplém sektoru frontální cyklony se v létě může vyskytovat proměnlivá vrstevnatá či roztrhaná oblačnost a střední až dobrá dohlednost. Skutečné podmínky však závisí na vlhkosti a místním počasí."
     },
     {
       "sourceNumber": "76",
@@ -7363,7 +7364,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-76"
+      "id": "3-meteorologie-letoun-1-p16-76",
+      "explanation": "Za studenou frontou často proniká chladnější a sušší vzduch, takže se mezi přeháňkami dohlednost zlepšuje. Nestabilita může vytvářet kupovitou oblačnost a přeháňky."
     },
     {
       "sourceNumber": "77",
@@ -7379,7 +7381,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-77"
+      "id": "3-meteorologie-letoun-1-p16-77",
+      "explanation": "Stacionární fronta odděluje dvě vzduchové hmoty, aniž by se frontální rozhraní výrazně posouvalo. Může přitom přetrvávat oblačnost a srážky."
     },
     {
       "sourceNumber": "78",
@@ -7411,7 +7414,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-79"
+      "id": "3-meteorologie-letoun-1-p16-79",
+      "explanation": "Před teplou frontou tlak zpravidla klesá, v teplém sektoru bývá jeho vývoj méně výrazný a po přechodu studené fronty často stoupá. Jde o typický, nikoli bezvýjimečný průběh."
     },
     {
       "sourceNumber": "80",
@@ -7427,7 +7431,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-80"
+      "id": "3-meteorologie-letoun-1-p16-80",
+      "explanation": "Před studenou frontou tlak často klesá nebo je nízký. Po přechodu fronty se s nástupem chladnější vzduchové hmoty obvykle zvyšuje."
     },
     {
       "sourceNumber": "81",
@@ -7459,7 +7464,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-82"
+      "id": "3-meteorologie-letoun-1-p17-82",
+      "explanation": "Subtropické oblasti vysokého tlaku se nacházejí přibližně kolem 30° severní a jižní šířky. Souvisí se sestupnou větví Hadleyovy cirkulace."
     },
     {
       "sourceNumber": "83",
@@ -7475,7 +7481,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-83"
+      "id": "3-meteorologie-letoun-1-p17-83",
+      "explanation": "V letní tlakové výši bývá při sestupném proudění oblačnosti méně. Denní prohřívání země ale může vyvolat lokální kupovitou oblačnost typu cumulus."
     },
     {
       "sourceNumber": "84",
@@ -7507,7 +7514,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-85"
+      "id": "3-meteorologie-letoun-1-p17-85",
+      "explanation": "Příliv chladnějšího vzduchu ve výšce zvětšuje vertikální teplotní gradient a může destabilizovat atmosféru. Při dostatečné vlhkosti tak podporuje přeháňky a bouřky."
     },
     {
       "sourceNumber": "86",
@@ -7523,7 +7531,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-86"
+      "id": "3-meteorologie-letoun-1-p18-86",
+      "explanation": "Studený vzduch má menší průměrnou teplotu sloupce, a proto jsou při daném rozdílu tlaků tlakové hladiny blíže k sobě. Výškové tlakové plochy se v chladné oblasti snižují."
     },
     {
       "sourceNumber": "87",
@@ -7539,7 +7548,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-87"
+      "id": "3-meteorologie-letoun-1-p18-87",
+      "explanation": "Výšková brázda nízkého tlaku často souvisí s chladnějším vzduchem a dynamickým výstupem. Při dostatečné vlhkosti může podpořit vývoj kupovité oblačnosti, přeháněk a bouřek."
     },
     {
       "sourceNumber": "88",
@@ -7555,7 +7565,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-88"
+      "id": "3-meteorologie-letoun-1-p18-88",
+      "explanation": "Polární fronta je přechodová oblast mezi polární a teplejší subtropickou vzduchovou hmotou. Ve středních zeměpisných šířkách na ní vznikají četné frontální cyklony."
     },
     {
       "sourceNumber": "89",
@@ -7571,7 +7582,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-89"
+      "id": "3-meteorologie-letoun-1-p18-89",
+      "explanation": "Sestupné proudění v tlakové výši potlačuje vývoj rozsáhlé oblačnosti. V létě proto často převládá klidnější počasí, i když se mohou vytvářet místní kupy."
     },
     {
       "sourceNumber": "90",
@@ -7587,7 +7599,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-90"
+      "id": "3-meteorologie-letoun-1-p18-90",
+      "explanation": "Velké vzdálenosti mezi izobarami znamenají slabý horizontální tlakový gradient. V létě proto mohou převládnout místní větry vznikající rozdílným ohříváním povrchu."
     },
     {
       "sourceNumber": "91",
@@ -7603,7 +7616,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-91"
+      "id": "3-meteorologie-letoun-1-p19-91",
+      "explanation": "V zimní tlakové výši se při slabém větru a dlouhých nocích často vytváří přízemní inverze. Pod ní může přetrvávat mlha nebo nízká vrstevnatá oblačnost."
     },
     {
       "sourceNumber": "92",
@@ -7619,7 +7633,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-92"
+      "id": "3-meteorologie-letoun-1-p19-92",
+      "explanation": "Čím větší je vzdálenost izobar, tím menší bývá tlakový gradient a tím slabší geostrofický vítr. Za slabého synoptického proudění se mohou uplatnit místní větrné systémy."
     },
     {
       "sourceNumber": "93",
@@ -7635,7 +7650,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-93"
+      "id": "3-meteorologie-letoun-1-p19-93",
+      "explanation": "Na návětrné straně pohoří je vzduch nucen stoupat, ochlazuje se a může vytvářet rozsáhlou oblačnost a srážky. Na závětrné straně se při fénu vzduch naopak otepluje a vysušuje."
     },
     {
       "sourceNumber": "94",
@@ -7667,7 +7683,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-95"
+      "id": "3-meteorologie-letoun-1-p19-95",
+      "explanation": "Bora je prudký studený nárazový vítr, který sestupuje z horského pobřeží směrem k Jaderskému moři. Vzniká při proudění studeného vzduchu přes pobřežní horskou bariéru."
     },
     {
       "sourceNumber": "96",
@@ -7683,7 +7700,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-96"
+      "id": "3-meteorologie-letoun-1-p20-96",
+      "explanation": "Námraza vzniká při zachycování podchlazených vodních kapek na povrchu letadla. Zvlášť nebezpečné jsou podmínky v oblacích poblíž bodu mrazu, kdy se může rychle tvořit výrazná vrstva ledu."
     },
     {
       "sourceNumber": "97",
@@ -7699,7 +7717,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-97"
+      "id": "3-meteorologie-letoun-1-p20-97",
+      "explanation": "V rozmezí přibližně 0 až −12 °C se mohou v oblacích vyskytovat podchlazené kapalné kapky, které při nárazu namrzají. Námraza je však možná i při nižších teplotách."
     },
     {
       "sourceNumber": "98",
@@ -7715,7 +7734,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-98"
+      "id": "3-meteorologie-letoun-1-p20-98",
+      "explanation": "Drobné podchlazené kapky při nárazu rychle zmrznou a vytvářejí neprůhlednou drsnou zrnitou námrazu. Ta mění tvar profilu a zhoršuje jeho aerodynamické vlastnosti."
     },
     {
       "sourceNumber": "99",
@@ -7731,7 +7751,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-99"
+      "id": "3-meteorologie-letoun-1-p20-99",
+      "explanation": "Větší podchlazené kapky se po nárazu mohou před zmrznutím rozlévat po povrchu. Vzniká hladší, hutnější a často velmi nebezpečná průhledná námraza."
     },
     {
       "sourceNumber": "1",
@@ -7779,7 +7800,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-1-p21-102"
+      "id": "3-meteorologie-letoun-1-p21-102",
+      "explanation": "Pro vznik bouřky z tepla je důležitá dostatečná vlhkost, nestabilní nebo podmíněně nestabilní zvrstvení a mechanismus, který vzduch vyzdvihne do hladiny volné konvekce."
     },
     {
       "sourceNumber": "103",
@@ -7795,7 +7817,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-1-p21-103"
+      "id": "3-meteorologie-letoun-1-p21-103",
+      "explanation": "Ve zralém stadiu bouřky současně existují silné výstupné i sestupné proudy. Srážky a jejich odpařování podporují sestupné proudění a nebezpečný střih větru."
     },
     {
       "sourceNumber": "104",
@@ -7811,7 +7834,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-1-p21-104"
+      "id": "3-meteorologie-letoun-1-p21-104",
+      "explanation": "Ve vývojovém stadiu kupovitého oblaku převládají výstupné proudy, které přivádějí teplý vlhký vzduch do rostoucího oblaku. Výrazné sestupné proudy se typicky rozvíjejí později."
     },
     {
       "sourceNumber": "105",
@@ -7827,7 +7851,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-1-p21-105"
+      "id": "3-meteorologie-letoun-1-p21-105",
+      "explanation": "Úder blesku může způsobit lokální extrémní zahřátí, propálení nebo poškození povrchu a elektrických systémů letadla. Rozsah následků závisí na konstrukci a místě zásahu."
     },
     {
       "sourceNumber": "106",
@@ -7843,7 +7868,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-1-p22-106"
+      "id": "3-meteorologie-letoun-1-p22-106",
+      "explanation": "Silné bouřkové sestupné proudy mohou po dopadu na zem vytvářet prudké změny směru i rychlosti větru. V blízkosti intenzivních srážek proto hrozí nebezpečný střih větru a microburst."
     },
     {
       "sourceNumber": "107",
@@ -7859,7 +7885,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-1-p22-107"
+      "id": "3-meteorologie-letoun-1-p22-107",
+      "explanation": "Húlava je náhlé výrazné zesílení větru často spojené s postupující hranicí studeného výtoku z bouřky. Doprovázet ji mohou prudké nárazy a změny směru větru."
     },
     {
       "sourceNumber": "108",
@@ -7875,7 +7902,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-1-p22-108"
+      "id": "3-meteorologie-letoun-1-p22-108",
+      "explanation": "Při stoupání přes přízemní inverzi může letadlo vstoupit do vrstvy s jinou rychlostí nebo směrem větru. Náhlá změna protivětru může snížit indikovanou rychlost a zhoršit stoupavost."
     },
     {
       "sourceNumber": "109",
@@ -7891,7 +7919,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-1-p22-109"
+      "id": "3-meteorologie-letoun-1-p22-109",
+      "explanation": "Při silném proudění přes horský hřeben mohou v údolí vznikat závětrné víry, turbulence a výrazný střih větru. Směr proudění se může na krátké vzdálenosti prudce měnit."
     },
     {
       "sourceNumber": "110",
@@ -7907,7 +7936,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 22,
-      "id": "3-meteorologie-letoun-1-p22-110"
+      "id": "3-meteorologie-letoun-1-p22-110",
+      "explanation": "Atmosférický zákal tvoří převážně drobné suché částice, například prach nebo aerosoly. Na rozdíl od mlhy není jeho vznik přímo podmíněn ochlazením vzduchu k rosnému bodu."
     },
     {
       "sourceNumber": "111",
@@ -7923,7 +7953,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-1-p23-111"
+      "id": "3-meteorologie-letoun-1-p23-111",
+      "explanation": "Synoptická mapa zobrazuje rozložení tlaku, izobary, tlakové výše a níže a polohu front. Pomáhá odhadnout rozsáhlé proudění a vývoj počasí."
     },
     {
       "sourceNumber": "112",
@@ -7939,7 +7970,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-1-p23-112"
+      "id": "3-meteorologie-letoun-1-p23-112",
+      "explanation": "Přízemní synoptická mapa používá tlak přepočtený na hladinu moře, aby bylo možné porovnat měření ze stanic v různých nadmořských výškách. Zakreslují se na ni tlakové útvary a fronty."
     },
     {
       "sourceNumber": "113",
@@ -7955,7 +7987,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-1-p23-113"
+      "id": "3-meteorologie-letoun-1-p23-113",
+      "explanation": "Satelitní snímky ukazují rozložení a vývoj oblačnosti. Z její struktury a pohybu lze rozpoznávat frontální pásy i rozsáhlé meteorologické systémy."
     },
     {
       "sourceNumber": "114",
@@ -7971,7 +8004,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-1-p23-114"
+      "id": "3-meteorologie-letoun-1-p23-114",
+      "explanation": "Meteorologický radar zachycuje odrazy elektromagnetických vln od srážkových částic. Umožňuje sledovat polohu, intenzitu a pohyb oblastí deště, sněžení nebo krup."
     },
     {
       "sourceNumber": "115",
@@ -7987,7 +8021,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 23,
-      "id": "3-meteorologie-letoun-1-p23-115"
+      "id": "3-meteorologie-letoun-1-p23-115",
+      "explanation": "Mapa význačného počasí v nízkých hladinách zachycuje předpověď významných jevů pro let, například oblačnost, dohlednost a námrazu. Přímé radarové odrazy srážek patří do radarového zobrazení, nikoli do této předpovědní mapy."
     },
     {
       "sourceNumber": "116",
@@ -8003,7 +8038,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-1-p24-116"
+      "id": "3-meteorologie-letoun-1-p24-116",
+      "explanation": "Přízemní synoptická mapa zobrazuje analyzované tlakové pole přepočtené na hladinu moře včetně izobar a frontálních rozhraní. Slouží k posouzení rozsáhlé meteorologické situace."
     },
     {
       "sourceNumber": "117",

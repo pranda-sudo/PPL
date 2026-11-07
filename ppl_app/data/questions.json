@@ -15873,7 +15873,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-63"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-63",
+      "explanation": "Běžné zážehové letecké pístové motory mají dva nezávislé zapalovací okruhy, často se dvěma magnety a dvěma svíčkami na válec. Redundance zvyšuje spolehlivost a dvojí zapálení směsi může zlepšit spalování."
     },
     {
       "sourceNumber": 64,
@@ -15889,7 +15890,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-64"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-64",
+      "explanation": "Bohatá směs obsahuje vzhledem k množství vzduchu více paliva než stechiometrická směs. Obohacení se může používat při vysokém výkonu k chlazení, ale nadměrné obohacení snižuje účinnost a může zhoršit chod motoru."
     },
     {
       "sourceNumber": 65,
@@ -15923,7 +15925,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-66"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-66",
+      "explanation": "U klasického pístového motoru s vrtulí konstantních otáček se při zvyšování výkonu zpravidla nejprve zvýší nastavené otáčky ovladačem vrtule a potom plnicí tlak přípustí. Přednost mají limity a postupy v POH/AFM konkrétního letounu."
     },
     {
       "sourceNumber": 67,
@@ -15939,7 +15942,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-67"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-67",
+      "explanation": "Při snižování výkonu se u běžného systému nejprve sníží plnicí tlak přípustí a poté otáčky ovladačem vrtule. POZOR: v uloženém testu je jako správná označena možnost „snížit plnicí tlak, potom zvýšit otáčky“, která neodpovídá požadovanému snížení výkonu. Správný obecný postup je možnost s následným snížením otáček; rozhodující je AFM/POH."
     },
     {
       "sourceNumber": 68,
@@ -15955,7 +15959,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-68"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-68",
+      "explanation": "Bez přeplňování se s rostoucí výškou snižuje hustota nasávaného vzduchu. Do válců se při stejném objemu dostane méně kyslíku, takže lze spálit méně paliva a dostupný výkon klesá."
     },
     {
       "sourceNumber": "69",
@@ -15971,7 +15976,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69",
+      "explanation": "S rostoucí nadmořskou výškou klesá u nepřeplňovaného motoru hustota vzduchu, množství dostupného kyslíku i maximální výkon. Správné nastavení směsi může zlepšit využití dostupného výkonu, ale neobnoví tlak okolního vzduchu."
     },
     {
       "sourceNumber": 70,
@@ -15987,7 +15993,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-70"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-70",
+      "explanation": "Přepnutí magnet do OFF má při správném uzemnění obou zapalovacích okruhů přerušit zapalování, takže otáčky začnou klesat; po rychlém návratu na BOTH se obnoví. Taková kontrola se provádí jen přesně podle předepsaného postupu, protože hrozí nezapálené palivo ve výfuku."
     },
     {
       "sourceNumber": 71,
@@ -16003,7 +16010,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-71"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-71",
+      "explanation": "Mezi teplotní přístroje mohou patřit teploměr oleje, chladicí kapaliny, hlav válců (CHT), výfukových plynů (EGT), vnějšího vzduchu (OAT) a kabiny. Konkrétní vybavení závisí na typu motoru a letounu."
     },
     {
       "sourceNumber": 72,
@@ -16019,7 +16027,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-72"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-72",
+      "explanation": "Ukazatel množství paliva má být pro každou nádrž předepsanou pro použití za letu a nulová indikace odpovídá nevyčerpatelnému množství paliva při stanovených podmínkách. Nevyčerpatelný zbytek není bezpečně použitelná zásoba; palivo se před letem ověřuje i jinými předepsanými postupy."
     },
     {
       "sourceNumber": 73,
@@ -16035,7 +16044,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-73"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-73",
+      "explanation": "Tlakem pracují tlakoměry oleje a paliva, snímač plnicího tlaku, výškoměr (statický tlak), variometr (změna statického tlaku) a rychloměr (rozdíl celkového a statického tlaku). POZOR: označená možnost s magnetickým kompasem je chybná, protože kompas tlak neměří; správná je první možnost, byť uvádí plnicí tlak dvakrát jinými slovy."
     },
     {
       "sourceNumber": 74,
@@ -16051,7 +16061,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-74"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-74",
+      "explanation": "Pitot-statická soustava poskytuje celkový tlak z Pitotovy trubice a statický tlak ze statického odběru. Jejich rozdíl je dynamický tlak, z něhož rychloměr odvozuje indikovanou rychlost; statický tlak používají také výškoměr a variometr."
     },
     {
       "sourceNumber": 75,
@@ -16067,7 +16078,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-75"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-75",
+      "explanation": "Pitotova trubice orientovaná proti proudu vzduchu měří celkový (stagnační) tlak. Dynamický tlak se získá až odečtením statického tlaku: q = p_t − p_s."
     },
     {
       "sourceNumber": 76,
@@ -16083,7 +16095,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-76"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-76",
+      "explanation": "QFE je tlak vztažený k určené referenční úrovni letiště; výškoměr nastavený na QFE ukazuje na této úrovni přibližně nulu. Není to výška nad mořem a referenční bod je nutné znát."
     },
     {
       "sourceNumber": 77,
@@ -16099,7 +16112,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77",
+      "explanation": "Při nastavení standardního tlaku 1013,25 hPa ukazuje výškoměr tlakovou výšku; letové hladiny jsou vyjadřovány v násobcích 100 ft. Označení QNE se používá pro standardní nastavení / související tlakovou výšku, nikoli jako aktuální místní tlak."
     },
     {
       "sourceNumber": 78,
@@ -16115,7 +16129,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-78"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-78",
+      "explanation": "Pomocná barometrická stupnice (Kollsmanovo okénko) umožňuje nastavit referenční tlak, například QNH, QFE nebo standardních 1013,25 hPa. Sama neopravuje teplotní chybu výškoměru."
     },
     {
       "sourceNumber": "79",
@@ -16131,7 +16146,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79",
+      "explanation": "Při nastavení vyššího tlaku, než je skutečné QNH, ukazuje výškoměr větší výšku, než odpovídá správnému nastavení. Přibližně 1 hPa znamená 27 ft, takže chyba +10 hPa může způsobit nadhodnocení o asi 270 ft. Skutečná výška nad překážkami je pak menší, než pilot předpokládá."
     },
     {
       "sourceNumber": 80,
@@ -16147,7 +16163,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-80"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-80",
+      "explanation": "V chladnějším vzduchu než ISA jsou tlakové hladiny blíže u sebe. Výškoměr bez teplotní korekce proto může ukazovat větší výšku, než je skutečná: pravidlo „z tepla do zimy – pozor na výšku“."
     },
     {
       "sourceNumber": 81,
@@ -16163,7 +16180,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-81"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-81",
+      "explanation": "Letová hladina je hladina konstantního atmosférického tlaku vztažená ke standardnímu nastavení 1013,25 hPa. Například FL 75 odpovídá indikaci tlakové výšky 7500 ft při standardním nastavení, nikoli nutně 7500 ft nad mořem."
     },
     {
       "sourceNumber": 82,
@@ -16179,7 +16197,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-82"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-82",
+      "explanation": "Skutečná nadmořská výška (true altitude) je skutečná svislá vzdálenost od střední hladiny moře. Oproti indikované výšce se může lišit vlivem teploty a tlakových odchylek; pouhá teplotní oprava nemusí vždy postačit."
     },
     {
       "sourceNumber": 83,
@@ -16195,7 +16214,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-83"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-83",
+      "explanation": "Ve vzduchu chladnějším než standardní atmosféra jsou tlakové hladiny níže, a proto je při správném QNH indikovaná výška vyšší než skutečná nadmořská výška. Rozdíl roste s výškou nad referenční hladinou a velikostí teplotní odchylky."
     },
     {
       "sourceNumber": 84,
@@ -16211,7 +16231,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-84"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-84",
+      "explanation": "V ideální standardní atmosféře se správným QNH odpovídá indikovaná výška skutečné nadmořské výšce (při zanedbání přístrojových chyb). Při teplotních odchylkách se tyto hodnoty mohou lišit."
     },
     {
       "sourceNumber": 85,
@@ -16227,7 +16248,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-85"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-85",
+      "explanation": "Hystereze aneroidních kapslí znamená, že při stejném tlaku může mít mechanický výškoměr mírně odlišnou indikaci podle předchozího průběhu změn tlaku. Jde o jednu z přístrojových chyb výškoměru."
     },
     {
       "sourceNumber": 86,
@@ -16243,7 +16265,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-86"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-86",
+      "explanation": "Barometrický výškoměr měří statický atmosférický tlak, který s rostoucí výškou klesá. Mechanismus přepočítává tlak na výšku podle kalibrovaného atmosférického modelu a nastaveného referenčního tlaku."
     },
     {
       "sourceNumber": 87,
@@ -16259,7 +16282,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-87"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-87",
+      "explanation": "Klasický variometr porovnává aktuální statický tlak s tlakem v kompenzační komoře, který se mění se zpožděním přes kalibrovaný průtokový odpor. Rozdíl tlaků odpovídá rychlosti stoupání nebo klesání."
     },
     {
       "sourceNumber": 88,
@@ -16275,7 +16299,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-88"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-88",
+      "explanation": "Variometr využívá rozdíl mezi aktuálním statickým tlakem a tlakem, který se v komoře mění se zpožděním. POZOR: testový klíč označuje rozdíl dynamických tlaků, což je nesprávně. Z nabízených odpovědí odpovídá principu první možnost (aktuální a předchozí statický tlak)."
     },
     {
       "sourceNumber": "89",
@@ -16291,7 +16316,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89",
+      "explanation": "CAS je indikovaná rychlost IAS opravená o přístrojovou a polohovou chybu pitot-statického systému. CAS není rychlost vůči zemi; tu navíc ovlivňuje vítr."
     },
     {
       "sourceNumber": 90,
@@ -16307,7 +16333,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-90"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-90",
+      "explanation": "Pro hrubý odhad v nižších hladinách lze k CAS přičítat asi 2 % na každých 1000 ft výšky. Například CAS 100 kt ve výšce 5000 ft dává přibližně TAS 110 kt. Jde pouze o orientační pravidlo; přesný převod závisí na tlaku, teplotě a stlačitelnosti."
     },
     {
       "sourceNumber": 91,
@@ -16323,7 +16350,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-91"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-91",
+      "explanation": "Indikovaná rychlost vychází z pohybu vůči vzduchu, nikoli vůči zemi. Při TAS 100 kt, malé výšce a zanedbatelných chybách bude IAS přibližně 100 kt. Čelní vítr 30 kt sníží přibližnou GS na 70 kt, ale ne IAS."
     },
     {
       "sourceNumber": 92,
@@ -16339,7 +16367,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-92"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-92",
+      "explanation": "Nalepené fólie mohou narušit obtékání a případně zakrýt nebo ovlivnit odběry pitot-statického systému, čímž vznikne chyba indikace rychlosti. Jakákoli změna v okolí odběrů musí odpovídat schválené konfiguraci letounu."
     },
     {
       "sourceNumber": 93,

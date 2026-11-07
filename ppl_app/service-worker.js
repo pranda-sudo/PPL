@@ -1,4 +1,4 @@
-const CACHE_NAME = "ppl-testy-v10";
+const CACHE_NAME = "ppl-testy-v11";
 const ASSETS = [
   "./",
   "./index.html",
@@ -88,14 +88,28 @@ self.addEventListener("activate", (event) => {
 
 self.addEventListener("fetch", (event) => {
   if (event.request.method !== "GET") return;
-  event.respondWith(
-    caches.match(event.request).then((cached) => {
-      if (cached) return cached;
-      return fetch(event.request).then((response) => {
-        const copy = response.clone();
-        caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy));
+  const url = new URL(event.request.url);
+  if (url.origin !== self.location.origin) return;
+  const shouldRefresh = event.request.mode === "navigate" || /\.(?:html|css|js|json|webmanifest)$/.test(url.pathname);
+  if (shouldRefresh) {
+    event.respondWith(
+      fetch(event.request).then((response) => {
+        if (response.ok) {
+          const copy = response.clone();
+          event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy)));
+        }
         return response;
-      });
-    }),
+      }).catch(async () => (await caches.match(event.request)) || (await caches.match("./index.html")) || Response.error())
+    );
+    return;
+  }
+  event.respondWith(
+    caches.match(event.request).then((cached) => cached || fetch(event.request).then((response) => {
+      if (response.ok) {
+        const copy = response.clone();
+        event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.put(event.request, copy)));
+      }
+      return response;
+    }))
   );
 });

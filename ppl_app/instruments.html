@@ -1,0 +1,42 @@
+<!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#16202a"><title>Interaktivní letecké přístroje – PPL Testy</title><link rel="stylesheet" href="./instruments.css?v=1"></head>
+<body><main class="shell">
+<header class="head"><div><span class="eyebrow">Výukový modul PPL / ULL</span><h1>Interaktivní letecké přístroje</h1><p>Prohlédni si přístrojovou desku, nastav letové hodnoty a procvičuj interpretaci údajů.</p></div><a href="./index.html?v=30" class="back">← Zpět na PPL testy</a></header>
+<div class="notice"><strong>Výuková simulace.</strong> Přístroje jsou schematické a neodpovídají přesně žádnému konkrétnímu typu. Jednotlivé hodnoty lze nastavovat nezávisle, proto nemusí představovat fyzikálně konzistentní let. Nenahrazuje výcvik ani přístroje skutečného letadla.</div>
+<nav class="tabs" aria-label="Režim výuky"><button type="button" class="active" data-tab="explore">Ovládání přístrojů</button><button type="button" data-tab="train">Trénink situací</button><button type="button" data-tab="guide">Jak přístroje fungují</button></nav>
+<section id="explore" class="tab-pane">
+<div class="gauge-grid">
+<article class="gauge"><canvas id="speedDial" width="400" height="400" role="img" aria-label="Rychloměr, indikovaná rychlost"></canvas><h2>Rychloměr · IAS</h2><output id="speedRead"></output><p>Indikovaná rychlost v uzlech</p></article>
+<article class="gauge"><canvas id="attitudeDial" width="400" height="400" role="img" aria-label="Umělý horizont, náklon a podélný sklon"></canvas><h2>Umělý horizont</h2><output id="attitudeRead"></output><p>Náklon a podélný sklon</p></article>
+<article class="gauge"><canvas id="altDial" width="400" height="400" role="img" aria-label="Výškoměr v stopách"></canvas><h2>Výškoměr</h2><output id="altRead"></output><p>Indikovaná výška při zadaném QNH</p></article>
+<article class="gauge"><canvas id="headingDial" width="400" height="400" role="img" aria-label="Směrový ukazatel, heading"></canvas><h2>Směrový ukazatel</h2><output id="headingRead"></output><p>Heading ve stupních</p></article>
+<article class="gauge"><canvas id="vsiDial" width="400" height="400" role="img" aria-label="Variometr, rychlost stoupání a klesání"></canvas><h2>Variometr · VSI</h2><output id="vsiRead"></output><p>Vertikální rychlost ft/min</p></article>
+<article class="gauge"><canvas id="turnDial" width="400" height="400" role="img" aria-label="Ukazatel zatáčky a příčné rovnováhy"></canvas><h2>Zatáčkoměr a kulička</h2><output id="turnRead"></output><p>Směr zatáčení a skluz</p></article>
+</div>
+<section class="controls"><div class="section-title"><h2>Nastavení letu</h2><button type="button" id="reset" class="quiet">Základní let</button></div><div class="control-grid">
+<label><span>Indikovaná rychlost <strong id="speedVal"></strong></span><input id="speed" type="range" min="0" max="180" step="1" value="95"></label>
+<label><span>Náklon <strong id="rollVal"></strong></span><input id="roll" type="range" min="-60" max="60" step="1" value="0"></label>
+<label><span>Podélný sklon <strong id="pitchVal"></strong></span><input id="pitch" type="range" min="-25" max="25" step="1" value="0"></label>
+<label><span>Výška <strong id="altitudeVal"></strong></span><input id="altitude" type="range" min="0" max="12000" step="100" value="3000"></label>
+<label><span>Heading <strong id="headingVal"></strong></span><input id="heading" type="range" min="0" max="359" step="1" value="90"></label>
+<label><span>Vertikální rychlost <strong id="verticalVal"></strong></span><input id="vertical" type="range" min="-2000" max="2000" step="100" value="0"></label>
+<label><span>Rychlost zatáčení <strong id="turnVal"></strong></span><input id="turn" type="range" min="-6" max="6" step=".5" value="0"></label>
+<label><span>Vyosení kuličky <strong id="slipVal"></strong></span><input id="slip" type="range" min="-100" max="100" step="10" value="0"></label>
+<label><span>QNH <strong id="qnhVal"></strong></span><input id="qnh" type="range" min="950" max="1050" step="1" value="1013"></label>
+</div>
+<p class="hint">Znaménka: záporný náklon = levý náklon, záporná vertikální rychlost = klesání, záporná rychlost zatáčení = vlevo. QNH nastavuje ukazatel tlaku; změna QNH v této didaktické simulaci záměrně nepřepočítává zadanou výšku.</p></section>
+</section>
+<section id="train" class="tab-pane" hidden>
+<div class="training"><div class="section-title"><h2>Trénink: Co ukazují přístroje?</h2><span id="questionCount"></span></div><p id="scenarioText" class="prompt"></p>
+<div class="mini-grid"><canvas id="trainAttitude" width="350" height="350" role="img" aria-label="Cvičný umělý horizont"></canvas><canvas id="trainVsi" width="350" height="350" role="img" aria-label="Cvičný variometr"></canvas></div>
+<div id="scenarioOptions" class="answer-options"></div><div id="scenarioFeedback" class="feedback" hidden aria-live="polite"></div>
+<div class="actions"><button type="button" id="check">Vyhodnotit odpověď</button><button type="button" id="next">Další situace →</button></div></div>
+</section>
+<section id="guide" class="tab-pane" hidden><div class="guides">
+<article><h2>Rychloměr · IAS</h2><p>Ukazuje indikovanou rychlost vzhledem ke vzduchu. Nejde o rychlost vůči zemi (GS). Barevné oblouky jsou v této simulaci pouze ilustrační a nejsou typově schválenými rozsahy.</p></article>
+<article><h2>Umělý horizont</h2><p>Pomáhá odečíst podélný sklon a náklon. Hranice nebe/země se vůči symbolu letadla pohybuje opačně podle postoje letadla.</p></article>
+<article><h2>Výškoměr</h2><p>Měří tlak a ukazuje výšku podle nastaveného tlakového údaje. Při nastaveném QNH má přibližně indikovat nadmořskou výšku; chyba nastavení QNH ovlivňuje odečet.</p></article>
+<article><h2>Směrový ukazatel</h2><p>Heading udává směr přídě letadla vzhledem k severu. Není automaticky stejný jako trať nad zemí, například při bočním větru.</p></article>
+<article><h2>Variometr</h2><p>Ukazuje rychlost změny tlakové výšky, zpravidla ve ft/min. Může reagovat se zpožděním.</p></article>
+<article><h2>Zatáčkoměr a kulička</h2><p>Ukazatel zatáčky zobrazuje rychlost zatáčení, kulička pomáhá rozpoznat skluz či výkluz. Vychýlení kuličky v tomto modelu nastavuješ nezávisle na náklonu.</p></article></div></section>
+<footer>Autor aplikace: <strong>Petr Randa</strong> · <a href="mailto:petr.randa@gmail.com">petr.randa@gmail.com</a><p>Vždy používej správnou letovou příručku a přístrojovou výbavu konkrétního letadla. Tento model je pouze vizuální výukovou pomůckou.</p></footer>
+</main><script src="./instruments.js?v=1"></script></body></html>

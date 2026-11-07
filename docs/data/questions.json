@@ -4452,7 +4452,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-19"
+      "id": "2-lidska-vykonnost-letoun-2-p4-19",
+      "explanation": "V kontextu této testové otázky je jako výjimka uvedeno potápění. Potápění před letem je však zásadním rizikovým faktorem dekompresní nemoci při následném poklesu tlaku; tento pojem je nutné odlišovat od hypoxie a běžné výškové nemoci. Formulace otázky je nepřesná a zaslouží kontrolu proti zdroji."
     },
     {
       "sourceNumber": "20",
@@ -5286,7 +5287,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-10"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-10",
+      "explanation": "Hyperventilace snižuje parciální tlak CO₂ v krvi a může způsobit brnění, závratě, svalové křeče i poruchy vědomí. Cyanóza (namodralé zbarvení při nedostatečném okysličení krve) není typickým příznakem samotné hyperventilace."
     },
     {
       "sourceNumber": "11",
@@ -5437,7 +5439,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-19"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-19",
+      "explanation": "V kontextu této testové otázky je jako výjimka uvedeno potápění. Potápění před letem je však zásadním rizikovým faktorem dekompresní nemoci při následném poklesu tlaku; tento pojem je nutné odlišovat od hypoxie a běžné výškové nemoci. Formulace otázky je nepřesná a zaslouží kontrolu proti zdroji."
     },
     {
       "sourceNumber": "20",

@@ -44,6 +44,18 @@ function fuel(){
  dest.textContent="Orientační bilance: "+usable.toLocaleString("cs-CZ")+" − "+burn.toLocaleString("cs-CZ")+" − "+reserve.toLocaleString("cs-CZ")+" = "+margin.toLocaleString("cs-CZ",{maximumFractionDigits:1})+" l. "+(margin<0?"Zadané palivo nestačí.":"Před letem ověř typové spotřeby a předepsané rezervy.");
  if(margin<0)dest.classList.add("warning");
 }
+function navigationLog(){
+ let totalNm=0,totalMinutes=0,validLegs=0,missingLegs=0;
+ for(let i=1;i<=6;i++){
+  const d=num("leg"+i+"nm"),g=num("leg"+i+"gs"),out=$("leg"+i+"time");
+  if(d===null&&g===null){out.textContent="–";continue}
+  if(d===null||g===null||d<0||g<=0){out.textContent="!";missingLegs++;continue}
+  const minutes=d/g*60;
+  out.textContent=minutes.toLocaleString("cs-CZ",{maximumFractionDigits:1});
+  totalNm+=d;totalMinutes+=minutes;validLegs++;
+ }
+ $("navTotals").textContent="Úseky: "+validLegs+" · celková vzdálenost "+totalNm.toLocaleString("cs-CZ",{maximumFractionDigits:1})+" NM · čas "+totalMinutes.toLocaleString("cs-CZ",{maximumFractionDigits:1})+" min"+(missingLegs?" · neúplné údaje u "+missingLegs+" úseků":"");
+}
 function printDocument(isBlank){
  blank=isBlank;
  if(blank)document.body.classList.add("blank-print");else document.body.classList.remove("blank-print");
@@ -57,11 +69,11 @@ $("clearAll").addEventListener("click",()=>{
  if(!window.confirm("Opravdu vymazat veškeré údaje, poznámky a zaškrtnuté body přípravy?"))return;
  fields().forEach(e=>{if(e.type==="checkbox")e.checked=false;else if(e.tagName==="SELECT")e.selectedIndex=0;else e.value=""});
  document.querySelector('[name="date"]').valueAsDate=new Date();
- save();count();fuel();
+ save();count();fuel();navigationLog();
 });
 document.addEventListener("input",e=>{if(e.target.closest(".shell")){save();count();fuel()}});
 document.addEventListener("change",e=>{if(e.target.closest(".shell")){save();count();fuel()}});
 restore();
 const date=document.querySelector('[name="date"]');if(!date.value)date.valueAsDate=new Date();
-count();fuel();
+count();fuel();navigationLog();
 })();

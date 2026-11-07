@@ -4435,7 +4435,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-letoun-2-p4-19"
+      "id": "2-lidska-vykonnost-letoun-2-p4-19",
+      "explanation": "Potápění představuje zejména riziko dekompresní nemoci při následném výstupu do výšky, nikoli klasický přímý rizikový faktor hypoxie z nízkého parciálního tlaku kyslíku. Přesto je létání krátce po potápění nebezpečné a vyžaduje dodržení doporučených odstupů."
     },
     {
       "sourceNumber": "20",
@@ -5010,7 +5011,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-53"
+      "id": "2-lidska-vykonnost-letoun-2-p12-53",
+      "explanation": "Emoční stabilita může pilotovi pomáhat zvládat zátěž a rozhodovat se pod tlakem. Samotná extroverze ale není univerzální podmínkou bezpečného pilotování; významnější jsou výcvik, sebekontrola, spolupráce a správné rozhodovací návyky. Testová odpověď vychází ze zjednodušeného osobnostního modelu."
     },
     {
       "sourceNumber": "54",
@@ -6756,7 +6758,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-1-p8-38"
+      "id": "3-meteorologie-letoun-1-p8-38",
+      "explanation": "Katabatický vítr je proudění vzduchu dolů po svahu vlivem gravitace, typicky při ochlazení hustšího vzduchu nad vyvýšeným terénem. Pozor: ne každý sestup vzduchu v závětří je katabatický vítr; za pohořím může vznikat také föhnové proudění."
     },
     {
       "sourceNumber": "39",
@@ -6806,7 +6809,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-1-p9-41"
+      "id": "3-meteorologie-letoun-1-p9-41",
+      "explanation": "Kupovitá oblačnost vzniká při konvekci a pod ní mohou být výstupné i sestupné proudy, které způsobují turbulenci. Výraz „vždy“ je v otázce příliš absolutní: intenzita turbulence závisí na vývoji oblačnosti a okolních podmínkách."
     },
     {
       "sourceNumber": "42",
@@ -7199,7 +7203,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-1-p13-64"
+      "id": "3-meteorologie-letoun-1-p13-64",
+      "explanation": "Stoupavé proudy udržují vodní kapky a ledové částice v oblaku dostatečně dlouho, aby mohly růst srážkovými procesy. Nejde však o jediný způsob vzniku srážek: stratiformní srážky vznikají i bez silné konvekce. Testová formulace je zjednodušená."
     },
     {
       "sourceNumber": "65",
@@ -7215,7 +7220,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-1-p13-65"
+      "id": "3-meteorologie-letoun-1-p13-65",
+      "explanation": "Silné výstupné proudy mohou udržovat rostoucí kapky či kroupové zárodky v oblaku, takže částice získají větší rozměr před vypadnutím. U běžného deště však silné stoupání není nezbytnou podmínkou; to je důležité rozlišovat."
     },
     {
       "sourceNumber": "66",

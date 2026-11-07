@@ -10180,7 +10180,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-1-p1-1"
+      "id": "9-navigace-letoun-1-p1-1",
+      "explanation": "Zemská rotační osa je pomyslná přímka spojující zeměpisný severní a jižní pól. Země se kolem ní otočí přibližně jednou za hvězdný den."
     },
     {
       "sourceNumber": "2",
@@ -10196,7 +10197,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-1-p1-2"
+      "id": "9-navigace-letoun-1-p1-2",
+      "explanation": "Polární osa prochází oběma zeměpisnými póly a je kolmá k rovině zemského rovníku. Je nakloněna vůči rovině oběhu Země kolem Slunce."
     },
     {
       "sourceNumber": "3",
@@ -10212,7 +10214,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-1-p1-3"
+      "id": "9-navigace-letoun-1-p1-3",
+      "explanation": "Pro navigační výpočty se Země aproximuje rotačním elipsoidem, protože je mírně zploštělá na pólech. Přesnější fyzikální hladinovou plochou je geoid."
     },
     {
       "sourceNumber": "4",
@@ -10228,7 +10231,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-1-p1-4"
+      "id": "9-navigace-letoun-1-p1-4",
+      "explanation": "Loxodroma protíná všechny poledníky pod konstantním úhlem, a tedy odpovídá trati s konstantním zeměpisným kurzem. Na Mercatorově mapě je přímkou."
     },
     {
       "sourceNumber": "5",
@@ -10244,7 +10248,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 1,
-      "id": "9-navigace-letoun-1-p1-5"
+      "id": "9-navigace-letoun-1-p1-5",
+      "explanation": "Na kouli leží nejkratší povrchová spojnice dvou bodů na kratším oblouku hlavní (velké) kružnice, tzv. ortodromě. Na elipsoidu je nejkratší geodetická čára."
     },
     {
       "sourceNumber": "6",
@@ -10262,7 +10267,8 @@
       "page": 2,
       "id": "9-navigace-letoun-1-p2-6",
       "image": "./assets/questions/NAV-002.jpg",
-      "imageCode": "NAV-002"
+      "imageCode": "NAV-002",
+      "explanation": "Rovník má délku přibližně 40 075 km. Po vydělení 1,852 km na námořní míli dostaneme přibližně 21 638 NM, což se pro školní navigaci zaokrouhluje na 21 600 NM."
     },
     {
       "sourceNumber": "7",
@@ -10278,7 +10284,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-1-p2-7"
+      "id": "9-navigace-letoun-1-p2-7",
+      "explanation": "Body leží na opačných polokoulích, proto se absolutní hodnoty šířek sčítají: 12°53′30″ + 7°34′30″ = 20°28′00″."
     },
     {
       "sourceNumber": "8",
@@ -10294,7 +10301,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-1-p2-8"
+      "id": "9-navigace-letoun-1-p2-8",
+      "explanation": "Polární kruhy leží přibližně na 66,5° severní a jižní šířky, tedy asi 23,5° od zeměpisných pólů. Jejich poloha souvisí se sklonem zemské osy."
     },
     {
       "sourceNumber": "9",
@@ -10310,7 +10318,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-1-p2-9"
+      "id": "9-navigace-letoun-1-p2-9",
+      "explanation": "Rozdíl zeměpisné šířky je 1°. Jeden stupeň podél poledníku se v leteckých výpočtech bere jako 60 NM, tedy vzdálenost 60 NM."
     },
     {
       "sourceNumber": "10",
@@ -10326,7 +10335,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 2,
-      "id": "9-navigace-letoun-1-p2-10"
+      "id": "9-navigace-letoun-1-p2-10",
+      "explanation": "Jedna úhlová minuta zeměpisné šířky odpovídá přibližně jedné námořní míli. Proto 1° = 60′ představuje přibližně 60 NM podél poledníku."
     },
     {
       "sourceNumber": "11",
@@ -10342,7 +10352,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-1-p3-11"
+      "id": "9-navigace-letoun-1-p3-11",
+      "explanation": "240 NM podél poledníku odpovídá 240/60 = 4° zeměpisné šířky. Ze 47°50′27″N směrem na sever získáme 51°50′27″N."
     },
     {
       "sourceNumber": "12",
@@ -10358,7 +10369,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-1-p3-12"
+      "id": "9-navigace-letoun-1-p3-12",
+      "explanation": "Na rovníku odpovídá 1° zeměpisné délky přibližně 60 NM. Rozdíl mezi 150°E a 151°E je tedy 60 NM."
     },
     {
       "sourceNumber": "13",
@@ -10374,7 +10386,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-1-p3-13"
+      "id": "9-navigace-letoun-1-p3-13",
+      "explanation": "Rovník je velká kružnice. Dva body na něm oddělené 1° délky mají po kratším oblouku rovníku vzdálenost přibližně 60 NM."
     },
     {
       "sourceNumber": "14",
@@ -10390,7 +10403,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-1-p3-14"
+      "id": "9-navigace-letoun-1-p3-14",
+      "explanation": "Na rovnoběžce se vzdálenost mezi poledníky zkracuje faktorem cos φ: 10° × 60 NM × cos φ. Mimo rovník je cos φ menší než 1, tedy vzdálenost menší než 600 NM."
     },
     {
       "sourceNumber": "15",
@@ -10406,7 +10420,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 3,
-      "id": "9-navigace-letoun-1-p3-15"
+      "id": "9-navigace-letoun-1-p3-15",
+      "explanation": "Země se vůči Slunci otočí přibližně o 360° za 24 hodin, tedy 15° za hodinu. Pro 20° je potřeba 20/15 h = 1 h 20 min."
     },
     {
       "sourceNumber": "16",
@@ -10422,7 +10437,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-1-p4-16"
+      "id": "9-navigace-letoun-1-p4-16",
+      "explanation": "Země se vůči Slunci otočí přibližně o 15° za hodinu. Posun o 10° tedy odpovídá 10/15 hodiny, čili 40 minutám."
     },
     {
       "sourceNumber": "17",
@@ -10438,7 +10454,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-1-p4-17"
+      "id": "9-navigace-letoun-1-p4-17",
+      "explanation": "Posun o 10° při 15° za hodinu trvá 2/3 hodiny, tedy 0,666… h = 40 minut."
     },
     {
       "sourceNumber": "18",
@@ -10454,7 +10471,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-1-p4-18"
+      "id": "9-navigace-letoun-1-p4-18",
+      "explanation": "CEST je UTC+2. Odečtením dvou hodin od 16:00 CEST dostaneme 14:00 UTC."
     },
     {
       "sourceNumber": "19",
@@ -10470,7 +10488,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-1-p4-19"
+      "id": "9-navigace-letoun-1-p4-19",
+      "explanation": "UTC je koordinovaný světový čas používaný jako jednotná časová reference v mezinárodním letectví. Nezávisí na místních časových pásmech."
     },
     {
       "sourceNumber": "20",
@@ -10486,7 +10505,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 4,
-      "id": "9-navigace-letoun-1-p4-20"
+      "id": "9-navigace-letoun-1-p4-20",
+      "explanation": "CET je UTC+1, proto od 17:00 CET odečteme jednu hodinu a získáme 16:00 UTC."
     },
     {
       "sourceNumber": "21",
@@ -10502,7 +10522,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-1-p5-21"
+      "id": "9-navigace-letoun-1-p5-21",
+      "explanation": "Vídeň leží asi o 3°34′ východněji než Salzburg. Při 4 minutách na jeden stupeň je místní sluneční čas ve Vídni přibližně o 14 minut napřed, takže východ i západ nastává v UTC dříve."
     },
     {
       "sourceNumber": "22",
@@ -10518,7 +10539,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-1-p5-22"
+      "id": "9-navigace-letoun-1-p5-22",
+      "explanation": "Občanský soumrak trvá, když je střed Slunce od horizontu do 6° pod horizontem; existuje ranní i večerní občanský soumrak. Přesné letecké definice noci se mohou lišit podle předpisu."
     },
     {
       "sourceNumber": "23",
@@ -10534,7 +10556,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-1-p5-23"
+      "id": "9-navigace-letoun-1-p5-23",
+      "explanation": "Zeměpisná trať = zeměpisný kurz − oprava snosu = 125° − (−12°) = 137°. Z rozdílu zeměpisné a magnetické tratě plyne deklinace 2°W. Magnetický kurz je 127° a po odečtení deviace 2°E kompasový kurz 125°."
     },
     {
       "sourceNumber": "24",
@@ -10550,7 +10573,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-1-p5-24"
+      "id": "9-navigace-letoun-1-p5-24",
+      "explanation": "Zeměpisný kurz = 179° + (−12°) = 167°. Při deklinaci 4°E je magnetický kurz 163° a magnetická trať 175°."
     },
     {
       "sourceNumber": "25",
@@ -10566,7 +10590,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-1-p6-25"
+      "id": "9-navigace-letoun-1-p6-25",
+      "explanation": "Snos větru je úhlový rozdíl mezi směrem, kam míří podélná osa letadla (kurz), a skutečnou tratí nad zemí. Oprava snosu (WCA) se přičítá k požadované trati pro získání kurzu."
     },
     {
       "sourceNumber": "26",
@@ -10582,7 +10607,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-1-p6-26"
+      "id": "9-navigace-letoun-1-p6-26",
+      "explanation": "Magnetická deklinace je úhel mezi zeměpisným a magnetickým severem v daném místě. Proto se o ni liší zeměpisná a magnetická trať."
     },
     {
       "sourceNumber": "27",
@@ -10598,7 +10624,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-1-p6-27"
+      "id": "9-navigace-letoun-1-p6-27",
+      "explanation": "Magnetická trať je úhel měřený od magnetického severu po směru hodinových ručiček ke směru pohybu letadla nad zemí."
     },
     {
       "sourceNumber": "28",
@@ -10614,7 +10641,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-1-p6-28"
+      "id": "9-navigace-letoun-1-p6-28",
+      "explanation": "Zeměpisná trať (true track, TC) je směr dráhy letadla nad zemí, měřený od zeměpisného severu po směru hodinových ručiček."
     },
     {
       "sourceNumber": "29",
@@ -10630,7 +10658,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
-      "id": "9-navigace-letoun-1-p6-29"
+      "id": "9-navigace-letoun-1-p6-29",
+      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Magnetický kurz je 198°, tedy deklinace je 4°W, protože při západní deklinaci se při převodu z true na magnetic přičítá."
     },
     {
       "sourceNumber": "30",
@@ -10646,7 +10675,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-1-p7-30"
+      "id": "9-navigace-letoun-1-p7-30",
+      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Kompasový kurz 200° je o 2° větší než magnetický kurz 198°, což odpovídá deviaci 2°W (−002°)."
     },
     {
       "sourceNumber": "31",
@@ -10662,7 +10692,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-1-p7-31"
+      "id": "9-navigace-letoun-1-p7-31",
+      "explanation": "Magnetický kurz 198° oproti zeměpisnému 194° znamená deklinaci 4°W. Kompasový kurz 200° oproti magnetickému 198° znamená deviaci 2°W."
     },
     {
       "sourceNumber": "32",
@@ -10678,7 +10709,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-1-p7-32"
+      "id": "9-navigace-letoun-1-p7-32",
+      "explanation": "Magnetická inklinace je sklon magnetických siločar vůči vodorovné rovině. Na magnetickém rovníku je přibližně nulová a směrem k magnetickým pólům roste."
     },
     {
       "sourceNumber": "33",
@@ -10694,7 +10726,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-1-p7-33"
+      "id": "9-navigace-letoun-1-p7-33",
+      "explanation": "Deviace je úhel mezi magnetickým a kompasovým severem. Způsobuje ji magnetické pole a elektrické vybavení konkrétního letadla."
     },
     {
       "sourceNumber": "34",
@@ -10710,7 +10743,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
-      "id": "9-navigace-letoun-1-p7-34"
+      "id": "9-navigace-letoun-1-p7-34",
+      "explanation": "Kompasový sever je směr indikovaný magnetickým kompasem v letadle; oproti magnetickému severu může být posunut o deviaci způsobenou letadlem."
     },
     {
       "sourceNumber": "35",
@@ -10726,7 +10760,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-1-p8-35"
+      "id": "9-navigace-letoun-1-p8-35",
+      "explanation": "Izogony spojují místa se stejnou magnetickou deklinací. Deklinace se mění podle místa i času."
     },
     {
       "sourceNumber": "36",
@@ -10742,7 +10777,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-1-p8-36"
+      "id": "9-navigace-letoun-1-p8-36",
+      "explanation": "Agona je izogona s nulovou deklinací, tedy spojnice míst, kde magnetický sever splývá se zeměpisným severem."
     },
     {
       "sourceNumber": "37",
@@ -10758,7 +10794,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-1-p8-37"
+      "id": "9-navigace-letoun-1-p8-37",
+      "explanation": "Pro vodorovné navigační vzdálenosti se používají námořní míle (NM) a kilometry (km). Jedna NM je přesně 1852 metrů."
     },
     {
       "sourceNumber": "38",
@@ -10774,7 +10811,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-1-p8-38"
+      "id": "9-navigace-letoun-1-p8-38",
+      "explanation": "Jedna stopa je přesně 0,3048 m. Tisíc stop tedy činí 304,8 m, což se v testu zaokrouhluje na 300 m."
     },
     {
       "sourceNumber": "39",
@@ -10790,7 +10828,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 8,
-      "id": "9-navigace-letoun-1-p8-39"
+      "id": "9-navigace-letoun-1-p8-39",
+      "explanation": "5500 m / 0,3048 ≈ 18 045 ft, tedy přibližně 18 000 ft."
     },
     {
       "sourceNumber": "40",
@@ -10808,7 +10847,8 @@
       "page": 9,
       "id": "9-navigace-letoun-1-p9-40",
       "image": "./assets/questions/NAV-004.jpg",
-      "imageCode": "NAV-004"
+      "imageCode": "NAV-004",
+      "explanation": "Otázka vyžaduje přílohu NAV-004. Magnetický kompas je přístroj s přímým čtením, zatímco gyroskopické přístroje a zatáčkoměr jsou odlišná skupina. Označená odpověď proto vyžaduje kontrolu originálního seznamu."
     },
     {
       "sourceNumber": "41",
@@ -10824,7 +10864,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-1-p9-41"
+      "id": "9-navigace-letoun-1-p9-41",
+      "explanation": "Označení RWY vychází z magnetického směru osy dráhy zaokrouhleného na desítky stupňů. Při dlouhodobé změně magnetické deklinace může dojít k přečíslování dráhy."
     },
     {
       "sourceNumber": "42",

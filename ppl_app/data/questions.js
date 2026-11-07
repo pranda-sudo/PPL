@@ -15543,7 +15543,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-47"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-47",
+      "explanation": "Při výpadku elektrického napájení mohou přestat fungovat radiostanice, elektrická navigační zařízení a elektricky napájené gyroskopické přístroje. Přístroje s nezávislým vakuovým nebo mechanickým pohonem mohou zůstat funkční; rozhoduje vybavení konkrétního letadla."
     },
     {
       "sourceNumber": "48",
@@ -15559,7 +15560,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-48"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-48",
+      "explanation": "U lehkých pístových letadel jsou běžné vzduchem chlazené horizontálně protilehlé válce (boxer). Toto uspořádání má relativně malou čelní plochu a příznivé vyvážení."
     },
     {
       "sourceNumber": "49",
@@ -15611,7 +15613,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-51"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-51",
+      "explanation": "Při zkoušce magnet se kontroluje chod motoru na jednotlivé nezávislé zapalovací okruhy. Vadná nebo znečištěná svíčka může způsobit nepravidelný chod a nadměrný pokles otáček; podobný projev mohou mít i jiné závady zapalování."
     },
     {
       "sourceNumber": "52",
@@ -15627,7 +15630,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-52"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-52",
+      "explanation": "Téměř prázdná nádrž obsahuje větší objem vzduchu, z něhož může při ochlazení kondenzovat vlhkost. Před letem je proto důležitá kontrola vzorků paliva z nejnižších vypouštěcích míst."
     },
     {
       "sourceNumber": "53",
@@ -15643,7 +15647,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-53"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-53",
+      "explanation": "Voda má větší hustotu než letecký benzin, a proto se po oddělení usazuje v nejnižších místech nádrže a palivové soustavy. Odtud se odebírají kontrolní vzorky."
     },
     {
       "sourceNumber": "54",
@@ -15659,7 +15664,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-54"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-54",
+      "explanation": "Oktanové číslo vyjadřuje odolnost benzinu proti detonačnímu spalování (klepání motoru), nikoli jeho energetický obsah. Vyšší odolnost umožňuje provoz motoru při vyšším zatížení bez detonací."
     },
     {
       "sourceNumber": "55",
@@ -15675,7 +15681,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-55"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-55",
+      "explanation": "AVGAS 100LL je standardně barven modře pro snadnější rozlišení od jiných druhů leteckého benzinu. Barva ale sama nenahrazuje kontrolu správného druhu paliva."
     },
     {
       "sourceNumber": "56",
@@ -15691,7 +15698,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-56"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-56",
+      "explanation": "Zapnutí ohřevu karburátoru přivádí teplejší, méně hustý vzduch. U motoru s vrtulí pevného stoupání tím obvykle klesne výkon a otáčky; při odstranění námrazy se následně mohou zotavit."
     },
     {
       "sourceNumber": "57",
@@ -15707,7 +15715,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-57"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-57",
+      "explanation": "Karburátor dávkuje palivo do proudu nasávaného vzduchu a vytváří směs potřebnou pro spalování. Správný poměr paliva a vzduchu ovlivňuje výkon, teplotu i spotřebu."
     },
     {
       "sourceNumber": "58",
@@ -15723,7 +15732,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-58"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-58",
+      "explanation": "Ohřev karburátoru obvykle snižuje dostupný výkon, proto se při vzletu standardně používá poloha předepsaná letovou příručkou, zpravidla vypnuto. Při skutečné námraze či zvláštním postupu je rozhodující příručka konkrétního typu."
     },
     {
       "sourceNumber": "59",
@@ -15739,7 +15749,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-59"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-59",
+      "explanation": "Námraza karburátoru může vznikat i při kladných venkovních teplotách, protože ve Venturiho trubici a při odpařování paliva teplota výrazně klesá. Riziko je značné zejména při vyšší vlhkosti a teplotách přibližně od −5 do +20 °C."
     },
     {
       "sourceNumber": "60",
@@ -15755,7 +15766,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-60"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-60",
+      "explanation": "Chladicí žebra zvětšují plochu válců vystavenou proudícímu vzduchu, a tím podporují přenos tepla z motoru do okolí."
     },
     {
       "sourceNumber": "61",
@@ -15771,7 +15783,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-61"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-61",
+      "explanation": "Teplota hlav válců se často sleduje na tepelně nejvíce namáhaném, takzvaném kritickém válci. Některé moderní systémy monitorují všechny válce samostatně."
     },
     {
       "sourceNumber": "62",
@@ -15787,7 +15800,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-62"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-62",
+      "explanation": "Při zanesení olejového filtru může obtokový ventil umožnit průtok oleje mimo filtrační vložku, aby se zabránilo nedostatečnému mazání. Olej pak nemusí být účinně filtrován."
     },
     {
       "sourceNumber": 63,
@@ -15803,7 +15817,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-63"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-63",
+      "explanation": "Dva nezávislé zapalovací okruhy s magnety a dvojicí svíček na válec zvyšují spolehlivost a mohou zlepšit průběh spalování. Motor tak může pokračovat v chodu při poruše jednoho okruhu."
     },
     {
       "sourceNumber": 64,
@@ -15819,7 +15834,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-64"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-64",
+      "explanation": "Bohatá směs obsahuje více paliva vzhledem k množství vzduchu než stechiometrická nebo zvolená referenční směs. Příliš bohatá směs může způsobit nepravidelný chod a zvýšenou spotřebu."
     },
     {
       "sourceNumber": 65,
@@ -15853,7 +15869,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-66"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-66",
+      "explanation": "Při zvyšování výkonu u běžného systému s vrtulí konstantních otáček se obvykle nejprve nastaví vyšší otáčky vrtule a poté zvýší plnicí tlak. Vždy má přednost postup a omezení uvedené v letové příručce."
     },
     {
       "sourceNumber": 67,
@@ -15885,7 +15902,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-68"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-68",
+      "explanation": "S výškou klesá hustota vzduchu a do válců přichází méně kyslíku na jeden pracovní cyklus. Atmosférický motor bez přeplňování proto zpravidla ztrácí dostupný výkon."
     },
     {
       "sourceNumber": "69",
@@ -15901,7 +15919,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69",
+      "explanation": "Nepřeplňovaný karburátorový motor s rostoucí výškou zpravidla ztrácí výkon kvůli nižší hustotě vzduchu. Správné ochuzování směsi může chod optimalizovat, ale úbytek dostupného kyslíku neodstraní."
     },
     {
       "sourceNumber": 70,
@@ -15917,7 +15936,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-70"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-70",
+      "explanation": "Přepnutí zapalování do OFF u správně fungujícího a uzemněného magnetového systému přeruší zapalování a otáčky začnou klesat. Po okamžitém návratu na BOTH se chod obnoví. Takovou zkoušku lze provádět pouze podle předepsaného postupu."
     },
     {
       "sourceNumber": 71,
@@ -15981,7 +16001,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-74"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-74",
+      "explanation": "Pitot-statický systém poskytuje celkový tlak z Pitotovy trubice a statický tlak ze statického odběru. Rozdíl tlaků slouží rychloměru; statický tlak využívá i výškoměr a variometr."
     },
     {
       "sourceNumber": 75,
@@ -15997,7 +16018,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-75"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-75",
+      "explanation": "Pitotova trubice snímá celkový (stagnační) tlak proudícího vzduchu. Dynamický tlak se získává jako rozdíl celkového a statického tlaku."
     },
     {
       "sourceNumber": 76,
@@ -16029,7 +16051,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77",
+      "explanation": "Při standardním nastavení výškoměru 1013,25 hPa se indikují tlakové výšky používané pro letové hladiny. QNE se v praxi vztahuje ke standardnímu nastavení a tlakové výšce, nikoli k místnímu QNH."
     },
     {
       "sourceNumber": 78,
@@ -16045,7 +16068,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-78"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-78",
+      "explanation": "Pomocná barometrická stupnice (Kollsmanovo okénko) umožňuje nastavit referenční tlak QNH, QFE nebo standardních 1013,25 hPa. Tím se určuje, vůči jaké tlakové referenci výškoměr ukazuje."
     },
     {
       "sourceNumber": "79",
@@ -16061,7 +16085,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79",
+      "explanation": "Je-li nastavený tlak vyšší než skutečné QNH, výškoměr ukazuje větší výšku, než odpovídá skutečnosti. Pilot pak může letět nebezpečně nízko: „from high to low, look out below“."
     },
     {
       "sourceNumber": 80,
@@ -16077,7 +16102,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-80"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-80",
+      "explanation": "V chladnějším než standardním vzduchu jsou tlakové hladiny blíže u sebe. Výškoměr může ukazovat vyšší výšku než skutečnou, a proto je při nízkých teplotách nutné zohlednit korekce podle postupů."
     },
     {
       "sourceNumber": 81,
@@ -16093,7 +16119,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-81"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-81",
+      "explanation": "Letová hladina (FL) je hladina konstantního atmosférického tlaku vztažená ke standardnímu tlaku 1013,25 hPa, vyjádřená ve stovkách stop. FL 75 tedy označuje tlakovou hladinu 7 500 ft."
     },
     {
       "sourceNumber": 82,

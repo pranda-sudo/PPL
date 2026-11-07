@@ -6567,12 +6567,13 @@
         "7600 ft",
         "7900 ft"
       ],
-      "correctIndex": 0,
+      "correctIndex": 1,
       "category": "Meteorologie",
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-25"
+      "id": "3-meteorologie-letoun-1-p5-25",
+      "explanation": "FL85 odpovídá tlakové výšce 8 500 ft při standardním nastavení 1013,25 hPa. Nižší QNH 983 hPa znamená přibližně o 900 ft nižší nadmořskou výšku, tedy zhruba 7 600 ft před teplotní korekcí. Při ISA−10 °C je skutečná výška ještě o něco nižší. Hodnota 9 400 ft uvedená v původním klíči je proto nesprávná; pro uvedené možnosti je nejbližší přibližně 7 300 ft. Jde o orientační výpočet závislý na teplotním profilu."
     },
     {
       "sourceNumber": "26",
@@ -7100,7 +7101,8 @@
       "page": 12,
       "id": "3-meteorologie-letoun-1-p12-56",
       "image": "./assets/questions/MET-001.jpg",
-      "imageCode": "MET-001"
+      "imageCode": "MET-001",
+      "explanation": "Na závětrné straně hor se při stabilním proudění mohou vytvářet stojaté horské vlny. V jejich vrcholech vzniká čočkovitá oblačnost Altocumulus lenticularis; vlny mohou být doprovázeny silnou turbulencí a rotory. Identifikace čísla v obrázku vyžaduje jeho vizuální kontrolu."
     },
     {
       "sourceNumber": "57",
@@ -7118,7 +7120,8 @@
       "page": 12,
       "id": "3-meteorologie-letoun-1-p12-57",
       "image": "./assets/questions/MET-002.jpg",
-      "imageCode": "MET-002"
+      "imageCode": "MET-002",
+      "explanation": "Cumulus je kupovitý oblak s relativně plochou základnou a výraznými oblými vrcholy. Vzniká ve výstupných konvekčních proudech; jeho vertikální vývoj závisí na stabilitě a vlhkosti. Při učení porovnej tyto znaky s přiloženým obrázkem."
     },
     {
       "sourceNumber": "58",
@@ -7136,7 +7139,8 @@
       "page": 12,
       "id": "3-meteorologie-letoun-1-p12-58",
       "image": "./assets/questions/MET-004.jpg",
-      "imageCode": "MET-004"
+      "imageCode": "MET-004",
+      "explanation": "Cirrus (Ci) je vysoký, jemný vláknitý oblak tvořený převážně ledovými krystalky. Často připomíná bílé pruhy či péřové útvary. Samotný obrázek je nutné ověřit podle těchto rozpoznávacích znaků."
     },
     {
       "sourceNumber": "59",
@@ -7341,7 +7345,8 @@
       "page": 14,
       "id": "3-meteorologie-letoun-1-p14-70",
       "image": "./assets/questions/MET-005.jpg",
-      "imageCode": "MET-005"
+      "imageCode": "MET-005",
+      "explanation": "Na synoptických mapách studenou frontu označuje čára s trojúhelníky, teplou frontu čára s půlkruhy a okluzi kombinace obou symbolů na stejné straně čáry. Pro přiřazení čísla je třeba zkontrolovat původní obrázek MET-005."
     },
     {
       "sourceNumber": "71",
@@ -7359,7 +7364,8 @@
       "page": 15,
       "id": "3-meteorologie-letoun-1-p15-71",
       "image": "./assets/questions/MET-005.jpg",
-      "imageCode": "MET-005"
+      "imageCode": "MET-005",
+      "explanation": "Na synoptických mapách studenou frontu označuje čára s trojúhelníky, teplou frontu čára s půlkruhy a okluzi kombinace obou symbolů na stejné straně čáry. Pro přiřazení čísla je třeba zkontrolovat původní obrázek MET-005."
     },
     {
       "sourceNumber": "72",
@@ -7377,7 +7383,8 @@
       "page": 15,
       "id": "3-meteorologie-letoun-1-p15-72",
       "image": "./assets/questions/MET-005.jpg",
-      "imageCode": "MET-005"
+      "imageCode": "MET-005",
+      "explanation": "Na synoptických mapách studenou frontu označuje čára s trojúhelníky, teplou frontu čára s půlkruhy a okluzi kombinace obou symbolů na stejné straně čáry. Pro přiřazení čísla je třeba zkontrolovat původní obrázek MET-005."
     },
     {
       "sourceNumber": "73",
@@ -7388,12 +7395,13 @@
         "v létě slábnoucí vítr, rozpady oblačnosti a narůst teploty, v zimě tvorba vysokých vrstev mlhy",
         "cirus, ztenčující se altostratus a altokumulus, snižující se základna oblačnosti s deštěm, nimbostratus"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Meteorologie",
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-1-p15-73"
+      "id": "3-meteorologie-letoun-1-p15-73",
+      "explanation": "Před teplou frontou se typicky postupně objevují vysoké oblaky Cirrus a Cirrostratus, poté Altostratus a nakonec Nimbostratus s rozsáhlými trvalejšími srážkami. Oblaky postupně houstnou a jejich základna klesá. Tato posloupnost odpovídá čtvrté nabídnuté možnosti."
     },
     {
       "sourceNumber": "74",
@@ -7404,12 +7412,13 @@
         "v létě slábnoucí vítr, rozpady oblačnosti a nárůst teploty, v zimě tvorba vysokých vrstev mlhy",
         "cirus, ztenčující se altostratus a altoku mulus, snižující se základna oblačnosti s deštěm, nimbostratus"
       ],
-      "correctIndex": 2,
+      "correctIndex": 0,
       "category": "Meteorologie",
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-1-p15-74"
+      "id": "3-meteorologie-letoun-1-p15-74",
+      "explanation": "Při přechodu studené fronty je teplý vzduch rychle vytlačován vzhůru. Často vznikají mohutné kumuly či Cumulonimby, přeháňky, bouřky a nárazový vítr; za frontou mohou následovat izolované přeháňky. Správně je první nabídnutá možnost."
     },
     {
       "sourceNumber": "75",
@@ -7850,7 +7859,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-1"
+      "id": "3-meteorologie-letoun-1-p20-1",
+      "explanation": "Silný střih větru se může objevit u bouřek a intenzivních přeháněk, zejména v okolí downburstů a microburstů. Při přiblížení nebo vzletu může náhle změnit indikovanou rychlost a výšku letu."
     },
     {
       "sourceNumber": "1",
@@ -7866,7 +7876,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 21,
-      "id": "3-meteorologie-letoun-1-p21-1"
+      "id": "3-meteorologie-letoun-1-p21-1",
+      "explanation": "Vznik bouřky podporuje dostatek vlhkosti, podmíněná instabilita atmosféry a zdvih vzduchu. Při silném ohřevu povrchu může vzniknout hluboká konvekce a oblak Cumulonimbus."
     },
     {
       "sourceNumber": "102",
@@ -8165,7 +8176,7 @@
         "ve zprávě SIGMET",
         "ve zprávě ATIS"
       ],
-      "correctIndex": 2,
+      "correctIndex": 3,
       "category": "Meteorologie",
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
@@ -8266,7 +8277,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-1-p26-1"
+      "id": "3-meteorologie-letoun-1-p26-1",
+      "explanation": "Zápis 225/15 znamená vítr vanoucí ZE směru 225° rychlostí 15 uzlů. Směr 225° leží mezi jihem a západem, tedy jihozápad; vítr vane směrem k severovýchodu."
     },
     {
       "sourceNumber": "127",
@@ -8347,7 +8359,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-p1-2"
+      "id": "3-meteorologie-vrtulnik-p1-2",
+      "explanation": "Orografická mlha vzniká, když je vlhký vzduch nucen vystupovat po svahu. Při adiabatickém ochlazování dosáhne rosného bodu a vodní pára začne kondenzovat."
     },
     {
       "sourceNumber": "3",
@@ -8567,7 +8580,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-p3-15"
+      "id": "3-meteorologie-vrtulnik-p3-15",
+      "explanation": "Při zimní inverzi se může pod teplejší vrstvou držet studený vlhký vzduch s mlhou či nízkou oblačností. Pokud obsahuje podchlazené kapky, hrozí námraza na vrtulníku. Samotná inverze bez kapalné vody námrazu automaticky nevytváří."
     },
     {
       "sourceNumber": "16",
@@ -8583,7 +8597,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-p4-16"
+      "id": "3-meteorologie-vrtulnik-p4-16",
+      "explanation": "Přízemní radiační inverze vzniká zejména za jasné klidné noci, kdy zemský povrch vyzařováním chladne a ochlazuje vzduch těsně nad ním. Výše ležící vzduch může zůstat teplejší."
     },
     {
       "sourceNumber": "17",
@@ -9162,7 +9177,8 @@
       "page": 12,
       "id": "3-meteorologie-vrtulnik-p12-57",
       "image": "./assets/questions/MET-001.jpg",
-      "imageCode": "MET-001"
+      "imageCode": "MET-001",
+      "explanation": "Na závětrné straně hor se při stabilním proudění mohou vytvářet stojaté horské vlny. V jejich vrcholech vzniká čočkovitá oblačnost Altocumulus lenticularis; vlny mohou být doprovázeny silnou turbulencí a rotory. Identifikace čísla v obrázku vyžaduje jeho vizuální kontrolu."
     },
     {
       "sourceNumber": "58",
@@ -9180,7 +9196,8 @@
       "page": 12,
       "id": "3-meteorologie-vrtulnik-p12-58",
       "image": "./assets/questions/MET-002.jpg",
-      "imageCode": "MET-002"
+      "imageCode": "MET-002",
+      "explanation": "Cumulus je kupovitý oblak s relativně plochou základnou a výraznými oblými vrcholy. Vzniká ve výstupných konvekčních proudech; jeho vertikální vývoj závisí na stabilitě a vlhkosti. Při učení porovnej tyto znaky s přiloženým obrázkem."
     },
     {
       "sourceNumber": "59",
@@ -9198,7 +9215,8 @@
       "page": 12,
       "id": "3-meteorologie-vrtulnik-p12-59",
       "image": "./assets/questions/MET-004.jpg",
-      "imageCode": "MET-004"
+      "imageCode": "MET-004",
+      "explanation": "Cirrus (Ci) je vysoký, jemný vláknitý oblak tvořený převážně ledovými krystalky. Často připomíná bílé pruhy či péřové útvary. Samotný obrázek je nutné ověřit podle těchto rozpoznávacích znaků."
     },
     {
       "sourceNumber": "60",
@@ -9352,7 +9370,8 @@
       "page": 14,
       "id": "3-meteorologie-vrtulnik-p14-70",
       "image": "./assets/questions/MET-005.jpg",
-      "imageCode": "MET-005"
+      "imageCode": "MET-005",
+      "explanation": "Na synoptických mapách studenou frontu označuje čára s trojúhelníky, teplou frontu čára s půlkruhy a okluzi kombinace obou symbolů na stejné straně čáry. Pro přiřazení čísla je třeba zkontrolovat původní obrázek MET-005."
     },
     {
       "sourceNumber": "72",
@@ -9370,7 +9389,8 @@
       "page": 15,
       "id": "3-meteorologie-vrtulnik-p15-72",
       "image": "./assets/questions/MET-005.jpg",
-      "imageCode": "MET-005"
+      "imageCode": "MET-005",
+      "explanation": "Na synoptických mapách studenou frontu označuje čára s trojúhelníky, teplou frontu čára s půlkruhy a okluzi kombinace obou symbolů na stejné straně čáry. Pro přiřazení čísla je třeba zkontrolovat původní obrázek MET-005."
     },
     {
       "sourceNumber": "73",
@@ -9386,7 +9406,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-p15-73"
+      "id": "3-meteorologie-vrtulnik-p15-73",
+      "explanation": "Před teplou frontou se typicky postupně objevují vysoké oblaky Cirrus a Cirrostratus, poté Altostratus a nakonec Nimbostratus s rozsáhlými trvalejšími srážkami. Oblaky postupně houstnou a jejich základna klesá. Tato posloupnost odpovídá čtvrté nabídnuté možnosti."
     },
     {
       "sourceNumber": "74",
@@ -9402,7 +9423,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-p15-74"
+      "id": "3-meteorologie-vrtulnik-p15-74",
+      "explanation": "Při přechodu studené fronty je teplý vzduch rychle vytlačován vzhůru. Často vznikají mohutné kumuly či Cumulonimby, přeháňky, bouřky a nárazový vítr; za frontou mohou následovat izolované přeháňky. Správně je první nabídnutá možnost."
     },
     {
       "sourceNumber": "75",
@@ -9758,7 +9780,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-p20-100"
+      "id": "3-meteorologie-vrtulnik-p20-100",
+      "explanation": "Silný střih větru se může objevit u bouřek a intenzivních přeháněk, zejména v okolí downburstů a microburstů. Při přiblížení nebo vzletu může náhle změnit indikovanou rychlost a výšku letu."
     },
     {
       "sourceNumber": "102",
@@ -9998,7 +10021,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-p24-119"
+      "id": "3-meteorologie-vrtulnik-p24-119",
+      "explanation": "ATIS zahrnuje provozní informace letiště, například používanou dráhu, postupy či převodní hladinu, a meteorologické údaje. METAR poskytuje meteorologické pozorování, nikoli aktuální provozní uspořádání letiště."
     },
     {
       "sourceNumber": "120",
@@ -10060,7 +10084,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-p25-123"
+      "id": "3-meteorologie-vrtulnik-p25-123",
+      "explanation": "Velké rozestupy izobar znamenají malý tlakový gradient a obvykle slabý synoptický vítr. Význam však mohou získat místní větry vyvolané terénem a denním ohřevem."
     },
     {
       "sourceNumber": "124",
@@ -10092,7 +10117,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-p25-125"
+      "id": "3-meteorologie-vrtulnik-p25-125",
+      "explanation": "Zápis 225/15 znamená vítr vanoucí ZE směru 225° rychlostí 15 uzlů. Směr 225° leží mezi jihem a západem, tedy jihozápad; vítr vane směrem k severovýchodu."
     },
     {
       "sourceNumber": "126",

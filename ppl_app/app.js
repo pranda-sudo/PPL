@@ -9,7 +9,7 @@ const state = {
   deck: [],
   index: 0,
   mode: "practice",
-  aircraftMode: "both",
+  aircraftMode: "airplane",
   categories: new Set(),
   aircraft: new Set(),
   answered: new Map(),

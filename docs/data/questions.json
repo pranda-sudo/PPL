@@ -22050,7 +22050,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-1"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-1",
+      "explanation": "Po odletu z neřízeného letiště je třeba co nejdříve oznámit skutečný čas vzletu příslušnému stanovišti ATS, aby byl aktivován a správně veden podaný letový plán. Řiď se postupy platného AIP."
     },
     {
       "sourceNumber": "2",
@@ -22066,7 +22067,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-2"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-2",
+      "explanation": "Přistání mimo letiště určení je změnou proti podanému letovému plánu. Pilot o tom musí informovat příslušné ATS/FIS a zajistit ukončení či změnu letového plánu, aby se předešlo zbytečné pátrací akci."
     },
     {
       "sourceNumber": "3",
@@ -22082,7 +22084,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-3"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-3",
+      "explanation": "Schválená maximální hmotnost je závazné provozní omezení. Přetížení zhoršuje vzlet, stoupání a zatížení konstrukce; pilot ho nesmí řešit pouhým jiným způsobem pilotáže."
     },
     {
       "sourceNumber": "4",
@@ -22098,7 +22101,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-4"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-4",
+      "explanation": "Těžiště musí po celou dobu letu zůstat v obálce povolených poloh, uvedené v letové příručce. Příliš přední i zadní těžiště může omezit řiditelnost."
     },
     {
       "sourceNumber": "5",
@@ -22114,7 +22118,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 1,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-5"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p1-5",
+      "explanation": "Správná centráž zajišťuje požadovanou stabilitu a dostatečnou účinnost řízení. Musí platit ve všech fázích letu včetně úbytku paliva."
     },
     {
       "sourceNumber": "6",
@@ -22130,7 +22135,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-6"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-6",
+      "explanation": "Kontrola těžiště vrtulníku je kritická pro dostatečný rozsah cyklického řízení, stabilitu a řiditelnost při visu i dopředném letu."
     },
     {
       "sourceNumber": "7",
@@ -22146,7 +22152,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-7"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-7",
+      "explanation": "Tato otázka používá charakteristiky konvenčního letounu (pádová rychlost, vodorovná ocasní plocha); u vrtulníku není mechanické převzetí fyzikálně správné. Původní klíč vyžaduje revizi vůči originální metodice."
     },
     {
       "sourceNumber": "8",
@@ -22162,7 +22169,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-8"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-8",
+      "explanation": "Základní prázdná hmotnost zahrnuje konstrukci, pevně instalované vybavení a položky stanovené definicí v dokumentaci. Text možnosti v databázi je zjevně chybně spojený extrakcí z PDF; vyžaduje porovnání s originálem."
     },
     {
       "sourceNumber": "9",
@@ -22178,7 +22186,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 2,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-9"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p2-9",
+      "explanation": "Prázdná hmotnost konkrétního stroje se určuje vážením, polohu těžiště pak výpočtem z hmotností, ramen a momentů. Po změnách vybavení je třeba údaje aktualizovat."
     },
     {
       "sourceNumber": "10",
@@ -22194,7 +22203,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-10"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-10",
+      "explanation": "Pro školní výpočty se obvykle používá hustota AVGAS 100LL asi 0,72 kg/l při 15 °C. Hmotnost v kg = litry × hustota v kg/l."
     },
     {
       "sourceNumber": "11",
@@ -22210,7 +22220,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-11"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-11",
+      "explanation": "Převod: 1 kg = 2,20462 lb, proto kg × 2,205 ≈ lb. Obráceně lb × 0,453592 ≈ kg."
     },
     {
       "sourceNumber": "12",
@@ -22226,7 +22237,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-12"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-12",
+      "explanation": "Posunutý náklad mění centráž, může poškodit konstrukci a ohrozit osoby. Náklad se musí upevnit proti posunu v každé ose."
     },
     {
       "sourceNumber": "13",
@@ -22242,7 +22254,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-13"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-13",
+      "explanation": "Upevnění nákladu zabraňuje pohybu těžiště během letu. Současně se musí dodržet hmotnostní limity prostoru."
     },
     {
       "sourceNumber": "14",
@@ -22258,7 +22271,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 3,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-14"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p3-14",
+      "explanation": "Výsledná tíhová síla působí v těžišti. Pro hmotnost a vyvážení se pracuje s polohou výslednice všech dílčích hmotností."
     },
     {
       "sourceNumber": "15",
@@ -22274,7 +22288,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-15"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-15",
+      "explanation": "Těžiště je bod, ve kterém lze pro účely výpočtu uvažovat působení výsledné tíhové síly letadla."
     },
     {
       "sourceNumber": "16",
@@ -22290,7 +22305,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-16"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-16",
+      "explanation": "Těžiště je působiště výsledné tíhy. Jeho poloha závisí na rozmístění posádky, paliva, zavazadel a vybavení."
     },
     {
       "sourceNumber": "17",
@@ -22306,7 +22322,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-17"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-17",
+      "explanation": "V ustáleném stoupání se síly rozkládají do směru a kolmo k dráze letu; u vrtulníku se výsledný tah rotoru naklání a jeho složky zajišťují výstup i pohyb vpřed."
     },
     {
       "sourceNumber": "18",
@@ -22322,7 +22339,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-18"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-18",
+      "explanation": "Přidání hmotnosti před původní těžiště posune výsledné těžiště dopředu. Přepočti celkový moment a hmotnost a ověř všechny limity."
     },
     {
       "sourceNumber": "19",
@@ -22338,7 +22356,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 4,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-19"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p4-19",
+      "explanation": "Při příliš zadním těžišti může být při odlehčování podvozku či odpoutání patrná nadměrná tendence k zaklánění. Vrtulník musí zůstat v mezích cyklického řízení."
     },
     {
       "sourceNumber": "20",
@@ -22354,7 +22373,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-20"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-20",
+      "explanation": "Referenční rovina (datum) je dohodnutý počátek pro měření všech ramen. Podle zvoleného data mohou být ramena kladná i záporná."
     },
     {
       "sourceNumber": "21",
@@ -22370,7 +22390,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-21"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-21",
+      "explanation": "Moment = hmotnost × rameno od společného data; jednotky například kg·m nebo lb·in."
     },
     {
       "sourceNumber": "22",
@@ -22386,7 +22407,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-22"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-22",
+      "explanation": "Rameno je podepsaná podélná vzdálenost mezi referenční rovinou a těžištěm dané části."
     },
     {
       "sourceNumber": "23",
@@ -22402,7 +22424,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-23"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-23",
+      "explanation": "Rameno je podepsaná podélná vzdálenost mezi referenční rovinou a těžištěm dané části."
     },
     {
       "sourceNumber": "24",
@@ -22418,7 +22441,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 5,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-24"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p5-24",
+      "explanation": "Rameno je podepsaná podélná vzdálenost mezi referenční rovinou a těžištěm dané části."
     },
     {
       "sourceNumber": "25",
@@ -22434,7 +22458,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-25"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-25",
+      "explanation": "Hmotnosti, ramena i povolenou obálku těžiště najdeš v oddíle Weight and Balance konkrétního AFM/POH."
     },
     {
       "sourceNumber": "26",
@@ -22450,7 +22475,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-26"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-26",
+      "explanation": "Před vážením se letadlo uvede do předepsané konfigurace podle vážního postupu, typicky s nevyčerpatelným palivem a bez vyčerpatelného paliva."
     },
     {
       "sourceNumber": "27",
@@ -22466,7 +22492,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-27"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-27",
+      "explanation": "Základní prázdná hmotnost a moment jsou dokumentovány v oddíle Hmotnost a vyvážení letové příručky."
     },
     {
       "sourceNumber": "28",
@@ -22482,7 +22509,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 6,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-28"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-28",
+      "explanation": "Omezení centráže, včetně přední a zadní mezní polohy CG, hledej v oddíle Omezení (Limitations) letové příručky vrtulníku."
     },
     {
       "sourceNumber": "29",
@@ -22500,7 +22528,8 @@
       "page": 6,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p6-29",
       "image": "./assets/questions/PFP-052E.jpg",
-      "imageCode": "PFP-052E"
+      "imageCode": "PFP-052E",
+      "explanation": "Těžiště urči z momentové bilance a porovnej s příslušným výkresem PFP-052e. Samotný text otázky bez čitelné přílohy neposkytuje hodnoty pro nezávislý přepočet."
     },
     {
       "sourceNumber": "30",
@@ -22516,7 +22545,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-30"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-30",
+      "explanation": "Hmotnost paliva = 102 l × 0,72 kg/l = 73,44 kg, přibližně 74 kg podle zaokrouhlení testu."
     },
     {
       "sourceNumber": "31",
@@ -22532,7 +22562,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-31"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-31",
+      "explanation": "Po spotřebě paliva: nový moment = 2300 × 95,75 − 170 × 87 = 205 435 lb·in; nová hmotnost = 2130 lb; nové CG = 205435 / 2130 = 96,45 in."
     },
     {
       "sourceNumber": "32",
@@ -22548,7 +22579,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-32"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-32",
+      "explanation": "Odečti hmotnost spotřebovaného paliva i jeho moment: m_pal = 30,5 × 0,72 = 21,96 kg; CG_nové = (746 × 37,1 − 21,96 × 45) / (746 − 21,96) ≈ 36,86 cm, tedy 36,9 cm."
     },
     {
       "sourceNumber": "33",
@@ -22564,7 +22596,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 7,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-33"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-33",
+      "explanation": "m_pal = 55 × 0,72 = 39,6 kg; CG_nové = (1082 × 0,254 − 39,6 × 0,40) / (1082 − 39,6) = 0,24845 m, tedy přibližně 24,8 cm."
     },
     {
       "sourceNumber": "34",
@@ -22582,7 +22615,8 @@
       "page": 7,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p7-34",
       "image": "./assets/questions/PFP-053E.jpg",
-      "imageCode": "PFP-053E"
+      "imageCode": "PFP-053E",
+      "explanation": "Těžiště s palivem získáš dělením součtu momentů celkovou hmotností. Zkontroluj výchozí čísla v obrázku PFP-053e; samotný text k přepočtu nestačí."
     },
     {
       "sourceNumber": "35",
@@ -22600,7 +22634,8 @@
       "page": 8,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-35",
       "image": "./assets/questions/PFP-003.jpg",
-      "imageCode": "PFP-003"
+      "imageCode": "PFP-003",
+      "explanation": "Otázka byla při extrakci PDF poškozena: chybí začátek zadání s hmotností a momentem. Nelze ji bezpečně vypočítat bez opravy podle PFP-003."
     },
     {
       "sourceNumber": "36",
@@ -22618,7 +22653,8 @@
       "page": 8,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-36",
       "image": "./assets/questions/PFP-004.jpg",
-      "imageCode": "PFP-004"
+      "imageCode": "PFP-004",
+      "explanation": "Pro hmotnost 725 kg a moment 650 vyhledej bod v obrázku PFP-004. Pokud jde o kg·m, CG = 650/725 = 0,8966 m; porovnej jednotky v diagramu."
     },
     {
       "sourceNumber": "37",
@@ -22636,7 +22672,8 @@
       "page": 8,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-37",
       "image": "./assets/questions/PFP-005.jpg",
-      "imageCode": "PFP-005"
+      "imageCode": "PFP-005",
+      "explanation": "CG = 700 / 775 ≈ 0,9032 m při shodných jednotkách. U grafické varianty vyhledej průsečík hmotnosti 775 kg a momentu 700 v PFP-005."
     },
     {
       "sourceNumber": "38",
@@ -22654,7 +22691,8 @@
       "page": 8,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p8-38",
       "image": "./assets/questions/PFP-006.jpg",
-      "imageCode": "PFP-006"
+      "imageCode": "PFP-006",
+      "explanation": "Prázdnou hmotnost i polohu těžiště je nutné opsat z posledního platného protokolu vážení v obrázku PFP-006. Hodnota 280,59 m v extrahovaném klíči je podezřelá jednotka; bez přílohy ji nelze potvrdit."
     },
     {
       "sourceNumber": "39",
@@ -22670,7 +22708,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-39"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-39",
+      "explanation": "MEF je mapová výšková hodnota maximálního terénu/překážky v dané oblasti s bezpečnostním zaokrouhlením podle pravidel konkrétní mapy. Pro plánování vždy ověř měřítko, jednotky a definici legendy."
     },
     {
       "sourceNumber": "40",
@@ -22686,7 +22725,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-40"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-40",
+      "explanation": "Příčné orientační linie jako řeky, silnice a železnice mohou sloužit jako záchytné linie, které pilot pozná při odchylce od plánované trasy."
     },
     {
       "sourceNumber": "41",
@@ -22702,7 +22742,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-41"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-41",
+      "explanation": "Polokruhové pravidlo používá magnetickou trať (track), nikoli zeměpisný kurs, magnetický heading ani směr větru."
     },
     {
       "sourceNumber": "42",
@@ -22718,7 +22759,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 9,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-42"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p9-42",
+      "explanation": "Skutečnou zeměpisnou trať 181° převeď na magnetickou při východní deklinaci 3°: 181° − 3° = 178°. Podle běžného polokruhového pravidla VFR pak vychází lichá tisícovka + 500 ft, tedy nejnižší typická hladina FL 055; klíč FL 065 se jeví chybný."
     },
     {
       "sourceNumber": "43",
@@ -22736,7 +22778,8 @@
       "page": 10,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-43",
       "image": "./assets/questions/PFP-056.jpg",
-      "imageCode": "PFP-056"
+      "imageCode": "PFP-056",
+      "explanation": "Horní hranici omezeného prostoru LO R 16 odečti z přílohy PFP-056. Údaj a aktivaci konkrétního prostoru v reálném letu ověř v aktuálním AIP a NOTAM."
     },
     {
       "sourceNumber": "44",
@@ -22754,7 +22797,8 @@
       "page": 10,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-44",
       "image": "./assets/questions/PFP-030.jpg",
-      "imageCode": "PFP-030"
+      "imageCode": "PFP-030",
+      "explanation": "Horní hranici prostoru LO R 4 odečti z PFP-030. Historický testový údaj se nemusí shodovat se současným vzdušným prostorem."
     },
     {
       "sourceNumber": "45",
@@ -22770,7 +22814,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-45"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-45",
+      "explanation": "FATO (Final Approach and Take-Off Area) je vymezená plocha pro závěrečnou fázi přiblížení a zahájení vzletu vrtulníku; nemusí se rovnat TLOF."
     },
     {
       "sourceNumber": "46",
@@ -22786,7 +22831,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-46"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-46",
+      "explanation": "K odebrání 3 kg paliva (1148 − 1145) potřebuješ při 0,72 kg/l přibližně 4,17 l, ne 2 l. Klíč s odpovědí 2 l je nutné porovnat s úplným zadáním a opravit."
     },
     {
       "sourceNumber": "47",
@@ -22802,7 +22848,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 10,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-47"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p10-47",
+      "explanation": "Provozní spotřebu paliva stanovují výkonové tabulky, grafy a postupy AFM/POH konkrétního vrtulníku."
     },
     {
       "sourceNumber": "48",
@@ -22818,7 +22865,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-48"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-48",
+      "explanation": "Traťové palivo pro úsek od vzletu do přistání = 12 l (vzlet/stoupání) + 25 l (trať) + 7 l (klesání/přiblížení) = 44 l. Palivo pro pojíždění, náhradní letiště a finální rezerva se připočítává samostatně."
     },
     {
       "sourceNumber": "49",
@@ -22834,7 +22882,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 11,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-49"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-49",
+      "explanation": "NOTAM uvádí LEPA (Palma de Mallorca), RWY 24L/06R CLOSED. Období B) 1111212200 až C) 1111220500 znamená 21. 11. 2011 22:00 UTC do 22. 11. 2011 05:00 UTC."
     },
     {
       "sourceNumber": "50",
@@ -22852,7 +22901,8 @@
       "page": 11,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-50",
       "image": "./assets/questions/PFP-026.jpg",
-      "imageCode": "PFP-026"
+      "imageCode": "PFP-026",
+      "explanation": "Nestačí porovnat 707 m dráhy a potřebných 550 m: je nutné aplikovat NOTAM z PFP-026, který může použitelnou délku nebo dráhu omezit."
     },
     {
       "sourceNumber": "51",
@@ -22870,7 +22920,8 @@
       "page": 11,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p11-51",
       "image": "./assets/questions/PFP-024.jpg",
-      "imageCode": "PFP-024"
+      "imageCode": "PFP-024",
+      "explanation": "Výškový limit z NOTAM PFP-024 odečti z pole E a příslušného rozsahu. Rozlišuj AGL a MSL; bez přílohy výsledek nelze nezávisle přezkoušet."
     },
     {
       "sourceNumber": "52",
@@ -22886,7 +22937,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-52"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-52",
+      "explanation": "EOBT (Estimated Off-Block Time) je plánovaný čas zahájení pohybu ze stání uváděný v UTC; nejde o čas skutečného vzletu."
     },
     {
       "sourceNumber": "53",
@@ -22904,7 +22956,8 @@
       "page": 12,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-53",
       "image": "./assets/questions/PFP-051A.jpg",
-      "imageCode": "PFP-051A"
+      "imageCode": "PFP-051A",
+      "explanation": "Typ letu zjistíš z příslušných polí formuláře ATS FPL v PFP-051a; označení VFR a noc je nutné interpretovat společně."
     },
     {
       "sourceNumber": "54",
@@ -22922,7 +22975,8 @@
       "page": 12,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-54",
       "image": "./assets/questions/PFP-051.jpg",
-      "imageCode": "PFP-051"
+      "imageCode": "PFP-051",
+      "explanation": "Položka rychlosti v letovém plánu může být zapsána například N0100 = 100 kt. Přesné pole a zápis ověř v obrázku PFP-051."
     },
     {
       "sourceNumber": "55",
@@ -22938,7 +22992,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-55"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-55",
+      "explanation": "Přeshraniční let může vyžadovat ATS FPL a podle pravidel také hlášení o poloze; rozsah se odvíjí od řízeného/neřízeného prostoru a platného AIP. Obecné tvrzení o povinných pravidelných hlášeních není univerzální."
     },
     {
       "sourceNumber": "56",
@@ -22954,7 +23009,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 12,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-56"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p12-56",
+      "explanation": "Za letu lze v příslušných situacích podat ATS letový plán stanovišti FIS. Pilot musí uvést požadované náležitosti a respektovat případné lhůty či postupy."
     },
     {
       "sourceNumber": "57",
@@ -22970,7 +23026,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-57"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-57",
+      "explanation": "Tvrzení o 'orientačních trojúhelnících podle Varšavské úmluvy' nemá věrohodný vztah k řešení ztráty orientace; klíč je podezřelý. Správný postup je udržet bezpečný let, ověřit polohu pomocí navigačních prostředků a případně požádat ATS o pomoc."
     },
     {
       "sourceNumber": "58",
@@ -22986,7 +23043,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-58"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-58",
+      "explanation": "Při vysoké teplotě a tlakové výšce roste hustotní výška, což zhoršuje výkon motoru a rotoru a snižuje rezervu výkonu pro vis i stoupání."
     },
     {
       "sourceNumber": "59",
@@ -23002,7 +23060,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 13,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-59"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-59",
+      "explanation": "Čisté listy rotoru zachovávají správný profil a snižují aerodynamické ztráty; námraza a nečistoty mohou zvyšovat odpor."
     },
     {
       "sourceNumber": "60",
@@ -23020,7 +23079,8 @@
       "page": 13,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-60",
       "image": "./assets/questions/PFP-045.jpg",
-      "imageCode": "PFP-045"
+      "imageCode": "PFP-045",
+      "explanation": "Maximální výšku visu v přízemním efektu (HIGE) odečti v PFP-045 pro 2400 lb a +20 °C. Bez grafu nelze číselný výsledek nezávisle potvrdit."
     },
     {
       "sourceNumber": "61",
@@ -23038,7 +23098,8 @@
       "page": 13,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p13-61",
       "image": "./assets/questions/PFP-046.jpg",
-      "imageCode": "PFP-046"
+      "imageCode": "PFP-046",
+      "explanation": "VNE u některých vrtulníků závisí na tlakové výšce, teplotě a hmotnosti. Odečti přesnou hodnotu z PFP-046; nejde o univerzální limit."
     },
     {
       "sourceNumber": "62",
@@ -23054,7 +23115,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-62"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-62",
+      "explanation": "Grafy požadovaného a dostupného výkonu, výkon visu a stoupavosti jsou v části Výkonnost AFM/POH."
     },
     {
       "sourceNumber": "63",
@@ -23070,7 +23132,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-63"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-63",
+      "explanation": "Přenos výkonu na rotor může být omezen jmenovitým točivým momentem a pevností převodového ústrojí; v konkrétním stroji se navíc uplatní limity motoru."
     },
     {
       "sourceNumber": "64",
@@ -23086,7 +23149,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-64"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-64",
+      "explanation": "U turbínových vrtulníků sleduj hlavně maximální otáčky, teplotu turbíny a krouticí moment převodovky. Rozhodují schválené limity stroje."
     },
     {
       "sourceNumber": "65",
@@ -23102,7 +23166,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 14,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-65"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-65",
+      "explanation": "Výrobce může motor výkonově omezit (derating) kvůli životnosti a přenosovým limitům. Samotné snížení otáček hřídele není obecný univerzální postup."
     },
     {
       "sourceNumber": "66",
@@ -23120,7 +23185,8 @@
       "page": 14,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p14-66",
       "image": "./assets/questions/PFP-044.jpg",
-      "imageCode": "PFP-044"
+      "imageCode": "PFP-044",
+      "explanation": "Maximální výdrž vychází z minimální hodinové spotřeby či požadovaného výkonu; určete odpovídající bod na křivce PFP-044."
     },
     {
       "sourceNumber": "67",
@@ -23138,7 +23204,8 @@
       "page": 15,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-67",
       "image": "./assets/questions/PFP-044.jpg",
-      "imageCode": "PFP-044"
+      "imageCode": "PFP-044",
+      "explanation": "Maximální dolet je při nejlepším poměru dopředné rychlosti a hodinové spotřeby, nikoli nutně při rychlosti maximální výdrže. Graf PFP-044 určuje označený bod."
     },
     {
       "sourceNumber": "68",
@@ -23154,7 +23221,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-68"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-68",
+      "explanation": "Vyhřívání karburátoru může u pístového motoru odebírat výkon kvůli teplejšímu vstupnímu vzduchu; při visu sleduj rezervu dostupného výkonu."
     },
     {
       "sourceNumber": "69",
@@ -23170,7 +23238,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-69"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-69",
+      "explanation": "Čelní vítr při obdobném výkonu snižuje rychlost vůči zemi a zlepšuje geometrický gradient stoupání vzhledem k zemi; úhel letu závisí i na výkonu a podmínkách."
     },
     {
       "sourceNumber": "70",
@@ -23186,7 +23255,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-70"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-70",
+      "explanation": "Při stejné IAS roste s výškou TAS a mohou nastat aerodynamické či rotorové limity, proto výrobce s výškou snižuje povolenou VNE IAS."
     },
     {
       "sourceNumber": "71",
@@ -23202,7 +23272,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 15,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-71"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p15-71",
+      "explanation": "Teplota, atmosférický tlak a vlhkost ovlivňují hustotu vzduchu. Vyšší hustotní výška obvykle zvyšuje požadovaný výkon pro vis."
     },
     {
       "sourceNumber": "72",
@@ -23218,7 +23289,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-72"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-72",
+      "explanation": "Námraza zvyšuje hmotnost, mění profil listů, zvyšuje odpor a může drasticky snížit vztlak a účinnost rotoru. Dodržuj schválené podmínky letu."
     },
     {
       "sourceNumber": "73",
@@ -23234,7 +23306,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-73"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-73",
+      "explanation": "Vyšší hmotnost vyžaduje vyšší vztlak/tah rotoru, tedy větší výkon. Klesá přebytek výkonu i stoupavost."
     },
     {
       "sourceNumber": "74",
@@ -23250,7 +23323,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-74"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-74",
+      "explanation": "Rychlost maximální výdrže bývá nižší než rychlost maximálního doletu; pro výdrž se minimalizuje spotřeba za čas, pro dolet spotřeba na vzdálenost."
     },
     {
       "sourceNumber": "75",
@@ -23266,7 +23340,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-75"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-75",
+      "explanation": "Přistání proti větru obvykle snižuje rychlost vůči zemi a potřebnou přistávací vzdálenost. Odpověď uvádějící zvětšení délky přistání je fyzikálně podezřelá."
     },
     {
       "sourceNumber": "76",
@@ -23282,7 +23357,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 16,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-76"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p16-76",
+      "explanation": "Je-li GS významně vyšší než TAS, působí zadní složka větru. Platí přibližně GS = TAS + složka větru ve směru letu."
     },
     {
       "sourceNumber": "77",
@@ -23298,7 +23374,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "7-Provedeni-a-planovani-letu-–-vrtulnik-opr.1.pdf",
       "page": 17,
-      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-77"
+      "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-77",
+      "explanation": "Další palivo zvyšuje hmotnost a požadovaný výkon, ale zároveň prodlužuje dostupnou dobu letu; obecný závěr, že maximální dolet se vždy sníží, není správný bez definice limitů a profilu letu."
     },
     {
       "sourceNumber": "78",
@@ -23316,7 +23393,8 @@
       "page": 17,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-78",
       "image": "./assets/questions/PFP-045.jpg",
-      "imageCode": "PFP-045"
+      "imageCode": "PFP-045",
+      "explanation": "Maximální přípustnou hmotnost pro danou tlakovou výšku a +20 °C odečti z výkonové tabulky PFP-047 či přílohy uvedené u otázky. Bez grafu ji nelze doložit."
     },
     {
       "sourceNumber": "79",
@@ -23334,7 +23412,8 @@
       "page": 17,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-79",
       "image": "./assets/questions/PFP-045.jpg",
-      "imageCode": "PFP-045"
+      "imageCode": "PFP-045",
+      "explanation": "Pro vis v přízemním efektu ve výšce 9000 ft a +10 °C určete hmotnost z grafu HIGE PFP-045 a porovnej s konstrukčním limitem."
     },
     {
       "sourceNumber": "80",
@@ -23352,7 +23431,8 @@
       "page": 17,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p17-80",
       "image": "./assets/questions/PFP-061.jpg",
-      "imageCode": "PFP-061"
+      "imageCode": "PFP-061",
+      "explanation": "Symbol skupiny neosvětlených překážek musí být určen podle konkrétních příkladů v PFP-061. Bez čitelné obrazové přílohy nelze nezávisle ověřit písmeno odpovědi."
     },
     {
       "sourceNumber": "81",
@@ -23370,7 +23450,8 @@
       "page": 18,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p18-81",
       "image": "./assets/questions/PFP-062.jpg",
-      "imageCode": "PFP-062"
+      "imageCode": "PFP-062",
+      "explanation": "Značku civilního letiště se zpevněnou RWY určuj z legendy mapy PFP-062. Písmeno volby není možné doložit bez obrázku."
     },
     {
       "sourceNumber": "82",
@@ -23388,7 +23469,8 @@
       "page": 18,
       "id": "7-provedeni-a-planovani-letu-vrtulnik-opr-1-p18-82",
       "image": "./assets/questions/PFP-063.jpg",
-      "imageCode": "PFP-063"
+      "imageCode": "PFP-063",
+      "explanation": "Nadmořskou výšku bodu (spot elevation) v mapě rozpoznáš podle příslušného symbolu a číselné výšky; přesnou možnost je potřeba potvrdit z PFP-063."
     },
     {
       "sourceNumber": "1",
@@ -23404,7 +23486,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-1"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-1",
+      "explanation": "Po odletu z neřízeného letiště je třeba co nejdříve oznámit skutečný čas vzletu příslušnému stanovišti ATS, aby byl aktivován a správně veden podaný letový plán. Řiď se postupy platného AIP."
     },
     {
       "sourceNumber": "2",
@@ -23420,7 +23503,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-2"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-2",
+      "explanation": "Přistání mimo letiště určení je změnou proti podanému letovému plánu. Pilot o tom musí informovat příslušné ATS/FIS a zajistit ukončení či změnu letového plánu, aby se předešlo zbytečné pátrací akci."
     },
     {
       "sourceNumber": "3",
@@ -23436,7 +23520,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-3"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-3",
+      "explanation": "Schválená maximální hmotnost je závazné provozní omezení. Přetížení zhoršuje vzlet, stoupání a zatížení konstrukce; pilot ho nesmí řešit pouhým jiným způsobem pilotáže."
     },
     {
       "sourceNumber": "4",
@@ -23452,7 +23537,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-4"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-4",
+      "explanation": "Těžiště musí po celou dobu letu zůstat v obálce povolených poloh, uvedené v letové příručce. Příliš přední i zadní těžiště může omezit řiditelnost."
     },
     {
       "sourceNumber": "5",
@@ -23468,7 +23554,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-5"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-5",
+      "explanation": "Zadní těžiště snižuje podélnou stabilitu, zmenšuje rezervu pro vybrání pádu a může zhoršit obnovu normálního letu. Dodržení zadní meze je zásadní."
     },
     {
       "sourceNumber": "6",
@@ -23484,7 +23571,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-6"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-6",
+      "explanation": "Při změně naložení nebo spotřeby paliva se mění hmotnost a případně i těžiště. Kontrola limitů při vzletu sama o sobě nestačí; je potřeba ověřit celý let."
     },
     {
       "sourceNumber": "7",
@@ -23500,7 +23588,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-7"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-7",
+      "explanation": "Přední těžiště u konvenčního letounu často zvyšuje podélnou stabilitu, ale může zvýšit potřebnou sílu na ocas, odpor i pádovou rychlost. Pozor: u vrtulníku nelze toto vysvětlení automaticky převzít; odpovědní klíč může být převzat z letounové verze."
     },
     {
       "sourceNumber": "8",
@@ -23516,7 +23605,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-8"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-8",
+      "explanation": "Základní prázdná hmotnost zahrnuje konstrukci, pevně instalované vybavení a položky stanovené definicí v dokumentaci. Text možnosti v databázi je zjevně chybně spojený extrakcí z PDF; vyžaduje porovnání s originálem."
     },
     {
       "sourceNumber": "9",
@@ -23532,7 +23622,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-9"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-9",
+      "explanation": "Prázdná hmotnost konkrétního stroje se určuje vážením, polohu těžiště pak výpočtem z hmotností, ramen a momentů. Po změnách vybavení je třeba údaje aktualizovat."
     },
     {
       "sourceNumber": "10",
@@ -23548,7 +23639,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-10"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-10",
+      "explanation": "Pro školní výpočty se obvykle používá hustota AVGAS 100LL asi 0,72 kg/l při 15 °C. Hmotnost v kg = litry × hustota v kg/l."
     },
     {
       "sourceNumber": "11",
@@ -23564,7 +23656,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-11"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-11",
+      "explanation": "Převod: 1 kg = 2,20462 lb, proto kg × 2,205 ≈ lb. Obráceně lb × 0,453592 ≈ kg."
     },
     {
       "sourceNumber": "12",
@@ -23580,7 +23673,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-12"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-12",
+      "explanation": "Posunutý náklad mění centráž, může poškodit konstrukci a ohrozit osoby. Náklad se musí upevnit proti posunu v každé ose."
     },
     {
       "sourceNumber": "13",
@@ -23596,7 +23690,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-13"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-13",
+      "explanation": "Upevnění nákladu zabraňuje pohybu těžiště během letu. Současně se musí dodržet hmotnostní limity prostoru."
     },
     {
       "sourceNumber": "14",
@@ -23612,7 +23707,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-14"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-14",
+      "explanation": "Výsledná tíhová síla působí v těžišti. Pro hmotnost a vyvážení se pracuje s polohou výslednice všech dílčích hmotností."
     },
     {
       "sourceNumber": "15",
@@ -23628,7 +23724,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-15"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-15",
+      "explanation": "Těžiště je bod, ve kterém lze pro účely výpočtu uvažovat působení výsledné tíhové síly letadla."
     },
     {
       "sourceNumber": "16",
@@ -23644,7 +23741,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-16"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-16",
+      "explanation": "Těžiště je působiště výsledné tíhy. Jeho poloha závisí na rozmístění posádky, paliva, zavazadel a vybavení."
     },
     {
       "sourceNumber": "17",
@@ -23660,7 +23758,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-17"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-17",
+      "explanation": "V ustáleném vodorovném přímočarém letu bez zrychlení platí přibližně tah = odpor a vztlak = tíha. Ve stoupání či sestupu se složky sil liší."
     },
     {
       "sourceNumber": "18",
@@ -23676,7 +23775,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-18"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-18",
+      "explanation": "Datum je referenční rovina, od níž se měří ramena jednotlivých hmotností; určuje ji výrobce letadla."
     },
     {
       "sourceNumber": "19",
@@ -23692,7 +23792,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-19"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-19",
+      "explanation": "Moment = hmotnost × rameno od společného data; jednotky například kg·m nebo lb·in."
     },
     {
       "sourceNumber": "20",
@@ -23708,7 +23809,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-20"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-20",
+      "explanation": "Rameno je podepsaná podélná vzdálenost mezi referenční rovinou a těžištěm dané části."
     },
     {
       "sourceNumber": "21",
@@ -23724,7 +23826,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-21"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-21",
+      "explanation": "Rameno je podepsaná podélná vzdálenost mezi referenční rovinou a těžištěm dané části."
     },
     {
       "sourceNumber": "22",
@@ -23740,7 +23843,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-22"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-22",
+      "explanation": "Rameno je podepsaná podélná vzdálenost mezi referenční rovinou a těžištěm dané části."
     },
     {
       "sourceNumber": "23",
@@ -23756,7 +23860,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-23"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-23",
+      "explanation": "Hmotnosti, ramena i povolenou obálku těžiště najdeš v oddíle Weight and Balance konkrétního AFM/POH."
     },
     {
       "sourceNumber": "24",
@@ -23772,7 +23877,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-24"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-24",
+      "explanation": "Před vážením se letadlo uvede do předepsané konfigurace podle vážního postupu, typicky s nevyčerpatelným palivem a bez vyčerpatelného paliva."
     },
     {
       "sourceNumber": "25",
@@ -23788,7 +23894,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-25"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-25",
+      "explanation": "Základní prázdná hmotnost a moment jsou dokumentovány v oddíle Hmotnost a vyvážení letové příručky."
     },
     {
       "sourceNumber": "26",
@@ -23806,7 +23913,8 @@
       "page": 6,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-26",
       "image": "./assets/questions/PFP-052E.jpg",
-      "imageCode": "PFP-052E"
+      "imageCode": "PFP-052E",
+      "explanation": "Těžiště urči z momentové bilance a porovnej s příslušným výkresem PFP-052e. Samotný text otázky bez čitelné přílohy neposkytuje hodnoty pro nezávislý přepočet."
     },
     {
       "sourceNumber": "27",
@@ -23822,7 +23930,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-27"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-27",
+      "explanation": "Hmotnost paliva = 102 l × 0,72 kg/l = 73,44 kg, přibližně 74 kg podle zaokrouhlení testu."
     },
     {
       "sourceNumber": "28",
@@ -23838,7 +23947,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-28"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-28",
+      "explanation": "Po spotřebě paliva: nový moment = 2300 × 95,75 − 170 × 87 = 205 435 lb·in; nová hmotnost = 2130 lb; nové CG = 205435 / 2130 = 96,45 in."
     },
     {
       "sourceNumber": "29",
@@ -23854,7 +23964,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-29"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-29",
+      "explanation": "Odečti hmotnost spotřebovaného paliva i jeho moment: m_pal = 30,5 × 0,72 = 21,96 kg; CG_nové = (746 × 37,1 − 21,96 × 45) / (746 − 21,96) ≈ 36,86 cm, tedy 36,9 cm."
     },
     {
       "sourceNumber": "30",
@@ -23870,7 +23981,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 7,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-30"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-30",
+      "explanation": "m_pal = 55 × 0,72 = 39,6 kg; CG_nové = (1082 × 0,254 − 39,6 × 0,40) / (1082 − 39,6) = 0,24845 m, tedy přibližně 24,8 cm."
     },
     {
       "sourceNumber": "31",
@@ -23888,7 +24000,8 @@
       "page": 7,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-31",
       "image": "./assets/questions/PFP-053E.jpg",
-      "imageCode": "PFP-053E"
+      "imageCode": "PFP-053E",
+      "explanation": "Těžiště s palivem získáš dělením součtu momentů celkovou hmotností. Zkontroluj výchozí čísla v obrázku PFP-053e; samotný text k přepočtu nestačí."
     },
     {
       "sourceNumber": "32",
@@ -23906,7 +24019,8 @@
       "page": 7,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-32",
       "image": "./assets/questions/PFP-003.jpg",
-      "imageCode": "PFP-003"
+      "imageCode": "PFP-003",
+      "explanation": "Pro obálku centráže platí CG = moment / hmotnost = 625 / 750 = 0,8333 m, pokud jsou jednotky momentu skutečně kg·m. Výsledný bod pak vyhledej v diagramu PFP-003."
     },
     {
       "sourceNumber": "33",
@@ -23924,7 +24038,8 @@
       "page": 7,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-33",
       "image": "./assets/questions/PFP-004.jpg",
-      "imageCode": "PFP-004"
+      "imageCode": "PFP-004",
+      "explanation": "CG = 650 / 725 ≈ 0,8966 m při shodných konzistentních jednotkách. V diagramu PFP-004 odpovídá bod průsečíku 725 kg a momentu 650."
     },
     {
       "sourceNumber": "34",
@@ -23942,7 +24057,8 @@
       "page": 7,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p7-34",
       "image": "./assets/questions/PFP-005.jpg",
-      "imageCode": "PFP-005"
+      "imageCode": "PFP-005",
+      "explanation": "CG = 700 / 775 ≈ 0,9032 m při shodných jednotkách. U grafické varianty vyhledej průsečík hmotnosti 775 kg a momentu 700 v PFP-005."
     },
     {
       "sourceNumber": "35",
@@ -23960,7 +24076,8 @@
       "page": 8,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-35",
       "image": "./assets/questions/PFP-006.jpg",
-      "imageCode": "PFP-006"
+      "imageCode": "PFP-006",
+      "explanation": "Prázdnou hmotnost i polohu těžiště je nutné opsat z posledního platného protokolu vážení v obrázku PFP-006. Hodnota 280,59 m v extrahovaném klíči je podezřelá jednotka; bez přílohy ji nelze potvrdit."
     },
     {
       "sourceNumber": "36",
@@ -23978,7 +24095,8 @@
       "page": 8,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-36",
       "image": "./assets/questions/PFP-007.jpg",
-      "imageCode": "PFP-007"
+      "imageCode": "PFP-007",
+      "explanation": "Při různém nastavení klapek porovnej aerodynamické vlastnosti a konfiguraci podle PFP-007. Větší klapky zpravidla snižují rychlost odpoutání, ale mohou zvýšit odpor."
     },
     {
       "sourceNumber": "37",
@@ -23994,7 +24112,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-37"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-37",
+      "explanation": "Klapky zvětšují vztlak i odpor. Určité vzletové nastavení zkrátí rozjezd, ale větší výchylka může zhoršit gradient stoupání. Rozhoduje předepsané nastavení AFM/POH."
     },
     {
       "sourceNumber": "38",
@@ -24010,7 +24129,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-38"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-38",
+      "explanation": "Zadní vítr zvyšuje potřebnou traťovou rychlost pro stejnou vzdušnou rychlost odpoutání; prodlužuje vzlet i přistání. Čelní vítr působí opačně."
     },
     {
       "sourceNumber": "39",
@@ -24026,7 +24146,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-39"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-39",
+      "explanation": "Zesilující zadní vítr při průletu změnou větru může přechodně snížit indikovanou rychlost a stoupavost. Rozhoduje především střih větru, ne samotná ustálená rychlost větru."
     },
     {
       "sourceNumber": "40",
@@ -24042,7 +24163,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-40"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-40",
+      "explanation": "Čelní vítr snižuje rychlost vůči zemi při dané přibližovací IAS, a proto obvykle zkracuje vzdálenost přistání. Použij korekce a limity příručky."
     },
     {
       "sourceNumber": "41",
@@ -24058,7 +24180,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-41"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-41",
+      "explanation": "V podmínkách námrazy či srážek platí konkrétní vybavení a schválené provozní limity letadla. Toto znění testu je příliš obecné: ne každý let do srážek je automaticky zakázán; rozhoduje druh srážek a schválení letadla."
     },
     {
       "sourceNumber": "42",
@@ -24074,7 +24197,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-42"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-42",
+      "explanation": "Vx je rychlost nejlepšího úhlu stoupání, tj. největší získaná výška na jednotku vodorovné vzdálenosti. Používá se například při překážkách."
     },
     {
       "sourceNumber": "43",
@@ -24090,7 +24214,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-43"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-43",
+      "explanation": "Úhel sestupu je úhel mezi trajektorií sestupu a vodorovnou rovinou. Liší se od vertikální rychlosti, která se udává například ve ft/min."
     },
     {
       "sourceNumber": "44",
@@ -24106,7 +24231,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-44"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-44",
+      "explanation": "Ustálený nezrychlený vodorovný let má v ideálním zjednodušení rovnováhu vztlaku s tíhou a tahu s odporem. Při konstantním stoupání platí jiné rozklady sil."
     },
     {
       "sourceNumber": "45",
@@ -24122,7 +24248,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-45"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-45",
+      "explanation": "Vy je rychlost nejlepší stoupavosti za čas (maximum ft/min), na rozdíl od Vx pro nejlepší stoupací úhel."
     },
     {
       "sourceNumber": "46",
@@ -24138,7 +24265,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-46"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-46",
+      "explanation": "VFE je maximální dovolená rychlost se vztlakovými klapkami v určené poloze. Některá letadla mají limity podle stupně vysunutí."
     },
     {
       "sourceNumber": "47",
@@ -24154,7 +24282,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-47"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-47",
+      "explanation": "VS0 označuje pádovou rychlost nebo minimální ustálenou rychlost v přistávací konfiguraci."
     },
     {
       "sourceNumber": "48",
@@ -24172,7 +24301,8 @@
       "page": 10,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-48",
       "image": "./assets/questions/PFP-008.jpg",
-      "imageCode": "PFP-008"
+      "imageCode": "PFP-008",
+      "explanation": "Dolní okraj zeleného oblouku bývá VS1, minimální ustálená rychlost v určené konfiguraci. Pro přesný výklad značek zkontroluj PFP-008."
     },
     {
       "sourceNumber": "49",
@@ -24190,7 +24320,8 @@
       "page": 11,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-49",
       "image": "./assets/questions/PFP-008.jpg",
-      "imageCode": "PFP-008"
+      "imageCode": "PFP-008",
+      "explanation": "Horní okraj zeleného oblouku značí VNO, maximální konstrukční cestovní rychlost; nad ní, ve žlutém oblouku, jen v klidném vzduchu a s opatrností."
     },
     {
       "sourceNumber": "50",
@@ -24208,7 +24339,8 @@
       "page": 11,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-50",
       "image": "./assets/questions/PFP-008.jpg",
-      "imageCode": "PFP-008"
+      "imageCode": "PFP-008",
+      "explanation": "Červená radiální značka na rychloměru značí VNE, nepřekročitelnou rychlost."
     },
     {
       "sourceNumber": "51",
@@ -24224,7 +24356,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-51"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-51",
+      "explanation": "Pro dosažení zvolené výšky v nejkratším čase použij Vy za dané hmotnosti a podmínek podle AFM/POH."
     },
     {
       "sourceNumber": "52",
@@ -24240,7 +24373,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-52"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-52",
+      "explanation": "RWY 22 znamená přibližně 220°, vítr 250°/10 kt je pod úhlem 30°. Čelní složka = 10 × cos 30° = 8,66 kt, tedy 9 kt."
     },
     {
       "sourceNumber": "53",
@@ -24258,7 +24392,8 @@
       "page": 11,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-53",
       "image": "./assets/questions/PFP-009.jpg",
-      "imageCode": "PFP-009"
+      "imageCode": "PFP-009",
+      "explanation": "V diagramu PFP-009 vyhledej tlakovou výšku 5000 ft, OAT −20 °C, hmotnost 750 kg a čelní vítr 10 kt. Výsledek nelze nezávisle potvrdit bez přílohy."
     },
     {
       "sourceNumber": "54",
@@ -24274,7 +24409,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-54"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-54",
+      "explanation": "Pro RWY 36 (360°) a vítr 240°/12 kt je úhel 120°. Zadní složka = 12 × |cos120°| = 6 kt, boční = 12 × sin120° ≈ 10,4 kt zleva."
     },
     {
       "sourceNumber": "55",
@@ -24292,7 +24428,8 @@
       "page": 12,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-55",
       "image": "./assets/questions/PFP-009.jpg",
-      "imageCode": "PFP-009"
+      "imageCode": "PFP-009",
+      "explanation": "Délku vzletu je nutné odečíst z PFP-009: hmotnost 750 kg, 4000 ft, ISA (přibližně +7 °C) a 5 kt do zad. Zadní vítr vzletovou vzdálenost prodlužuje."
     },
     {
       "sourceNumber": "56",
@@ -24310,7 +24447,8 @@
       "page": 12,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-56",
       "image": "./assets/questions/PFP-009.jpg",
-      "imageCode": "PFP-009"
+      "imageCode": "PFP-009",
+      "explanation": "Nejprve určete tlakový výškový údaj (QNH 1013 znamená přibližně 3500 ft), pak z diagramu PFP-009 opravte OAT 20 °C, 705 kg a zadní vítr 5 kt."
     },
     {
       "sourceNumber": "57",
@@ -24326,7 +24464,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-57"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-57",
+      "explanation": "RWY 36 = 360°, vítr 240°/12 kt, rozdíl 120°: zadní složka 6 kt a boční zleva 10,4 kt."
     },
     {
       "sourceNumber": "58",
@@ -24344,7 +24483,8 @@
       "page": 12,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-58",
       "image": "./assets/questions/PFP-012.jpg",
-      "imageCode": "PFP-012"
+      "imageCode": "PFP-012",
+      "explanation": "Spotřebu paliva odečti z výkonového grafu PFP-012 při tlakové výšce 2000 ft, 31 °C a 2400 RPM. Nejde o hodnotu odvoditelnou univerzálním vzorcem."
     },
     {
       "sourceNumber": "59",
@@ -24362,7 +24502,8 @@
       "page": 13,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-59",
       "image": "./assets/questions/PFP-011.jpg",
-      "imageCode": "PFP-011"
+      "imageCode": "PFP-011",
+      "explanation": "V grafu PFP-011 odečti rychlost stoupání pro tlakovou výšku 10 000 ft a OAT −20 °C. Klesající hustota vzduchu obecně zhoršuje stoupavost."
     },
     {
       "sourceNumber": "60",
@@ -24380,7 +24521,8 @@
       "page": 13,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-60",
       "image": "./assets/questions/PFP-013.jpg",
-      "imageCode": "PFP-013"
+      "imageCode": "PFP-013",
+      "explanation": "Dolet odečti v grafu PFP-013 při 6000 ft tlakové výšky, +6 °C a 65 % výkonu. Jedná se o údaj konkrétního letadla."
     },
     {
       "sourceNumber": "61",
@@ -24398,7 +24540,8 @@
       "page": 13,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-61",
       "image": "./assets/questions/PFP-013.jpg",
-      "imageCode": "PFP-013"
+      "imageCode": "PFP-013",
+      "explanation": "Dolet pro 2000 ft, +22 °C a 55 % výkonu vyhledej v PFP-013. Závisí na palivu, výkonu, TAS a podmínkách tabulky."
     },
     {
       "sourceNumber": "62",
@@ -24416,7 +24559,8 @@
       "page": 13,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-62",
       "image": "./assets/questions/PFP-014.jpg",
-      "imageCode": "PFP-014"
+      "imageCode": "PFP-014",
+      "explanation": "TAS získáš z grafu PFP-014 pro 6000 ft, +10 °C a 65 % výkonu. TAS bývá ve výšce vyšší než IAS při téže indikované rychlosti."
     },
     {
       "sourceNumber": "63",
@@ -24434,7 +24578,8 @@
       "page": 13,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p13-63",
       "image": "./assets/questions/PFP-014.jpg",
-      "imageCode": "PFP-014"
+      "imageCode": "PFP-014",
+      "explanation": "Z grafu PFP-014 odečti TAS pro 8000 ft, −2 °C a 75 % výkonu. Nezaměňuj TAS s IAS."
     },
     {
       "sourceNumber": "64",
@@ -24452,7 +24597,8 @@
       "page": 14,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-64",
       "image": "./assets/questions/PFP-011.jpg",
-      "imageCode": "PFP-011"
+      "imageCode": "PFP-011",
+      "explanation": "Pro 9000 ft a +12 °C vyhledej v PFP-011 stoupavost. Vysoká hustotní výška zhoršuje přebytek výkonu."
     },
     {
       "sourceNumber": "65",
@@ -24470,7 +24616,8 @@
       "page": 14,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-65",
       "image": "./assets/questions/PFP-011.jpg",
-      "imageCode": "PFP-011"
+      "imageCode": "PFP-011",
+      "explanation": "Pro 6500 ft a 0 °C vyhledej maximální stoupavost v PFP-011. Zadaná teplota a tlaková výška jsou vstupem do tabulky."
     },
     {
       "sourceNumber": "66",
@@ -24488,7 +24635,8 @@
       "page": 14,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-66",
       "image": "./assets/questions/PFP-012.jpg",
-      "imageCode": "PFP-012"
+      "imageCode": "PFP-012",
+      "explanation": "FL 60 odpovídá tlakové výšce 6000 ft; ISA v ní je přibližně +3 °C, tedy ISA−20 ≈ −17 °C. TAS i FF odečti pro 60 % výkonu z PFP-012; QNH se na definici FL nevztahuje."
     },
     {
       "sourceNumber": "67",
@@ -24506,7 +24654,8 @@
       "page": 14,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p14-67",
       "image": "./assets/questions/PFP-012.jpg",
-      "imageCode": "PFP-012"
+      "imageCode": "PFP-012",
+      "explanation": "FL 60 je tlaková výška 6000 ft; ISA−20 odpovídá přibližně −17 °C. V PFP-012 čti hodnoty TAS a FF pro 70 % výkonu."
     },
     {
       "sourceNumber": "68",
@@ -24524,7 +24673,8 @@
       "page": 15,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-68",
       "image": "./assets/questions/PFP-014.jpg",
-      "imageCode": "PFP-014"
+      "imageCode": "PFP-014",
+      "explanation": "Ve FL 85 je tlaková výška 8500 ft. Pro OAT −25 °C a výkon 60 % čti TAS a spotřebu v PFP-014. Jednotku paliva v extrahované odpovědi ověř: pro průtok se očekává l/h."
     },
     {
       "sourceNumber": "69",
@@ -24542,7 +24692,8 @@
       "page": 15,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-69",
       "image": "./assets/questions/PFP-023.jpg",
-      "imageCode": "PFP-023"
+      "imageCode": "PFP-023",
+      "explanation": "Z PFP-023 určete doporučenou rychlost pro stoupání při hmotnosti 3000 lb, od 3000 ft do FL 75 a zadaných teplotách."
     },
     {
       "sourceNumber": "70",
@@ -24560,7 +24711,8 @@
       "page": 15,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-70",
       "image": "./assets/questions/PFP-023.jpg",
-      "imageCode": "PFP-023"
+      "imageCode": "PFP-023",
+      "explanation": "Pro úsek FL 65 až FL 95 odečti kumulativní palivo v PFP-023 na obou hladinách a vypočti rozdíl. Použij příslušnou hmotnost a teploty."
     },
     {
       "sourceNumber": "71",
@@ -24578,7 +24730,8 @@
       "page": 15,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p15-71",
       "image": "./assets/questions/PFP-023.jpg",
-      "imageCode": "PFP-023"
+      "imageCode": "PFP-023",
+      "explanation": "Pro vzdálenost stoupání od FL 65 do FL 95 odečti vzdálenosti v diagramu PFP-023 a vezmi jejich rozdíl."
     },
     {
       "sourceNumber": "72",
@@ -24596,7 +24749,8 @@
       "page": 16,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-72",
       "image": "./assets/questions/PFP-023.jpg",
-      "imageCode": "PFP-023"
+      "imageCode": "PFP-023",
+      "explanation": "Z grafu PFP-023 urči kumulativní vzdálenost stoupání pro 3000 lb a rozdíl mezi 3000 ft a FL 75 za zadaných teplot."
     },
     {
       "sourceNumber": "73",
@@ -24612,7 +24766,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-73"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-73",
+      "explanation": "MEF je mapová výšková hodnota maximálního terénu/překážky v dané oblasti s bezpečnostním zaokrouhlením podle pravidel konkrétní mapy. Pro plánování vždy ověř měřítko, jednotky a definici legendy."
     },
     {
       "sourceNumber": "74",
@@ -24628,7 +24783,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-74"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-74",
+      "explanation": "Příčné orientační linie jako řeky, silnice a železnice mohou sloužit jako záchytné linie, které pilot pozná při odchylce od plánované trasy."
     },
     {
       "sourceNumber": "75",
@@ -24644,7 +24800,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-75"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-75",
+      "explanation": "Polokruhové pravidlo používá magnetickou trať (track), nikoli zeměpisný kurs, magnetický heading ani směr větru."
     },
     {
       "sourceNumber": "76",
@@ -24660,7 +24817,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-76"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-76",
+      "explanation": "Zeměpisná trať 181°, východní deklinace 3°: magnetická trať = 181° − 3° = 178°. Pro magnetickou trať 000–179° se při příslušném použití tabulky VFR vybírají liché tisíce + 500 ft; zde FL 055."
     },
     {
       "sourceNumber": "77",
@@ -24678,7 +24836,8 @@
       "page": 17,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-77",
       "image": "./assets/questions/PFP-056.jpg",
-      "imageCode": "PFP-056"
+      "imageCode": "PFP-056",
+      "explanation": "Horní hranici omezeného prostoru LO R 16 odečti z přílohy PFP-056. Údaj a aktivaci konkrétního prostoru v reálném letu ověř v aktuálním AIP a NOTAM."
     },
     {
       "sourceNumber": "78",
@@ -24696,7 +24855,8 @@
       "page": 17,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-78",
       "image": "./assets/questions/PFP-030.jpg",
-      "imageCode": "PFP-030"
+      "imageCode": "PFP-030",
+      "explanation": "Horní hranici prostoru LO R 4 odečti z PFP-030. Historický testový údaj se nemusí shodovat se současným vzdušným prostorem."
     },
     {
       "sourceNumber": "79",
@@ -24712,7 +24872,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-79"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-79",
+      "explanation": "Přebytek hmotnosti při zahájení pojíždění proti MTOM je 1148 − 1145 = 3 kg. Při hustotě AVGAS 0,72 kg/l vychází 3/0,72 = 4,17 l; test zaokrouhluje na 4 l, ale pro skutečný provoz se nesmí MTOM překročit."
     },
     {
       "sourceNumber": "80",
@@ -24728,7 +24889,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-80"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-80",
+      "explanation": "Traťové palivo pro úsek od vzletu do přistání = 12 l (vzlet/stoupání) + 25 l (trať) + 7 l (klesání/přiblížení) = 44 l. Palivo pro pojíždění, náhradní letiště a finální rezerva se připočítává samostatně."
     },
     {
       "sourceNumber": "81",
@@ -24746,7 +24908,8 @@
       "page": 18,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-81",
       "image": "./assets/questions/PFP-026.jpg",
-      "imageCode": "PFP-026"
+      "imageCode": "PFP-026",
+      "explanation": "Nestačí porovnat 707 m dráhy a potřebných 550 m: je nutné aplikovat NOTAM z PFP-026, který může použitelnou délku nebo dráhu omezit."
     },
     {
       "sourceNumber": "82",
@@ -24764,7 +24927,8 @@
       "page": 18,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-82",
       "image": "./assets/questions/PFP-024.jpg",
-      "imageCode": "PFP-024"
+      "imageCode": "PFP-024",
+      "explanation": "Výškový limit z NOTAM PFP-024 odečti z pole E a příslušného rozsahu. Rozlišuj AGL a MSL; bez přílohy výsledek nelze nezávisle přezkoušet."
     },
     {
       "sourceNumber": "83",
@@ -24780,7 +24944,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-83"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-83",
+      "explanation": "EOBT (Estimated Off-Block Time) je plánovaný čas zahájení pohybu ze stání uváděný v UTC; nejde o čas skutečného vzletu."
     },
     {
       "sourceNumber": "84",
@@ -24798,7 +24963,8 @@
       "page": 18,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-84",
       "image": "./assets/questions/PFP-051A.jpg",
-      "imageCode": "PFP-051A"
+      "imageCode": "PFP-051A",
+      "explanation": "Typ letu zjistíš z příslušných polí formuláře ATS FPL v PFP-051a; označení VFR a noc je nutné interpretovat společně."
     },
     {
       "sourceNumber": "85",
@@ -24816,7 +24982,8 @@
       "page": 18,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-85",
       "image": "./assets/questions/PFP-051.jpg",
-      "imageCode": "PFP-051"
+      "imageCode": "PFP-051",
+      "explanation": "Položka rychlosti v letovém plánu může být zapsána například N0100 = 100 kt. Přesné pole a zápis ověř v obrázku PFP-051."
     },
     {
       "sourceNumber": "86",
@@ -24832,7 +24999,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-86"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-86",
+      "explanation": "Při přeshraničních letech platí povinnosti podání letového plánu a místní výjimky podle konkrétního vzdušného prostoru a pravidel. Zkontroluj aktuální AIP a SERA; znění historické testové otázky může být zjednodušené."
     },
     {
       "sourceNumber": "87",
@@ -24848,7 +25016,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-87"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-87",
+      "explanation": "Za letu lze v příslušných situacích podat ATS letový plán stanovišti FIS. Pilot musí uvést požadované náležitosti a respektovat případné lhůty či postupy."
     },
     {
       "sourceNumber": "88",
@@ -24864,7 +25033,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-88"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-88",
+      "explanation": "Při zadním větru je pro maximální dolet často výhodná mírně nižší rychlost vůči vzduchu než v bezvětří; optimalizuje se poměr traťové rychlosti ke spotřebě."
     },
     {
       "sourceNumber": "89",
@@ -24880,7 +25050,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-89"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-89",
+      "explanation": "Při stálé IAS roste s výškou zpravidla TAS, protože nižší hustota vzduchu vyžaduje pro stejný dynamický tlak vyšší skutečnou rychlost."
     },
     {
       "sourceNumber": "90",
@@ -24896,7 +25067,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 19,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-90"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p19-90",
+      "explanation": "Spotřeba v první části letu = (200 − 120) lb / 25 min = 3,2 lb/min. K cíli lze využít 120 − 40 − 30 = 50 lb; zbývající maximální čas = 50/3,2 = 15,625 min."
     },
     {
       "sourceNumber": "91",
@@ -24912,7 +25084,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-91"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-91",
+      "explanation": "Po polovině trasy bylo spotřebováno 180 − 100 = 80 kg. Za stejných podmínek se na druhé polovině spotřebuje také 80 kg a po přistání zůstane 20 kg; plánovaná rezerva je ale 0,30 × 180 = 54 kg, takže plán by nebyl přijatelný."
     },
     {
       "sourceNumber": "92",
@@ -24928,7 +25101,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 20,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-92"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-92",
+      "explanation": "Použitelné palivo nad zálohu = 80 − 20 = 60 USG. Čas 2 h 20 min = 2,333 h. Nejvyšší průměrný průtok = 60 / 2,333 = 25,7 USG/h."
     },
     {
       "sourceNumber": "93",
@@ -24946,7 +25120,8 @@
       "page": 20,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-93",
       "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
-      "imageCode": "CAP697_TABLE-2-2-3"
+      "imageCode": "CAP697_TABLE-2-2-3",
+      "explanation": "Z CAP 697 SEP1, tabulky 2.2.3 odečti při FL 75, ISA, 3400 lb, 23 inHg a 2300 RPM TAS a FF. Bez tabulky nelze jejich číselnou hodnotu nezávisle dopočítat."
     },
     {
       "sourceNumber": "94",
@@ -24964,7 +25139,8 @@
       "page": 20,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p20-94",
       "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
-      "imageCode": "CAP697_TABLE-2-2-3"
+      "imageCode": "CAP697_TABLE-2-2-3",
+      "explanation": "V CAP 697 SEP1, tabulce 2.2.3, vyhledej FL 65, ISA+20, 3400 lb, 23 inHg a 2300 RPM. Rozlišuj IAS od TAS."
     },
     {
       "sourceNumber": "95",
@@ -24982,7 +25158,8 @@
       "page": 21,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p21-95",
       "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
-      "imageCode": "CAP697_TABLE-2-2-3"
+      "imageCode": "CAP697_TABLE-2-2-3",
+      "explanation": "Čas traťového letu 2 h 43 min = 2,7167 h. Připočti příslušné palivo pro 7 min stoupání, 10 min přiblížení, 2 USG na pojíždění a rezervu 30 % traťového paliva; průtok je nutné odečíst z CAP 697 SEP1."
     },
     {
       "sourceNumber": "96",
@@ -25000,7 +25177,8 @@
       "page": 21,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p21-96",
       "image": "./assets/questions/CAP697_TABLE-2-2-3.jpg",
-      "imageCode": "CAP697_TABLE-2-2-3"
+      "imageCode": "CAP697_TABLE-2-2-3",
+      "explanation": "Čas traťového letu 2 h 42 min = 2,7 h. Přidej 8 min stoupání, 10 min přiblížení, 2 USG na pojíždění a rezervu 30 % traťového paliva; spotřebu odečti v CAP 697 SEP1."
     },
     {
       "sourceNumber": "97",
@@ -25016,7 +25194,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 21,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p21-97"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p21-97",
+      "explanation": "Při stejné spotřebě po polovině trasy bude dalších 40 USG, tedy zůstane 95 − 80 = 15 USG. To je méně než 20 USG pro náhradní letiště a finální rezervu; uvedený klíč '5 plus 20' je v rozporu se zadanými údaji a vyžaduje opravu."
     },
     {
       "sourceNumber": "98",
@@ -25033,7 +25212,8 @@
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-98"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-98",
+      "explanation": "Po polovině trasy bylo spotřebováno 30 USG, při nezměněné spotřebě dalších 30 USG: po přistání zbude 90 − 60 = 30 USG celkem, nikoli 30 USG plus samostatných 20 USG rezerv. Původní klíč je zavádějící."
     },
     {
       "sourceNumber": "99",
@@ -25051,7 +25231,8 @@
       "page": 22,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-99",
       "image": "./assets/questions/PFP-061.jpg",
-      "imageCode": "PFP-061"
+      "imageCode": "PFP-061",
+      "explanation": "Symbol skupiny neosvětlených překážek musí být určen podle konkrétních příkladů v PFP-061. Bez čitelné obrazové přílohy nelze nezávisle ověřit písmeno odpovědi."
     },
     {
       "sourceNumber": "100",
@@ -25069,7 +25250,8 @@
       "page": 22,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-100",
       "image": "./assets/questions/PFP-062.jpg",
-      "imageCode": "PFP-062"
+      "imageCode": "PFP-062",
+      "explanation": "Značku civilního letiště se zpevněnou RWY určuj z legendy mapy PFP-062. Písmeno volby není možné doložit bez obrázku."
     },
     {
       "sourceNumber": "101",
@@ -25087,7 +25269,8 @@
       "page": 22,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-101",
       "image": "./assets/questions/PFP-063.jpg",
-      "imageCode": "PFP-063"
+      "imageCode": "PFP-063",
+      "explanation": "Nadmořskou výšku bodu (spot elevation) v mapě rozpoznáš podle příslušného symbolu a číselné výšky; přesnou možnost je potřeba potvrdit z PFP-063."
     },
     {
       "sourceNumber": "1",

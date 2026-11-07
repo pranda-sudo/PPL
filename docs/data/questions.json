@@ -5197,8 +5197,7 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-6",
-      "explanation": "Zbývající přibližně 1 % suché atmosféry tvoří zejména argon (asi 0,93 %) a v menší míře oxid uhličitý a další stopové plyny. Základní školní zaokrouhlení složení vzduchu je 78 % dusíku, 21 % kyslíku a 1 % ostatních plynů."
+      "id": "2-lidska-vykonnost-vrtulnik-p2-6"
     },
     {
       "sourceNumber": "7",
@@ -5215,7 +5214,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
       "id": "2-lidska-vykonnost-vrtulnik-p2-7",
-      "explanation": "Tabákový kouř obsahuje oxid uhelnatý (CO), který se váže na hemoglobin mnohem silněji než kyslík. Tím snižuje schopnost krve přenášet kyslík a zvyšuje riziko hypoxie, zejména ve výšce. CO je bezbarvý a bez zápachu; příznaky otravy mohou zahrnovat bolest hlavy, slabost a zmatenost."
+      "explanation": "Poškozený výměník tepla nebo netěsnosti výfukové soustavy mohou propustit spaliny s oxidem uhelnatým do vytápění kabiny. CO je bez zápachu a barvy a může rychle zhoršit úsudek i vědomí pilota. Při podezření je nutné postupovat podle nouzových postupů letadla, zajistit čerstvý vzduch a bezpečně přistát."
     },
     {
       "sourceNumber": "8",
@@ -5449,8 +5448,7 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-21",
-      "explanation": "Při nevolnosti cestujícího pomůže stabilní, plynulý let bez prudkých zatáček a přetížení, přiměřené větrání a komfortní teplota kabiny. Pokud by se objevily příznaky hypoxie nebo otravy CO, je situace závažnější a vyžaduje odpovídající okamžitý postup."
+      "id": "2-lidska-vykonnost-vrtulnik-p5-21"
     },
     {
       "sourceNumber": "22",
@@ -5466,8 +5464,7 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-22",
-      "explanation": "Reflex je automatická, mimovolní odpověď nervového systému na určitý podnět, například mrknutí při ohrožení oka. Probíhá reflexním obloukem a nevyžaduje vědomé rozhodnutí."
+      "id": "2-lidska-vykonnost-vrtulnik-p5-22"
     },
     {
       "sourceNumber": "23",
@@ -5484,7 +5481,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
       "id": "2-lidska-vykonnost-vrtulnik-p5-23",
-      "explanation": "Autonomní (vegetativní) nervový systém řídí řadu mimovolních funkcí, například srdeční frekvenci, trávení a regulaci dýchání. Zahrnuje sympatickou a parasympatickou část, které se podílejí na reakci na stres i odpočinek."
+      "explanation": "Při nevolnosti cestujícího pomůže stabilní, plynulý let bez prudkých zatáček a přetížení, přiměřené větrání a komfortní teplota kabiny. Pokud by se objevily příznaky hypoxie nebo otravy CO, je situace závažnější a vyžaduje odpovídající okamžitý postup."
     },
     {
       "sourceNumber": "24",
@@ -5501,7 +5498,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
       "id": "2-lidska-vykonnost-vrtulnik-p5-24",
-      "explanation": "Paralaxa je zdánlivá změna polohy ukazatele vůči stupnici při pohledu z různých úhlů. Na analogový přístroj je proto vhodné dívat se pokud možno kolmo, aby se předešlo chybné interpretaci údaje."
+      "explanation": "Reflex je automatická, mimovolní odpověď nervového systému na určitý podnět, například mrknutí při ohrožení oka. Probíhá reflexním obloukem a nevyžaduje vědomé rozhodnutí."
     },
     {
       "sourceNumber": "25",
@@ -5518,7 +5515,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
       "id": "2-lidska-vykonnost-vrtulnik-p5-25",
-      "explanation": "Polarizované brýle mohou ztížit čtení některých LCD displejů a potlačovat odlesky, které pilot využívá k rozpoznání dalších letadel či povrchů. Proto se v letectví často doporučují kvalitní nepolarizované brýle s UV ochranou a vhodným propouštěním světla."
+      "explanation": "Autonomní (vegetativní) nervový systém řídí řadu mimovolních funkcí, například srdeční frekvenci, trávení a regulaci dýchání. Zahrnuje sympatickou a parasympatickou část, které se podílejí na reakci na stres i odpočinek."
     },
     {
       "sourceNumber": "26",
@@ -5535,7 +5532,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
       "id": "2-lidska-vykonnost-vrtulnik-p6-26",
-      "explanation": "Čípky na sítnici zajišťují barevné a ostré vidění hlavně za denního osvětlení. Tyčinky jsou citlivější při slabém světle, ale barvy nerozlišují; proto je noční vidění méně barevné."
+      "explanation": "Paralaxa je zdánlivá změna polohy ukazatele vůči stupnici při pohledu z různých úhlů. Na analogový přístroj je proto vhodné dívat se pokud možno kolmo, aby se předešlo chybné interpretaci údaje."
     },
     {
       "sourceNumber": "27",
@@ -5552,7 +5549,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
       "id": "2-lidska-vykonnost-vrtulnik-p6-27",
-      "explanation": "Eustachova (sluchová) trubice spojuje střední ucho s nosohltanem a umožňuje vyrovnávat tlak na obou stranách bubínku. Při změnách výšky se otevírá například při polykání nebo zívání."
+      "explanation": "Polarizované brýle mohou ztížit čtení některých LCD displejů a potlačovat odlesky, které pilot využívá k rozpoznání dalších letadel či povrchů. Proto se v letectví často doporučují kvalitní nepolarizované brýle s UV ochranou a vhodným propouštěním světla."
     },
     {
       "sourceNumber": "28",
@@ -5569,7 +5566,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
       "id": "2-lidska-vykonnost-vrtulnik-p6-28",
-      "explanation": "Pokud je Eustachova trubice ucpaná, například při rýmě, tlak ve středním uchu se nemůže snadno vyrovnat s tlakem okolí. Zvláště při klesání může vzniknout bolestivé barotrauma. Při nachlazení je proto nutné pečlivě posoudit způsobilost k letu."
+      "explanation": "Čípky na sítnici zajišťují barevné a ostré vidění hlavně za denního osvětlení. Tyčinky jsou citlivější při slabém světle, ale barvy nerozlišují; proto je noční vidění méně barevné."
     },
     {
       "sourceNumber": "29",
@@ -5586,7 +5583,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
       "id": "2-lidska-vykonnost-vrtulnik-p6-29",
-      "explanation": "Po delší ustálené zatáčce se polokruhové kanálky vnitřního ucha přizpůsobí stálé úhlové rychlosti. Při srovnání křídel pak změna pohybu tekutiny vyvolá klamný pocit zatáčení na opačnou stranu. Jde o vestibulární iluzi, proto je při ztrátě vnějších vizuálních referencí zásadní důvěřovat přístrojům."
+      "explanation": "Eustachova (sluchová) trubice spojuje střední ucho s nosohltanem a umožňuje vyrovnávat tlak na obou stranách bubínku. Při změnách výšky se otevírá například při polykání nebo zívání."
     },
     {
       "sourceNumber": "30",
@@ -5603,7 +5600,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
       "id": "2-lidska-vykonnost-vrtulnik-p6-30",
-      "explanation": "Rovný ustálený let s konstantní rychlostí sám o sobě nevyvolává typické zrychlové vestibulární iluze. Alkohol, turbulence a pohyby hlavou při zatáčení naopak mohou narušovat vnímání polohy a pohybu letadla."
+      "explanation": "Pokud je Eustachova trubice ucpaná, například při rýmě, tlak ve středním uchu se nemůže snadno vyrovnat s tlakem okolí. Zvláště při klesání může vzniknout bolestivé barotrauma. Při nachlazení je proto nutné pečlivě posoudit způsobilost k letu."
     },
     {
       "sourceNumber": "31",
@@ -5620,7 +5617,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
       "id": "2-lidska-vykonnost-vrtulnik-p7-31",
-      "explanation": "Při dopředném zrychlení mohou otolitové orgány vnitřního ucha zaměnit setrvačné zrychlení za změnu sklonu a vyvolat pocit zvedání přídě (somatogravická iluze). Pilot pak může mít nebezpečnou tendenci tlačit řízení dopředu, ačkoli letoun ve skutečnosti stoupání nezahájil."
+      "explanation": "Po delší ustálené zatáčce se polokruhové kanálky vnitřního ucha přizpůsobí stálé úhlové rychlosti. Při srovnání křídel pak změna pohybu tekutiny vyvolá klamný pocit zatáčení na opačnou stranu. Jde o vestibulární iluzi, proto je při ztrátě vnějších vizuálních referencí zásadní důvěřovat přístrojům."
     },
     {
       "sourceNumber": "32",
@@ -5637,7 +5634,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
       "id": "2-lidska-vykonnost-vrtulnik-p7-32",
-      "explanation": "Při zpomalování může somatogravická iluze vyvolat falešný pocit sklopení přídě nebo klesání. Vestibulární systém totiž nerozlišuje dokonale mezi podélným zrychlením a působením gravitace. Při špatné viditelnosti je nutné kontrolovat skutečný sklon podle přístrojů."
+      "explanation": "Rovný ustálený let s konstantní rychlostí sám o sobě nevyvolává typické zrychlové vestibulární iluze. Alkohol, turbulence a pohyby hlavou při zatáčení naopak mohou narušovat vnímání polohy a pohybu letadla."
     },
     {
       "sourceNumber": "33",
@@ -5654,7 +5651,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
       "id": "2-lidska-vykonnost-vrtulnik-p7-33",
-      "explanation": "Dráha stoupající do kopce může z perspektivy vypadat, jako by byl letoun na přiblížení příliš vysoko. Pilot může mylně snížit dráhu sestupu a přiblížit se pod správný sestupový úhel. Pomáhají standardní přibližovací postupy a vizuální indikátory sestupové roviny, jsou-li k dispozici."
+      "explanation": "Při dopředném zrychlení mohou otolitové orgány vnitřního ucha zaměnit setrvačné zrychlení za změnu sklonu a vyvolat pocit zvedání přídě (somatogravická iluze). Pilot pak může mít nebezpečnou tendenci tlačit řízení dopředu, ačkoli letoun ve skutečnosti stoupání nezahájil."
     },
     {
       "sourceNumber": "34",
@@ -5671,7 +5668,7 @@
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
       "id": "2-lidska-vykonnost-vrtulnik-p7-34",
-      "explanation": "Při přiblížení na dráhu se sklonem vzhůru může pilot vnímat svou polohu jako příliš vysokou a sestoupit pod správnou sestupovou rovinu. To vede k riziku krátkého přistání před prahem, nikoli automaticky k dlouhému přistání. **Pozor: původní klíč této otázky označuje dlouhé přistání; podle běžně popisované optické iluze je to sporné a vyžaduje kontrolu zdroje.**"
+      "explanation": "Při zpomalování může somatogravická iluze vyvolat falešný pocit sklopení přídě nebo klesání. Vestibulární systém totiž nerozlišuje dokonale mezi podélným zrychlením a působením gravitace. Při špatné viditelnosti je nutné kontrolovat skutečný sklon podle přístrojů."
     },
     {
       "sourceNumber": "35",
@@ -5687,8 +5684,7 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-35",
-      "explanation": "Pohyb hlavou během zatáčení může současně podráždit více polokruhových kanálků vnitřního ucha a vyvolat silnou závrať či dezorientaci (Coriolisova iluze). Proto je při letu bez spolehlivého výhledu důležité vyhýbat se prudkým pohybům hlavy."
+      "id": "2-lidska-vykonnost-vrtulnik-p7-35"
     },
     {
       "sourceNumber": "36",

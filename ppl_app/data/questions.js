@@ -15067,7 +15067,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-19"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-19",
+      "explanation": "U mnoha lehkých letadel je příďové nebo ostruhové kolo propojeno s pedály směrovky. Některé typy však mají volně otočné kolo a používají diferenciální brzdění."
     },
     {
       "sourceNumber": "20",
@@ -15083,7 +15084,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-20"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-20",
+      "explanation": "U většiny lehkých letadel jsou brzdy na hlavních kolech. Příďové kolo obvykle není brzděno."
     },
     {
       "sourceNumber": "21",
@@ -15133,7 +15135,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-23"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-23",
+      "explanation": "Letoun se pohybuje kolem tří os: podélné (klonění), příčné (klopení) a svislé (bočení)."
     },
     {
       "sourceNumber": "24",
@@ -15149,7 +15152,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-24"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-24",
+      "explanation": "Křidélka mění rozdílně vztlak na obou polovinách křídla a tím vytvářejí moment kolem podélné osy."
     },
     {
       "sourceNumber": "25",
@@ -15165,7 +15169,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-25"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-25",
+      "explanation": "Řízení lehkých letounů často používá mechanická lana a táhla, která přenášejí pohyb ovladačů na řídicí plochy."
     },
     {
       "sourceNumber": "26",
@@ -15181,7 +15186,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-26"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-26",
+      "explanation": "Směrovka doleva vyvolá primárně bočení doleva. V důsledku aerodynamické vazby může následovat také klonění doleva."
     },
     {
       "sourceNumber": "27",
@@ -15197,7 +15203,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-27"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-27",
+      "explanation": "Přitažení páky u běžného uspořádání vychýlí výškovku nahoru, zvýší sílu ocasní plochy dolů a zvedne příď."
     },
     {
       "sourceNumber": "28",
@@ -15213,7 +15220,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-28"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-28",
+      "explanation": "Přitažení řízení vytváří u konvenční ocasní plochy klopivý moment zvedající příď. Samo o sobě nezaručuje stoupání."
     },
     {
       "sourceNumber": "29",
@@ -15229,7 +15237,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-29"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-29",
+      "explanation": "Potlačení řízení obvykle sníží úhel náběhu a vyvolá klesání, při němž rychlost může narůstat."
     },
     {
       "sourceNumber": "30",
@@ -15245,7 +15254,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-30"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-30",
+      "explanation": "Křidélka řídí klonění, výškovka klopení a směrovka bočení. Jde o tři primární řídicí plochy."
     },
     {
       "sourceNumber": "31",
@@ -15261,7 +15271,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-31"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-31",
+      "explanation": "Sekundární prvky jako klapky a trim upravují letové vlastnosti nebo snižují trvalé síly v řízení."
     },
     {
       "sourceNumber": "32",
@@ -15293,7 +15304,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-33"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-33",
+      "explanation": "U konvenční trimovací plošky její vychýlení dolů vytváří moment vychylující výškovku nahoru. Směr ovládání je typově závislý."
     },
     {
       "sourceNumber": "34",
@@ -15310,7 +15322,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-34"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-34",
+      "explanation": "Vychýlení běžné trimovací plošky dolů vede k opačné výchylce výškovky a k vyvážení směrem k přídi nahoru."
     },
     {
       "sourceNumber": "35",
@@ -15326,7 +15339,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-35"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-35",
+      "explanation": "Odlehčovací ploška se vychyluje opačně než hlavní řídicí plocha a aerodynamicky snižuje sílu na ovladači."
     },
     {
       "sourceNumber": "36",
@@ -15342,7 +15356,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-36"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-36",
+      "explanation": "Trim odstraňuje potřebu trvale držet sílu na řízení v ustáleném režimu letu."
     },
     {
       "sourceNumber": "37",
@@ -15358,7 +15373,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-37"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-37",
+      "explanation": "Sekundární prvky zahrnují klapky, slaty, spoilery a trimovací plošky; ovlivňují vztlak, odpor a síly v řízení."
     },
     {
       "sourceNumber": "38",
@@ -15374,7 +15390,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-38"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-38",
+      "explanation": "Při tankování je nutné odstranit zdroje zapálení a dodržet předepsané propojení a uzemnění proti statické elektřině."
     },
     {
       "sourceNumber": "39",
@@ -15390,7 +15407,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-39"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-39",
+      "explanation": "Primer přivádí palivo při spouštění motoru do sací soustavy či válců. Nadměrné použití může motor přeplavit."
     },
     {
       "sourceNumber": "40",
@@ -15406,7 +15424,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-40"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-40",
+      "explanation": "Odvětrání umožňuje nahrazovat ubývající palivo vzduchem a brání vzniku podtlaku, který by omezil přívod paliva."
     },
     {
       "sourceNumber": "41",
@@ -15422,7 +15441,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-41"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-41",
+      "explanation": "Baterie i generátor dodávají elektrickou energii; relé a jistič slouží ke spínání a ochraně obvodů."
     },
     {
       "sourceNumber": "42",
@@ -15438,7 +15458,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-42"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-42",
+      "explanation": "Jednotkou elektrického napětí je volt (V)."
     },
     {
       "sourceNumber": "43",
@@ -15454,7 +15475,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-43"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-43",
+      "explanation": "Jednotkou výkonu je watt (W); u stejnosměrného obvodu platí P = U × I."
     },
     {
       "sourceNumber": "44",
@@ -15470,7 +15492,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-44"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-44",
+      "explanation": "Odváděče statické elektřiny snižují hromadění náboje a rušení radiového spojení za letu."
     },
     {
       "sourceNumber": "45",
@@ -15486,7 +15509,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-45"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-45",
+      "explanation": "Po výpadku alternátoru může síť dočasně napájet baterie, ale její kapacita je omezená. Je nutné postupovat podle nouzového checklistu."
     },
     {
       "sourceNumber": "46",
@@ -15502,7 +15526,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-46"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-46",
+      "explanation": "DC znamená stejnosměrný proud; AC označuje střídavý proud."
     },
     {
       "sourceNumber": "47",

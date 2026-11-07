@@ -4740,7 +4740,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-36"
+      "id": "2-lidska-vykonnost-letoun-2-p8-36",
+      "explanation": "Při kladném přetížení (+Gz) krev vlivem setrvačnosti odtéká z oblasti hlavy do dolních částí těla. Snižuje se prokrvení sítnice a nejprve může nastat šednutí zorného pole (grey-out), později ztráta vidění či vědomí."
     },
     {
       "sourceNumber": "37",
@@ -4756,7 +4757,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-37"
+      "id": "2-lidska-vykonnost-letoun-2-p8-37",
+      "explanation": "Zrakový vjem není přímým obrazem reality: mozek jej vyhodnocuje podle zkušeností a dostupných vodítek. Při letu, zejména při špatné viditelnosti, může chybná interpretace podnětů vést k prostorové dezorientaci."
     },
     {
       "sourceNumber": "38",
@@ -4788,7 +4790,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-39"
+      "id": "2-lidska-vykonnost-letoun-2-p9-39",
+      "explanation": "Nadváha, zvláště zvýšené množství viscerálního tuku, souvisí s inzulinovou rezistencí a zvyšuje riziko diabetu 2. typu. Samotná nadváha však neznamená, že člověk diabetes má."
     },
     {
       "sourceNumber": "40",
@@ -4804,7 +4807,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-40"
+      "id": "2-lidska-vykonnost-letoun-2-p9-40",
+      "explanation": "Po přístrojovém potápění zůstává v tkáních zvýšené množství rozpuštěného dusíku. Při následném poklesu okolního tlaku ve výšce se mohou tvořit bubliny a vzniknout dekompresní nemoc. Proto je nutné dodržet dostatečný odstup mezi potápěním a letem."
     },
     {
       "sourceNumber": "41",
@@ -4852,7 +4856,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-43"
+      "id": "2-lidska-vykonnost-letoun-2-p10-43",
+      "explanation": "Skrytá (latentní) chyba je nedostatek v systému, organizaci nebo postupech, který nemusí okamžitě vyvolat nehodu. Může dlouho zůstat neodhalen a projevit se až v kombinaci s dalšími okolnostmi."
     },
     {
       "sourceNumber": "44",
@@ -4868,7 +4873,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-44"
+      "id": "2-lidska-vykonnost-letoun-2-p10-44",
+      "explanation": "Potvrzovací zkreslení vede člověka k tomu, že přednostně vyhledává a přijímá informace podporující jeho původní představu. Pilot má proto aktivně ověřovat i údaje, které jeho očekávání odporují."
     },
     {
       "sourceNumber": "45",
@@ -4884,7 +4890,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-45"
+      "id": "2-lidska-vykonnost-letoun-2-p10-45",
+      "explanation": "Situační povědomí znamená průběžně vnímat důležité prvky okolí, chápat jejich význam a předvídat další vývoj. Zahrnuje například polohu, provoz, počasí, stav letadla i plán letu."
     },
     {
       "sourceNumber": "46",
@@ -4900,7 +4907,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-46"
+      "id": "2-lidska-vykonnost-letoun-2-p10-46",
+      "explanation": "Standardizovaná radiotelefonní frazeologie omezuje nejednoznačnost mezi pilotem a stanovištěm ATS. Používání společně definovaných výrazů a potvrzování důležitých pokynů snižuje riziko nedorozumění."
     },
     {
       "sourceNumber": "47",
@@ -4916,7 +4924,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-letoun-2-p10-47"
+      "id": "2-lidska-vykonnost-letoun-2-p10-47",
+      "explanation": "S rizikem lze pracovat čtyřmi základními způsoby: vyhnout se nebezpečné činnosti, snížit pravděpodobnost či následky, přenést část dopadu na jiný subjekt nebo vědomě přijmout zbytkové riziko. V letectví je přijetí rizika podmíněno tím, že zůstává na přijatelné úrovni."
     },
     {
       "sourceNumber": "48",

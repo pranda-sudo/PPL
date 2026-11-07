@@ -10,7 +10,7 @@
     <meta name="apple-mobile-web-app-title" content="PPL Testy" />
     <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./styles.css?v=22" />
+    <link rel="stylesheet" href="./styles.css?v=23" />
   </head>
   <body>
     <header class="global-app-nav" role="banner">
@@ -21,7 +21,7 @@
         <button data-module="icao" type="button" aria-pressed="false">ICAO English</button>
       </nav>
     </header>
-    <main class="app-shell">
+    <main class="app-shell" id="applicationShell">
       <aside class="sidebar">
         <div class="brand">
           <div class="brand-mark">PPL</div>
@@ -188,12 +188,12 @@
         </section>
       </section>
       <section id="embeddedWorkspace" class="embedded-workspace" hidden aria-label="Výukový modul">
-        <iframe id="moduleFrame" title="Výukový modul" loading="lazy"></iframe>
+        <iframe id="moduleFrame" title="Výukový modul" loading="eager"></iframe>
       </section>
     </main>
 
     <script src="./data/questions.js?v=12"></script>
     <script src="./app.js?v=12"></script>
-    <script src="./module-switch.js?v=22"></script>
+    <script src="./module-switch.js?v=23"></script>
   </body>
 </html>

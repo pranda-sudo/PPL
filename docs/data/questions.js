@@ -2491,7 +2491,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-4"
+      "id": "letove-zasady-letoun-p1-4",
+      "explanation": "Námraza mění tvar a drsnost listů vrtule, zhoršuje jejich aerodynamickou účinnost a snižuje tah. U vrtule s pevnými listy může menší aerodynamické zatížení způsobit zvýšení otáček při stejném nastavení motoru. Skutečné chování závisí na konstrukci vrtule a regulaci otáček."
     },
     {
       "sourceNumber": "5",
@@ -2558,7 +2559,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-9"
+      "id": "letove-zasady-letoun-p2-9",
+      "explanation": "Aerodynamický střed je referenční bod profilu, kolem kterého se klopivý moment při změně úhlu náběhu přibližně nemění. Není totožný s těžištěm ani s pohyblivým působištěm výsledné aerodynamické síly."
     },
     {
       "sourceNumber": 10,
@@ -2574,7 +2576,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 2,
-      "id": "letove-zasady-letoun-p2-10"
+      "id": "letove-zasady-letoun-p2-10",
+      "explanation": "Aerodynamický střed je bod, vůči kterému je aerodynamický klopivý moment přibližně nezávislý na úhlu náběhu. V jednoduchém modelu podzvukového profilu leží zhruba ve čtvrtině tětivy. Formulace testu o působení všech sil je zjednodušená; skutečné rozložení tlaku působí po celé ploše profilu."
     },
     {
       "sourceNumber": 11,
@@ -2783,7 +2786,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
-      "id": "letove-zasady-letoun-p5-22"
+      "id": "letove-zasady-letoun-p5-22",
+      "explanation": "U běžného kladně prohnutého profilu se s rostoucím úhlem náběhu před dosažením kritického úhlu obvykle posouvá působiště výsledného vztlaku dopředu. Po odtržení proudění se jeho poloha může výrazně měnit; aerodynamický střed je jiný pojem než působiště vztlaku."
     },
     {
       "sourceNumber": 23,
@@ -3617,7 +3621,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-71"
+      "id": "letove-zasady-letoun-p15-71",
+      "explanation": "Při stoupání za jinak srovnatelných podmínek letoun zpravidla letí nižší rychlostí než v horizontálním letu, takže k vytvoření potřebného vztlaku používá větší součinitel vztlaku a větší úhel náběhu. Nelze to však zobecnit bez podmínky rychlosti a režimu letu."
     },
     {
       "sourceNumber": 72,
@@ -3854,7 +3859,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-85"
+      "id": "letove-zasady-letoun-p17-85",
+      "explanation": "Pokud letoun trvale zvedá příď, pilot potřebuje vyvážení působící ve směru potlačení. U běžné konvenční ocasní plochy se toho dosahuje odpovídajícím nastavením trimovací plošky výškovky; vychýlení trimovací plošky nahoru obvykle vyvolá výchylku výškovky dolů. Směr ovládání trimu v kabině je nutné posuzovat podle konkrétního typu letounu."
     },
     {
       "sourceNumber": 86,
@@ -3870,7 +3876,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-86"
+      "id": "letove-zasady-letoun-p18-86",
+      "explanation": "Vychýlení trimovací plošky výškovky nahoru u běžného mechanického trimu působí na výškovku opačným směrem, tedy dolů, a vytváří vyvážení pro potlačení přídě. Proto odpovídá indikaci „těžký na hlavu“. Konkrétní konstrukce trimu se mohou lišit."
     },
     {
       "sourceNumber": 87,
@@ -4327,7 +4334,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-letoun-2-p3-13"
+      "id": "2-lidska-vykonnost-letoun-2-p3-13",
+      "explanation": "S rostoucí nadmořskou výškou klesá atmosférický tlak a tím i parciální tlak kyslíku. Fyziologické změny se mohou projevit už kolem 7 000 ft, i když výraznost závisí na délce expozice, zdravotním stavu a individuální citlivosti."
     },
     {
       "sourceNumber": "14",
@@ -4681,7 +4689,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-letoun-2-p8-34"
+      "id": "2-lidska-vykonnost-letoun-2-p8-34",
+      "explanation": "Dráha stoupající ve směru přistání může pilotovi připadat výše, než ve skutečnosti je. To vyvolává dojem příliš vysokého přiblížení či „dlouhého“ přistání a svádí k letu pod správnou sestupovou rovinou. Pomáhají vizuální indikátory sestupové roviny, pokud jsou k dispozici."
     },
     {
       "sourceNumber": "35",

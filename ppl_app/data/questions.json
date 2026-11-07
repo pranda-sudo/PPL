@@ -19064,7 +19064,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-1"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-1",
+      "explanation": "Při mezinárodním letu musí být na palubě předepsané doklady letadla a posádky, zejména osvědčení o zápisu do rejstříku, osvědčení letové způsobilosti, doklad o zachování letové způsobilosti podle použitelného režimu, palubní deník a průkazy posádky. EASA Form 1 je doklad o uvolnění výrobku či dílu, nikoli běžný palubní doklad. Úplný seznam závisí na provozním režimu a požadavcích států letu."
     },
     {
       "sourceNumber": "2",
@@ -19080,7 +19081,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-2"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-2",
+      "explanation": "Omezený prostor (R, restricted area) lze využít pouze za zveřejněných podmínek nebo se souhlasem příslušného orgánu. Zakázaný prostor (P) je zásadně nepřístupný, zatímco nebezpečný prostor (D) upozorňuje na potenciálně nebezpečnou činnost."
     },
     {
       "sourceNumber": "3",
@@ -19096,7 +19098,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-3"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-3",
+      "explanation": "AIP (Aeronautical Information Publication) zveřejňuje trvalé informace o vzdušném prostoru, včetně identifikace, vertikálních a horizontálních hranic a podmínek omezených prostorů. Aktuální dočasné změny je nutné ověřovat i v NOTAM."
     },
     {
       "sourceNumber": "4",
@@ -19112,7 +19115,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-4"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-4",
+      "explanation": "Požadavky Part-MED a další přímo použitelná evropská nařízení jsou právně závazná v členských státech EU bez individuální ratifikace. Je třeba odlišovat závazná pravidla od nezávazných AMC a GM, které vysvětlují přijatelné způsoby prokazování shody."
     },
     {
       "sourceNumber": 5,
@@ -19128,7 +19132,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-5"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-5",
+      "explanation": "Standardní osvědčení letové způsobilosti (Certificate of Airworthiness) nemá samo o sobě pevnou roční dobu platnosti, pokud zůstávají splněny příslušné podmínky. Zachování letové způsobilosti se dokládá odděleně, například ARC, a pravidelnou údržbou."
     },
     {
       "sourceNumber": "6",
@@ -19144,7 +19149,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-6"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-6",
+      "explanation": "ARC znamená Airworthiness Review Certificate, tedy osvědčení kontroly letové způsobilosti. Potvrzuje provedení příslušného přezkumu zachování letové způsobilosti; jeho platnost a případné prodlužování se řídí použitelnými předpisy."
     },
     {
       "sourceNumber": "7",
@@ -19160,7 +19166,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-7"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-7",
+      "explanation": "Osvědčení letové způsobilosti vydává nebo jeho vydání zajišťuje příslušný úřad státu zápisu letadla do rejstříku podle použitelného právního režimu. Místo výroby ani sídlo vlastníka nejsou samy o sobě rozhodující."
     },
     {
       "sourceNumber": "8",
@@ -19176,7 +19183,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-8"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-8",
+      "explanation": "Průkazy vydané podle standardů ICAO podléhají pravidlům uznávání v jednotlivých státech. Formulace „automaticky platný ve všech státech ICAO“ je příliš široká: pro letadla zapsaná v jiném státě může být nutná validace nebo převod a je třeba splnit národní či regionální požadavky."
     },
     {
       "sourceNumber": "9",
@@ -19192,7 +19200,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-9"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-9",
+      "explanation": "Příloha ICAO Annex 1 – Personnel Licensing upravuje mezinárodní standardy pro průkazy a kvalifikace leteckého personálu, včetně pilotů a zdravotní způsobilosti. Provoz letadel řeší zejména Annex 6, letové provozní služby Annex 11 a pravidla létání Annex 2."
     },
     {
       "sourceNumber": 10,
@@ -19208,7 +19217,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-10"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-10",
+      "explanation": "Průkaz PPL vydaný podle evropského systému nemá běžnou pevnou dobu skončení platnosti jako dokument. Výkon jeho práv je však podmíněn platnou příslušnou kvalifikací, zdravotní způsobilostí a splněním požadavků na nedávnou praxi."
     },
     {
       "sourceNumber": 13,
@@ -19224,7 +19234,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-13"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-13",
+      "explanation": "U osvědčení zdravotní způsobilosti 2. třídy se po dosažení 50 let věku uplatňuje zpravidla maximální platnost 12 měsíců. U 62letého pilota tedy test správně uvádí 12 měsíců; mohou platit individuální omezení zdravotního posudku."
     },
     {
       "sourceNumber": "14",
@@ -19240,7 +19251,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-14"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-14",
+      "explanation": "Text otázky je neúplný: chybí údaj, jakou konkrétní požadovanou dobu letu pilot nesplnil a pro jakou kvalifikaci. Při nesplnění podmínek prodloužení třídní kvalifikace bývá nutné přezkoušení odborné způsobilosti s examinátorem, ale přesný postup se řídí Part-FCL a stavem kvalifikace. Bez úplného zadání nelze potvrdit univerzální odpověď."
     },
     {
       "sourceNumber": "15",
@@ -19256,7 +19268,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-15"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-15",
+      "explanation": "Držitel PPL(A) smí v rozsahu platných kvalifikací působit jako PIC nebo druhý pilot při neobchodních letech bez úplaty. Evropská pravidla umožňují za stanovených podmínek odměnu za instruktorskou nebo examinátorskou činnost, pokud má příslušné oprávnění; nelze tím automaticky provozovat obchodní leteckou dopravu."
     },
     {
       "sourceNumber": "17",
@@ -19272,7 +19285,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-17"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-17",
+      "explanation": "SERA je zkratka pro Standardised European Rules of the Air, tedy standardizovaná evropská pravidla létání. Jsou obsažena zejména v prováděcím nařízení EU č. 923/2012 ve znění změn."
     },
     {
       "sourceNumber": "18",
@@ -19288,7 +19302,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-18"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-18",
+      "explanation": "TRA znamená Temporary Reserved Area – dočasně rezervovaný vzdušný prostor. Podmínky aktivace a vstupu je nutné ověřit v příslušných leteckých informačních publikacích a aktuálních oznámeních."
     },
     {
       "sourceNumber": "19",
@@ -19304,7 +19319,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-19"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-19",
+      "explanation": "V RMZ (Radio Mandatory Zone) je zpravidla nutné před vstupem navázat předepsané rádiové spojení, sdělit identifikaci, polohu, hladinu a záměr a udržovat poslech. POZOR: testová možnost „sledovat rádio a je-li to možné, navázat spojení“ je příliš slabá; konkrétní požadavky a výjimky stanoví SERA.6005."
     },
     {
       "sourceNumber": "20",
@@ -19320,7 +19336,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-20"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-20",
+      "explanation": "Zvláštní let VFR (SVFR) v řízeném okrsku vyžaduje povolení ATC a splnění podmínek SERA, včetně letu mimo oblačnost s dohledností země a stanovených minim dohlednosti a rychlosti. Konkrétní minima závisejí na typu letu a případných výjimkách; testová odpověď „viditelnost země“ zachycuje jednu podmínku, nikoli všechny."
     },
     {
       "sourceNumber": "21",
@@ -19336,7 +19353,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-21"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-21",
+      "explanation": "TMZ (Transponder Mandatory Zone) vyžaduje provozuschopný odpovídač SSR s příslušným režimem A/C nebo S podle zveřejněných podmínek, není-li povolena výjimka. Samotné stisknutí IDENT nenahrazuje požadované nastavení."
     },
     {
       "sourceNumber": "22",
@@ -19352,7 +19370,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-22"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-22",
+      "explanation": "TMZ znamená Transponder Mandatory Zone – oblast s povinným odpovídačem sekundárního radaru. Konkrétní požadavky na vybavení a aktivaci jsou zveřejněny v leteckých informacích."
     },
     {
       "sourceNumber": "23",
@@ -19368,7 +19387,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-23"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-23",
+      "explanation": "IFR znamená Instrument Flight Rules, tedy pravidla pro let podle přístrojů. IFR není totéž co IMC: let podle IFR může probíhat i v meteorologických podmínkách VMC."
     },
     {
       "sourceNumber": "24",
@@ -19384,7 +19404,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-24"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-24",
+      "explanation": "Let VFR je let prováděný podle pravidel letu za viditelnosti, nikoli pouze let za dobrého počasí. Musí být splněny příslušné podmínky dohlednosti, vzdálenosti od oblačnosti a další požadavky daného prostoru."
     },
     {
       "sourceNumber": "25",
@@ -19400,7 +19421,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-25"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-25",
+      "explanation": "VMC (Visual Meteorological Conditions) označuje meteorologické podmínky pro let za viditelnosti definované hodnotami dohlednosti, vzdálenosti od oblačnosti a případně základny oblačnosti. VFR jsou pravidla letu, VMC jsou meteorologické podmínky."
     },
     {
       "sourceNumber": "26",
@@ -19416,7 +19438,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-26"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-26",
+      "explanation": "Při čelním nebo téměř čelním přiblížení dvou letadel musí oba piloti změnit kurz doprava, aby se bezpečně minuli. Pravidlo nezávisí na tom, zda je letoun jednomotorový nebo dvoumotorový."
     },
     {
       "sourceNumber": "27",
@@ -19432,7 +19455,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-27"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-27",
+      "explanation": "Při křižování tratí letadel stejné kategorie má zpravidla přednost letadlo, které je vůči druhému vpravo. Druhé letadlo musí uhnout; platí i povinnost aktivně zabránit srážce bez ohledu na formální přednost."
     },
     {
       "sourceNumber": "28",
@@ -19448,7 +19472,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-28"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-28",
+      "explanation": "Při křižování tratí dvou motorových letounů stejné kategorie rozhoduje pravidlo přednosti letadla zprava, nikoli velikost letadla či obchodní povaha letu. V řízeném prostoru musí piloti současně dodržovat příslušná povolení a pokyny ATC."
     },
     {
       "sourceNumber": "29",
@@ -19464,7 +19489,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-29"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-29",
+      "explanation": "Let pod předepsanou minimální výškou nelze odůvodnit pouze zhoršeným počasím v blízkosti letiště. Výjimky se vztahují na nezbytné fáze vzletu a přistání nebo na zvlášť povolené činnosti; při nepříznivých podmínkách je třeba let bezpečně změnit či ukončit."
     },
     {
       "sourceNumber": "30",
@@ -19480,7 +19506,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p7-30"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p7-30",
+      "explanation": "Při čelním nebo téměř čelním setkání dvou motorových letounů mají oba uhnout doprava. Druh pohonné jednotky (pístový nebo turbovrtulový) zde neurčuje přednost."
     },
     {
       "sourceNumber": "37",
@@ -19496,7 +19523,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p8-37"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p8-37",
+      "explanation": "V prostoru třídy B platí pro VFR běžné minimum vzdálenosti od oblačnosti 1500 m vodorovně a 300 m (1000 ft) svisle. Provozní minima se vždy ověřují podle aktuálních pravidel a místních podmínek."
     },
     {
       "sourceNumber": "40",
@@ -19512,7 +19540,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-40"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-40",
+      "explanation": "Ceiling, tedy výška základny nejnižší význačné vrstvy oblačnosti, je výška nad zemí nebo vodou nejnižší vrstvy pokrývající více než polovinu oblohy (BKN nebo OVC), pod stanovenou mezí. Nejde o nadmořskou výšku základny oblačnosti."
     },
     {
       "sourceNumber": "41",
@@ -19528,7 +19557,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-41"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-41",
+      "explanation": "Při zakročování znamená kývání křídly a následná mírná zatáčka zakročujícího letadla standardně pokyn „následujte mě“. Zakročované letadlo má potvrdit přijetí signálu předepsaným způsobem a postupovat podle pravidel pro zakročování."
     },
     {
       "sourceNumber": "43",

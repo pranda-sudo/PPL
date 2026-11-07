@@ -23863,7 +23863,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-42"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-42",
+      "explanation": "VX je rychlost nejlepšího úhlu stoupání: umožňuje získat největší výšku na jednotku vodorovné vzdálenosti. Používá se například při překonávání překážek po vzletu; vždy podle příručky letounu."
     },
     {
       "sourceNumber": "43",
@@ -23879,7 +23880,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-43"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-43",
+      "explanation": "Úhel sestupu je úhel mezi vodorovnou rovinou a dráhou letu při klesání. Na rozdíl od vertikální rychlosti se vyjadřuje ve stupních."
     },
     {
       "sourceNumber": "44",
@@ -23911,7 +23913,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-45"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-45",
+      "explanation": "VY je rychlost nejlepší rychlosti stoupání, při níž letoun získá nejvíce výšky za jednotku času. Liší se od VX, která optimalizuje výšku na vzdálenost."
     },
     {
       "sourceNumber": "46",
@@ -23927,7 +23930,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-46"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-46",
+      "explanation": "VFE je nejvyšší přípustná rychlost letu s vysunutými vztlakovými klapkami v příslušné konfiguraci. Překročení může poškodit klapky nebo jejich mechanismus."
     },
     {
       "sourceNumber": "47",
@@ -23943,7 +23947,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 10,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-47"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p10-47",
+      "explanation": "VS0 je pádová nebo minimální ustálená rychlost v přistávací konfiguraci. Závisí mimo jiné na hmotnosti a násobku zatížení."
     },
     {
       "sourceNumber": "48",
@@ -24013,7 +24018,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-51"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-51",
+      "explanation": "Pro dosažení požadované výšky v nejkratším čase se používá rychlost VY, tedy rychlost nejlepší vertikální stoupavosti. Pro překonání překážky na krátké vzdálenosti slouží VX."
     },
     {
       "sourceNumber": "52",
@@ -24029,7 +24035,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 11,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-52"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p11-52",
+      "explanation": "Dráha 22 má přibližný magnetický směr 220°. Vítr ze 250° se od osy liší o 30°; čelní složka je 10 × cos 30° ≈ 8,7 kt, tedy přibližně 9 kt."
     },
     {
       "sourceNumber": "53",
@@ -24063,7 +24070,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-54"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-54",
+      "explanation": "Pro dráhu 36 (360°) a vítr ze 240° je úhel mezi osou a větrem 120°. Podélná složka je 12 × cos 120° = −6 kt, tedy 6 kt zadní vítr. Boční složka je 12 × sin 120° ≈ 10,4 kt zleva."
     },
     {
       "sourceNumber": "55",
@@ -24115,7 +24123,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 12,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-57"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p12-57",
+      "explanation": "Při vzletu z dráhy 36 a větru 240°/12 kt vzniká zadní složka 6 kt a boční složka 10,4 kt zleva. Vypočítá se rozkladem větru na osu dráhy a kolmý směr."
     },
     {
       "sourceNumber": "58",
@@ -24401,7 +24410,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-73"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-73",
+      "explanation": "MEF (Maximum Elevation Figure) na letecké mapě vyjadřuje maximální výšku terénu nebo překážek v dané mapové oblasti, obvykle vymezené půlstupňovou zeměpisnou sítí. Pro bezpečnou výšku letu je nutné připočíst odpovídající rezervu."
     },
     {
       "sourceNumber": "74",
@@ -24417,7 +24427,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-74"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-74",
+      "explanation": "Výrazné liniové orientační body protínající trať, například železnice, řeky či silnice, pomáhají pilotovi ověřit polohu a odhalit navigační odchylku. V plánování mohou sloužit jako kontrolní linie."
     },
     {
       "sourceNumber": "75",
@@ -24433,7 +24444,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 16,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-75"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p16-75",
+      "explanation": "Půlkruhové pravidlo výběru cestovní hladiny vychází z magnetické tratě, nikoli z okamžitého magnetického kurzu, který může být kvůli větru odlišný."
     },
     {
       "sourceNumber": "76",
@@ -24517,7 +24529,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 17,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-80"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p17-80",
+      "explanation": "Traťové palivo zahrnuje palivo pro vzlet a stoupání (12 l), let po trati (25 l) a klesání, přiblížení a přistání (7 l). Součet je 12 + 25 + 7 = 44 l; nezahrnuje pojíždění, náhradní letiště ani konečnou zálohu."
     },
     {
       "sourceNumber": "81",
@@ -24569,7 +24582,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 18,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-83"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p18-83",
+      "explanation": "EOBT (Estimated Off-Block Time) je předpokládaný čas zahájení pohybu letadla z místa stání a v letovém plánu se uvádí v UTC, aby nevznikaly nejasnosti mezi časovými pásmy."
     },
     {
       "sourceNumber": "84",

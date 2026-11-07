@@ -6164,7 +6164,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-1"
+      "id": "3-meteorologie-letoun-1-p1-1",
+      "explanation": "Při nuceném výstupu vlhkého nestabilního vzduchu na návětrné straně pohoří dochází k ochlazování, kondenzaci a rozvoji konvekce. Mohou vzniknout mohutné kumulonimby (Cb) s přeháňkami, bouřkami a kroupami."
     },
     {
       "sourceNumber": "2",
@@ -6180,7 +6181,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-2"
+      "id": "3-meteorologie-letoun-1-p1-2",
+      "explanation": "Orografická mlha vzniká, když se vlhký vzduch při proudění po svahu nuceně zvedá, adiabaticky ochlazuje až na rosný bod a vodní pára kondenzuje na drobné kapičky."
     },
     {
       "sourceNumber": "3",
@@ -6196,7 +6198,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-3"
+      "id": "3-meteorologie-letoun-1-p1-3",
+      "explanation": "Při dostatečné vlhkosti a instabilitě mohou kupovité oblaky dále růst do výšky, přejít v Cumulus congestus či Cumulonimbus a přinést přeháňky nebo bouřky."
     },
     {
       "sourceNumber": "4",
@@ -6212,7 +6215,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-4"
+      "id": "3-meteorologie-letoun-1-p1-4",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a 1 % ostatních plynů, zejména argonu. Podíl vodní páry je proměnlivý."
     },
     {
       "sourceNumber": "5",
@@ -6228,7 +6232,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 1,
-      "id": "3-meteorologie-letoun-1-p1-5"
+      "id": "3-meteorologie-letoun-1-p1-5",
+      "explanation": "V troposféře je soustředěna většina vodní páry a probíhá zde konvekce i většina oblačných a srážkových procesů. Proto se většina počasí odehrává právě v této nejnižší vrstvě atmosféry."
     },
     {
       "sourceNumber": "6",
@@ -6244,7 +6249,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-6"
+      "id": "3-meteorologie-letoun-1-p2-6",
+      "explanation": "Mezinárodní standardní atmosféra (ISA) předpokládá u hladiny moře hustotu suchého vzduchu 1,225 kg/m³ při 15 °C a tlaku 1013,25 hPa. Krychle o objemu 1 m³ má tedy hmotnost 1,225 kg."
     },
     {
       "sourceNumber": "7",
@@ -6260,7 +6266,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-7"
+      "id": "3-meteorologie-letoun-1-p2-7",
+      "explanation": "Standardní teplotní gradient ISA v troposféře je −6,5 °C na kilometr, což odpovídá přibližně −2 °C na 1 000 ft. Ve skutečné atmosféře se gradient může výrazně lišit."
     },
     {
       "sourceNumber": "8",
@@ -6276,7 +6283,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-8"
+      "id": "3-meteorologie-letoun-1-p2-8",
+      "explanation": "Model ISA klade tropopauzu přibližně do 11 km (36 089 ft). Ve skutečnosti se její výška mění podle zeměpisné šířky, roční doby a meteorologické situace."
     },
     {
       "sourceNumber": "9",
@@ -6292,7 +6300,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-9"
+      "id": "3-meteorologie-letoun-1-p2-9",
+      "explanation": "Tropopauza je přechodová hranice mezi troposférou a stratosférou. Nad ní se standardní pokles teploty s výškou zastavuje či mění."
     },
     {
       "sourceNumber": "10",
@@ -6308,7 +6317,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 2,
-      "id": "3-meteorologie-letoun-1-p2-10"
+      "id": "3-meteorologie-letoun-1-p2-10",
+      "explanation": "V evropských leteckých meteorologických zprávách METAR a TAF se teplota vzduchu a rosný bod udávají ve stupních Celsia. Záporné hodnoty se označují písmenem M."
     },
     {
       "sourceNumber": "11",
@@ -6324,7 +6334,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-11"
+      "id": "3-meteorologie-letoun-1-p3-11",
+      "explanation": "Teplotní inverze je vrstva, ve které teplota vzduchu s výškou roste, místo aby klesala. Omezuje vertikální promíchávání a může zadržovat mlhu, kouř či znečištění."
     },
     {
       "sourceNumber": "12",
@@ -6340,7 +6351,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-12"
+      "id": "3-meteorologie-letoun-1-p3-12",
+      "explanation": "V izotermální vrstvě se teplota s výškou nemění, takže vertikální teplotní gradient je přibližně nulový."
     },
     {
       "sourceNumber": "13",
@@ -6356,7 +6368,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-13"
+      "id": "3-meteorologie-letoun-1-p3-13",
+      "explanation": "Standardní teplotní gradient ISA v troposféře je 0,65 °C na 100 m (6,5 °C/km). Jde o modelovou hodnotu, nikoli o zaručený průběh skutečné teploty."
     },
     {
       "sourceNumber": "14",
@@ -6372,7 +6385,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-14"
+      "id": "3-meteorologie-letoun-1-p3-14",
+      "explanation": "V tlakové výši vzduch sestupuje a adiabaticky se otepluje. Nad chladnější spodní vrstvou může vzniknout subsidenční inverze, která brání vertikálnímu promíchávání."
     },
     {
       "sourceNumber": 15,
@@ -6388,7 +6402,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 3,
-      "id": "3-meteorologie-letoun-1-p3-15"
+      "id": "3-meteorologie-letoun-1-p3-15",
+      "explanation": "Za jasné a klidné noci povrch vyzařováním rychle chladne a ochlazuje vzduch těsně nad zemí. Výše ležící vzduch může zůstat teplejší, čímž vznikne přízemní radiační inverze."
     },
     {
       "sourceNumber": 16,
@@ -6404,7 +6419,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-16"
+      "id": "3-meteorologie-letoun-1-p4-16",
+      "explanation": "Ve standardní atmosféře je tlak kolem 500 hPa přibližně v 5,5 km, tedy blízko FL180. Letová hladina se vztahuje ke standardnímu nastavení 1013,25 hPa."
     },
     {
       "sourceNumber": 17,
@@ -6420,7 +6436,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-17"
+      "id": "3-meteorologie-letoun-1-p4-17",
+      "explanation": "QFF je tlak stanice přepočtený na střední hladinu moře s využitím skutečných teplotních poměrů. Liší se od QNH, které je určeno pro nastavení výškoměru."
     },
     {
       "sourceNumber": "18",
@@ -6436,7 +6453,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-18"
+      "id": "3-meteorologie-letoun-1-p4-18",
+      "explanation": "Ze stavové rovnice plynu vyplývá, že při stejné teplotě klesá hustota s tlakem a při stejném tlaku klesá s rostoucí absolutní teplotou. Řidší vzduch zhoršuje výkony letadla."
     },
     {
       "sourceNumber": "19",
@@ -6452,7 +6470,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-19"
+      "id": "3-meteorologie-letoun-1-p4-19",
+      "explanation": "Standardní atmosférický tlak ISA na hladině moře činí 1013,25 hPa (29,92 inHg). Je to referenční hodnota, nikoli aktuální tlak za každého počasí."
     },
     {
       "sourceNumber": "20",
@@ -6468,7 +6487,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 4,
-      "id": "3-meteorologie-letoun-1-p4-20"
+      "id": "3-meteorologie-letoun-1-p4-20",
+      "explanation": "V ISA leží tropopauza ve výšce 11 000 m, tedy přibližně 36 000 ft. Skutečná tropopauza může být podstatně níže i výše."
     },
     {
       "sourceNumber": "21",
@@ -6484,7 +6504,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-21"
+      "id": "3-meteorologie-letoun-1-p5-21",
+      "explanation": "Barometrický výškoměr odvozuje výšku z měřeného statického tlaku a z nastavené referenční hodnoty. Bez správného nastavení QNH, QFE nebo 1013,25 hPa nelze údaj správně interpretovat."
     },
     {
       "sourceNumber": "22",
@@ -6500,7 +6521,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-22"
+      "id": "3-meteorologie-letoun-1-p5-22",
+      "explanation": "Při nastavení místního QNH má výškoměr na letišti přibližně ukazovat jeho nadmořskou výšku. Větší odchylka může znamenat chybu nastavení nebo přístroje."
     },
     {
       "sourceNumber": "23",
@@ -6516,7 +6538,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-23"
+      "id": "3-meteorologie-letoun-1-p5-23",
+      "explanation": "Při nastavení QFE ukazuje barometrický výškoměr na referenčním místě letiště přibližně nulu; za letu udává výšku nad touto tlakovou referencí."
     },
     {
       "sourceNumber": "24",
@@ -6532,7 +6555,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 5,
-      "id": "3-meteorologie-letoun-1-p5-24"
+      "id": "3-meteorologie-letoun-1-p5-24",
+      "explanation": "Při nastavení QNH výškoměr indikuje nadmořskou výšku (AMSL) podle standardního výškoměrného modelu. Skutečná geometrická výška se může lišit kvůli teplotě."
     },
     {
       "sourceNumber": "25",
@@ -6564,7 +6588,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-1-p6-26"
+      "id": "3-meteorologie-letoun-1-p6-26",
+      "explanation": "Izobary spojují místa se stejným tlakem. Jejich hustota ukazuje velikost tlakového gradientu, který souvisí s rychlostí větru; směr ovlivňují také Coriolisova síla a tření."
     },
     {
       "sourceNumber": "27",
@@ -6580,7 +6605,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-1-p6-27"
+      "id": "3-meteorologie-letoun-1-p6-27",
+      "explanation": "Základním impulzem pro proudění vzduchu je síla tlakového gradientu, která působí z vyššího tlaku k nižšímu. Směr a rychlost proudění dále mění Coriolisova síla a tření."
     },
     {
       "sourceNumber": "28",
@@ -6596,7 +6622,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-1-p6-28"
+      "id": "3-meteorologie-letoun-1-p6-28",
+      "explanation": "V přibližně geostrofické rovnováze se síla tlakového gradientu vyrovnává Coriolisovou silou a vítr proudí téměř rovnoběžně s izobarami. V zakřiveném proudění působí i odstředivé zrychlení."
     },
     {
       "sourceNumber": "29",
@@ -6612,7 +6639,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-1-p6-29"
+      "id": "3-meteorologie-letoun-1-p6-29",
+      "explanation": "Členitý terén s vegetací vytváří značnou povrchovou drsnost a mechanické tření. Vítr se v přízemní vrstvě zpomaluje a vzniká více turbulence."
     },
     {
       "sourceNumber": "30",
@@ -6628,7 +6656,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 6,
-      "id": "3-meteorologie-letoun-1-p6-30"
+      "id": "3-meteorologie-letoun-1-p6-30",
+      "explanation": "Konvergence je sbíhavé horizontální proudění vzduchu. Protože se vzduch nemůže hromadit bez omezení, bývá spojena s výstupným pohybem."
     },
     {
       "sourceNumber": "31",
@@ -6644,7 +6673,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-1-p7-31"
+      "id": "3-meteorologie-letoun-1-p7-31",
+      "explanation": "Divergence je rozbíhavé horizontální proudění vzduchu. U země bývá často spojena se sestupným pohybem vzduchu a stabilnějším počasím."
     },
     {
       "sourceNumber": "32",
@@ -6660,7 +6690,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-1-p7-32"
+      "id": "3-meteorologie-letoun-1-p7-32",
+      "explanation": "Při přízemní konvergenci se vzduch hromadí a stoupá. Při výstupu se ochlazuje, může dosáhnout nasycení a vytvářet oblačnost či srážky."
     },
     {
       "sourceNumber": "33",
@@ -6676,7 +6707,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-1-p7-33"
+      "id": "3-meteorologie-letoun-1-p7-33",
+      "explanation": "Sbíhání proudění se označuje jako konvergence. Vzduch bývá nucen stoupat, což při dostatečné vlhkosti podporuje tvorbu oblačnosti a srážek."
     },
     {
       "sourceNumber": "34",
@@ -6692,7 +6724,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-1-p7-34"
+      "id": "3-meteorologie-letoun-1-p7-34",
+      "explanation": "Počasí ve střední Evropě ovlivňují zejména vpády chladnějšího polárního a teplejšího subtropického vzduchu, jejichž rozhraní a přemísťování vedou k proměnlivému počasí."
     },
     {
       "sourceNumber": "35",
@@ -6708,7 +6741,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 7,
-      "id": "3-meteorologie-letoun-1-p7-35"
+      "id": "3-meteorologie-letoun-1-p7-35",
+      "explanation": "Polární fronta odděluje chladnější polární a teplejší subtropické vzduchové hmoty. V jejím pásmu vznikají frontální poruchy a mimotropické tlakové níže."
     },
     {
       "sourceNumber": "36",
@@ -8240,7 +8274,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-p1-1"
+      "id": "3-meteorologie-vrtulnik-p1-1",
+      "explanation": "Při nuceném výstupu vlhkého nestabilního vzduchu na návětrné straně pohoří dochází k ochlazování, kondenzaci a rozvoji konvekce. Mohou vzniknout mohutné kumulonimby (Cb) s přeháňkami, bouřkami a kroupami."
     },
     {
       "sourceNumber": "2",
@@ -8272,7 +8307,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-p1-3"
+      "id": "3-meteorologie-vrtulnik-p1-3",
+      "explanation": "Při dostatečné vlhkosti a instabilitě mohou kupovité oblaky dále růst do výšky, přejít v Cumulus congestus či Cumulonimbus a přinést přeháňky nebo bouřky."
     },
     {
       "sourceNumber": "4",
@@ -8288,7 +8324,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-p1-4"
+      "id": "3-meteorologie-vrtulnik-p1-4",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a 1 % ostatních plynů, zejména argonu. Podíl vodní páry je proměnlivý."
     },
     {
       "sourceNumber": "5",
@@ -8304,7 +8341,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-p1-5"
+      "id": "3-meteorologie-vrtulnik-p1-5",
+      "explanation": "V troposféře je soustředěna většina vodní páry a probíhá zde konvekce i většina oblačných a srážkových procesů. Proto se většina počasí odehrává právě v této nejnižší vrstvě atmosféry."
     },
     {
       "sourceNumber": "6",
@@ -8320,7 +8358,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-p2-6"
+      "id": "3-meteorologie-vrtulnik-p2-6",
+      "explanation": "Mezinárodní standardní atmosféra (ISA) předpokládá u hladiny moře hustotu suchého vzduchu 1,225 kg/m³ při 15 °C a tlaku 1013,25 hPa. Krychle o objemu 1 m³ má tedy hmotnost 1,225 kg."
     },
     {
       "sourceNumber": "7",
@@ -8336,7 +8375,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-p2-7"
+      "id": "3-meteorologie-vrtulnik-p2-7",
+      "explanation": "Standardní teplotní gradient ISA v troposféře je −6,5 °C na kilometr, což odpovídá přibližně −2 °C na 1 000 ft. Ve skutečné atmosféře se gradient může výrazně lišit."
     },
     {
       "sourceNumber": "8",
@@ -8352,7 +8392,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-p2-8"
+      "id": "3-meteorologie-vrtulnik-p2-8",
+      "explanation": "Model ISA klade tropopauzu přibližně do 11 km (36 089 ft). Ve skutečnosti se její výška mění podle zeměpisné šířky, roční doby a meteorologické situace."
     },
     {
       "sourceNumber": "9",
@@ -8368,7 +8409,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-p2-9"
+      "id": "3-meteorologie-vrtulnik-p2-9",
+      "explanation": "Tropopauza je přechodová hranice mezi troposférou a stratosférou. Nad ní se standardní pokles teploty s výškou zastavuje či mění."
     },
     {
       "sourceNumber": "10",
@@ -8384,7 +8426,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 2,
-      "id": "3-meteorologie-vrtulnik-p2-10"
+      "id": "3-meteorologie-vrtulnik-p2-10",
+      "explanation": "V evropských leteckých meteorologických zprávách METAR a TAF se teplota vzduchu a rosný bod udávají ve stupních Celsia. Záporné hodnoty se označují písmenem M."
     },
     {
       "sourceNumber": "11",
@@ -8400,7 +8443,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-p3-11"
+      "id": "3-meteorologie-vrtulnik-p3-11",
+      "explanation": "Teplotní inverze je vrstva, ve které teplota vzduchu s výškou roste, místo aby klesala. Omezuje vertikální promíchávání a může zadržovat mlhu, kouř či znečištění."
     },
     {
       "sourceNumber": "12",
@@ -8416,7 +8460,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-p3-12"
+      "id": "3-meteorologie-vrtulnik-p3-12",
+      "explanation": "V izotermální vrstvě se teplota s výškou nemění, takže vertikální teplotní gradient je přibližně nulový."
     },
     {
       "sourceNumber": "13",
@@ -8432,7 +8477,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-p3-13"
+      "id": "3-meteorologie-vrtulnik-p3-13",
+      "explanation": "Standardní teplotní gradient ISA v troposféře je 0,65 °C na 100 m (6,5 °C/km). Jde o modelovou hodnotu, nikoli o zaručený průběh skutečné teploty."
     },
     {
       "sourceNumber": "14",
@@ -8448,7 +8494,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-p3-14"
+      "id": "3-meteorologie-vrtulnik-p3-14",
+      "explanation": "V tlakové výši vzduch sestupuje a adiabaticky se otepluje. Nad chladnější spodní vrstvou může vzniknout subsidenční inverze, která brání vertikálnímu promíchávání."
     },
     {
       "sourceNumber": "15",
@@ -8496,7 +8543,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-p4-17"
+      "id": "3-meteorologie-vrtulnik-p4-17",
+      "explanation": "Ve standardní atmosféře je tlak kolem 500 hPa přibližně v 5,5 km, tedy blízko FL180. Letová hladina se vztahuje ke standardnímu nastavení 1013,25 hPa."
     },
     {
       "sourceNumber": "18",
@@ -8512,7 +8560,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-p4-18"
+      "id": "3-meteorologie-vrtulnik-p4-18",
+      "explanation": "QFF je tlak stanice přepočtený na střední hladinu moře s využitím skutečných teplotních poměrů. Liší se od QNH, které je určeno pro nastavení výškoměru."
     },
     {
       "sourceNumber": "19",
@@ -8528,7 +8577,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-p4-19"
+      "id": "3-meteorologie-vrtulnik-p4-19",
+      "explanation": "Ze stavové rovnice plynu vyplývá, že při stejné teplotě klesá hustota s tlakem a při stejném tlaku klesá s rostoucí absolutní teplotou. Řidší vzduch zhoršuje výkony letadla."
     },
     {
       "sourceNumber": "20",
@@ -8544,7 +8594,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-p4-20"
+      "id": "3-meteorologie-vrtulnik-p4-20",
+      "explanation": "Standardní atmosférický tlak ISA na hladině moře činí 1013,25 hPa (29,92 inHg). Je to referenční hodnota, nikoli aktuální tlak za každého počasí."
     },
     {
       "sourceNumber": "21",
@@ -8560,7 +8611,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-p5-21"
+      "id": "3-meteorologie-vrtulnik-p5-21",
+      "explanation": "V ISA leží tropopauza ve výšce 11 000 m, tedy přibližně 36 000 ft. Skutečná tropopauza může být podstatně níže i výše."
     },
     {
       "sourceNumber": "22",
@@ -8576,7 +8628,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-p5-22"
+      "id": "3-meteorologie-vrtulnik-p5-22",
+      "explanation": "Barometrický výškoměr odvozuje výšku z měřeného statického tlaku a z nastavené referenční hodnoty. Bez správného nastavení QNH, QFE nebo 1013,25 hPa nelze údaj správně interpretovat."
     },
     {
       "sourceNumber": "23",
@@ -8592,7 +8645,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-p5-23"
+      "id": "3-meteorologie-vrtulnik-p5-23",
+      "explanation": "Při nastavení místního QNH má výškoměr na letišti přibližně ukazovat jeho nadmořskou výšku. Větší odchylka může znamenat chybu nastavení nebo přístroje."
     },
     {
       "sourceNumber": "24",
@@ -8608,7 +8662,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-p5-24"
+      "id": "3-meteorologie-vrtulnik-p5-24",
+      "explanation": "Při nastavení QFE ukazuje barometrický výškoměr na referenčním místě letiště přibližně nulu; za letu udává výšku nad touto tlakovou referencí."
     },
     {
       "sourceNumber": "25",
@@ -8624,7 +8679,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-p5-25"
+      "id": "3-meteorologie-vrtulnik-p5-25",
+      "explanation": "Při nastavení QNH výškoměr indikuje nadmořskou výšku (AMSL) podle standardního výškoměrného modelu. Skutečná geometrická výška se může lišit kvůli teplotě."
     },
     {
       "sourceNumber": "27",
@@ -8640,7 +8696,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-p6-27"
+      "id": "3-meteorologie-vrtulnik-p6-27",
+      "explanation": "Izobary spojují místa se stejným tlakem. Jejich hustota ukazuje velikost tlakového gradientu, který souvisí s rychlostí větru; směr ovlivňují také Coriolisova síla a tření."
     },
     {
       "sourceNumber": "28",
@@ -8656,7 +8713,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-p6-28"
+      "id": "3-meteorologie-vrtulnik-p6-28",
+      "explanation": "Základním impulzem pro proudění vzduchu je síla tlakového gradientu, která působí z vyššího tlaku k nižšímu. Směr a rychlost proudění dále mění Coriolisova síla a tření."
     },
     {
       "sourceNumber": "29",
@@ -8672,7 +8730,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-p6-29"
+      "id": "3-meteorologie-vrtulnik-p6-29",
+      "explanation": "V přibližně geostrofické rovnováze se síla tlakového gradientu vyrovnává Coriolisovou silou a vítr proudí téměř rovnoběžně s izobarami. V zakřiveném proudění působí i odstředivé zrychlení."
     },
     {
       "sourceNumber": "30",
@@ -8688,7 +8747,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 6,
-      "id": "3-meteorologie-vrtulnik-p6-30"
+      "id": "3-meteorologie-vrtulnik-p6-30",
+      "explanation": "Členitý terén s vegetací vytváří značnou povrchovou drsnost a mechanické tření. Vítr se v přízemní vrstvě zpomaluje a vzniká více turbulence."
     },
     {
       "sourceNumber": "32",
@@ -8704,7 +8764,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-p7-32"
+      "id": "3-meteorologie-vrtulnik-p7-32",
+      "explanation": "Divergence je rozbíhavé horizontální proudění vzduchu. U země bývá často spojena se sestupným pohybem vzduchu a stabilnějším počasím."
     },
     {
       "sourceNumber": "33",
@@ -8720,7 +8781,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-p7-33"
+      "id": "3-meteorologie-vrtulnik-p7-33",
+      "explanation": "Při přízemní konvergenci se vzduch hromadí a stoupá. Při výstupu se ochlazuje, může dosáhnout nasycení a vytvářet oblačnost či srážky."
     },
     {
       "sourceNumber": "34",
@@ -8736,7 +8798,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-p7-34"
+      "id": "3-meteorologie-vrtulnik-p7-34",
+      "explanation": "Sbíhání proudění se označuje jako konvergence. Vzduch bývá nucen stoupat, což při dostatečné vlhkosti podporuje tvorbu oblačnosti a srážek."
     },
     {
       "sourceNumber": "35",
@@ -8752,7 +8815,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-p7-35"
+      "id": "3-meteorologie-vrtulnik-p7-35",
+      "explanation": "Počasí ve střední Evropě ovlivňují zejména vpády chladnějšího polárního a teplejšího subtropického vzduchu, jejichž rozhraní a přemísťování vedou k proměnlivému počasí."
     },
     {
       "sourceNumber": "37",

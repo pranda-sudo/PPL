@@ -1327,7 +1327,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-1"
+      "id": "5-letove-zasady-vrtulnik-p1-1",
+      "explanation": "Zatížení disku je poměr hmotnosti vrtulníku k ploše opisované hlavním rotorem (v jednotkách kg/m²). V aerodynamických výpočtech se obdobně používá poměr tíhy k ploše (N/m²). Vyšší zatížení disku obecně zvyšuje nároky na indukovaný výkon při visu."
     },
     {
       "sourceNumber": "2",
@@ -1343,7 +1344,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-2"
+      "id": "5-letove-zasady-vrtulnik-p1-2",
+      "explanation": "Reakce mávajícího rotorového listu na periodické aerodynamické buzení je ovlivněna jeho setrvačností, rozložením hmotnosti a aerodynamickými silami. U idealizovaného rotoru se maximální odezva projevuje přibližně o čtvrt otáčky později; nejde o důsledek samotného tvaru konce listu."
     },
     {
       "sourceNumber": "3",
@@ -1359,7 +1361,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-3"
+      "id": "5-letove-zasady-vrtulnik-p1-3",
+      "explanation": "Po překročení kritického úhlu náběhu již mezní vrstva na sací (obvykle horní) straně profilu nedokáže sledovat jeho povrch a výrazně se odtrhává. Výsledkem je ztráta vztlaku a prudký růst odporu, tedy pád profilu."
     },
     {
       "sourceNumber": "4",
@@ -1375,7 +1378,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-4"
+      "id": "5-letove-zasady-vrtulnik-p1-4",
+      "explanation": "Na profilu může mezní vrstva začínat laminárním prouděním a dále po směru proudu přecházet v turbulentní. Poloha přechodu závisí na Reynoldsově čísle, drsnosti povrchu a tlakovém gradientu."
     },
     {
       "sourceNumber": "5",
@@ -1391,7 +1395,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-5"
+      "id": "5-letove-zasady-vrtulnik-p1-5",
+      "explanation": "Turbulentní mezní vrstva má větší přenos hybnosti směrem k povrchu, a proto lépe odolává nepříznivému tlakovému gradientu. Odtržení se může posunout dále dozadu, i když turbulentní vrstva obvykle vykazuje vyšší třecí odpor."
     },
     {
       "sourceNumber": "6",
@@ -1407,7 +1412,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-6"
+      "id": "5-letove-zasady-vrtulnik-p2-6",
+      "explanation": "Rovina trajektorie konců rotorových listů popisuje skutečný rotující disk. Její normála určuje efektivní osu rotace; kvůli mávání a naklonění disku nemusí být totožná s mechanickou osou hřídele."
     },
     {
       "sourceNumber": "7",
@@ -1423,7 +1429,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-7"
+      "id": "5-letove-zasady-vrtulnik-p2-7",
+      "explanation": "Efektivní úhel náběhu je úhel mezi tětivou profilu a výsledným relativním prouděním, které profil skutečně obtéká. Zahrnuje vliv obvodové rychlosti, dopředného letu i indukovaného proudění."
     },
     {
       "sourceNumber": "8",
@@ -1439,7 +1446,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-8"
+      "id": "5-letove-zasady-vrtulnik-p2-8",
+      "explanation": "Vytváření vztlaku mění proudění a vytváří indukovaný odpor. U rotoru souvisí s urychlováním vzduchu diskem; je odlišný od profilového třecího a tvarového odporu."
     },
     {
       "sourceNumber": "9",
@@ -1455,7 +1463,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-9"
+      "id": "5-letove-zasady-vrtulnik-p2-9",
+      "explanation": "Složka aerodynamické síly působící tangenciálně proti směru pohybu listu vytváří brzdicí moment rotoru. Motor jej musí při poháněném letu překonávat; nejde o sílu působící dopředu ve směru rotace."
     },
     {
       "sourceNumber": "10",
@@ -1471,7 +1480,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-10"
+      "id": "5-letove-zasady-vrtulnik-p2-10",
+      "explanation": "Výsledný tah rotoru se v jednoduchém modelu uvažuje přibližně kolmo k rovině trajektorie konců listů. Tato rovina se při mávání může lišit od roviny hlavy rotoru i od osy hřídele."
     },
     {
       "sourceNumber": "11",
@@ -1487,7 +1497,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-11"
+      "id": "5-letove-zasady-vrtulnik-p3-11",
+      "explanation": "Při stejném nastavení listů a srovnatelných podmínkách klesají aerodynamické síly s poklesem otáček, protože dynamický tlak závisí na druhé mocnině rychlosti proudění. Pokles otáček o 10 % tedy obvykle sníží tah i tangenciální sílu; přesná změna závisí na režimu letu."
     },
     {
       "sourceNumber": "12",

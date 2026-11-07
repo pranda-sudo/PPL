@@ -1,8 +1,11 @@
-const CACHE_NAME = "ppl-testy-v25";
+const CACHE_NAME = "ppl-testy-v26";
 const ASSETS = [
   "./",
   "./index.html",
   "./icao.html",
+  "./calc.html",
+  "./calc.css",
+  "./calc.js",
   "./ull.html",
   "./ull.js",
   "./ull-data.js",

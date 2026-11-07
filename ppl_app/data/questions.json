@@ -20084,7 +20084,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-77"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-77",
+      "explanation": "Ukazatel směru přistání (landing T) má tvar písmene T. Jeho podélná osa ukazuje směr, kterým mají letadla při přistání a vzletu postupovat; pilot současně respektuje místní pravidla a pokyny ATS."
     },
     {
       "sourceNumber": "78",
@@ -20100,7 +20101,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-78"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-78",
+      "explanation": "Signální čtverec je vyznačená plocha letiště určená pro pozemní vizuální signály, které pilotům poskytují informace o provozních podmínkách nebo omezeních. Význam jednotlivých symbolů stanoví pravidla létání."
     },
     {
       "sourceNumber": "79",
@@ -20116,7 +20118,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-79"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-79",
+      "explanation": "Za denního světla pilot letadla ve vzduchu potvrzuje přijetí světelných signálů kýváním křídly; zpravidla se tak nečiní na základně či ve finále zatáčky. V noci se potvrzení provádí příslušným blikáním přistávacích nebo navigačních světel podle předpisu."
     },
     {
       "sourceNumber": "80",
@@ -20132,7 +20135,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-80"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-80",
+      "explanation": "Stálé červené světlo směrované na letadlo na zemi znamená „zastavte“. Naproti tomu blikající červené světlo znamená uvolnit používanou přistávací plochu."
     },
     {
       "sourceNumber": "81",
@@ -20148,7 +20152,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-81"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-81",
+      "explanation": "Dvě souběžné dráhy se stejným číselným označením se rozlišují příponami L (left, levá) a R (right, pravá) z pohledu přiblížení. U tří souběžných drah se používá i C (center, prostřední)."
     },
     {
       "sourceNumber": "82",
@@ -20164,7 +20169,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-82"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-82",
+      "explanation": "Vodorovné značení vzletových a přistávacích drah je standardně bílé. Značení pojezdových drah bývá žluté; pilot tak rozpozná odlišné funkce pohybových ploch."
     },
     {
       "sourceNumber": "83",
@@ -20180,7 +20186,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-83"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-83",
+      "explanation": "Symetrické podélné bílé pruhy po obou stranách osy dráhy označují práh dráhy. Před prahem není dovoleno dosednout při přistání v daném směru, i když předprahová plocha může mít jiný schválený způsob využití."
     },
     {
       "sourceNumber": "86",
@@ -20196,7 +20203,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-86"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-86",
+      "explanation": "Letištní maják (aerodrome beacon, ABN) je světelný maják na letišti nebo v jeho blízkosti, který umožňuje pilotům za letu rozpoznat polohu letiště, zejména v noci nebo při snížené dohlednosti. Může používat rotující či ekvivalentní zábleskový systém."
     },
     {
       "sourceNumber": "87",
@@ -20212,7 +20220,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-87"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-87",
+      "explanation": "Postranní dráhová návěstidla jsou zpravidla bílá. V určitých úsecích nebo konfiguracích mohou být podle letištního osvětlení použity další barvy, například žlutá v závěrečné části dráhy."
     },
     {
       "sourceNumber": "88",
@@ -20228,7 +20237,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-88"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-88",
+      "explanation": "Koncová návěstidla dráhy svítí červeně ve směru pohledu k jejímu konci a upozorňují na hranici použitelné dráhy. Prahová návěstidla jsou při přiblížení zpravidla zelená."
     },
     {
       "sourceNumber": "89",
@@ -20310,7 +20320,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-93"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-93",
+      "explanation": "DETRESFA (distress phase) je údobí tísně: existuje důvodná jistota, že letadlu a osobám na palubě hrozí vážné a bezprostřední nebezpečí nebo je nutná okamžitá pomoc. Odlišuje se od INCERFA (nejistota) a ALERFA (pohotovost)."
     },
     {
       "sourceNumber": "94",
@@ -20326,7 +20337,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-94"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-94",
+      "explanation": "Pátrací a záchranné služby SAR koordinují příslušné záchranné koordinační orgány a mohou využívat civilní i vojenské prostředky. Cílem je vyhledat ohrožené osoby a poskytnout jim pomoc."
     },
     {
       "sourceNumber": "95",
@@ -20342,7 +20354,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-95"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-95",
+      "explanation": "Pilot letadla může za dne potvrdit porozumění pozemnímu signálu pátrání a záchrany kýváním křídly. Přesný postup a význam signálů se řídí předepsanými pravidly vizuální komunikace."
     },
     {
       "sourceNumber": "96",
@@ -20358,7 +20371,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-96"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-96",
+      "explanation": "Pro účely bezpečnostního šetření se rozlišují incident (příhoda), vážný incident (vážná příhoda) a nehoda. Vážný incident zahrnuje okolnosti nasvědčující vysoké pravděpodobnosti nehody; právní definice určují konkrétní zařazení."
     },
     {
       "sourceNumber": "97",
@@ -20374,7 +20388,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-97"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-97",
+      "explanation": "Hlavním cílem bezpečnostního šetření letecké nehody je předcházet dalším nehodám a incidentům zjištěním okolností a příčin a vydáním bezpečnostních doporučení. Není jím určování viny či právní odpovědnosti."
     },
     {
       "sourceNumber": "1",

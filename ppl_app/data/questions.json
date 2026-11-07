@@ -4294,14 +4294,17 @@
       "question": "Co z následujícího NENÍ projevem hyperventilace?",
       "options": [
         "brnění",
-        "křeče"
+        "křeče",
+        "cyanóza",
+        "poruchy vědomí"
       ],
-      "correctIndex": 0,
+      "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-letoun-2-p2-10"
+      "id": "2-lidska-vykonnost-letoun-2-p2-10",
+      "explanation": "Hyperventilace způsobuje nadměrný pokles CO₂ v krvi, což může vyvolat brnění, křeče, závratě nebo poruchy vědomí. Cyanóza je namodralé zbarvení při nedostatečném okysličení krve, nikoli typický projev samotné hyperventilace. Původní PDF obsahuje všechny čtyři možnosti; při extrakci byly dvě ztraceny na zlomu stránky."
     },
     {
       "sourceNumber": "11",
@@ -4363,12 +4366,13 @@
         "12000 ft",
         "22000 ft"
       ],
-      "correctIndex": 3,
+      "correctIndex": 2,
       "category": "Lidska vykonnost",
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-letoun-2-p3-14"
+      "id": "2-lidska-vykonnost-letoun-2-p3-14",
+      "explanation": "S rostoucí výškou klesá atmosférický tlak a tím i parciální tlak kyslíku ve vdechovaném vzduchu. Přibližně kolem 12 000 ft se u neaklimatizovaného člověka výrazněji projevují limity fyziologické kompenzace; přesná tolerance závisí na době expozice a zdravotním stavu. Uvedená hodnota není univerzální hranicí bezpečného letu bez kyslíku."
     },
     {
       "sourceNumber": "15",
@@ -4775,7 +4779,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-38"
+      "id": "2-lidska-vykonnost-letoun-2-p9-38",
+      "explanation": "Alkohol se odbourává především v játrech, přibližně konstantní rychlostí; běžně se uvádí orientačně kolem 0,1–0,2 ‰ za hodinu, s velkou individuální variabilitou. Číselné možnosti v původním testu neuvádějí jednotky; označenou hodnotu 0,0001 lze vyložit jako hmotnostní podíl odpovídající 0,1 ‰, nikoli jako univerzální přesnou rychlost. Káva ani spánek odbourání významně neurychlí."
     },
     {
       "sourceNumber": "39",
@@ -4820,12 +4825,13 @@
         "může uchovat 3 (±1) položek na 5 až 10 sekund",
         "může uchovat 7 (±2) položek na 10 až 20 sekund"
       ],
-      "correctIndex": 1,
+      "correctIndex": 3,
       "category": "Lidska vykonnost",
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-41"
+      "id": "2-lidska-vykonnost-letoun-2-p9-41",
+      "explanation": "V tradičním modelu krátkodobé paměti se uvádí kapacita přibližně 7 ± 2 položky a uchování bez opakování přibližně 10–20 sekund. Novější výzkum kapacitu často odhaduje níže, ale pro tuto testovou otázku odpovídá čtvrtá možnost."
     },
     {
       "sourceNumber": "42",
@@ -5355,7 +5361,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-14"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-14",
+      "explanation": "S rostoucí výškou klesá atmosférický tlak a tím i parciální tlak kyslíku ve vdechovaném vzduchu. Přibližně kolem 12 000 ft se u neaklimatizovaného člověka výrazněji projevují limity fyziologické kompenzace; přesná tolerance závisí na době expozice a zdravotním stavu. Uvedená hodnota není univerzální hranicí bezpečného letu bez kyslíku."
     },
     {
       "sourceNumber": "15",
@@ -5796,7 +5803,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-40"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-40",
+      "explanation": "Alkohol se odbourává především v játrech, přibližně konstantní rychlostí; běžně se uvádí orientačně kolem 0,1–0,2 ‰ za hodinu, s velkou individuální variabilitou. Číselné možnosti v původním testu neuvádějí jednotky; označenou hodnotu 0,0001 lze vyložit jako hmotnostní podíl odpovídající 0,1 ‰, nikoli jako univerzální přesnou rychlost. Káva ani spánek odbourání významně neurychlí."
     },
     {
       "sourceNumber": "41",
@@ -5846,7 +5854,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-43"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-43",
+      "explanation": "V tradičním modelu krátkodobé paměti se uvádí kapacita přibližně 7 ± 2 položky a uchování bez opakování přibližně 10–20 sekund. Novější výzkum kapacitu často odhaduje níže, ale pro tuto testovou otázku odpovídá čtvrtá možnost."
     },
     {
       "sourceNumber": "44",

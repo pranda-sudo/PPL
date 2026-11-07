@@ -25286,7 +25286,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-2-p1-1"
+      "id": "6-provozni-postupy-letoun-2-p1-1",
+      "explanation": "U letounu se doba letu počítá od prvního pohybu za účelem vzletu až do konečného zastavení po letu. Zahrnuje také pojíždění související s letem, nikoli pouze dobu ve vzduchu."
     },
     {
       "sourceNumber": "2",
@@ -25302,7 +25303,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-2-p1-2"
+      "id": "6-provozni-postupy-letoun-2-p1-2",
+      "explanation": "Před letem nad vodou mimo klouzavý dosah pevniny je nutno posoudit riziko nouzového přistání na vodu a povinné vybavení podle typu provozu a vzdálenosti od pobřeží: vhodné vesty, podle okolností i čluny."
     },
     {
       "sourceNumber": "3",
@@ -25318,7 +25320,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-2-p1-3"
+      "id": "6-provozni-postupy-letoun-2-p1-3",
+      "explanation": "Hluk ovlivňuje výkon motoru, otáčky vrtule, klapky i podvozek, dráha letu a výška nad zemí. Pravidla VFR/IFR sama hluk fyzikálně nezvyšují."
     },
     {
       "sourceNumber": "4",
@@ -25334,7 +25337,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 1,
-      "id": "6-provozni-postupy-letoun-2-p1-4"
+      "id": "6-provozni-postupy-letoun-2-p1-4",
+      "explanation": "Vyšší stabilizované přiblížení a vhodně snížený výkon mohou snížit hluk u země. Je však nutné zachovat bezpečný profil, konfiguraci, rychlost a předepsaný příletový postup."
     },
     {
       "sourceNumber": "5",
@@ -25350,7 +25354,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-2-p2-5"
+      "id": "6-provozni-postupy-letoun-2-p2-5",
+      "explanation": "Zatáčky nad obcemi během nízkého stoupání s vysokým výkonem zvyšují obtěžování hlukem. Odlet musí vždy odpovídat schváleným postupům a bezpečné rychlosti."
     },
     {
       "sourceNumber": "6",
@@ -25366,7 +25371,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-2-p2-6"
+      "id": "6-provozni-postupy-letoun-2-p2-6",
+      "explanation": "Je vhodné obletět obce nebo je přelétat v dostatečné výšce při dodržení pokynů ATS, vzdušného prostoru a předepsané bezpečné výšky."
     },
     {
       "sourceNumber": "7",
@@ -25382,7 +25388,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-2-p2-7"
+      "id": "6-provozni-postupy-letoun-2-p2-7",
+      "explanation": "Požár karburátoru se může vyskytnout u pístových zážehových motorů s karburátorem při přeplavení nebo zpětném zážehu během startování."
     },
     {
       "sourceNumber": "8",
@@ -25398,7 +25405,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-2-p2-8"
+      "id": "6-provozni-postupy-letoun-2-p2-8",
+      "explanation": "Opakované pumpování plynem může přes akcelerační pumpičku přivést do sání nadbytečné palivo; při zpětném zážehu se může vznítit. Postupuj dle POH."
     },
     {
       "sourceNumber": "9",
@@ -25414,7 +25422,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 2,
-      "id": "6-provozni-postupy-letoun-2-p2-9"
+      "id": "6-provozni-postupy-letoun-2-p2-9",
+      "explanation": "Při startování přeplaveného pístového motoru hrozí zpětný zážeh a požár sání/karburátoru. Použij startovací a požární checklist konkrétního letadla."
     },
     {
       "sourceNumber": "10",
@@ -25430,7 +25439,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-2-p3-10"
+      "id": "6-provozni-postupy-letoun-2-p3-10",
+      "explanation": "Po požáru motoru hrozí skrytá poškození a opakované vznícení. Rutinní opětovné spuštění není bezpečné; za letu postupuje pilot podle AFM/POH a charakteru nouze."
     },
     {
       "sourceNumber": "11",
@@ -25446,7 +25456,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-2-p3-11"
+      "id": "6-provozni-postupy-letoun-2-p3-11",
+      "explanation": "Oxid uhelnatý (CO) z nedokonalého spalování je bez zápachu a barvy a váže se silně na hemoglobin, čímž brání přenosu kyslíku."
     },
     {
       "sourceNumber": "12",
@@ -25462,7 +25473,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-2-p3-12"
+      "id": "6-provozni-postupy-letoun-2-p3-12",
+      "explanation": "Je-li kouř přiváděn do kabiny topením či ventilací, zabraň jeho dalšímu pronikání postupem podle AFM/POH. Zároveň musí proběhnout kompletní postup požáru motoru."
     },
     {
       "sourceNumber": "13",
@@ -25478,7 +25490,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-2-p3-13"
+      "id": "6-provozni-postupy-letoun-2-p3-13",
+      "explanation": "Při elektrickém požáru se typicky odpojuje hlavní elektrický vypínač a tím zdroj energie pro zkrat. Konkrétní postup a dopad na palubní systémy určuje AFM/POH."
     },
     {
       "sourceNumber": "14",
@@ -25494,7 +25507,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 3,
-      "id": "6-provozni-postupy-letoun-2-p3-14"
+      "id": "6-provozni-postupy-letoun-2-p3-14",
+      "explanation": "Voda je pro některé požáry paliv i elektrických zařízení nejméně vhodná. Výběr hasiva závisí na hořící látce a elektrickém napětí."
     },
     {
       "sourceNumber": "15",
@@ -25510,7 +25524,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-2-p4-15"
+      "id": "6-provozni-postupy-letoun-2-p4-15",
+      "explanation": "Kouř za palubní deskou naznačuje elektrický zkrat. Vypnutí elektrického napájení může odstranit zdroj požáru; dále následuje schválený nouzový checklist."
     },
     {
       "sourceNumber": "16",
@@ -25526,7 +25541,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-2-p4-16"
+      "id": "6-provozni-postupy-letoun-2-p4-16",
+      "explanation": "Při potvrzeném požáru motoru je nutné motor a přívod paliva izolovat podle checklistu a připravit přistání. Samotný kouř za panelem ale nemusí dokazovat požár motoru."
     },
     {
       "sourceNumber": "17",
@@ -25542,7 +25558,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-2-p4-17"
+      "id": "6-provozni-postupy-letoun-2-p4-17",
+      "explanation": "Střih větru je výrazná změna rychlosti nebo směru větru na malé vodorovné či svislé vzdálenosti, která může náhle změnit IAS a dráhu letu."
     },
     {
       "sourceNumber": "18",
@@ -25558,7 +25575,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-2-p4-18"
+      "id": "6-provozni-postupy-letoun-2-p4-18",
+      "explanation": "Bouřky generují silné výstupné a sestupné proudy, nárazy a mikrobursty; proto bývají spojeny s výrazným střihem větru."
     },
     {
       "sourceNumber": "19",
@@ -25574,7 +25592,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 4,
-      "id": "6-provozni-postupy-letoun-2-p4-19"
+      "id": "6-provozni-postupy-letoun-2-p4-19",
+      "explanation": "Na rozhraní teplotní inverze se může rychle měnit vítr s výškou. Střih vzniká také poblíž bouřek, front a horských překážek."
     },
     {
       "sourceNumber": "20",
@@ -25590,7 +25609,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-2-p5-20"
+      "id": "6-provozni-postupy-letoun-2-p5-20",
+      "explanation": "Náhlé zeslabení protivětru při přiblížení přechodně sníží IAS a vztlak, zatímco GS se setrvačností nemění stejně rychle; letoun může klesnout pod sestupovou trajektorii."
     },
     {
       "sourceNumber": "21",
@@ -25606,7 +25626,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-2-p5-21"
+      "id": "6-provozni-postupy-letoun-2-p5-21",
+      "explanation": "Náhlé zesílení protivětru zvyšuje IAS a vztlak a může způsobit vystoupání nad plánovanou dráhu. Následující změna proudění však může být opačná."
     },
     {
       "sourceNumber": "22",
@@ -25622,7 +25643,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-2-p5-22"
+      "id": "6-provozni-postupy-letoun-2-p5-22",
+      "explanation": "Pokles zadní složky větru znamená relativní zesílení protivětru, tedy přechodný nárůst IAS a možnost vystoupání nad sestupovou trajektorii."
     },
     {
       "sourceNumber": "23",
@@ -25638,7 +25660,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-2-p5-23"
+      "id": "6-provozni-postupy-letoun-2-p5-23",
+      "explanation": "Zeslabení protivětru po vzletu přechodně sníží IAS i stoupavost. Letadlo se může ocitnout pod plánovanou dráhou stoupání."
     },
     {
       "sourceNumber": "24",
@@ -25654,7 +25677,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 5,
-      "id": "6-provozni-postupy-letoun-2-p5-24"
+      "id": "6-provozni-postupy-letoun-2-p5-24",
+      "explanation": "Střih větru se projevuje nečekanými změnami IAS, vertikální rychlosti, polohy nebo požadovaného výkonu při zachování trajektorie."
     },
     {
       "sourceNumber": "25",
@@ -25672,7 +25696,8 @@ window.PPL_QUESTIONS = {
       "page": 6,
       "id": "6-provozni-postupy-letoun-2-p6-25",
       "image": "./assets/questions/OPR-001.jpg",
-      "imageCode": "OPR-001"
+      "imageCode": "OPR-001",
+      "explanation": "V mikroburstu může v bodu 2 v příloze OPR-001 následovat intenzivní sestupný proud a pokles stoupavosti. Přesné označení bodu vyžaduje kontrolu obrázku."
     },
     {
       "sourceNumber": "26",
@@ -25690,7 +25715,8 @@ window.PPL_QUESTIONS = {
       "page": 6,
       "id": "6-provozni-postupy-letoun-2-p6-26",
       "image": "./assets/questions/OPR-001.jpg",
-      "imageCode": "OPR-001"
+      "imageCode": "OPR-001",
+      "explanation": "Po průletu středem mikroburstu bývá výrazný zadní vítr, který sníží IAS a vztlak. Takový průběh odpovídá bodu 3 v testové příloze OPR-001."
     },
     {
       "sourceNumber": "27",
@@ -25706,7 +25732,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-2-p6-27"
+      "id": "6-provozni-postupy-letoun-2-p6-27",
+      "explanation": "Prevencí je nevzlétnout a nepřistávat v blízkosti bouřek, silných přeháněk a známých mikroburstů; v malé výšce může být ztráta výkonové rezervy kritická."
     },
     {
       "sourceNumber": "28",
@@ -25722,7 +25749,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-2-p6-28"
+      "id": "6-provozni-postupy-letoun-2-p6-28",
+      "explanation": "Při zásahu nebezpečným střihem je prioritou zachovat řízení, přidat výkon podle schváleného escape postupu a zpravidla neměnit bezprostředně konfiguraci. Respektuj AFM/POH."
     },
     {
       "sourceNumber": "29",
@@ -25738,7 +25766,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 6,
-      "id": "6-provozni-postupy-letoun-2-p6-29"
+      "id": "6-provozni-postupy-letoun-2-p6-29",
+      "explanation": "Po počátečním nárůstu IAS při vstupu do mikroburstu může následovat prudké klesání a zadní vítr, takže se rychlost i stoupavost propadnou."
     },
     {
       "sourceNumber": "31",
@@ -25754,7 +25783,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 7,
-      "id": "6-provozni-postupy-letoun-2-p7-31"
+      "id": "6-provozni-postupy-letoun-2-p7-31",
+      "explanation": "Koncové víry vznikají s tvorbou vztlaku. U těžkých letounů bývá významné vytváření úplavu od rotace při vzletu až po dotyk při přistání."
     },
     {
       "sourceNumber": "32",
@@ -25770,7 +25800,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 7,
-      "id": "6-provozni-postupy-letoun-2-p7-32"
+      "id": "6-provozni-postupy-letoun-2-p7-32",
+      "explanation": "Rozdíl tlaků nad a pod křídlem žene proudění kolem konců křídel a vytváří dvojici protiběžných koncových vírů."
     },
     {
       "sourceNumber": "33",
@@ -25786,7 +25817,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 7,
-      "id": "6-provozni-postupy-letoun-2-p7-33"
+      "id": "6-provozni-postupy-letoun-2-p7-33",
+      "explanation": "Při nízké rychlosti vyžaduje letoun pro stejnou tíhu vyšší součinitel vztlaku, což vytváří silnější víry v úplavu."
     },
     {
       "sourceNumber": "34",
@@ -25802,7 +25834,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 7,
-      "id": "6-provozni-postupy-letoun-2-p7-34"
+      "id": "6-provozni-postupy-letoun-2-p7-34",
+      "explanation": "Větší hmotnost vyžaduje více vztlaku, takže se obvykle zvyšuje intenzita koncových vírů a nebezpečí pro lehká následující letadla."
     },
     {
       "sourceNumber": "35",
@@ -25818,7 +25851,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-2-p8-35"
+      "id": "6-provozni-postupy-letoun-2-p8-35",
+      "explanation": "Intenzitu vírů ovlivňuje hmotnost, rychlost a rozpětí. Vyšší hmotnost při srovnatelných podmínkách znamená vyšší požadovaný vztlak."
     },
     {
       "sourceNumber": "36",
@@ -25829,12 +25863,13 @@ window.PPL_QUESTIONS = {
         "letadlo letící ve větší nadmořské výšce",
         "letadlo letící v menší nadmořské výšce"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "category": "Provozni postupy",
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-2-p8-36"
+      "id": "6-provozni-postupy-letoun-2-p8-36",
+      "explanation": "U stejného typu, hmotnosti a konfigurace vytváří silnější víry letadlo letící pomaleji; původní klíč s rychlejším letadlem je chybný."
     },
     {
       "sourceNumber": "37",
@@ -25850,7 +25885,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-2-p8-37"
+      "id": "6-provozni-postupy-letoun-2-p8-37",
+      "explanation": "U stejně těžkých letadel stejného typu je obvykle rozhodující nižší rychlost: pomalejší letadlo vytváří silnější koncové víry."
     },
     {
       "sourceNumber": "38",
@@ -25866,7 +25902,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 8,
-      "id": "6-provozni-postupy-letoun-2-p8-38"
+      "id": "6-provozni-postupy-letoun-2-p8-38",
+      "explanation": "Boční vítr může zanést víry na dráhu nebo ponechat jeden vír nad ní. Dodržuj příslušné rozstupy a pozoruj polohu předchozího letadla."
     },
     {
       "sourceNumber": "39",
@@ -25882,7 +25919,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-2-p9-39"
+      "id": "6-provozni-postupy-letoun-2-p9-39",
+      "explanation": "Přibližuj se nad dráhou předchozího těžšího letadla a přistaň až za jeho místem dotyku, pokud to délka RWY umožňuje. V pochybnostech zvyš odstup či opakuj přiblížení."
     },
     {
       "sourceNumber": "40",
@@ -25898,7 +25936,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-2-p9-40"
+      "id": "6-provozni-postupy-letoun-2-p9-40",
+      "explanation": "Za dopravním letadlem při pojíždění hrozí jet blast. Historická testová hodnota 200 m není univerzální bezpečný limit pro každý typ motoru; řiď se místními postupy."
     },
     {
       "sourceNumber": "41",
@@ -25914,7 +25953,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-2-p9-41"
+      "id": "6-provozni-postupy-letoun-2-p9-41",
+      "explanation": "Při vynuceném přistání nejdříve udržuj řízení, vyber dosažitelnou plochu, plánuj přiblížení a proveď checklist. Nouzové hlášení je důležité, ale řízení má přednost."
     },
     {
       "sourceNumber": "42",
@@ -25930,7 +25970,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 9,
-      "id": "6-provozni-postupy-letoun-2-p9-42"
+      "id": "6-provozni-postupy-letoun-2-p9-42",
+      "explanation": "U nepřipravené plochy posuď sklon, povrch, překážky, délku, vítr a případné vodiče. Je-li čas, bezpečně prohlédni místo a zvol vhodný směr."
     },
     {
       "sourceNumber": "43",
@@ -25946,7 +25987,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-2-p10-43"
+      "id": "6-provozni-postupy-letoun-2-p10-43",
+      "explanation": "Sklizené pole může být vhodnější než hluboká orba, vysoká tráva nebo plocha s lidmi. Rozhodují ale skutečné překážky, směr brázd a stav povrchu."
     },
     {
       "sourceNumber": "44",
@@ -25962,7 +26004,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-2-p10-44"
+      "id": "6-provozni-postupy-letoun-2-p10-44",
+      "explanation": "Nouzové přistání je vynuceno okolnostmi, které nedovolují bezpečně pokračovat. Nemusí být vždy spojeno s úplným vysazením motoru."
     },
     {
       "sourceNumber": "45",
@@ -25978,7 +26021,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-2-p10-45"
+      "id": "6-provozni-postupy-letoun-2-p10-45",
+      "explanation": "Pokud okolnosti nutí pilota přistát, jde o nouzové přistání; odlišuje se od preventivního bezpečnostního přistání."
     },
     {
       "sourceNumber": "46",
@@ -25994,7 +26038,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-2-p10-46"
+      "id": "6-provozni-postupy-letoun-2-p10-46",
+      "explanation": "Bezpečnostní přistání je preventivní rozhodnutí pilota, například při zhoršujícím se počasí nebo nejistotě, dříve než nastane bezprostřední nouze."
     },
     {
       "sourceNumber": "47",
@@ -26010,7 +26055,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 10,
-      "id": "6-provozni-postupy-letoun-2-p10-47"
+      "id": "6-provozni-postupy-letoun-2-p10-47",
+      "explanation": "Při výběru mimoletištní plochy posuď rovinnost, délku, pevnost, porost, osoby a překážky. Nízký porost může pomoci, ale nemusí být vždy lepší než louka."
     },
     {
       "sourceNumber": "48",
@@ -26026,7 +26072,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-2-p11-48"
+      "id": "6-provozni-postupy-letoun-2-p11-48",
+      "explanation": "VFR nad vodou mimo dosažitelný břeh vyžaduje posoudit povinné vybavení pro nouzové přistání na vodu; dostupnost vest či člunů závisí na konkrétních pravidlech."
     },
     {
       "sourceNumber": "49",
@@ -26042,7 +26089,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-2-p11-49"
+      "id": "6-provozni-postupy-letoun-2-p11-49",
+      "explanation": "Před nouzovým přistáním informuj cestující o situaci, připevnění pásů, bezpečné poloze, východech, evakuaci a chování po přistání."
     },
     {
       "sourceNumber": "50",
@@ -26058,7 +26106,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-2-p11-50"
+      "id": "6-provozni-postupy-letoun-2-p11-50",
+      "explanation": "Přehřáté pneumatiky mohou explodovat, zejména ve směru roviny kola. Přibližuj se mimo tuto rovinu, zepředu či zezadu, podle místních bezpečnostních postupů."
     },
     {
       "sourceNumber": "51",
@@ -26074,7 +26123,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-2-p11-51"
+      "id": "6-provozni-postupy-letoun-2-p11-51",
+      "explanation": "Při přehřátých brzdách může pneumatika explozivně selhat. Nedotýkej se kol a nestůj v rovině pneumatiky; případný zásah patří odborným osobám."
     },
     {
       "sourceNumber": "52",
@@ -26090,7 +26140,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 11,
-      "id": "6-provozni-postupy-letoun-2-p11-52"
+      "id": "6-provozni-postupy-letoun-2-p11-52",
+      "explanation": "Vestu nafukuj až po opuštění letadla: nafouknutá vesta by mohla bránit průchodu východem a uvěznit člověka v zatopené kabině."
     },
     {
       "sourceNumber": "53",
@@ -26106,7 +26157,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-2-p12-53"
+      "id": "6-provozni-postupy-letoun-2-p12-53",
+      "explanation": "Mokrá tráva zvyšuje odpor při vzletu a snižuje účinnost brzdění při přistání. Obě požadované vzdálenosti se obvykle prodlužují."
     },
     {
       "sourceNumber": "54",
@@ -26122,7 +26174,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-2-p12-54"
+      "id": "6-provozni-postupy-letoun-2-p12-54",
+      "explanation": "Historická testová definice kontaminované RWY používá pokrytí přes 25 %. Současná hlášení RCR/RWYCC sledují třetiny RWY, typ a hloubku kontaminace; pro let platí aktuální dokumentace."
     },
     {
       "sourceNumber": "55",
@@ -26138,7 +26191,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-2-p12-55"
+      "id": "6-provozni-postupy-letoun-2-p12-55",
+      "explanation": "Testová odpověď 0,25 znamená 25 % pokrytí. Pozor na změnu současných postupů klasifikace a na rozdíl mezi ledem, sněhem a vodou."
     },
     {
       "sourceNumber": "56",
@@ -26154,7 +26208,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-2-p12-56"
+      "id": "6-provozni-postupy-letoun-2-p12-56",
+      "explanation": "Mokrý sníh vytváří dodatečný odpor kol, prodlužuje rozjezd a zhoršuje výkonové parametry. Používej platné korekce a limity AFM/POH."
     },
     {
       "sourceNumber": "57",
@@ -26170,7 +26225,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 12,
-      "id": "6-provozni-postupy-letoun-2-p12-57"
+      "id": "6-provozni-postupy-letoun-2-p12-57",
+      "explanation": "Stojatá voda při rozjezdu zvyšuje odpor kol a může způsobit aquaplaning. Důležitá je její hloubka a typ pneumatik."
     },
     {
       "sourceNumber": "58",
@@ -26186,7 +26242,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 13,
-      "id": "6-provozni-postupy-letoun-2-p13-58"
+      "id": "6-provozni-postupy-letoun-2-p13-58",
+      "explanation": "Při aquaplaningu se mezi pneumatiku a RWY dostane vrstva vody, výrazně se sníží přilnavost a vzroste brzdná vzdálenost."
     },
     {
       "sourceNumber": "59",
@@ -26202,7 +26259,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 13,
-      "id": "6-provozni-postupy-letoun-2-p13-59"
+      "id": "6-provozni-postupy-letoun-2-p13-59",
+      "explanation": "Při aquaplaningu nebrzdi prudce ani nezablokuj kola. Udržuj směr a brzděte opatrně podle AFM/POH, když lze využít adhezi."
     },
     {
       "sourceNumber": "60",
@@ -26218,7 +26276,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "6-Provozni-postupy-letoun (2).pdf",
       "page": 13,
-      "id": "6-provozni-postupy-letoun-2-p13-60"
+      "id": "6-provozni-postupy-letoun-2-p13-60",
+      "explanation": "Na kontaminovanou dráhu přistávej jen při bezpečně splněných podmínkách. Minimalizuj boční vítr a používej předepsanou konfiguraci a rychlosti; maximální klapky nejsou univerzální pro každý typ."
     },
     {
       "sourceNumber": "1",
@@ -26234,7 +26293,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-p1-1"
+      "id": "6-provozni-postupy-vrtulnik-p1-1",
+      "explanation": "U vrtulníku doba letu začíná roztočením rotoru za účelem vzletu a končí po konečném zastavení vrtulníku a rotorových listů. Je odlišná od čistého času ve vzduchu."
     },
     {
       "sourceNumber": "2",
@@ -26250,7 +26310,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-p1-2"
+      "id": "6-provozni-postupy-vrtulnik-p1-2",
+      "explanation": "Před letem nad vodou mimo klouzavý dosah pevniny je nutno posoudit riziko nouzového přistání na vodu a povinné vybavení podle typu provozu a vzdálenosti od pobřeží: vhodné vesty, podle okolností i čluny."
     },
     {
       "sourceNumber": "3",
@@ -26266,7 +26327,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-p1-3"
+      "id": "6-provozni-postupy-vrtulnik-p1-3",
+      "explanation": "Zatáčky nad obcemi během nízkého stoupání s vysokým výkonem zvyšují obtěžování hlukem. Odlet musí vždy odpovídat schváleným postupům a bezpečné rychlosti."
     },
     {
       "sourceNumber": "4",
@@ -26282,7 +26344,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-p1-4"
+      "id": "6-provozni-postupy-vrtulnik-p1-4",
+      "explanation": "Požár karburátoru se může vyskytnout u pístových zážehových motorů s karburátorem při přeplavení nebo zpětném zážehu během startování."
     },
     {
       "sourceNumber": "5",
@@ -26298,7 +26361,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 1,
-      "id": "6-provozni-postupy-vrtulnik-p1-5"
+      "id": "6-provozni-postupy-vrtulnik-p1-5",
+      "explanation": "Opakované pumpování plynem může přes akcelerační pumpičku přivést do sání nadbytečné palivo; při zpětném zážehu se může vznítit. Postupuj dle POH."
     },
     {
       "sourceNumber": "6",
@@ -26314,7 +26378,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-p2-6"
+      "id": "6-provozni-postupy-vrtulnik-p2-6",
+      "explanation": "Při startování přeplaveného pístového motoru hrozí zpětný zážeh a požár sání/karburátoru. Použij startovací a požární checklist konkrétního letadla."
     },
     {
       "sourceNumber": "7",
@@ -26330,7 +26395,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-p2-7"
+      "id": "6-provozni-postupy-vrtulnik-p2-7",
+      "explanation": "Po požáru motoru hrozí skrytá poškození a opakované vznícení. Rutinní opětovné spuštění není bezpečné; za letu postupuje pilot podle AFM/POH a charakteru nouze."
     },
     {
       "sourceNumber": "8",
@@ -26346,7 +26412,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-p2-8"
+      "id": "6-provozni-postupy-vrtulnik-p2-8",
+      "explanation": "Oxid uhelnatý (CO) z nedokonalého spalování je bez zápachu a barvy a váže se silně na hemoglobin, čímž brání přenosu kyslíku."
     },
     {
       "sourceNumber": "9",
@@ -26362,7 +26429,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-p2-9"
+      "id": "6-provozni-postupy-vrtulnik-p2-9",
+      "explanation": "Je-li kouř přiváděn do kabiny topením či ventilací, zabraň jeho dalšímu pronikání postupem podle AFM/POH. Zároveň musí proběhnout kompletní postup požáru motoru."
     },
     {
       "sourceNumber": "10",
@@ -26378,7 +26446,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 2,
-      "id": "6-provozni-postupy-vrtulnik-p2-10"
+      "id": "6-provozni-postupy-vrtulnik-p2-10",
+      "explanation": "Při elektrickém požáru se typicky odpojuje hlavní elektrický vypínač a tím zdroj energie pro zkrat. Konkrétní postup a dopad na palubní systémy určuje AFM/POH."
     },
     {
       "sourceNumber": "11",
@@ -26394,7 +26463,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-p3-11"
+      "id": "6-provozni-postupy-vrtulnik-p3-11",
+      "explanation": "Voda je pro některé požáry paliv i elektrických zařízení nejméně vhodná. Výběr hasiva závisí na hořící látce a elektrickém napětí."
     },
     {
       "sourceNumber": "12",
@@ -26410,7 +26480,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-p3-12"
+      "id": "6-provozni-postupy-vrtulnik-p3-12",
+      "explanation": "Kouř za palubní deskou naznačuje elektrický zkrat. Vypnutí elektrického napájení může odstranit zdroj požáru; dále následuje schválený nouzový checklist."
     },
     {
       "sourceNumber": "13",
@@ -26426,7 +26497,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-p3-13"
+      "id": "6-provozni-postupy-vrtulnik-p3-13",
+      "explanation": "Při podezření na požár motoru a průnik kouře do kabiny omez jeho přívod topením či ventilací podle POH. Samotné vypnutí topení ale nenahrazuje úplný požární checklist."
     },
     {
       "sourceNumber": "14",
@@ -26442,7 +26514,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-p3-14"
+      "id": "6-provozni-postupy-vrtulnik-p3-14",
+      "explanation": "Střih větru je výrazná změna rychlosti nebo směru větru na malé vodorovné či svislé vzdálenosti, která může náhle změnit IAS a dráhu letu."
     },
     {
       "sourceNumber": "15",
@@ -26458,7 +26531,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 3,
-      "id": "6-provozni-postupy-vrtulnik-p3-15"
+      "id": "6-provozni-postupy-vrtulnik-p3-15",
+      "explanation": "Bouřky generují silné výstupné a sestupné proudy, nárazy a mikrobursty; proto bývají spojeny s výrazným střihem větru."
     },
     {
       "sourceNumber": "16",
@@ -26474,7 +26548,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-p4-16"
+      "id": "6-provozni-postupy-vrtulnik-p4-16",
+      "explanation": "Na rozhraní teplotní inverze se může rychle měnit vítr s výškou. Střih vzniká také poblíž bouřek, front a horských překážek."
     },
     {
       "sourceNumber": "17",
@@ -26490,7 +26565,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-p4-17"
+      "id": "6-provozni-postupy-vrtulnik-p4-17",
+      "explanation": "Náhlé zeslabení protivětru při přiblížení přechodně sníží IAS a vztlak, zatímco GS se setrvačností nemění stejně rychle; letoun může klesnout pod sestupovou trajektorii."
     },
     {
       "sourceNumber": "18",
@@ -26506,7 +26582,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-p4-18"
+      "id": "6-provozni-postupy-vrtulnik-p4-18",
+      "explanation": "Náhlé zesílení protivětru zvyšuje IAS a vztlak a může způsobit vystoupání nad plánovanou dráhu. Následující změna proudění však může být opačná."
     },
     {
       "sourceNumber": "19",
@@ -26522,7 +26599,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-p4-19"
+      "id": "6-provozni-postupy-vrtulnik-p4-19",
+      "explanation": "Pokles zadní složky větru znamená relativní zesílení protivětru, tedy přechodný nárůst IAS a možnost vystoupání nad sestupovou trajektorii."
     },
     {
       "sourceNumber": "20",
@@ -26538,7 +26616,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 4,
-      "id": "6-provozni-postupy-vrtulnik-p4-20"
+      "id": "6-provozni-postupy-vrtulnik-p4-20",
+      "explanation": "Zeslabení protivětru po vzletu přechodně sníží IAS i stoupavost. Letadlo se může ocitnout pod plánovanou dráhou stoupání."
     },
     {
       "sourceNumber": "21",
@@ -26554,7 +26633,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-p5-21"
+      "id": "6-provozni-postupy-vrtulnik-p5-21",
+      "explanation": "Střih větru se projevuje nečekanými změnami IAS, vertikální rychlosti, polohy nebo požadovaného výkonu při zachování trajektorie."
     },
     {
       "sourceNumber": "22",
@@ -26570,7 +26650,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-p5-22"
+      "id": "6-provozni-postupy-vrtulnik-p5-22",
+      "explanation": "Prevencí je nevzlétnout a nepřistávat v blízkosti bouřek, silných přeháněk a známých mikroburstů; v malé výšce může být ztráta výkonové rezervy kritická."
     },
     {
       "sourceNumber": "23",
@@ -26586,7 +26667,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-p5-23"
+      "id": "6-provozni-postupy-vrtulnik-p5-23",
+      "explanation": "Po počátečním nárůstu IAS při vstupu do mikroburstu může následovat prudké klesání a zadní vítr, takže se rychlost i stoupavost propadnou."
     },
     {
       "sourceNumber": "24",
@@ -26602,7 +26684,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-p5-24"
+      "id": "6-provozni-postupy-vrtulnik-p5-24",
+      "explanation": "Toto zadání hovoří o letounu, nikoliv vrtulníku. Koncové víry letounu vznikají s vývojem vztlaku, přibližně od rotace při vzletu. U vrtulníku je proudění a nebezpečí rotorového úplavu jiné."
     },
     {
       "sourceNumber": "25",
@@ -26618,7 +26701,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 5,
-      "id": "6-provozni-postupy-vrtulnik-p5-25"
+      "id": "6-provozni-postupy-vrtulnik-p5-25",
+      "explanation": "Rozdíl tlaků nad a pod křídlem žene proudění kolem konců křídel a vytváří dvojici protiběžných koncových vírů."
     },
     {
       "sourceNumber": "26",
@@ -26634,7 +26718,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-p6-26"
+      "id": "6-provozni-postupy-vrtulnik-p6-26",
+      "explanation": "Při nízké rychlosti vyžaduje letoun pro stejnou tíhu vyšší součinitel vztlaku, což vytváří silnější víry v úplavu."
     },
     {
       "sourceNumber": "27",
@@ -26650,7 +26735,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-p6-27"
+      "id": "6-provozni-postupy-vrtulnik-p6-27",
+      "explanation": "Větší hmotnost vyžaduje více vztlaku, takže se obvykle zvyšuje intenzita koncových vírů a nebezpečí pro lehká následující letadla."
     },
     {
       "sourceNumber": "28",
@@ -26666,7 +26752,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-p6-28"
+      "id": "6-provozni-postupy-vrtulnik-p6-28",
+      "explanation": "U stejného typu, hmotnosti a konfigurace vytváří silnější víry letadlo letící pomaleji; původní klíč s rychlejším letadlem je chybný."
     },
     {
       "sourceNumber": "29",
@@ -26682,7 +26769,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-p6-29"
+      "id": "6-provozni-postupy-vrtulnik-p6-29",
+      "explanation": "U stejně těžkých letadel stejného typu je obvykle rozhodující nižší rychlost: pomalejší letadlo vytváří silnější koncové víry."
     },
     {
       "sourceNumber": "30",
@@ -26698,7 +26786,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 6,
-      "id": "6-provozni-postupy-vrtulnik-p6-30"
+      "id": "6-provozni-postupy-vrtulnik-p6-30",
+      "explanation": "Boční vítr může zanést víry na dráhu nebo ponechat jeden vír nad ní. Dodržuj příslušné rozstupy a pozoruj polohu předchozího letadla."
     },
     {
       "sourceNumber": "31",
@@ -26714,7 +26803,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-p7-31"
+      "id": "6-provozni-postupy-vrtulnik-p7-31",
+      "explanation": "Za dopravním letadlem při pojíždění hrozí jet blast. Historická testová hodnota 200 m není univerzální bezpečný limit pro každý typ motoru; řiď se místními postupy."
     },
     {
       "sourceNumber": "32",
@@ -26730,7 +26820,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-p7-32"
+      "id": "6-provozni-postupy-vrtulnik-p7-32",
+      "explanation": "Sklizené pole může být vhodnější než hluboká orba, vysoká tráva nebo plocha s lidmi. Rozhodují ale skutečné překážky, směr brázd a stav povrchu."
     },
     {
       "sourceNumber": "33",
@@ -26746,7 +26837,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-p7-33"
+      "id": "6-provozni-postupy-vrtulnik-p7-33",
+      "explanation": "Pokud okolnosti nutí pilota přistát, jde o nouzové přistání; odlišuje se od preventivního bezpečnostního přistání."
     },
     {
       "sourceNumber": "34",
@@ -26762,7 +26854,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-p7-34"
+      "id": "6-provozni-postupy-vrtulnik-p7-34",
+      "explanation": "Bezpečnostní přistání je preventivní rozhodnutí pilota, například při zhoršujícím se počasí nebo nejistotě, dříve než nastane bezprostřední nouze."
     },
     {
       "sourceNumber": "35",
@@ -26778,7 +26871,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 7,
-      "id": "6-provozni-postupy-vrtulnik-p7-35"
+      "id": "6-provozni-postupy-vrtulnik-p7-35",
+      "explanation": "Přehřáté pneumatiky mohou explodovat, zejména ve směru roviny kola. Přibližuj se mimo tuto rovinu, zepředu či zezadu, podle místních bezpečnostních postupů."
     },
     {
       "sourceNumber": "36",
@@ -26794,7 +26888,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-p8-36"
+      "id": "6-provozni-postupy-vrtulnik-p8-36",
+      "explanation": "Mokrá tráva zvyšuje odpor při vzletu a snižuje účinnost brzdění při přistání. Obě požadované vzdálenosti se obvykle prodlužují."
     },
     {
       "sourceNumber": "37",
@@ -26810,7 +26905,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-p8-37"
+      "id": "6-provozni-postupy-vrtulnik-p8-37",
+      "explanation": "Při spouštění vrtulníku za silného větru se zpravidla volí orientace proti větru v mezích AFM/POH, aby proudění nezhoršovalo ovladatelnost rotorů."
     },
     {
       "sourceNumber": "38",
@@ -26826,7 +26922,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-p8-38"
+      "id": "6-provozni-postupy-vrtulnik-p8-38",
+      "explanation": "V horském prostředí lze očekávat rychlé změny počasí, sestupné proudy, rotorovou turbulenci a místní urychlení větru, což zásadně mění bezpečné možnosti letu."
     },
     {
       "sourceNumber": "39",
@@ -26842,7 +26939,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-p8-39"
+      "id": "6-provozni-postupy-vrtulnik-p8-39",
+      "explanation": "Při přistání vrtulníku na svahu sleduj možné sesunutí, podklouznutí a dynamické převrácení. Limity sklonu i pořadí úkonů určuje příručka daného typu."
     },
     {
       "sourceNumber": "40",
@@ -26858,7 +26956,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "6-Provozni-postupy-vrtulnik.pdf",
       "page": 8,
-      "id": "6-provozni-postupy-vrtulnik-p8-40"
+      "id": "6-provozni-postupy-vrtulnik-p8-40",
+      "explanation": "Tvrzení, že se autorotace v horách vždy provádí směrem vzhůru bez vybočení, nelze považovat za univerzální. Bezpečné provedení závisí na větru, energii rotoru, terénu, dostupné ploše a AFM/POH; původní klíč je nutné prověřit."
     }
   ]
 };

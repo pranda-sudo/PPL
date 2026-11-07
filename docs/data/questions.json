@@ -10557,7 +10557,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
       "id": "9-navigace-letoun-1-p5-23",
-      "explanation": "Zeměpisná trať = zeměpisný kurz − oprava snosu = 125° − (−12°) = 137°. Z rozdílu zeměpisné a magnetické tratě plyne deklinace 2°W. Magnetický kurz je 127° a po odečtení deviace 2°E kompasový kurz 125°."
+      "explanation": "Postup: 1) Zeměpisná trať TT = zeměpisný kurz TH − WCA = 125° − (−12°) = 137°. 2) Magnetická trať MT = 139°, takže deklinace je 2°W (magnetický směr je o 2° větší). 3) Magnetický kurz MH = TH + 2° = 127°. 4) Deviace 2°E: kompasový kurz CH = MH − 2° = 125°. Výsledek: TT 137°, MH 127°, CH 125°."
     },
     {
       "sourceNumber": "24",
@@ -10574,7 +10574,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
       "id": "9-navigace-letoun-1-p5-24",
-      "explanation": "Zeměpisný kurz = 179° + (−12°) = 167°. Při deklinaci 4°E je magnetický kurz 163° a magnetická trať 175°."
+      "explanation": "Postup: 1) TH = TT + WCA = 179° − 12° = 167°. 2) Východní deklinaci 4° odečteme: MH = 167° − 4° = 163°. 3) Magnetická trať MT = 179° − 4° = 175°. Deviace zde pro požadované veličiny není potřeba."
     },
     {
       "sourceNumber": "25",
@@ -10659,7 +10659,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 6,
       "id": "9-navigace-letoun-1-p6-29",
-      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Magnetický kurz je 198°, tedy deklinace je 4°W, protože při západní deklinaci se při převodu z true na magnetic přičítá."
+      "explanation": "Postup: 1) TH = TT + WCA = 183° + 11° = 194°. 2) MH = 198°, tedy rozdíl MH − TH = 4°; magnetický směr je větší, což znamená deklinaci 4°W. Výsledek TH 194°, VAR 004°W."
     },
     {
       "sourceNumber": "30",
@@ -10676,7 +10676,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
       "id": "9-navigace-letoun-1-p7-30",
-      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Kompasový kurz 200° je o 2° větší než magnetický kurz 198°, což odpovídá deviaci 2°W (−002°)."
+      "explanation": "Postup: 1) TH = 183° + 11° = 194°. 2) Deviace je rozdíl magnetického a kompasového kurzu: DEV = MH − CH = 198° − 200° = −2° = 2°W. Výsledek TH 194°, DEV −002°."
     },
     {
       "sourceNumber": "31",
@@ -10693,7 +10693,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 7,
       "id": "9-navigace-letoun-1-p7-31",
-      "explanation": "Magnetický kurz 198° oproti zeměpisnému 194° znamená deklinaci 4°W. Kompasový kurz 200° oproti magnetickému 198° znamená deviaci 2°W."
+      "explanation": "Postup: 1) TH = 183° + 11° = 194°. 2) Deklinace = TH − MH = 194° − 198° = −4° = 4°W. 3) Deviace = MH − CH = 198° − 200° = −2° = 2°W."
     },
     {
       "sourceNumber": "32",
@@ -10969,7 +10969,7 @@
       "id": "9-navigace-letoun-1-p10-47",
       "image": "./assets/questions/NAV-031.jpg",
       "imageCode": "NAV-031",
-      "explanation": "Radiál VOR je magnetický směr OD stanice. Ze souřadnic BKD a EDBU vychází směr přibližně východoseverovýchodní; přesný radiál 068° je nutné ověřit v příloze NAV-031 a vůči místní deklinaci."
+      "explanation": "Postup ze souřadnic: Δšířka = 53°11′ − 53°02′ = 9′ = 9 NM severně. Δdélka = 12°11′ − 11°33′ = 38′; v šířce 53° je východní složka 38 × cos(53°) ≈ 22,9 NM. Zeměpisný směr ≈ arctan(22,9/9) = 68,5°. To je zeměpisná trať; radiál VOR je magnetický směr, proto pro přesné potvrzení 068° potřebujeme deklinaci a přílohu NAV-031."
     },
     {
       "sourceNumber": "48",
@@ -11005,7 +11005,7 @@
       "id": "9-navigace-letoun-1-p10-49",
       "image": "./assets/questions/NAV-031.jpg",
       "imageCode": "NAV-031",
-      "explanation": "Polohu určí průsečík radiálu 119° od VOR HAM a radiálu 320° od VOR BKD. Pro přesné zakreslení je nutné pracovat s mapou NAV-031 a magnetickou deklinací; uvedená poloha je přibližná."
+      "explanation": "Postup: Z HAM se zakreslí radiál 119° a z BKD radiál 320°; jejich průsečík určí polohu. Radiály VOR jsou magnetické, proto je před zákresem na zeměpisnou mapu nutné zohlednit místní deklinaci. Výsledek z testové přílohy je 53°20′N, 11°10′E; bez originálu NAV-031 jej nelze nezávisle ověřit."
     },
     {
       "sourceNumber": "50",
@@ -11024,7 +11024,7 @@
       "id": "9-navigace-letoun-1-p11-50",
       "image": "./assets/questions/NAV-031.jpg",
       "imageCode": "NAV-031",
-      "explanation": "Rozdíl šířek činí 9′ = 9 NM; rozdíl délek 38′ při šířce 53° odpovídá asi 38 × cos 53° ≈ 23 NM. Pythagorovou větou vychází přibližně 25 NM, tedy nejbližší mapová odpověď kolem 24 NM."
+      "explanation": "Postup: Δšířka = 9′ = 9 NM. Δdélka = 38′ × cos(53°) ≈ 22,9 NM. Vzdálenost přibližně √(9² + 22,9²) = 24,6 NM. Podle přesnosti měření mapy a zaokrouhlení odpovídá přibližně 24–25 NM; v testu je 24 NM."
     },
     {
       "sourceNumber": "51",
@@ -11228,7 +11228,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
       "id": "9-navigace-letoun-1-p13-62",
-      "explanation": "Převod CAS na TAS vyžaduje hustotu vzduchu, která závisí na tlaku a teplotě. Ve FL80 a OAT +15 °C je vzduch řidší než u hladiny moře, takže TAS je významně vyšší než CAS. Označených 180 kt je vhodné ověřit výpočtovým pravítkem či přesným vztahem."
+      "explanation": "Postup: ISA tlak ve FL80 je přibližně 752 hPa. Při OAT +15 °C (288,15 K) je poměr hustot σ = (752/1013,25) × (288,15/288,15) ≈ 0,742. Pro malé Machovo číslo platí TAS ≈ CAS/√σ = 155/√0,742 ≈ 180 kt. Výsledek přibližně 180 kt."
     },
     {
       "sourceNumber": "63",
@@ -11247,7 +11247,7 @@
       "id": "9-navigace-letoun-1-p13-63",
       "image": "./assets/questions/NAV-031.jpg",
       "imageCode": "NAV-031",
-      "explanation": "Trať mezi uvedenými souřadnicemi míří k severovýchodu. Rozdíl šířek je 23′ a rozdíl délek 69′, v šířce 53° zhruba 42 NM na východ. arctan(42/23) ≈ 61° od severu."
+      "explanation": "Postup: Δšířka = 53°22′ − 52°59′ = 23′ = 23 NM severně. Δdélka = 11°37′ − 10°28′ = 69′. V šířce 53° je východní vzdálenost 69 × cos(53°) ≈ 41,5 NM. Směr od severu arctan(41,5/23) ≈ 61°, tedy TC 061°."
     },
     {
       "sourceNumber": "64",
@@ -11283,7 +11283,7 @@
       "id": "9-navigace-letoun-1-p14-65",
       "image": "./assets/questions/NAV-031.jpg",
       "imageCode": "NAV-031",
-      "explanation": "Rozdíl šířek 23′ = 23 NM, rozdíl délek 69′ × cos 53° ≈ 42 NM. Vzdálenost ≈ √(23²+42²) ≈ 48 NM; mapové měření může dát přibližně 46 NM."
+      "explanation": "Postup: Δšířka = 23′ = 23 NM; Δdélka = 69′ × cos(53°) ≈ 41,5 NM. Vzdálenost po krátké trati ≈ √(23² + 41,5²) = 47,5 NM. To je více než klíčových 46 NM; bez kontroly přílohy NAV-031 nelze 46 NM potvrdit."
     },
     {
       "sourceNumber": "66",
@@ -11368,7 +11368,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
       "id": "9-navigace-letoun-1-p15-70",
-      "explanation": "Vítr 140°/20 kt přichází zleva od tratě 177°, takže kurz je třeba opravit doleva. Boční složka ≈ 20 sin 37° = 12 kt; při GS 160 kt odpovídá oprava přibližně 4°, tedy 173°."
+      "explanation": "Postup: Úhel větru od tratě je 177° − 140° = 37° (vítr zleva). Boční složka = 20 × sin 37° ≈ 12,0 kt. Odhad TAS je přibližně GS + čelní složka = 160 + 20 × cos 37° ≈ 176 kt. WCA ≈ −arcsin(12/176) ≈ −3,9°. TH = 177° − 3,9° ≈ 173°."
     },
     {
       "sourceNumber": "71",
@@ -11385,7 +11385,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
       "id": "9-navigace-letoun-1-p15-71",
-      "explanation": "Vítr 270°/50 kt má vůči trati 220° převážně čelní složku 50 cos 50° ≈ 32 kt. Po započtení bočního větru vychází GS přibližně 185 kt."
+      "explanation": "Postup: Úhel mezi směrem, odkud vítr vane (270°), a tratí (220°) je 50°. Boční složka = 50 × sin 50° ≈ 38,3 kt; čelní = 50 × cos 50° ≈ 32,1 kt. Po korekci snosu GS = √(220² − 38,3²) − 32,1 ≈ 184,5 kt, tedy 185 kt."
     },
     {
       "sourceNumber": "72",
@@ -11402,7 +11402,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
       "id": "9-navigace-letoun-1-p15-72",
-      "explanation": "Vítr 350°/30 kt je vzhledem k trati 040° zleva. Čelní složka ≈ 30 cos 50° = 19 kt; po zohlednění boční složky vychází GS přibližně 159 kt."
+      "explanation": "Postup: Rozdíl směrů 040° a 350° je 50°. Boční vítr = 30 × sin 50° ≈ 23,0 kt, čelní = 30 × cos 50° ≈ 19,3 kt. GS = √(180² − 23²) − 19,3 ≈ 159,2 kt, tedy 159 kt."
     },
     {
       "sourceNumber": "73",
@@ -11555,7 +11555,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
       "id": "9-navigace-letoun-1-p17-81",
-      "explanation": "Plánovaný čas na 70 NM při 120 kt je 35 minut. Letadlo je o 5 minut napřed, skutečný čas je 30 minut, tedy GS = 140 kt. Celkový čas 220/140 h ≈ 94,3 min, od 12:00 vychází přibližně 13:34 až 13:35 UTC."
+      "explanation": "Postup: Plánovaných 70 NM při 120 kt trvá 70/120 × 60 = 35 min. Letadlo je o 5 min napřed, takže skutečný čas 30 min a GS = 70/(30/60) = 140 kt. Celá trasa trvá 220/140 × 60 = 94,29 min; 12:00 + 1 h 34 min ≈ 13:34 UTC. Testový klíč 13:35 UTC je odchylka asi 1 minutu zaokrouhlením."
     },
     {
       "sourceNumber": "82",
@@ -11572,7 +11572,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
       "id": "9-navigace-letoun-1-p17-82",
-      "explanation": "Rozdíl výšek 9000 − 1500 = 7500 ft. Při klesání 1200 ft/min je čas 7500/1200 = 6,25 min, tedy asi 6 min 15 s; test zaokrouhluje na 6 min."
+      "explanation": "Postup: Ztráta výšky = 9000 − 1500 = 7500 ft. Doba = 7500/1200 = 6,25 min = 6 min 15 s. Testové 6 min je zaokrouhlení na celé minuty."
     },
     {
       "sourceNumber": "83",
@@ -12035,7 +12035,7 @@
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
       "id": "9-navigace-letoun-1-p23-109",
-      "explanation": "Při kurzu 095° a relativním směrníku 355° je QDM 090°. Po změně relativního směrníku na 358° je QDM 093°, tedy maják se vůči nosu posunul doprava. To ukazuje změnu snosu a potřebu korigovat kurz doprava, pokud ostatní podmínky zůstaly stejné."
+      "explanation": "Postup: QDM = magnetický kurz + relativní směrník (modulo 360°). Nejprve 095° + 355° = 450° → 090°. Později 095° + 358° = 453° → 093°. Maják se posunul relativně doprava o 3°, takže pro udržení QDM 090° je třeba zvětšit magnetický kurz. Z pouhých údajů nelze spolehlivě kvantifikovat změnu bočního větru."
     },
     {
       "sourceNumber": "110",
@@ -12910,7 +12910,7 @@
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
       "id": "9-navigace-vrtulnik-p5-23",
-      "explanation": "Zeměpisná trať = zeměpisný kurz − oprava snosu = 125° − (−12°) = 137°. Z rozdílu zeměpisné a magnetické tratě plyne deklinace 2°W. Magnetický kurz je 127° a po odečtení deviace 2°E kompasový kurz 125°."
+      "explanation": "Postup: 1) Zeměpisná trať TT = zeměpisný kurz TH − WCA = 125° − (−12°) = 137°. 2) Magnetická trať MT = 139°, takže deklinace je 2°W (magnetický směr je o 2° větší). 3) Magnetický kurz MH = TH + 2° = 127°. 4) Deviace 2°E: kompasový kurz CH = MH − 2° = 125°. Výsledek: TT 137°, MH 127°, CH 125°."
     },
     {
       "sourceNumber": "24",
@@ -12927,7 +12927,7 @@
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
       "id": "9-navigace-vrtulnik-p5-24",
-      "explanation": "Zeměpisný kurz = 179° + (−12°) = 167°. Při deklinaci 4°E je magnetický kurz 163° a magnetická trať 175°."
+      "explanation": "Postup: 1) TH = TT + WCA = 179° − 12° = 167°. 2) Východní deklinaci 4° odečteme: MH = 167° − 4° = 163°. 3) Magnetická trať MT = 179° − 4° = 175°. Deviace zde pro požadované veličiny není potřeba."
     },
     {
       "sourceNumber": "25",
@@ -13012,7 +13012,7 @@
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
       "id": "9-navigace-vrtulnik-p6-29",
-      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Magnetický kurz je 198°, tedy deklinace je 4°W, protože při západní deklinaci se při převodu z true na magnetic přičítá."
+      "explanation": "Postup: 1) TH = TT + WCA = 183° + 11° = 194°. 2) MH = 198°, tedy rozdíl MH − TH = 4°; magnetický směr je větší, což znamená deklinaci 4°W. Výsledek TH 194°, VAR 004°W."
     },
     {
       "sourceNumber": "30",
@@ -13029,7 +13029,7 @@
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
       "id": "9-navigace-vrtulnik-p7-30",
-      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Kompasový kurz 200° je o 2° větší než magnetický kurz 198°, což odpovídá deviaci 2°W (−002°)."
+      "explanation": "Postup: 1) TH = 183° + 11° = 194°. 2) Deviace je rozdíl magnetického a kompasového kurzu: DEV = MH − CH = 198° − 200° = −2° = 2°W. Výsledek TH 194°, DEV −002°."
     },
     {
       "sourceNumber": "31",
@@ -13046,7 +13046,7 @@
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
       "id": "9-navigace-vrtulnik-p7-31",
-      "explanation": "Magnetický kurz 198° oproti zeměpisnému 194° znamená deklinaci 4°W. Kompasový kurz 200° oproti magnetickému 198° znamená deviaci 2°W."
+      "explanation": "Postup: 1) TH = 183° + 11° = 194°. 2) Deklinace = TH − MH = 194° − 198° = −4° = 4°W. 3) Deviace = MH − CH = 198° − 200° = −2° = 2°W."
     },
     {
       "sourceNumber": "32",

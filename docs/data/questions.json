@@ -4840,7 +4840,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-42"
+      "id": "2-lidska-vykonnost-letoun-2-p9-42",
+      "explanation": "Bez opakování uchovává krátkodobá paměť informaci zpravidla jen několik desítek sekund; v tradičních učebnicových modelech se uvádí přibližně 10–20 sekund. Délka závisí na pozornosti a podmínkách."
     },
     {
       "sourceNumber": "43",
@@ -4941,7 +4942,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-48"
+      "id": "2-lidska-vykonnost-letoun-2-p11-48",
+      "explanation": "Skupinová dynamika může vést k tlaku na souhlas a k odvážnějším rozhodnutím, než by jednotlivci přijali sami. Pomáhá otevřená komunikace a nezávislé posouzení rizik."
     },
     {
       "sourceNumber": "49",
@@ -4957,7 +4959,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-49"
+      "id": "2-lidska-vykonnost-letoun-2-p11-49",
+      "explanation": "Posun rizika (risky shift) je jev, při kterém skupina po společné diskusi přijme rizikovější rozhodnutí než jednotlivci samostatně. Souvisí mimo jiné s rozptýlením odpovědnosti a skupinovým tlakem."
     },
     {
       "sourceNumber": "50",
@@ -4973,7 +4976,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-50"
+      "id": "2-lidska-vykonnost-letoun-2-p11-50",
+      "explanation": "Předvádění se může doprovázet pocit nezranitelnosti: pilot chce prokázat schopnosti a současně podceňuje pravděpodobnost nehody. Tato kombinace podporuje zbytečně riskantní manévry."
     },
     {
       "sourceNumber": "51",
@@ -4989,7 +4993,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-51"
+      "id": "2-lidska-vykonnost-letoun-2-p11-51",
+      "explanation": "Předvádění se (macho attitude) vede k demonstraci schopností, například riskantními manévry před diváky. Bezpečný pilot se řídí limity letadla a situací, nikoli snahou zapůsobit."
     },
     {
       "sourceNumber": "52",
@@ -5005,7 +5010,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-letoun-2-p11-52"
+      "id": "2-lidska-vykonnost-letoun-2-p11-52",
+      "explanation": "Očekávání mohou zkreslit vnímání: člověk někdy vidí to, co předpokládá, místo toho, co přístroje skutečně ukazují. Pomáhá systematická kontrola údajů a checklisty."
     },
     {
       "sourceNumber": "53",
@@ -5021,7 +5027,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-53"
+      "id": "2-lidska-vykonnost-letoun-2-p12-53",
+      "explanation": "Starší výukové typologie někdy upřednostňují emocionální stabilitu a extroverzi. Nejde však o obecně platné vědecké pravidlo, že extrovertní člověk je lepším pilotem; rozhodující jsou dovednosti, úsudek a bezpečné chování."
     },
     {
       "sourceNumber": "54",
@@ -5037,7 +5044,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-54"
+      "id": "2-lidska-vykonnost-letoun-2-p12-54",
+      "explanation": "Při vysoké míře automatizace může pilot příliš důvěřovat systémům a omezit aktivní monitorování. Tato samolibost (complacency) zvyšuje riziko pozdního rozpoznání chyby automatizace."
     },
     {
       "sourceNumber": "55",
@@ -5055,7 +5063,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-letoun-2-p12-55",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Podle Yerkesova–Dodsonova vztahu bývá výkon nejlepší při střední míře aktivace. Příliš nízké i příliš vysoké vybuzení výkon snižuje; označení bodu je třeba ověřit podle přiloženého grafu."
     },
     {
       "sourceNumber": "56",
@@ -5073,7 +5082,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-letoun-2-p12-56",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Přetížení odpovídá vysokému stresu za vrcholem křivky výkonu: další aktivace už výkon snižuje. Konkrétní písmeno bodu závisí na přiloženém diagramu."
     },
     {
       "sourceNumber": "57",
@@ -5089,7 +5099,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-letoun-2-p12-57"
+      "id": "2-lidska-vykonnost-letoun-2-p12-57",
+      "explanation": "Stres může měnit pozornost, schopnost soustředění, paměť i rozhodování a chování včetně přebírání odpovědnosti. Výrazný stres vede k tunelovému vidění a zhoršenému výkonu."
     },
     {
       "sourceNumber": "58",
@@ -5105,7 +5116,8 @@
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 13,
-      "id": "2-lidska-vykonnost-letoun-2-p13-58"
+      "id": "2-lidska-vykonnost-letoun-2-p13-58",
+      "explanation": "Stres vzniká při vnímaném nepoměru mezi požadavky situace a možnostmi člověka je zvládnout. Pocit, že problém nemá řešení, může stres výrazně zvýšit; reakce jsou individuální."
     },
     {
       "sourceNumber": "1",
@@ -5206,7 +5218,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-6"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-6",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a zhruba 1 % ostatních plynů, zejména argonu a stopového oxidu uhličitého. Vodní pára má proměnlivý podíl."
     },
     {
       "sourceNumber": "7",
@@ -5457,7 +5470,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-21"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-21",
+      "explanation": "Při nevhodném směru větru se mohou výfukové plyny dostávat k nasávání ventilace či do kabiny. Oxid uhelnatý je bezbarvý plyn bez zápachu a může způsobit nebezpečnou hypoxii."
     },
     {
       "sourceNumber": "22",
@@ -5473,7 +5487,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-22"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-22",
+      "explanation": "Záblesky protisrážkových světel odrážené od sněhu a rotoru mohou vyvolávat blikající světelné podněty a dezorientaci. Ve vířícím sněhu navíc rychle mizí vnější vizuální reference."
     },
     {
       "sourceNumber": "23",
@@ -5693,7 +5708,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-35"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-35",
+      "explanation": "Klesající sklon dráhy může vyvolat dojem příliš nízkého přiblížení. Pilot pak může korigovat dráhu letu výše, než odpovídá správnému sestupovému úhlu."
     },
     {
       "sourceNumber": "36",
@@ -5709,7 +5725,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-36"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-36",
+      "explanation": "Vzestupně skloněná dráha může vyvolat dojem, že je letadlo výše, než ve skutečnosti. Pilot má tendenci letět níže, což zvyšuje riziko krátkého přistání. Pozor: uvedená správná možnost v databázi ('dlouhý') se s obvyklým popisem této iluze neshoduje; otázka vyžaduje kontrolu zdroje."
     },
     {
       "sourceNumber": "37",
@@ -5725,7 +5742,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-37"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-37",
+      "explanation": "Pohyb hlavy při zatáčce může současně stimulovat více polokruhovitých kanálků vestibulárního systému. Výsledkem může být Coriolisova iluze, silná závrať a chybný pocit pohybu letadla."
     },
     {
       "sourceNumber": "38",
@@ -5741,7 +5759,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-38"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-38",
+      "explanation": "Při kladném přetížení (+Gz) krev odtéká z hlavy do dolních částí těla. Zhoršené prokrvení sítnice způsobuje šednutí zorného pole (grey-out), při vyšším zatížení může následovat black-out či ztráta vědomí."
     },
     {
       "sourceNumber": "39",
@@ -5757,7 +5776,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-39"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-39",
+      "explanation": "Mozek interpretuje zrakové informace na základě očekávání a zkušeností. Chybná interpretace vjemů může způsobit iluzi, zejména při nedostatku vnějších vizuálních referencí."
     },
     {
       "sourceNumber": "40",
@@ -5789,7 +5809,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-41"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-41",
+      "explanation": "Nadváha, zejména nadbytek viscerálního tuku, souvisí s inzulinovou rezistencí a zvyšuje riziko diabetu 2. typu. Nejde však o jediný rizikový faktor."
     },
     {
       "sourceNumber": "42",
@@ -5805,7 +5826,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-42"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-42",
+      "explanation": "Po přístrojovém potápění je v tkáních více rozpuštěného dusíku. Pokles tlaku při následném letu může vést k tvorbě bublinek a dekompresní nemoci; je nutné dodržet doporučený odstup od potápění."
     },
     {
       "sourceNumber": "43",
@@ -5837,7 +5859,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-44"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-44",
+      "explanation": "Bez opakování uchovává krátkodobá paměť informaci zpravidla jen několik desítek sekund; v tradičních učebnicových modelech se uvádí přibližně 10–20 sekund. Délka závisí na pozornosti a podmínkách."
     },
     {
       "sourceNumber": "45",
@@ -5853,7 +5876,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-45"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-45",
+      "explanation": "Latentní chyba je systémový nebo organizační nedostatek, který může zůstat dlouho neodhalen. K nehodě přispěje často až ve spojení s aktivní chybou či dalšími okolnostmi."
     },
     {
       "sourceNumber": "46",
@@ -5869,7 +5893,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-46"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-46",
+      "explanation": "Potvrzovací zkreslení znamená upřednostňování informací, které podporují vlastní očekávání. Pilot musí vědomě hledat i důkazy, které jeho původní představu vyvracejí."
     },
     {
       "sourceNumber": "47",
@@ -5885,7 +5910,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-47"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-47",
+      "explanation": "Situační povědomí zahrnuje vnímání aktuálních podmínek, porozumění jejich významu a předvídání vývoje. Pilot průběžně sleduje polohu, provoz, počasí i stav letadla."
     },
     {
       "sourceNumber": "48",
@@ -5901,7 +5927,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-48"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-48",
+      "explanation": "Standardní radiotelefonní frazeologie poskytuje pilotům a stanovištím ATS společný význam výrazů. Omezuje nejednoznačnost a společně se správným opakováním pokynů snižuje riziko nedorozumění."
     },
     {
       "sourceNumber": "49",
@@ -5917,7 +5944,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-49"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-49",
+      "explanation": "Základní strategie jsou vyhnout se riziku, snížit jeho pravděpodobnost nebo následky, převést část dopadu a přijmout zbytkové riziko. V letectví musí být přijaté riziko bezpečnostně přijatelné."
     },
     {
       "sourceNumber": "50",
@@ -5933,7 +5961,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-50"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-50",
+      "explanation": "Skupinová dynamika může vést k tlaku na souhlas a k odvážnějším rozhodnutím, než by jednotlivci přijali sami. Pomáhá otevřená komunikace a nezávislé posouzení rizik."
     },
     {
       "sourceNumber": "51",
@@ -5949,7 +5978,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-51"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-51",
+      "explanation": "Posun rizika (risky shift) je jev, při kterém skupina po společné diskusi přijme rizikovější rozhodnutí než jednotlivci samostatně. Souvisí mimo jiné s rozptýlením odpovědnosti a skupinovým tlakem."
     },
     {
       "sourceNumber": "52",
@@ -5965,7 +5995,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-52"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-52",
+      "explanation": "Předvádění se může doprovázet pocit nezranitelnosti: pilot chce prokázat schopnosti a současně podceňuje pravděpodobnost nehody. Tato kombinace podporuje zbytečně riskantní manévry."
     },
     {
       "sourceNumber": "53",
@@ -5981,7 +6012,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-53"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-53",
+      "explanation": "Předvádění se (macho attitude) vede k demonstraci schopností, například riskantními manévry před diváky. Bezpečný pilot se řídí limity letadla a situací, nikoli snahou zapůsobit."
     },
     {
       "sourceNumber": "54",
@@ -5997,7 +6029,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-54"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-54",
+      "explanation": "Očekávání mohou zkreslit vnímání: člověk někdy vidí to, co předpokládá, místo toho, co přístroje skutečně ukazují. Pomáhá systematická kontrola údajů a checklisty."
     },
     {
       "sourceNumber": "55",
@@ -6013,7 +6046,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-55"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-55",
+      "explanation": "Starší výukové typologie někdy upřednostňují emocionální stabilitu a extroverzi. Nejde však o obecně platné vědecké pravidlo, že extrovertní člověk je lepším pilotem; rozhodující jsou dovednosti, úsudek a bezpečné chování."
     },
     {
       "sourceNumber": "56",
@@ -6029,7 +6063,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-56"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-56",
+      "explanation": "Při vysoké míře automatizace může pilot příliš důvěřovat systémům a omezit aktivní monitorování. Tato samolibost (complacency) zvyšuje riziko pozdního rozpoznání chyby automatizace."
     },
     {
       "sourceNumber": "57",
@@ -6047,7 +6082,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-vrtulnik-p12-57",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Podle Yerkesova–Dodsonova vztahu bývá výkon nejlepší při střední míře aktivace. Příliš nízké i příliš vysoké vybuzení výkon snižuje; označení bodu je třeba ověřit podle přiloženého grafu."
     },
     {
       "sourceNumber": "58",
@@ -6065,7 +6101,8 @@
       "page": 12,
       "id": "2-lidska-vykonnost-vrtulnik-p12-58",
       "image": "./assets/questions/HPL-002.jpg",
-      "imageCode": "HPL-002"
+      "imageCode": "HPL-002",
+      "explanation": "Přetížení odpovídá vysokému stresu za vrcholem křivky výkonu: další aktivace už výkon snižuje. Konkrétní písmeno bodu závisí na přiloženém diagramu."
     },
     {
       "sourceNumber": "59",
@@ -6081,7 +6118,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-59"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-59",
+      "explanation": "Stres může měnit pozornost, schopnost soustředění, paměť i rozhodování a chování včetně přebírání odpovědnosti. Výrazný stres vede k tunelovému vidění a zhoršenému výkonu."
     },
     {
       "sourceNumber": "60",
@@ -6097,7 +6135,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-60"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-60",
+      "explanation": "Stres vzniká při vnímaném nepoměru mezi požadavky situace a možnostmi člověka je zvládnout. Pocit, že problém nemá řešení, může stres výrazně zvýšit; reakce jsou individuální."
     },
     {
       "sourceNumber": "1",

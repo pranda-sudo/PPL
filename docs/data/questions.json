@@ -3423,7 +3423,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-60"
+      "id": "letove-zasady-letoun-p12-60",
+      "explanation": "Mezní vrstva je tenká oblast proudění těsně u povrchu, kde se významně projevuje viskozita. Na běžném hladkém profilu začíná za stagnační oblastí jako laminární a v bodě přechodu se mění na turbulentní. Bod odtržení je jiný jev: proudění v něm přestává sledovat povrch profilu."
     },
     {
       "sourceNumber": 61,
@@ -3439,7 +3440,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-61"
+      "id": "letove-zasady-letoun-p13-61",
+      "explanation": "Při obvyklém obtékání hladkého profilu vzniká u náběžné hrany nejprve laminární mezní vrstva. Dále po směru proudu může přejít do turbulentní. Přechod závisí na Reynoldsově čísle, drsnosti a tlakovém gradientu; nejde o absolutní pravidlo pro všechny profily a režimy letu."
     },
     {
       "sourceNumber": 62,
@@ -3455,7 +3457,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-62"
+      "id": "letove-zasady-letoun-p13-62",
+      "explanation": "Turbulentní mezní vrstva intenzivněji přenáší hybnost z rychlejšího proudu k povrchu, a proto zpravidla lépe odolává nepříznivému tlakovému gradientu a odtrhává se později. Oproti laminární vrstvě ale obvykle způsobuje větší třecí odpor. Neplatí, že pouze jeden typ mezní vrstvy vytváří vztlak."
     },
     {
       "sourceNumber": 63,
@@ -3471,7 +3474,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-63"
+      "id": "letove-zasady-letoun-p13-63",
+      "explanation": "Vzepětí křídla přispívá k příčné (klonivé) stabilitě. Při vychýlení do skluzu vznikne mezi oběma polovinami křídla rozdíl účinných úhlů náběhu a vztlaku, který vytváří vratný klonivý moment. Svislá ocasní plocha zajišťuje hlavně směrovou stabilitu a výškovka řídí klopení."
     },
     {
       "sourceNumber": 64,
@@ -3487,7 +3491,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-64"
+      "id": "letove-zasady-letoun-p13-64",
+      "explanation": "Kladná statická stabilita znamená, že po malé vnější poruše vznikne vratná tendence směrem k původní rovnovážné poloze. Neříká však sama o sobě, zda se následné kmity budou tlumit: to popisuje dynamická stabilita. Pokud se výchylka dále zvětšuje, jde o zápornou statickou stabilitu."
     },
     {
       "sourceNumber": 65,
@@ -3503,7 +3508,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-65"
+      "id": "letove-zasady-letoun-p13-65",
+      "explanation": "Podélná stabilita se týká klopení kolem příčné osy letounu, tedy změn polohy přídě nahoru a dolů. Významnou roli hraje vodorovná ocasní plocha a poloha těžiště. Stabilita kolem podélné osy se naopak označuje jako příčná (klonivá)."
     },
     {
       "sourceNumber": 66,
@@ -3519,7 +3525,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-66"
+      "id": "letove-zasady-letoun-p14-66",
+      "explanation": "Posun těžiště dopředu či dozadu mění momentové rameno mezi těžištěm a aerodynamickými silami křídla a ocasních ploch. Silně proto ovlivňuje podélnou stabilitu a řízení klopení kolem příčné osy. Příliš zadní těžiště může snížit stabilitu i účinnost vybrání přetažení."
     },
     {
       "sourceNumber": 67,
@@ -3535,7 +3542,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-67"
+      "id": "letove-zasady-letoun-p14-67",
+      "explanation": "Svislá ocasní plocha působí při vybočení letounu vůči nabíhajícímu proudu jako směrová stabilizační plocha. Aerodynamická síla na ní vytváří vratný moment kolem svislé osy, který má tendenci natočit příď zpět do směru letu. Vzepětí křídla souvisí hlavně s příčnou stabilitou."
     },
     {
       "sourceNumber": 68,
@@ -3551,7 +3559,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-68"
+      "id": "letove-zasady-letoun-p14-68",
+      "explanation": "Bočení (yaw) je otáčení letounu kolem svislé osy, tedy pohyb přídě doleva nebo doprava. Primárně je ovládáno směrovým kormidlem. Klopení (pitch) probíhá kolem příčné osy a klonění (roll) kolem podélné osy."
     },
     {
       "sourceNumber": "69",
@@ -3567,7 +3576,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-69"
+      "id": "letove-zasady-letoun-p14-69",
+      "explanation": "Klopení (pitch) je otáčení kolem příčné osy, při kterém se příď pohybuje nahoru nebo dolů. Ovládá se především výškovým kormidlem. Bočení probíhá kolem svislé osy, klonění kolem podélné."
     },
     {
       "sourceNumber": 70,
@@ -3583,7 +3593,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-70"
+      "id": "letove-zasady-letoun-p14-70",
+      "explanation": "Kritický úhel náběhu je především vlastností profilu a jeho konfigurace, nikoli samotné hmotnosti letadla. Větší hmotnost zvyšuje potřebný vztlak a tím pádovou rychlost, ale nepřevádí automaticky kritický úhel na jinou hodnotu. Je třeba rozlišovat kritický úhel náběhu a rychlost, při níž ho letoun dosáhne."
     },
     {
       "sourceNumber": 71,
@@ -3615,7 +3626,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-72"
+      "id": "letove-zasady-letoun-p15-72",
+      "explanation": "Vodorovná ocasní plocha přispívá k podélné stabilitě: při změně úhlu náběhu nebo klopení vytváří moment, který pomáhá obnovit rovnovážnou polohu. Působí kolem příčné osy. Svislá ocasní plocha je určena především pro směrovou stabilitu kolem svislé osy."
     },
     {
       "sourceNumber": 73,
@@ -3631,7 +3643,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-73"
+      "id": "letove-zasady-letoun-p15-73",
+      "explanation": "Při přední centráži má těžiště větší momentové rameno vůči aerodynamickým silám a pro zvednutí přídě při rotaci bývá nutný větší klopivý moment ocasních ploch. Pilot proto zpravidla potřebuje větší výchylku výškovky než při zadní centráži. Vždy musí být dodrženy limity těžiště v letové příručce."
     },
     {
       "sourceNumber": 74,
@@ -3647,7 +3660,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-74"
+      "id": "letove-zasady-letoun-p15-74",
+      "explanation": "Výškovka mění aerodynamickou sílu na vodorovné ocasní ploše, čímž vytváří klopivý moment kolem příčné osy. Při běžném uspořádání přitažení řízení zvedá příď. Směrovka řídí bočení kolem svislé osy a křidélka klonění kolem podélné osy."
     },
     {
       "sourceNumber": 75,
@@ -3663,7 +3677,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-75"
+      "id": "letove-zasady-letoun-p15-75",
+      "explanation": "Těžiště určuje rozložení hmotnosti letounu, cestujících, zavazadel a paliva. Před letem se musí ověřit výpočtem hmotnosti a vyvážení, že leží v povoleném rozsahu. Trim pouze vyrovnává síly v řízení; nespraví těžiště mimo schválené meze."
     },
     {
       "sourceNumber": 76,
@@ -3679,7 +3694,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-76"
+      "id": "letove-zasady-letoun-p16-76",
+      "explanation": "Směrové kormidlo na svislé ocasní ploše mění boční aerodynamickou sílu a vytváří moment kolem svislé osy letounu. Primárně tedy řídí bočení, nikoli klopení nebo klonění. Sekundárně může ovlivnit i náklon vlivem skluzu a vzepětí."
     },
     {
       "sourceNumber": 77,
@@ -3695,7 +3711,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-77"
+      "id": "letove-zasady-letoun-p16-77",
+      "explanation": "Vychýlení směrovky doleva vytváří na ocasní části boční sílu doprava, takže se příď natočí doleva – letoun bočí vlevo. Následný skluz může vyvolat také klonivou reakci, ale primárním účinkem směrovky je bočení kolem svislé osy."
     },
     {
       "sourceNumber": 78,
@@ -3711,7 +3728,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-78"
+      "id": "letove-zasady-letoun-p16-78",
+      "explanation": "Při diferenciálním řízení se křidélko vychyluje nahoru o větší úhel než opačné křidélko dolů. Tím se omezuje rozdíl odporů mezi oběma polovinami křídla a zmenšuje nežádoucí bočení proti směru zatáčky (adverse yaw). Úplné odstranění nežádoucího bočení není zaručeno; pilot stále koordinuje let směrovkou."
     },
     {
       "sourceNumber": "79",
@@ -3727,7 +3745,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-79"
+      "id": "letove-zasady-letoun-p16-79",
+      "explanation": "Při klonění dolů vychýlené křidélko zpravidla zvyšuje místní vztlak i odpor, což může stáčet příď proti směru požadovaného náklonu. Diferenciální výchylky, kdy se křidélko nahoru vychyluje více než křidélko dolů, tento rozdíl odporů omezují. Pilot zároveň používá směrovku ke koordinaci zatáčky."
     },
     {
       "sourceNumber": 80,
@@ -3743,7 +3762,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-80"
+      "id": "letove-zasady-letoun-p16-80",
+      "explanation": "Diferenciální křidélka mají větší výchylku nahoru než dolů. Tím snižují nežádoucí rozdíl odporu při klonění a omezují adverse yaw, tedy bočení přídě proti směru požadovaného náklonu. Neslouží primárně ke zvýšení klesavosti ani k zabránění přetažení."
     },
     {
       "sourceNumber": 81,
@@ -3759,7 +3779,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-81"
+      "id": "letove-zasady-letoun-p17-81",
+      "explanation": "Vztlak je podle aerodynamické definice složka výsledné aerodynamické síly kolmá ke směru relativního nabíhajícího proudu vzduchu. Odpor je naopak složka rovnoběžná s tímto proudem a působící proti pohybu. V zatáčce nemusí vztlak směřovat svisle vzhůru vůči zemi."
     },
     {
       "sourceNumber": 82,

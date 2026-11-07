@@ -2834,7 +2834,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-29"
+      "id": "letove-zasady-letoun-p6-29",
+      "explanation": "Při překročení kritického úhlu náběhu se proudění na horní straně křídla výrazně odtrhne. Součinitel vztlaku pak klesá, což vede k přetažení. Rozhodující je úhel náběhu, nikoli samotná hodnota rychlosti."
     },
     {
       "sourceNumber": 30,
@@ -2850,7 +2851,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 6,
-      "id": "letove-zasady-letoun-p6-30"
+      "id": "letove-zasady-letoun-p6-30",
+      "explanation": "Při přibližně konstantní hustotě vzduchu a součiniteli škodlivého odporu platí D = ½ρV²SC_D. Dvojnásobná rychlost proto vyvolá přibližně čtyřnásobný škodlivý odpor."
     },
     {
       "sourceNumber": 31,
@@ -2882,7 +2884,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-32"
+      "id": "letove-zasady-letoun-p7-32",
+      "explanation": "Rozdíl tlaků mezi spodní a horní stranou křídla způsobuje u jeho konce přetékání vzduchu kolem koncového oblouku. Vznikají tak koncové víry spojené s indukovaným odporem."
     },
     {
       "sourceNumber": 33,
@@ -2898,7 +2901,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-33"
+      "id": "letove-zasady-letoun-p7-33",
+      "explanation": "Při menší štíhlosti křídla je pro daný vztlak obvykle větší indukovaný odpor. Vztah pro součinitel indukovaného odporu je přibližně C_Di = C_L²/(π e AR), kde AR je štíhlost."
     },
     {
       "sourceNumber": 34,
@@ -2914,7 +2918,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-34"
+      "id": "letove-zasady-letoun-p7-34",
+      "explanation": "Na koncích křídla dochází k vyrovnávání tlaků mezi jeho spodní a horní stranou. Vzniklé víry souvisejí se sestupným prouděním za křídlem a s indukovaným odporem."
     },
     {
       "sourceNumber": 35,
@@ -2930,7 +2935,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 7,
-      "id": "letove-zasady-letoun-p7-35"
+      "id": "letove-zasady-letoun-p7-35",
+      "explanation": "Interferenční odpor vzniká vzájemným ovlivňováním proudění na styku částí letadla, například v místě spojení křídla a trupu. Tvarové přechody mohou tento odpor snížit."
     },
     {
       "sourceNumber": 36,
@@ -2964,7 +2970,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-37"
+      "id": "letove-zasady-letoun-p8-37",
+      "explanation": "Škodlivý (parazitní) odpor zahrnuje zejména třecí odpor povrchu, tvarový neboli tlakový odpor a interferenční odpor. Vzniká i bez vytváření vztlaku."
     },
     {
       "sourceNumber": 38,
@@ -2980,7 +2987,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-38"
+      "id": "letove-zasady-letoun-p8-38",
+      "explanation": "Indukovaný odpor vzniká jako důsledek vytváření vztlaku konečným křídlem. Proto se odlišuje od škodlivého odporu, který zahrnuje například tření a tvarový odpor."
     },
     {
       "sourceNumber": "39",
@@ -2996,7 +3004,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-39"
+      "id": "letove-zasady-letoun-p8-39",
+      "explanation": "V ustáleném horizontálním letu musí vztlak vyrovnávat tíhu. Při vyšší rychlosti je potřeba menší součinitel vztlaku, takže indukovaný odpor klesá; škodlivý odpor naopak přibližně roste s druhou mocninou rychlosti."
     },
     {
       "sourceNumber": 40,
@@ -3012,7 +3021,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 8,
-      "id": "letove-zasady-letoun-p8-40"
+      "id": "letove-zasady-letoun-p8-40",
+      "explanation": "Eliptické rozložení vztlaku má v ideálním případě nejmenší indukovaný odpor při daném rozpětí a celkovém vztlaku. Eliptický půdorys křídla k takovému rozložení může přispívat, není však jedinou cestou."
     },
     {
       "sourceNumber": 41,
@@ -3028,7 +3038,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-41"
+      "id": "letove-zasady-letoun-p9-41",
+      "explanation": "Při nižší rychlosti musí křídlo pro udržení stejné tíhy vytvářet vyšší součinitel vztlaku. Proto roste indukovaný odpor, který je spojen s vytvářením vztlaku."
     },
     {
       "sourceNumber": 42,
@@ -3044,7 +3055,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-42"
+      "id": "letove-zasady-letoun-p9-42",
+      "explanation": "Při ustáleném horizontálním letu se s rostoucí rychlostí snižuje potřebný součinitel vztlaku, a tedy i indukovaný odpor. Tento trend platí při srovnatelných ostatních podmínkách."
     },
     {
       "sourceNumber": 43,
@@ -3060,7 +3072,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-43"
+      "id": "letove-zasady-letoun-p9-43",
+      "explanation": "Pro jednoduchý model celkového odporu D = aV² + b/V² je minimum v bodě, kde se škodlivý a indukovaný odpor rovnají. Odpovídá to rychlosti nejlepšího poměru vztlaku k odporu."
     },
     {
       "sourceNumber": 44,
@@ -3076,7 +3089,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-44"
+      "id": "letove-zasady-letoun-p9-44",
+      "explanation": "Celkový aerodynamický odpor letounu se pro základní výuku rozděluje na škodlivý a indukovaný. Škodlivý souvisí s pohybem tělesa vzduchem, indukovaný s vytvářením vztlaku."
     },
     {
       "sourceNumber": 45,
@@ -3092,7 +3106,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-45"
+      "id": "letove-zasady-letoun-p9-45",
+      "explanation": "V ustáleném horizontálním letu při násobku 1 zůstává vztlak přibližně roven tíze. S klesající rychlostí však roste potřebný součinitel vztlaku a indukovaný odpor, takže celkový odpor poblíž pádu roste."
     },
     {
       "sourceNumber": 46,
@@ -3108,7 +3123,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-46"
+      "id": "letove-zasady-letoun-p10-46",
+      "explanation": "Základní zásadou vybrání přetažení je snížit úhel náběhu pod kritickou hodnotu, obvykle povolením řízení. Výkon motoru pomáhá omezit ztrátu výšky; přesný postup se řídí letovou příručkou konkrétního letounu."
     },
     {
       "sourceNumber": 47,
@@ -3124,7 +3140,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-47"
+      "id": "letove-zasady-letoun-p10-47",
+      "explanation": "Po překročení kritického úhlu náběhu se proudění odtrhne, součinitel vztlaku klesá a odpor výrazně roste. Proto letoun při přetažení ztrácí schopnost udržovat dosavadní letový režim."
     },
     {
       "sourceNumber": "48",
@@ -3140,7 +3157,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-48"
+      "id": "letove-zasady-letoun-p10-48",
+      "explanation": "Kritický úhel náběhu je především vlastností profilu a jeho aktuální konfigurace. Při dané konfiguraci může být dosažen při různých rychlostech, například podle hmotnosti nebo násobku zatížení."
     },
     {
       "sourceNumber": "49",
@@ -3156,7 +3174,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-49"
+      "id": "letove-zasady-letoun-p10-49",
+      "explanation": "Pádová rychlost v dané konfiguraci a při stejném násobku zatížení roste přibližně s odmocninou tíhy. Lehčí letoun proto dosahuje kritického součinitele vztlaku při nižší indikované rychlosti."
     },
     {
       "sourceNumber": 50,
@@ -3172,7 +3191,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-50"
+      "id": "letove-zasady-letoun-p10-50",
+      "explanation": "Varování před pádem má upozornit pilota ještě před dosažením skutečného přetažení. Spouští se proto při přiblížení ke kritickému úhlu náběhu, typicky při rychlosti vyšší než aktuální pádová rychlost."
     },
     {
       "sourceNumber": 51,
@@ -3204,7 +3224,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-52"
+      "id": "letove-zasady-letoun-p11-52",
+      "explanation": "Po aktivaci varování před pádem je zásadní zmenšit úhel náběhu, aby se obnovila rezerva do přetažení. Přidání výkonu může pomoci, ale samo o sobě nenahrazuje snížení úhlu náběhu. Vždy se řiď postupem daného letounu."
     },
     {
       "sourceNumber": 53,
@@ -3220,7 +3241,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-53"
+      "id": "letove-zasady-letoun-p11-53",
+      "explanation": "Při vybírání vývrtky se křidélka zpravidla ponechávají v neutrálu, protože jejich výchylka může zhoršit proudění na přetaženém křídle. Ostatní zásahy musí odpovídat schválenému postupu v letové příručce."
     },
     {
       "sourceNumber": 54,
@@ -3236,7 +3258,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-54"
+      "id": "letove-zasady-letoun-p11-54",
+      "explanation": "Vysunutím vztlakových klapek se obvykle zvětší prohnutí profilu, a tím při stejném úhlu náběhu vzroste součinitel vztlaku. Platí to v běžné oblasti před přetažením."
     },
     {
       "sourceNumber": 55,
@@ -3252,7 +3275,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-55"
+      "id": "letove-zasady-letoun-p11-55",
+      "explanation": "Vztlakové klapky mění prohnutí profilu, a tím rozložení tlaku kolem křídla. Díky tomu může křídlo při stejné rychlosti a úhlu náběhu vytvářet vyšší vztlak."
     },
     {
       "sourceNumber": 56,
@@ -3268,7 +3292,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-56"
+      "id": "letove-zasady-letoun-p12-56",
+      "explanation": "Vysunutí klapek mění aerodynamické momenty křídla a proudění kolem ocasních ploch. Pilot proto může pocítit změnu síly potřebné na výškovce a musí letoun znovu vyvážit."
     },
     {
       "sourceNumber": 57,
@@ -3284,7 +3309,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-57"
+      "id": "letove-zasady-letoun-p12-57",
+      "explanation": "Fowlerova klapka se při vysouvání posouvá dozadu a dolů. Zvětšuje tak účinnou plochu i prohnutí křídla, což pomáhá zvýšit maximální součinitel vztlaku."
     },
     {
       "sourceNumber": "58",
@@ -3300,7 +3326,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-58"
+      "id": "letove-zasady-letoun-p12-58",
+      "explanation": "Vhodná vzletová poloha klapek zvýší vztlak při nižší rychlosti, takže letoun může dosáhnout rychlosti odpoutání na kratší dráze. Konkrétní použití a délky vzletu vždy určuje letová příručka."
     },
     {
       "sourceNumber": "59",
@@ -3316,7 +3343,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-59"
+      "id": "letove-zasady-letoun-p12-59",
+      "explanation": "Vysunuté klapky obvykle zvětšují prohnutí křídla a součinitel vztlaku, ale současně zvyšují odpor. Proto se velké výchylky používají zejména při přiblížení a přistání."
     },
     {
       "sourceNumber": 60,
@@ -3332,7 +3360,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-60"
+      "id": "letove-zasady-letoun-p12-60",
+      "explanation": "Laminární mezní vrstva má převážně uspořádané proudění. Na profilu může začínat za stagnačním bodem a v bodě přechodu se mění na turbulentní mezní vrstvu."
     },
     {
       "sourceNumber": 61,
@@ -3348,7 +3377,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-61"
+      "id": "letove-zasady-letoun-p13-61",
+      "explanation": "Proudění v mezní vrstvě může být nejprve laminární a dále po povrchu přecházet do turbulentního režimu. Skutečná poloha přechodu závisí na profilu, drsnosti, Reynoldsově čísle a dalších podmínkách."
     },
     {
       "sourceNumber": 62,
@@ -3364,7 +3394,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-62"
+      "id": "letove-zasady-letoun-p13-62",
+      "explanation": "Turbulentní mezní vrstva má intenzivnější promíchávání a více hybnosti blízko povrchu. Proto může lépe odolávat nepříznivému tlakovému gradientu a odtrhnout se později než laminární vrstva."
     },
     {
       "sourceNumber": 63,
@@ -3380,7 +3411,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-63"
+      "id": "letove-zasady-letoun-p13-63",
+      "explanation": "Vzepětí křídla přispívá k příčné stabilitě. Při vybočení a bočním skluzu může rozdíl účinných úhlů náběhu obou polovin křídla vytvořit vratný klonivý moment."
     },
     {
       "sourceNumber": 64,
@@ -3396,7 +3428,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-64"
+      "id": "letove-zasady-letoun-p13-64",
+      "explanation": "Kladná statická stabilita znamená, že po malé výchylce z rovnovážné polohy vzniká počáteční vratná tendence. Sama o sobě ještě neurčuje, zda se následné kmity s časem tlumí; to popisuje dynamická stabilita."
     },
     {
       "sourceNumber": 65,
@@ -3412,7 +3445,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 13,
-      "id": "letove-zasady-letoun-p13-65"
+      "id": "letove-zasady-letoun-p13-65",
+      "explanation": "Podélná stabilita se vztahuje ke klopení kolem příčné osy letadla. Názvy os je třeba odlišovat od názvů stabilit: příčná stabilita se týká klonění kolem podélné osy."
     },
     {
       "sourceNumber": 66,
@@ -3428,7 +3462,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-66"
+      "id": "letove-zasady-letoun-p14-66",
+      "explanation": "Poloha těžiště ovlivňuje podélnou stabilitu a momenty kolem příčné osy. Příliš zadní těžiště obvykle snižuje podélnou statickou stabilitu a může zhoršit vybírání přetažení."
     },
     {
       "sourceNumber": 67,
@@ -3444,7 +3479,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-67"
+      "id": "letove-zasady-letoun-p14-67",
+      "explanation": "Svislá ocasní plocha vytváří při vybočení letounu boční aerodynamickou sílu. Její moment má obvykle tendenci vracet příď do směru relativního proudění, čímž zajišťuje směrovou stabilitu."
     },
     {
       "sourceNumber": 68,
@@ -3460,7 +3496,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-68"
+      "id": "letove-zasady-letoun-p14-68",
+      "explanation": "Bočení (yaw) je otáčení letadla kolem svislé osy, při kterém se příď vychyluje doleva nebo doprava. Primárně je ovládá směrovka."
     },
     {
       "sourceNumber": "69",
@@ -3476,7 +3513,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-69"
+      "id": "letove-zasady-letoun-p14-69",
+      "explanation": "Klopení (pitch) je otáčení kolem příčné osy, tedy pohyb přídě nahoru nebo dolů. Primárně je ovládá výškovka."
     },
     {
       "sourceNumber": 70,
@@ -3492,7 +3530,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 14,
-      "id": "letove-zasady-letoun-p14-70"
+      "id": "letove-zasady-letoun-p14-70",
+      "explanation": "Při stejné konfiguraci křídla není kritický úhel náběhu přímo určen hmotností letounu. Vyšší hmotnost však vyžaduje vyšší vztlak a vede k vyšší pádové rychlosti."
     },
     {
       "sourceNumber": 71,
@@ -3524,7 +3563,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-72"
+      "id": "letove-zasady-letoun-p15-72",
+      "explanation": "Vodorovná ocasní plocha vytváří stabilizační aerodynamický moment kolem příčné osy. Pomáhá udržovat a obnovovat požadovanou polohu letounu v podélném směru."
     },
     {
       "sourceNumber": 73,
@@ -3540,7 +3580,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-73"
+      "id": "letove-zasady-letoun-p15-73",
+      "explanation": "Při přední centráži je rameno tíhy vůči hlavním aerodynamickým silám méně příznivé pro zvednutí přídě. Pro rotaci při vzletu proto může být nutná větší výchylka výškovky než při zadní centráži."
     },
     {
       "sourceNumber": 74,
@@ -3556,7 +3597,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-74"
+      "id": "letove-zasady-letoun-p15-74",
+      "explanation": "Výškovka mění aerodynamickou sílu a moment na vodorovné ocasní ploše. Tím ovládá klopení, tedy otáčení letounu kolem příčné osy."
     },
     {
       "sourceNumber": 75,
@@ -3572,7 +3614,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-75"
+      "id": "letove-zasady-letoun-p15-75",
+      "explanation": "Bezpečná poloha těžiště závisí na rozložení hmotnosti osob, paliva a zavazadel. Před letem je nutné ověřit hmotnost a centráž podle limitů v letové příručce."
     },
     {
       "sourceNumber": 76,
@@ -3588,7 +3631,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-76"
+      "id": "letove-zasady-letoun-p16-76",
+      "explanation": "Směrovka na svislé ocasní ploše vytváří boční sílu, která vyvolává moment kolem svislé osy. Tím ovládá bočení letounu."
     },
     {
       "sourceNumber": 77,
@@ -3604,7 +3648,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-77"
+      "id": "letove-zasady-letoun-p16-77",
+      "explanation": "Výchylka směrovky vlevo zpravidla vyvolá boční aerodynamickou sílu na ocase doprava, a tím natočí příď letounu doleva. Směrovka tedy primárně ovládá bočení."
     },
     {
       "sourceNumber": 78,
@@ -3620,7 +3665,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-78"
+      "id": "letove-zasady-letoun-p16-78",
+      "explanation": "Diferenciální křidélka se vychylují nestejně nahoru a dolů. Menší výchylka dolů omezuje přírůstek odporu na křídle s rostoucím vztlakem, a tím snižuje nežádoucí bočení proti směru zatáčení."
     },
     {
       "sourceNumber": "79",
@@ -3636,7 +3682,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-79"
+      "id": "letove-zasady-letoun-p16-79",
+      "explanation": "Při běžném vychýlení křidélek může křídlo s křidélkem dolů vytvářet větší odpor a způsobit nežádoucí bočení. Diferenciální výchylka tento rozdíl odporů omezuje; pilot může také koordinovat zatáčku směrovkou."
     },
     {
       "sourceNumber": 80,
@@ -3652,7 +3699,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 16,
-      "id": "letove-zasady-letoun-p16-80"
+      "id": "letove-zasady-letoun-p16-80",
+      "explanation": "Diferenciální křidélka mají větší výchylku nahoru než dolů. Tím se snižuje nepříznivý rozdíl odporů mezi křídly a omezuje bočení proti klonění."
     },
     {
       "sourceNumber": 81,
@@ -3668,7 +3716,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-81"
+      "id": "letove-zasady-letoun-p17-81",
+      "explanation": "Vztlak je aerodynamická složka výsledné síly kolmá ke směru relativního proudění vzduchu. Odpor je naopak složka rovnoběžná s tímto prouděním."
     },
     {
       "sourceNumber": 82,
@@ -3716,7 +3765,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-84"
+      "id": "letove-zasady-letoun-p17-84",
+      "explanation": "Hmotové vyvážení řídicích ploch upravuje rozložení jejich hmotnosti vzhledem k ose závěsu. Je důležité pro omezení rizika aeroelastických kmitů (flutteru); po opravách se musí dodržet předepsané vyvážení."
     },
     {
       "sourceNumber": 85,
@@ -3764,7 +3814,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-87"
+      "id": "letove-zasady-letoun-p18-87",
+      "explanation": "Plošné zatížení křídla je hmotnost (případně tíha) letounu vztažená k ploše křídla. Při vyšším zatížení křídla zpravidla roste pádová rychlost."
     },
     {
       "sourceNumber": 88,
@@ -3780,7 +3831,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-88"
+      "id": "letove-zasady-letoun-p18-88",
+      "explanation": "Vzestupný poryv může náhle zvýšit efektivní úhel náběhu a vztlak. Tím vzroste okamžitý násobek zatížení, tedy poměr aerodynamického zatížení k tíze."
     },
     {
       "sourceNumber": "89",
@@ -3796,7 +3848,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-89"
+      "id": "letove-zasady-letoun-p18-89",
+      "explanation": "Regulátor vrtule konstantních otáček mění úhel nastavení listů tak, aby udržoval zvolené otáčky. Při vyšší dopředné rychlosti bývá pro zachování otáček potřeba větší úhel nastavení listů."
     },
     {
       "sourceNumber": 90,
@@ -3812,7 +3865,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-90"
+      "id": "letove-zasady-letoun-p18-90",
+      "explanation": "Obvodová rychlost listu roste se vzdáleností od osy vrtule. Geometrické zkroucení listu proto mění jeho místní úhel nastavení tak, aby byl efektivní úhel náběhu a aerodynamické zatížení podél rozpětí vhodně rozložené."
     },
     {
       "sourceNumber": 91,
@@ -3828,7 +3882,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-91"
+      "id": "letove-zasady-letoun-p19-91",
+      "explanation": "Po vysazení motoru může proudící vzduch vrtuli dále roztáčet (windmilling). Taková vrtule odebírá energii proudění a vytváří značný aerodynamický odpor, který zhoršuje klouzavost."
     },
     {
       "sourceNumber": 92,

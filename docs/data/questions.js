@@ -23198,7 +23198,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-3"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-3",
+      "explanation": "Překročení maximální schválené hmotnosti zhoršuje vzletové a stoupací výkony, zvyšuje pádovou rychlost a zatěžuje konstrukci nad certifikované meze. Takový let není přípustný."
     },
     {
       "sourceNumber": "4",
@@ -23214,7 +23215,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-4"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-4",
+      "explanation": "Těžiště musí během celého letu zůstat v rozmezí přední a zadní povolené polohy podle letové příručky. Mimo tyto meze může být ohrožena stabilita nebo řiditelnost."
     },
     {
       "sourceNumber": "5",
@@ -23230,7 +23232,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 1,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-5"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p1-5",
+      "explanation": "Poloha těžiště směrem dozadu obvykle snižuje podélnou statickou stabilitu a může ztížit vybrání pádu či vývrtky. Nesmí překročit zadní limit."
     },
     {
       "sourceNumber": "6",
@@ -23246,7 +23249,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-6"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-6",
+      "explanation": "Povolený rozsah centráže je stanoven tak, aby bylo možné letoun bezpečně řídit a aby měl potřebnou stabilitu ve všech fázích letu včetně změn způsobených spotřebou paliva."
     },
     {
       "sourceNumber": "7",
@@ -23262,7 +23266,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-7"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-7",
+      "explanation": "Přední centráž obvykle zvyšuje podélnou stabilitu, ale vyžaduje větší vyvažovací sílu ocasních ploch. To může zvýšit odpor, spotřebu a pádovou rychlost; příliš přední těžiště může omezit možnost zvednout příď."
     },
     {
       "sourceNumber": "8",
@@ -23294,7 +23299,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 2,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-9"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p2-9",
+      "explanation": "Základní prázdná hmotnost a její těžiště se stanovují vážením v předepsané konfiguraci. Pozdější změny vybavení se promítají do aktualizovaného hmotnostního protokolu."
     },
     {
       "sourceNumber": "10",
@@ -23310,7 +23316,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-10"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-10",
+      "explanation": "Hustota AVGAS 100LL je přibližně 0,72 kg/l při 15 °C. Skutečná hustota se mění s teplotou a složením paliva."
     },
     {
       "sourceNumber": "11",
@@ -23326,7 +23333,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-11"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-11",
+      "explanation": "Jeden kilogram odpovídá přibližně 2,20462 libry, takže pro běžný výpočet lze násobit 2,205."
     },
     {
       "sourceNumber": "12",
@@ -23342,7 +23350,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-12"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-12",
+      "explanation": "Posun neupevněného nákladu může náhle změnit těžiště, poškodit konstrukci a zranit osoby na palubě. Zavazadla musí být zajištěna podle příručky letadla."
     },
     {
       "sourceNumber": "13",
@@ -23358,7 +23367,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-13"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-13",
+      "explanation": "Upevnění nákladu brání jeho posunu a tím i nečekaným změnám polohy těžiště za letu. Zároveň omezuje riziko poškození kabiny a zranění."
     },
     {
       "sourceNumber": "14",
@@ -23374,7 +23384,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 3,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-14"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p3-14",
+      "explanation": "Tíha jednotlivých částí letadla se při výpočtu nahrazuje výslednicí působící v těžišti. Její směr je přibližně svisle dolů k zemskému středu."
     },
     {
       "sourceNumber": "15",
@@ -23390,7 +23401,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-15"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-15",
+      "explanation": "Těžiště je bod, ve kterém lze při výpočtech uvažovat působení výsledné tíhové síly letadla."
     },
     {
       "sourceNumber": "16",
@@ -23406,7 +23418,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-16"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-16",
+      "explanation": "Výslednice tíhových sil působí v těžišti. Jeho poloha závisí na rozmístění hmotností cestujících, paliva, zavazadel a vybavení."
     },
     {
       "sourceNumber": "17",
@@ -23422,7 +23435,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-17"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-17",
+      "explanation": "Při ustáleném přímočarém vodorovném letu bez zrychlení jsou tah a odpor v rovnováze a vztlak se rovná tíze. Při stoupání nebo klesání nelze vztahy takto jednoduše použít."
     },
     {
       "sourceNumber": "18",
@@ -23438,7 +23452,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-18"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-18",
+      "explanation": "Počátek neboli datum je zvolená referenční rovina, od níž se měří ramena jednotlivých hmotností pro výpočet centráže."
     },
     {
       "sourceNumber": "19",
@@ -23454,7 +23469,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 4,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-19"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p4-19",
+      "explanation": "Hmotnostní moment se počítá jako hmotnost krát rameno vzhledem k referenční rovině. Součet momentů dělený celkovou hmotností udává polohu těžiště."
     },
     {
       "sourceNumber": "20",
@@ -23470,7 +23486,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-20"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-20",
+      "explanation": "Rameno je vodorovná vzdálenost těžiště dané položky od referenční roviny (datum). Podle konvence může být kladné nebo záporné."
     },
     {
       "sourceNumber": "21",
@@ -23486,7 +23503,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-21"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-21",
+      "explanation": "Rameno těžiště je jeho vzdálenost od zvolené referenční roviny. Vypočítá se jako součet momentů dělený celkovou hmotností."
     },
     {
       "sourceNumber": "22",
@@ -23502,7 +23520,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-22"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-22",
+      "explanation": "Při výpočtu centráže se každé hmotnosti přiřazuje rameno od referenční roviny k jejímu těžišti. Součin hmotnosti a ramena tvoří moment."
     },
     {
       "sourceNumber": "23",
@@ -23518,7 +23537,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-23"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-23",
+      "explanation": "Schválené hmotnosti, ramena, limity centráže a postup výpočtu jsou v části Hmotnost a vyvážení příslušné letové příručky a v aktuálních vážních podkladech."
     },
     {
       "sourceNumber": "24",
@@ -23534,7 +23554,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 5,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-24"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p5-24",
+      "explanation": "Při vážení v konfiguraci základní prázdné hmotnosti se obvykle odstraní vyčerpatelné palivo a ponechá se nevyčerpatelný zbytek podle schváleného postupu. Rozhodující je dokumentace konkrétního letadla."
     },
     {
       "sourceNumber": "25",
@@ -23550,7 +23571,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-25"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-25",
+      "explanation": "Základní prázdná hmotnost a příslušné těžiště jsou uvedeny v dokumentaci hmotnosti a vyvážení letové příručky a v aktuálním protokolu o vážení."
     },
     {
       "sourceNumber": "26",
@@ -23584,7 +23606,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-27"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-27",
+      "explanation": "Při orientační hustotě 0,72 kg/l má 102 litrů AVGAS hmotnost 102 × 0,72 = 73,44 kg, tedy přibližně 74 kg."
     },
     {
       "sourceNumber": "28",
@@ -23600,7 +23623,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 6,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-28"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p6-28",
+      "explanation": "Po spotřebě 170 lb paliva zůstane hmotnost 2 130 lb. Nový moment je 2 300 × 95,75 − 170 × 87 = 205 435 lb·in; nové těžiště je 205 435 / 2 130 ≈ 96,45 in."
     },
     {
       "sourceNumber": "29",
@@ -23756,7 +23780,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-37"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-37",
+      "explanation": "Vysunutí klapek obvykle zvýší maximální vztlak a umožní odpoutání při nižší rychlosti, ale zároveň zvýší odpor. Příliš velká výchylka může zhoršit stoupání; optimální vzletová poloha je stanovena v příručce."
     },
     {
       "sourceNumber": "38",
@@ -23772,7 +23797,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 8,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-38"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p8-38",
+      "explanation": "Při zadním větru musí letadlo pro dosažení potřebné rychlosti vůči vzduchu dosáhnout vyšší rychlosti vůči zemi, takže se obvykle prodlouží rozjezd i celková vzletová vzdálenost."
     },
     {
       "sourceNumber": "39",
@@ -23804,7 +23830,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 9,
-      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-40"
+      "id": "7-vykonnost-a-planovani-letu-letoun-2-p9-40",
+      "explanation": "Čelní vítr snižuje rychlost letounu vůči zemi při stejné přibližovací vzdušné rychlosti, čímž obvykle zkracuje přistávací vzdálenost. Výpočet se vždy provádí podle příručky a skutečných podmínek."
     },
     {
       "sourceNumber": "41",

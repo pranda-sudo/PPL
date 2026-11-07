@@ -16184,7 +16184,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-85"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-85",
+      "explanation": "Hystereze aneroidních membrán výškoměru znamená, že jejich deformace při změně tlaku může záviset na předchozím zatížení. Přístroj proto může při stoupání a klesání ukazovat mírně odlišně."
     },
     {
       "sourceNumber": 86,
@@ -16200,7 +16201,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-86"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-86",
+      "explanation": "Barometrický výškoměr odvozuje výšku ze statického atmosférického tlaku, který s výškou obecně klesá. Převod používá standardní atmosféru, takže teplotní odchylky mohou způsobovat chybu."
     },
     {
       "sourceNumber": 87,
@@ -16216,7 +16218,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-87"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-87",
+      "explanation": "Variometr porovnává okamžitý statický tlak s tlakem v přístrojové vyrovnávací komoře, který se mění se zpožděním přes kalibrovaný otvor. Rozdíl odpovídá rychlosti změny výšky."
     },
     {
       "sourceNumber": 88,
@@ -16248,7 +16251,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89",
+      "explanation": "Kalibrovaná rychlost CAS je indikovaná rychlost IAS opravená o přístrojové a polohové chyby. Přesná terminologie zahrnuje obě korekce, přestože test zdůrazňuje polohovou chybu."
     },
     {
       "sourceNumber": 90,
@@ -16264,7 +16268,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-90"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-90",
+      "explanation": "Ve standardních podmínkách se TAS s výškou zvyšuje přibližně o 2 % vůči CAS na každých 1 000 ft. Jde o hrubou pomůcku; přesný přepočet závisí na hustotě a teplotě vzduchu."
     },
     {
       "sourceNumber": 91,
@@ -16280,7 +16285,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-91"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-91",
+      "explanation": "Rychloměr měří rychlost letounu vůči okolnímu vzduchu, nikoli vůči zemi. Protivítr 30 kt sníží traťovou rychlost, ale při zachované TAS 100 kt a podmínkách u země zůstává IAS přibližně 100 kt."
     },
     {
       "sourceNumber": 92,
@@ -16312,7 +16318,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-93"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-93",
+      "explanation": "Rychloměr porovnává celkový tlak z Pitotovy trubice se statickým tlakem. Jejich rozdíl představuje dynamický tlak, z něhož se odvozuje indikovaná vzdušná rychlost."
     },
     {
       "sourceNumber": 94,
@@ -16328,7 +16335,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-94"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-94",
+      "explanation": "Červené značky na letových přístrojích upozorňují na mezní hodnoty nebo zakázané provozní oblasti. Konkrétní význam je uveden v letové příručce a označení daného přístroje."
     },
     {
       "sourceNumber": 95,
@@ -16344,7 +16352,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-95"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-95",
+      "explanation": "Rozdíl celkového a statického tlaku je dynamický tlak q = ½ρV². Rychloměr jej převádí na indikovanou rychlost podle své kalibrace."
     },
     {
       "sourceNumber": 96,
@@ -16360,7 +16369,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-96"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-96",
+      "explanation": "Bílý oblouk označuje provozní rozsah rychlostí pro vysunuté klapky. Horní mezí bývá maximální přípustná rychlost s klapkami VFE; dolní hranice souvisí s pádovou rychlostí v přistávací konfiguraci."
     },
     {
       "sourceNumber": 97,
@@ -16376,7 +16386,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-97"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-97",
+      "explanation": "Červená čára označuje VNE, rychlost, která nesmí být překročena. Při jejím překročení hrozí aerodynamické nebo konstrukční poškození."
     },
     {
       "sourceNumber": 98,
@@ -16392,7 +16403,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-98"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-98",
+      "explanation": "Deviace je odchylka magnetického kompasu způsobená magnetickými poli a kovovými částmi samotného letadla. Liší se od magnetické deklinace, která je rozdílem mezi zeměpisným a magnetickým severem."
     },
     {
       "sourceNumber": "99",
@@ -16424,7 +16436,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-100"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-100",
+      "explanation": "Pitotova trubice poskytuje celkový tlak rychloměru. Výškoměr a variometr využívají pouze statický tlak."
     },
     {
       "sourceNumber": 101,
@@ -16440,7 +16453,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-101"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-101",
+      "explanation": "Výškoměr, variometr i rychloměr využívají statický tlak. Rychloměr jej navíc porovnává s celkovým tlakem z Pitotovy trubice."
     },
     {
       "sourceNumber": 102,
@@ -16488,7 +16502,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-104"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-104",
+      "explanation": "Statický tlak je tlak okolního vzduchu nezávislý na jeho pohybové složce. Na letadle se snímá statickými odběry umístěnými tak, aby minimalizovaly vliv proudění."
     },
     {
       "sourceNumber": 105,
@@ -16520,7 +16535,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-106"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-106",
+      "explanation": "Dynamický tlak je q = ½ρV². Roste přímo s hustotou vzduchu a se čtvercem rychlosti; zdvojnásobení rychlosti znamená čtyřnásobný dynamický tlak."
     },
     {
       "sourceNumber": 107,
@@ -16536,7 +16552,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-107"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-107",
+      "explanation": "Zemské magnetické pole má kromě vodorovné také svislou složku (inklinaci). Při zrychlování či zpomalování působí na magnetickou soustavu kompasu setrvačné síly a vyvolávají chybnou indikaci."
     },
     {
       "sourceNumber": 108,
@@ -16584,7 +16601,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-110"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-110",
+      "explanation": "Při standardní zatáčce je úhlová rychlost přibližně 3° za sekundu, tedy 360° za dvě minuty. Potřebný náklon roste s pravou vzdušnou rychlostí; rychlejší letoun potřebuje větší náklon."
     },
     {
       "sourceNumber": 111,
@@ -16600,7 +16618,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-111"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-111",
+      "explanation": "Zatáčkoměr ukazuje rychlost změny směru, zatímco kulička skluzoměru upozorňuje na nevyváženou zatáčku (skluz nebo výkluz). Společně pomáhají udržovat koordinovaný let."
     },
     {
       "sourceNumber": 112,
@@ -16616,7 +16635,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-112"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-112",
+      "explanation": "Nefunkční rychloměr je závažná závada přístroje potřebného pro bezpečné řízení rychlosti. Běžný let není přípustný bez odstranění závady, pokud zvláštní schválený postup či právní režim výslovně nestanoví jinak."
     },
     {
       "sourceNumber": 113,
@@ -16632,7 +16652,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-113"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-113",
+      "explanation": "Oranžová neboli jantarová výstraha obvykle znamená upozornění nebo stav vyžadující zvýšenou pozornost a případný zásah. Červená zpravidla označuje bezprostřednější nebezpečí."
     },
     {
       "sourceNumber": 114,
@@ -16648,7 +16669,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-114"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-114",
+      "explanation": "Žlutý oblouk na rychloměru označuje oblast opatrného provozu, obvykle pouze v klidném vzduchu a bez prudkých zásahů do řízení."
     },
     {
       "sourceNumber": 115,
@@ -16680,7 +16702,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-116"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-116",
+      "explanation": "HSI je Horizontal Situation Indicator, česky indikátor horizontální situace. Spojuje údaj o směru s navigačními indikacemi pro snadnější sledování tratě."
     },
     {
       "sourceNumber": 117,
@@ -16696,7 +16719,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-117"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-117",
+      "explanation": "HSI kombinuje směrovou referenci s informacemi radionavigace, typicky VOR nebo ILS. U moderních systémů může přijímat navigační údaje také z GPS."
     },
     {
       "sourceNumber": 118,
@@ -16712,7 +16736,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-118"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-118",
+      "explanation": "Zvýšení nastavení tlaku o 10 hPa zvýší indikovanou výšku přibližně o 270 ft, tedy asi 80 m. Orientační pravidlo je zhruba 27–30 ft na 1 hPa."
     },
     {
       "sourceNumber": "1",
@@ -16744,7 +16769,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-120"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-120",
+      "explanation": "Při nastavení QFE ukazuje barometrický výškoměr přibližnou výšku nad referenčním bodem letiště; na tomto bodě ukazuje nulu. Nejde automaticky o výšku nad terénem pod letadlem."
     },
     {
       "sourceNumber": 121,
@@ -16776,7 +16802,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-122"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-122",
+      "explanation": "Variometr porovnává aktuální statický tlak s opožděně se měnícím statickým tlakem ve vyrovnávací komoře. Z rozdílu vyhodnocuje vertikální rychlost."
     },
     {
       "sourceNumber": 123,
@@ -16792,7 +16819,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-123"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-123",
+      "explanation": "Magnetická inklinace je úhel, který svírají siločáry zemského magnetického pole s vodorovnou rovinou. Způsobuje některé chyby magnetického kompasu."
     },
     {
       "sourceNumber": 124,
@@ -16840,7 +16868,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-126"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-126",
+      "explanation": "Winglety upravují proudění u konců křídel a mohou snižovat indukovaný odpor. Účinnost závisí na konkrétním aerodynamickém návrhu."
     },
     {
       "sourceNumber": 127,
@@ -16856,7 +16885,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-127"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-127",
+      "explanation": "U turistických motorových kluzáků se často používají lehké čtyřválcové čtyřdobé pístové motory. Přesný typ závisí na konstrukci a certifikaci letadla."
     },
     {
       "sourceNumber": 128,

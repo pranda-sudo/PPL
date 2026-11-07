@@ -17110,7 +17110,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-13"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-13",
+      "explanation": "Cyklická páka naklání rovinu řídicí desky. Tím se úhel nastavení jednotlivých rotorových listů periodicky mění podle jejich polohy v otáčce a výsledný tah rotoru se naklání."
     },
     {
       "sourceNumber": "14",
@@ -17142,7 +17143,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-15"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-15",
+      "explanation": "Směšovací mechanismus kombinuje vstupy kolektivního a cyklického řízení a převádí je na pohyb táhel měnících úhly nastavení listů. Kolektiv mění úhel všech listů společně, cyklika jej mění v průběhu otáčky."
     },
     {
       "sourceNumber": "16",
@@ -17174,7 +17176,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-17"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-17",
+      "explanation": "Trim u vrtulníku upravuje vyvážení nebo požadovanou sílu na ovladačích. Jeho provedení závisí na konkrétním typu a nesmí nahrazovat běžné řízení."
     },
     {
       "sourceNumber": "18",
@@ -17190,7 +17193,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-18"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-18",
+      "explanation": "Korelátor mechanicky přizpůsobuje nastavení výkonu motoru pohybu kolektivu. Při zvýšení kolektivu stoupne požadovaný výkon, protože rotor potřebuje větší krouticí moment."
     },
     {
       "sourceNumber": "19",
@@ -17206,7 +17210,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-19"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-19",
+      "explanation": "Při tankování je nutné vyloučit zdroje vznícení, nekouřit a dodržet předepsané elektrické propojení a uzemnění, aby se omezilo riziko výboje statické elektřiny."
     },
     {
       "sourceNumber": "20",
@@ -17222,7 +17227,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-20"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-20",
+      "explanation": "Primer dodává palivo do sací soustavy či válců pro usnadnění startu, zejména za studena. Nadměrné použití může motor přeplavit."
     },
     {
       "sourceNumber": "21",
@@ -17238,7 +17244,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-21"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-21",
+      "explanation": "Odvětrání umožňuje při ubývání paliva vstup vzduchu do nádrže. Bez něj by podtlak mohl omezit nebo přerušit přívod paliva k motoru."
     },
     {
       "sourceNumber": "22",
@@ -17254,7 +17261,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-22"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-22",
+      "explanation": "Baterie a generátor či alternátor jsou zdroje elektrické energie. Relé obvody spíná a jistič je chrání před nadproudem."
     },
     {
       "sourceNumber": "23",
@@ -17270,7 +17278,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-23"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-23",
+      "explanation": "Napětí je rozdíl elektrických potenciálů a měří se ve voltech (V)."
     },
     {
       "sourceNumber": "24",
@@ -17286,7 +17295,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-24"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-24",
+      "explanation": "Elektrický výkon je množství přenesené či přeměněné energie za jednotku času a měří se ve wattech (W)."
     },
     {
       "sourceNumber": "25",
@@ -17302,7 +17312,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-25"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-25",
+      "explanation": "Odváděče statické elektřiny pomáhají rozptylovat elektrický náboj nahromaděný za letu a snižují rušení radiového spojení."
     },
     {
       "sourceNumber": "26",
@@ -17318,7 +17329,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-26"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-26",
+      "explanation": "Při výpadku alternátoru může elektrické spotřebiče dočasně napájet akumulátor. Jeho kapacita je omezená, proto je nutné postupovat podle nouzových pokynů a omezit odběr."
     },
     {
       "sourceNumber": "27",
@@ -17334,7 +17346,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-27"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-27",
+      "explanation": "DC označuje stejnosměrný proud (direct current); AC znamená střídavý proud."
     },
     {
       "sourceNumber": "28",
@@ -17350,7 +17363,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-28"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-28",
+      "explanation": "Ztráta elektrického napájení může vyřadit radiostanice, navigační zařízení a elektricky napájené gyroskopické přístroje. Rozsah následků závisí na instalaci konkrétního vrtulníku."
     },
     {
       "sourceNumber": "29",
@@ -17366,7 +17380,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-29"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-29",
+      "explanation": "V lehkých pístových vrtulnících jsou časté horizontálně protilehlé válce typu boxer. Takové uspořádání má příznivé rozměry a vyvážení."
     },
     {
       "sourceNumber": "30",
@@ -17418,7 +17433,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-32"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-32",
+      "explanation": "Při kontrole jednotlivých magnet může vadná či znečištěná zapalovací svíčka způsobit nepravidelný chod motoru. Obdobný projev mohou mít i jiné závady zapalování."
     },
     {
       "sourceNumber": "33",
@@ -17434,7 +17450,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-33"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-33",
+      "explanation": "Voda a nečistoty v palivu mohou narušit spalování nebo zastavit motor. Před startem je proto nutné zkontrolovat vzorky z předepsaných vypouštěcích míst."
     },
     {
       "sourceNumber": "34",
@@ -17450,7 +17467,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-34"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-34",
+      "explanation": "Téměř prázdná nádrž obsahuje více vzduchu, z něhož může při ochlazení kondenzovat vlhkost. Proto je důležité palivo před letem kontrolovat."
     },
     {
       "sourceNumber": "35",
@@ -17466,7 +17484,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-35"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p7-35",
+      "explanation": "Voda má větší hustotu než letecký benzin a shromažďuje se v nejnižších částech nádrže a palivového systému, odkud se odebírají kontrolní vzorky."
     },
     {
       "sourceNumber": "36",
@@ -17482,7 +17501,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-36"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-36",
+      "explanation": "Oktanové číslo vyjadřuje odolnost benzinu vůči detonačnímu spalování. Nejde o přímé měřítko energetického obsahu paliva."
     },
     {
       "sourceNumber": "37",
@@ -17498,7 +17518,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-37"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-37",
+      "explanation": "AVGAS 100LL je standardně zbarven modře pro rozlišení od jiných paliv. Před plněním je vždy nutné ověřit požadovaný druh paliva."
     },
     {
       "sourceNumber": "38",
@@ -17514,7 +17535,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-38"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p8-38",
+      "explanation": "Karburátor dávkuje palivo do proudu nasávaného vzduchu a připravuje směs potřebnou pro spalování v zážehovém motoru."
     },
     {
       "sourceNumber": "39",
@@ -17562,7 +17584,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-41"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-41",
+      "explanation": "Námraza karburátoru může vznikat i při kladné venkovní teplotě, protože odpařování paliva a pokles tlaku proudícího vzduchu karburátor ochlazují. Riziko roste s vlhkostí."
     },
     {
       "sourceNumber": "42",
@@ -17578,7 +17601,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-42"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-42",
+      "explanation": "Chladicí žebra zvětšují plochu válců vystavenou proudu vzduchu, a tím zlepšují odvod tepla z motoru."
     },
     {
       "sourceNumber": "43",
@@ -17594,7 +17618,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-43"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-43",
+      "explanation": "Teplota hlavy válce se u některých motorů sleduje na kritickém, tepelně nejvíce namáhaném válci; moderní systémy mohou měřit všechny válce."
     },
     {
       "sourceNumber": "44",
@@ -17610,7 +17635,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-44"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p9-44",
+      "explanation": "Při zanesení olejového filtru může obtokový ventil zachovat průtok mazacího oleje mimo filtrační vložku. Olej však v takovém režimu nemusí být účinně čištěn."
     },
     {
       "sourceNumber": "45",
@@ -17642,7 +17668,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-46"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-46",
+      "explanation": "Dvojité nezávislé zapalování zvyšuje spolehlivost pístového motoru. Při selhání jednoho okruhu může druhý nadále zapalovat směs."
     },
     {
       "sourceNumber": "47",
@@ -17674,7 +17701,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-48"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-48",
+      "explanation": "Bohatá směs obsahuje relativně více paliva vůči vzduchu. Nadměrně bohatá směs může zvyšovat spotřebu a zhoršovat chod motoru."
     },
     {
       "sourceNumber": "49",
@@ -17706,7 +17734,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-50"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p10-50",
+      "explanation": "S rostoucí výškou klesá hustota vzduchu, takže při nezměněném dávkování paliva bývá směs relativně bohatší. Je-li to pro daný motor dovoleno, upravuje se podle předepsaného postupu."
     },
     {
       "sourceNumber": "51",
@@ -17722,7 +17751,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-51"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-51",
+      "explanation": "U nepřeplňovaného pístového motoru s výškou klesá hustota nasávaného vzduchu a množství dostupného kyslíku, proto zpravidla klesá výkon."
     },
     {
       "sourceNumber": "52",
@@ -17754,7 +17784,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-53"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p11-53",
+      "explanation": "Dorazy mávání omezují rozsah pohybu listů při nízkých otáčkách rotoru, například při roztáčení a zastavování, aby se snížilo riziko jejich kontaktu s konstrukcí."
     },
     {
       "sourceNumber": "54",
@@ -17802,7 +17833,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-56"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-56",
+      "explanation": "Bezzávěsový rotor přenáší mávání a odporové pohyby pružnou deformací konstrukčních prvků místo samostatných mechanických závěsů. Může mít méně pohyblivých součástí."
     },
     {
       "sourceNumber": "57",
@@ -17834,7 +17866,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-58"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p12-58",
+      "explanation": "U běžného jednorotorového vrtulníku s mechanicky poháněným hlavním rotorem ocasní rotor vyrovnává reakční moment trupu a umožňuje směrové řízení. Existují alternativní protimomentové systémy."
     },
     {
       "sourceNumber": "59",
@@ -17930,7 +17963,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p13-64"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p13-64",
+      "explanation": "Řemenová spojka umožňuje spojit nebo rozpojit přenos výkonu mezi motorem a rotorovým pohonem, což usnadňuje spouštění motoru bez okamžitého zatížení rotorem."
     },
     {
       "sourceNumber": "65",

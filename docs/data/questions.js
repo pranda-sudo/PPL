@@ -10524,7 +10524,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 5,
-      "id": "9-navigace-letoun-1-p5-23"
+      "id": "9-navigace-letoun-1-p5-23",
+      "explanation": "Zeměpisná trať = zeměpisný kurz − oprava snosu = 125° − (−12°) = 137°. Magnetická trať je 139°, takže deklinace je 2°W. Magnetický kurz = 125° + 2° = 127°. Při deviaci 2°E kompasový kurz = 127° − 2° = 125°."
     },
     {
       "sourceNumber": "24",
@@ -11289,7 +11290,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-1-p14-68"
+      "id": "9-navigace-letoun-1-p14-68",
+      "explanation": "Vítr 200°/10 kt přichází zleva od požadované tratě 255°. Boční složka je asi 10 × sin(55°) = 8,2 kt. Oprava snosu je arcsin(8,2/100) ≈ 4,7° doleva. Zeměpisný kurz ≈ 255° − 5° = 250°."
     },
     {
       "sourceNumber": "69",
@@ -11305,7 +11307,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-69"
+      "id": "9-navigace-letoun-1-p15-69",
+      "explanation": "Vítr přichází ze směru 130°, tedy 35° zleva od tratě 165°. Boční složka je 20 × sin(35°) ≈ 11,5 kt. Oprava snosu arcsin(11,5/90) ≈ 7,3° doleva; kurz přibližně 158°."
     },
     {
       "sourceNumber": "70",
@@ -11321,7 +11324,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-70"
+      "id": "9-navigace-letoun-1-p15-70",
+      "explanation": "Vítr 140°/20 kt působí zleva vzhledem k trati 177°. Boční složka je 20 × sin(37°) ≈ 12 kt. Při GS 160 kt je oprava přibližně 4° doleva; zeměpisný kurz 173°."
     },
     {
       "sourceNumber": "71",
@@ -11337,7 +11341,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-71"
+      "id": "9-navigace-letoun-1-p15-71",
+      "explanation": "Vítr 270°/50 kt má proti trati 220° čelní složku asi 50 × cos(50°) = 32 kt a boční složku asi 38 kt. Po opravě snosu vychází traťová rychlost přibližně 185 kt."
     },
     {
       "sourceNumber": "72",
@@ -11353,7 +11358,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-72"
+      "id": "9-navigace-letoun-1-p15-72",
+      "explanation": "Vítr 350°/30 kt přichází 50° zleva od tratě 040°. Jeho čelní složka je asi 19 kt a boční 23 kt. Po zohlednění opravy snosu vychází GS přibližně 159 kt."
     },
     {
       "sourceNumber": "73",
@@ -11369,7 +11375,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-73"
+      "id": "9-navigace-letoun-1-p16-73",
+      "explanation": "Vítr 350°/30 kt přichází 50° zleva od tratě 040°. Boční složka je 30 × sin(50°) ≈ 23 kt. Oprava snosu arcsin(23/180) ≈ 7,3° doleva, tedy přibližně −7°."
     },
     {
       "sourceNumber": "74",
@@ -11417,7 +11424,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-76"
+      "id": "9-navigace-letoun-1-p16-76",
+      "explanation": "Boční složka větru zleva je 30 × sin(50°) ≈ 23 kt. Při TAS 180 kt vychází oprava snosu asi 7° vlevo. Pilot musí natočit příď proti větru, aby udržel trať 040°."
     },
     {
       "sourceNumber": "77",
@@ -11433,7 +11441,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-77"
+      "id": "9-navigace-letoun-1-p16-77",
+      "explanation": "Vítr 150°/12 kt přichází 30° zprava od tratě 120°. Boční složka je 12 × sin(30°) = 6 kt. Při TAS 120 kt je oprava arcsin(6/120) ≈ 2,9°, tedy 3° doprava."
     },
     {
       "sourceNumber": "78",
@@ -11449,7 +11458,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-78"
+      "id": "9-navigace-letoun-1-p17-78",
+      "explanation": "Zbývá 120 − 55 = 65 NM a letadlo je 7 NM vpravo od tratě. Úhel pro přímý návrat k cíli je přibližně 60 × 7/65 = 6,5° doleva. K tomu přičteme dosavadní snos asi 60 × 7/55 = 7,6°: celková změna kurzu přibližně 14° doleva."
     },
     {
       "sourceNumber": "79",
@@ -11465,7 +11475,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-79"
+      "id": "9-navigace-letoun-1-p17-79",
+      "explanation": "Po 45 NM je odchylka 4,5 NM severně, tedy vlevo od východní tratě 090°. Podle pravidla 1 : 60 je úhel snosu 60 × 4,5/45 = 6°. Zbývá dalších 45 NM, proto přidáme dalších 6° k návratu na trať: změna kurzu 12° doprava."
     },
     {
       "sourceNumber": "80",
@@ -11498,7 +11509,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-81"
+      "id": "9-navigace-letoun-1-p17-81",
+      "explanation": "Plánovaných 70 NM při 120 kt trvá 35 min. Letadlo je o 5 min napřed, takže je urazilo za 30 min a skutečná GS je 140 kt. Celých 220 NM při 140 kt trvá 94,3 min; od 12:00 UTC vychází ETA přibližně 13:34 až 13:35 UTC."
     },
     {
       "sourceNumber": "82",

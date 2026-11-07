@@ -19909,13 +19909,13 @@
         "na povrchu dráhy jsou vidět kaluže vody",
         "na povrchu dráhy není voda ani led nebo sníh"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
       "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-67",
-      "explanation": "Označení „wet“ znamená mokrou dráhu, jejíž povrch je viditelně mokrý nebo pokrytý vodou do stanovené malé hloubky; významné stojící vrstvy vody spadají do jiných kategorií. POZOR: klíč označuje „velká část zatopená vodou“, což neodpovídá běžnému významu wet. Způsob hlášení se řídí aktuální metodikou stavu dráhy (GRF)."
+      "explanation": "Mokrá dráha (wet) má viditelně mokrý povrch, případně vodu do stanovené malé hloubky, nikoli velkou část plochy zatopenou stojící vodou. Původní klíč ukazoval na zaplavení a byl opraven na první možnost. Při provozu je nutné používat aktuální hlášení stavu dráhy podle GRF."
     },
     {
       "sourceNumber": "68",
@@ -21148,13 +21148,13 @@
         "zabránit srážkám omezením manévrů zatáčení",
         "létat bez podaného letového plánu ve stanovených zónách publikovaných v AIP"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
       "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-45",
-      "explanation": "Půlkruhové pravidlo přiřazuje cestovní hladiny podle směru tratě a snižuje riziko protisměrného provozu ve stejné hladině. POZOR: původní klíč chybně označuje vyčkávací obrazec; věcně správná je první možnost."
+      "explanation": "Správná je první možnost: půlkruhové pravidlo přiřazuje cestovní hladiny podle směru tratě, čímž snižuje riziko protisměrného provozu ve stejné hladině. Vyčkávací obrazec s tím nesouvisí. Původní chybný klíč byl opraven."
     },
     {
       "sourceNumber": "46",
@@ -21528,7 +21528,7 @@
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
       "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-67",
-      "explanation": "Označení „wet“ znamená mokrou dráhu, jejíž povrch je viditelně mokrý nebo pokrytý vodou do stanovené malé hloubky; významné stojící vrstvy vody spadají do jiných kategorií. POZOR: klíč označuje „velká část zatopená vodou“, což neodpovídá běžnému významu wet. Způsob hlášení se řídí aktuální metodikou stavu dráhy (GRF)."
+      "explanation": "Mokrá dráha (wet) znamená viditelně mokrý povrch bez významné vrstvy stojící vody; velké zatopené plochy nelze zaměňovat s běžným označením wet. Při posuzování výkonnosti je rozhodující aktuální hlášení stavu dráhy podle GRF."
     },
     {
       "sourceNumber": "68",
@@ -22000,7 +22000,7 @@
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
       "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-95",
-      "explanation": "Otázka byla převzata z letounové části a nabízí potvrzení kýváním křídel, které vrtulník nemá. Pro vrtulník je nutné ověřit příslušný vizuální signál podle provozních pravidel; původní formulaci nelze bez úpravy použít jako spolehlivý výukový podklad."
+      "explanation": "Zadání je pro vrtulník problematické: odpověď „zamáváním křídel“ byla převzata z letounové otázky, ale vrtulník nemá pevná křídla. Bez ověření předepsaného signálu pro vrtulníky nelze původní klíč považovat za spolehlivý. Otázku je třeba přeformulovat."
     },
     {
       "sourceNumber": "96",

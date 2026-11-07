@@ -3100,7 +3100,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-41"
+      "id": "letove-zasady-letoun-p9-41",
+      "explanation": "Při ustáleném horizontálním letu se vztlak rovná tíze. Pokud rychlost klesá, musí vzrůst součinitel vztlaku C_L, aby se stejná tíha unesla při menším dynamickém tlaku. Protože indukovaný odpor přibližně závisí na C_L², při snižování rychlosti roste. Nejvýrazněji se to projevuje při pomalém letu."
     },
     {
       "sourceNumber": 42,
@@ -3116,7 +3117,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-42"
+      "id": "letove-zasady-letoun-p9-42",
+      "explanation": "Při stejné hmotnosti a ustáleném horizontálním letu platí přibližně D_i ∝ 1/V². S rostoucí rychlostí klesá potřebný součinitel vztlaku a tím i indukovaný odpor. Škodlivý odpor se naopak s rychlostí zvětšuje; nesmí se zaměňovat s indukovaným."
     },
     {
       "sourceNumber": 43,
@@ -3132,7 +3134,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-43"
+      "id": "letove-zasady-letoun-p9-43",
+      "explanation": "V jednoduchém modelu odporu D = aV² + b/V² má škodlivý odpor první člen a indukovaný odpor druhý. Minimum jejich součtu nastává, když jsou oba odpory stejně velké. Tato rychlost odpovídá nejlepšímu poměru vztlaku k odporu (maximální klouzavosti) v daných podmínkách."
     },
     {
       "sourceNumber": 44,
@@ -3148,7 +3151,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-44"
+      "id": "letove-zasady-letoun-p9-44",
+      "explanation": "Celkový aerodynamický odpor letounu lze rozdělit na indukovaný a škodlivý (parazitní). Indukovaný vzniká jako důsledek vytváření vztlaku konečným křídlem; škodlivý zahrnuje třecí, tvarový a interferenční odpor. Proto samotný výčet těchto tří složek není úplným výčtem celkového odporu."
     },
     {
       "sourceNumber": 45,
@@ -3164,7 +3168,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 9,
-      "id": "letove-zasady-letoun-p9-45"
+      "id": "letove-zasady-letoun-p9-45",
+      "explanation": "Při ustáleném vodorovném letu s násobkem n = 1 je vztlak roven tíze letounu. S klesající rychlostí směrem k pádové musí součinitel vztlaku a úhel náběhu růst, aby se vztlak zachoval. Indukovaný odpor proto roste, i když požadovaný vztlak zůstává stejný."
     },
     {
       "sourceNumber": 46,
@@ -3180,7 +3185,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-46"
+      "id": "letove-zasady-letoun-p10-46",
+      "explanation": "Základem vybrání přetažení je snížení úhlu náběhu pod kritickou hodnotu uvolněním odpovídajícího tlaku na výškovku. Následně se podle příručky letadla používá potřebný výkon a obnovuje bezpečná rychlost. Samotné zvýšení výkonu bez snížení úhlu náběhu nemusí přetažení odstranit."
     },
     {
       "sourceNumber": 47,
@@ -3196,7 +3202,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-47"
+      "id": "letove-zasady-letoun-p10-47",
+      "explanation": "Při překročení kritického úhlu náběhu se proudění na horní straně křídla výrazně odtrhává. Součinitel vztlaku klesá, zatímco součinitel odporu prudce roste. Letoun může ztrácet výšku, i když má nos vysoko; rozhodující je úhel náběhu, nikoli samotná poloha vůči horizontu."
     },
     {
       "sourceNumber": "48",
@@ -3212,7 +3219,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-48"
+      "id": "letove-zasady-letoun-p10-48",
+      "explanation": "Kritický úhel náběhu je pro daný profil a konfiguraci přibližně určen aerodynamickými vlastnostmi, nikoli samotnou rychlostí letu. Rychlost, při které jej letoun dosáhne, se však mění s hmotností, násobkem, konfigurací a dalšími podmínkami. Proto lze přetáhnout letoun i při relativně vysoké rychlosti."
     },
     {
       "sourceNumber": "49",
@@ -3228,7 +3236,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-49"
+      "id": "letove-zasady-letoun-p10-49",
+      "explanation": "Pádová rychlost vyjádřená IAS při stejné konfiguraci a násobku přibližně roste s odmocninou hmotnosti: V_S ∝ √W. Při menší tíze proto k udržení letu stačí menší rychlost a pádová IAS klesá. Zvýšení násobku ji naopak zvyšuje; změna hustoty ovlivňuje zejména TAS, nikoli stejným způsobem IAS."
     },
     {
       "sourceNumber": 50,
@@ -3244,7 +3253,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 10,
-      "id": "letove-zasady-letoun-p10-50"
+      "id": "letove-zasady-letoun-p10-50",
+      "explanation": "Varování před pádem je nastaveno tak, aby pilota upozornilo ještě před dosažením pádové rychlosti V_S, respektive kritického úhlu náběhu. Dává čas ke snížení úhlu náběhu a zabránění přetažení. V_NE je nepřekročitelná rychlost a V_X rychlost nejlepšího úhlu stoupání."
     },
     {
       "sourceNumber": 51,
@@ -3260,7 +3270,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-51"
+      "id": "letove-zasady-letoun-p11-51",
+      "explanation": "U běžných mechanických snímačů varování před pádem mění rostoucí úhel náběhu polohu stagnační oblasti na náběžné hraně. Proudění pak vychýlí jazýček nebo spustí tlakový snímač. Nejde o pohyb těžiště ani o změnu aerodynamického středu."
     },
     {
       "sourceNumber": 52,
@@ -3276,7 +3287,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-52"
+      "id": "letove-zasady-letoun-p11-52",
+      "explanation": "Při varování před pádem je zásadní snížit úhel náběhu povolením výškovky. Podle letové příručky se přidává výkon k omezení ztráty výšky a obnovuje bezpečná rychlost. Přitažení výškovky by úhel náběhu ještě zvýšilo a mohlo přetažení zhoršit."
     },
     {
       "sourceNumber": 53,
@@ -3292,7 +3304,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-53"
+      "id": "letove-zasady-letoun-p11-53",
+      "explanation": "Při vybírání vývrtky se křidélka zpravidla drží v neutrálu, protože jejich vychýlení může na přetaženém křídle prohloubit asymetrii proudění. Dále se postupuje přesně podle schválené letové příručky konkrétního typu; obecné schéma zahrnuje přerušení rotace směrovým kormidlem a snížení úhlu náběhu."
     },
     {
       "sourceNumber": 54,
@@ -3308,7 +3321,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-54"
+      "id": "letove-zasady-letoun-p11-54",
+      "explanation": "Vysunutí vztlakových klapek zvyšuje zakřivení profilu, a tím při stejném úhlu náběhu obvykle zvyšuje součinitel vztlaku C_L. Současně zpravidla roste odpor. Díky vyššímu maximálnímu C_L lze létat a přistávat při nižší rychlosti."
     },
     {
       "sourceNumber": 55,
@@ -3324,7 +3338,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 11,
-      "id": "letove-zasady-letoun-p11-55"
+      "id": "letove-zasady-letoun-p11-55",
+      "explanation": "Hlavním účinkem vztlakových klapek je zvýšení zakřivení (camber) profilu, případně i plochy křídla u některých konstrukcí. Při stejném úhlu náběhu tím obvykle roste součinitel vztlaku. Zmenšení odporu není jejich základním účelem, zejména v přistávací poloze odpor výrazně roste."
     },
     {
       "sourceNumber": 56,
@@ -3340,7 +3355,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-56"
+      "id": "letove-zasady-letoun-p12-56",
+      "explanation": "Vysunutí klapek mění vztlak, odpor a klopivý moment křídla. Letoun proto může změnit podélné vyvážení a pilot pocítí jinou sílu na výškovce nebo musí použít trim. Samotné vysunutí klapek neposouvá podstatně těžiště ani přímo neurčuje otáčky či krouticí moment motoru."
     },
     {
       "sourceNumber": 57,
@@ -3356,7 +3372,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-57"
+      "id": "letove-zasady-letoun-p12-57",
+      "explanation": "Fowlerova klapka se při vysouvání pohybuje dozadu a dolů. Tím zvětšuje účinnou plochu křídla a jeho zakřivení, takže významně zvyšuje maximální vztlak. Liší se od jednoduché klapky, která se převážně jen otáčí dolů kolem závěsu."
     },
     {
       "sourceNumber": "58",
@@ -3372,7 +3389,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-58"
+      "id": "letove-zasady-letoun-p12-58",
+      "explanation": "Vzletová poloha klapek zvyšuje maximální součinitel vztlaku a snižuje potřebnou rychlost odpoutání, takže může zkrátit rozjezd. Současně ale zvyšuje odpor; větší vysunutí proto nemusí zlepšit stoupavost ani zrychlení. Správné nastavení určuje letová příručka konkrétního typu."
     },
     {
       "sourceNumber": "59",
@@ -3388,7 +3406,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 12,
-      "id": "letove-zasady-letoun-p12-59"
+      "id": "letove-zasady-letoun-p12-59",
+      "explanation": "Při vysouvání klapek roste zakřivení profilu, a tím zpravidla součinitel vztlaku i součinitel odporu. Vzletové nastavení využívá příznivý nárůst vztlaku, zatímco velké přistávací vysunutí vytváří také značný odpor, který pomáhá při strmém přiblížení."
     },
     {
       "sourceNumber": 60,

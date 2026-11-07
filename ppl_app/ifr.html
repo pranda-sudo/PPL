@@ -1,0 +1,49 @@
+<!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#16202a"><title>IFR / IR(A) – Výukový trenažér PPL</title><link rel="stylesheet" href="./ifr.css?v=34"></head><body><main class="shell">
+<header class="top"><div><div class="eyebrow">Výukový modul · navazuje na PPL</div><h1>IFR / IR(A) – létání podle přístrojů</h1><p>Teorie, testy, radiokomunikace, ILS a výpočty přiblížení.</p></div><a class="back" href="./index.html?v=34">← Zpět na PPL testy</a></header>
+<div class="warning"><strong>Jen pro studium.</strong> Jde o autorské modelové úlohy, nikoliv oficiální databázi zkoušek IR(A). Modelová povolení, dráhy, kmitočty ani hodnoty nelze používat ke skutečnému letu. Aktuální znění předpisů, letových postupů, NOTAM, povolení ATC, výbavu a minima je nutné ověřovat samostatně. Výcvik a oprávnění IR(A) aplikace nenahrazuje.</div>
+<nav class="tabs" aria-label="Výukové režimy">
+<button data-tab="theory" class="active" type="button">Teorie a postupy</button>
+<button data-tab="questions" type="button">Testové otázky</button>
+<button data-tab="radio" type="button">IFR radiokomunikace</button>
+<button data-tab="approach" type="button">ILS a výpočty</button>
+<button data-tab="resources" type="button">Zdroje a postupy</button>
+</nav>
+<section class="pane" id="theory">
+<div class="section-title"><h2>Učební osnova IFR</h2><p>Výklad pomáhá porozumět principům. V konkrétním letu má přednost zveřejněný postup a pokyny ATC.</p></div><div class="lesson-grid" id="lessons"></div>
+</section>
+<section class="pane" id="questions" hidden><div class="panel">
+<div class="header-row"><h2>Procvičování IFR / IR(A)</h2><span class="muted" id="bankTotal"></span></div>
+<div class="config">
+<label>Režim<select id="mode"><option value="learn">Učení – hned vysvětlit</option><option value="exam">Zkouška – výsledek na konci</option><option value="mistakes">Opakovat chyby</option></select></label>
+<label>Okruh<select id="subject"><option value="all">Všechny okruhy</option></select></label>
+<label>Počet<select id="count"><option value="10">10 otázek</option><option value="20">20 otázek</option><option value="30">30 otázek</option><option value="all">Všechny dostupné</option></select></label>
+</div>
+<div class="actions"><button class="quiet" id="restart" type="button">Nový test / zamíchat</button><span id="progress" class="muted"></span></div>
+<div class="question" id="questionBox"><div class="muted" id="qSubject"></div><h3 id="qText"></h3><div class="answers" id="answers"></div><div class="explanation" id="explanation" hidden aria-live="polite"></div><div class="actions"><button id="reveal" class="quiet" type="button">Ukázat vysvětlení</button><button id="next" type="button">Další otázka →</button></div></div>
+<div id="results" class="results" hidden></div>
+</div></section>
+<section class="pane" id="radio" hidden><div class="panel">
+<h2>Poslech, porozumění a readback</h2><p class="muted">Zvol správnou odpověď. Každý příklad je vymyšlený a neslouží jako ATC povolení.</p>
+<div class="header-row"><strong id="radioPosition"></strong><button class="quiet" type="button" id="radioReset">Začít znovu</button></div>
+<div class="exchange"><span>ATC – modelová zpráva</span><p id="radioMessage"></p><button id="speak" class="quiet" type="button">Přehrát hlasem (pokud prohlížeč podporuje)</button></div>
+<h3 id="radioQuestion"></h3><div class="answers" id="radioChoices"></div><div id="radioFeedback" class="explanation" hidden></div><div class="actions"><button id="radioNext" type="button">Další radiová situace →</button></div>
+</div></section>
+<section class="pane" id="approach" hidden><div class="panel">
+<h2>Výpočty IFR přiblížení</h2><p class="muted">Model pro přímočaré, přibližně 3° klesání bez změn větru a rychlosti. Orientační pomůcka, nikoliv náhrada výpočtu a publikovaného postupu.</p>
+<div class="calculator">
+<label>Ground speed (GS) v kt<input id="gs" inputmode="decimal" type="number" min="30" max="350" value="120"></label>
+<label>Úhel klesání (°)<input id="angle" inputmode="decimal" type="number" min="1" max="6" step=".1" value="3"></label>
+<label>Výška nad cílovou referencí (ft)<input id="height" inputmode="numeric" type="number" min="0" max="30000" value="3000"></label>
+<label>Vertikální rychlost (ft/min)<input id="manualVsi" inputmode="numeric" type="number" min="100" max="4000" value="600"></label>
+</div><div class="out-grid"><div><span>Potřebné klesání</span><strong id="vsiValue">—</strong></div><div><span>Vzdálenost na rovině</span><strong id="distanceValue">—</strong></div><div><span>Čas sestupu</span><strong id="timeValue">—</strong></div><div><span>Čas při zadaném VSI</span><strong id="manualTimeValue">—</strong></div></div>
+<div class="formula"><strong>Jak se to počítá?</strong><p id="formulaDetail"></p><p>Přesný geometrický úhel: VS ≈ GS (NM/h) × 6076,12 ft/NM × tan(úhel) ÷ 60. Přibližně pro 3° lze používat <strong>GS × 5 ft/min</strong>. Skutečný let ovlivňují vítr, přístroje, výška a požadavky konkrétního postupu.</p></div>
+</div></section>
+<section class="pane" id="resources" hidden><div class="panel"><h2>Odborné podklady pro další studium</h2><p>Pro přípravu k reálnému IR(A) jsou nutné schválené výukové materiály, aktuální předpisy a odpovídající oficiální zkouškové otázky.</p>
+<div class="resource-list"><a href="https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-aircrew-regulation-eu-no" target="_blank" rel="noopener">EASA Part-FCL / IR(A) a související požadavky</a>
+<a href="https://www.easa.europa.eu/en/document-library/easy-access-rules/online-publications/easy-access-rules-standardised-european" target="_blank" rel="noopener">EASA SERA – pravidla provozu včetně IFR a ztráty spojení</a>
+<a href="https://aim.rlp.cz/" target="_blank" rel="noopener">AIP ČR / AIS – aktuální publikované postupy</a>
+<a href="https://www.caa.gov.cz/" target="_blank" rel="noopener">ÚCL – pilotní kvalifikace a zkoušky</a></div>
+<h3>Ztráta radiového spojení při IFR</h3><p>Podle SERA.14083 nejprve zkus poslední použitý kanál, další vhodné frekvence a dostupné způsoby spojení. Při skutečné ztrátě spojení se používá odpovídač 7600 a postupy stanovené podle konkrétních okolností. <strong>Neexistuje jedno univerzální pravidlo „poletím vždy podle poslední trasy“</strong>; pravidla rozlišují například přehledovou službu, podmínky VMC a přechod na let podle podaného plánu.</p>
+</div></section>
+<footer>Autor aplikace: <strong>Petr Randa</strong> · <a href="mailto:petr.randa@gmail.com">petr.randa@gmail.com</a><p>Neoficiální výukové materiály; neslouží pro reálné rozhodnutí o letu.</p></footer>
+</main><script src="./ifr-data.js?v=34"></script><script src="./ifr.js?v=34"></script></body></html>

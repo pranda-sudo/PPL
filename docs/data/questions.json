@@ -1547,7 +1547,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-14"
+      "id": "5-letove-zasady-vrtulnik-p3-14",
+      "explanation": "Efektivní úhel náběhu listu závisí nejen na geometrickém nastavení, ale také na výsledném směru relativního proudění, který ovlivňuje obvodová rychlost a indukované proudění rotorem. Změna svislé složky proudění tedy může změnit úhel náběhu i při nezměněném nastavení listu. K odtržení proudění dochází až při překročení kritického efektivního úhlu náběhu; samotná malá svislá rychlost je bez dalších podmínek nevysvětluje."
     },
     {
       "sourceNumber": "15",
@@ -1580,7 +1581,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-16"
+      "id": "5-letove-zasady-vrtulnik-p4-16",
+      "explanation": "Rozložení vztlaku po poloměru rotoru závisí na místní rychlosti obtékání, délce tětivy a nastavení listu. Vhodné zužování a zkroucení listu mohou rozložení zatížení vyrovnávat a omezovat ztráty u kořene a konce. Samotné označení půdorysu však nestačí k obecně platnému závěru o optimálním tvaru; konkrétní test upřednostňuje dvojitý lichoběžník se zaobleným koncem."
     },
     {
       "sourceNumber": "17",
@@ -1748,7 +1750,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-26"
+      "id": "5-letove-zasady-vrtulnik-p6-26",
+      "explanation": "V dopředném letu není indukované proudění hlavním rotorem všude stejné. V zadní části disku se uplatňuje proudění a vírová stopa vytvořená přední částí rotoru, takže zde může být indukovaná rychlost větší. Přesné rozložení závisí na rychlosti letu, tahu a geometrii rotoru; nejde o konstantní hodnotu v celé ploše disku."
     },
     {
       "sourceNumber": "27",
@@ -1849,7 +1852,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-32"
+      "id": "5-letove-zasady-vrtulnik-p7-32",
+      "explanation": "Visení je pro pilota náročné na průběžné drobné korekce. Přízemní efekt mění indukované proudění a při malých odchylkách výšky se mění i jeho účinnost, což může přispívat k mírnému kolísání výšky. Výrazné klonění o desítky stupňů ani rychlé bočení nejsou běžným nevyhnutelným projevem stabilního visu."
     },
     {
       "sourceNumber": "33",
@@ -1967,7 +1971,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-39"
+      "id": "5-letove-zasady-vrtulnik-p8-39",
+      "explanation": "Při přechodu z téměř svislé autorotace do dopředného letu před přistáním je zásadní správně odhadnout získanou rychlost, zbývající výšku a energii rotoru. Pozdní nebo příliš prudký manévr může zanechat málo prostoru pro podrovnání a dosednutí. Konkrétní technika musí odpovídat letové příručce vrtulníku."
     },
     {
       "sourceNumber": "40",
@@ -2033,7 +2038,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-p9-43"
+      "id": "5-letove-zasady-vrtulnik-p9-43",
+      "explanation": "Při dopředné autorotaci je relativní proudění na postupující a ustupující straně rotoru rozdílné. Oblasti, kde aerodynamická síla pohání rotaci, se proto po disku přesouvají a mohou být výraznější na ustupující straně. Rotor se udržuje v otáčkách rovnováhou hnacího a brzdicího momentu; neznamená to, že celý ustupující list vždy jen pohání rotor."
     },
     {
       "sourceNumber": "44",
@@ -2113,7 +2119,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 10,
-      "id": "5-letove-zasady-vrtulnik-p10-48"
+      "id": "5-letove-zasady-vrtulnik-p10-48",
+      "explanation": "Při autorotaci motor nedodává hlavnímu rotoru potřebný hnací moment. Energie se získává především přeměnou potenciální energie při klesání, případně kinetické energie při změnách rychlosti letu. Proud vzduchu procházející diskem vytváří v hnací oblasti listů moment, který udržuje rotor v otáčkách. Rotační energie samotného rotoru slouží zejména jako zásoba pro přechodové děje a podrovnání."
     },
     {
       "sourceNumber": "49",
@@ -2145,7 +2152,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 10,
-      "id": "5-letove-zasady-vrtulnik-p10-50"
+      "id": "5-letove-zasady-vrtulnik-p10-50",
+      "explanation": "Při podrovnání v autorotaci pilot mění podélný sklon a zpomaluje dopředný pohyb. Přechodně se změní relativní proudění rotorem, což může zvýšit hnací aerodynamický moment a otáčky rotoru. Takto získaná rotační energie je důležitá pro následné bezpečné dosednutí; přesný postup i limity otáček stanoví příručka konkrétního vrtulníku."
     },
     {
       "sourceNumber": "51",
@@ -2177,7 +2185,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-52"
+      "id": "5-letove-zasady-vrtulnik-p11-52",
+      "explanation": "Rotor s vyšším momentem setrvačnosti uchovává více rotační energie při stejných otáčkách (E = ½Iω²), a proto při ztrátě výkonu zpravidla zpomaluje pomaleji. Pilot tím získává více času k okamžitému snížení kolektivu a zahájení autorotace. Tato rezerva není neomezená a reakce musí být podle letové příručky bezodkladná."
     },
     {
       "sourceNumber": "53",
@@ -2209,7 +2218,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-54"
+      "id": "5-letove-zasady-vrtulnik-p11-54",
+      "explanation": "U polotuhého rotoru je hlava obvykle uložena na společném kyvném závěsu, který umožňuje vzájemné mávání listů. Takové uložení přenáší na trup jiné momenty než tuhý rotor, a proto se liší dynamická odezva na zásahy cyklikou. Konkrétní rychlost reakce závisí i na konstrukci rotoru a řízení; nelze ji odvodit pouze z počtu závěsů."
     },
     {
       "sourceNumber": "55",
@@ -2225,7 +2235,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-55"
+      "id": "5-letove-zasady-vrtulnik-p11-55",
+      "explanation": "Úhel nastavení listů ocasního rotoru se u běžného vrtulníku mění kolektivně, tedy současně a přibližně stejně na všech listech. Pedály tak mění boční tah ocasního rotoru, který vyrovnává reakční moment hlavního rotoru a řídí bočení. Cyklická změna nastavení je typická pro řízení směru tahu hlavního rotoru."
     },
     {
       "sourceNumber": "56",
@@ -2257,7 +2268,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-57"
+      "id": "5-letove-zasady-vrtulnik-p12-57",
+      "explanation": "Dočasná ztráta účinnosti ocasního rotoru (LTE) může souviset s nepříznivým obtékáním, například s vírovým prstencem ocasního rotoru nebo s interakcí s proudem hlavního rotoru. Vrtulník pak může nečekaně začít bočit, i když ocasní rotor není mechanicky poškozen. Riziko ovlivňují zejména vítr, výkon a nízká dopředná rychlost; náprava se řídí příručkou typu."
     },
     {
       "sourceNumber": "58",
@@ -2273,7 +2285,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-58"
+      "id": "5-letove-zasady-vrtulnik-p12-58",
+      "explanation": "Větší stabilita znamená výraznější tendenci vrtulníku vracet se po malé poruše k rovnovážnému stavu. To zpravidla snižuje pracovní zátěž pilota a může přispět k bezpečnosti letu. Stabilita ale není totožná s obratností: velmi stabilní konstrukce může být méně pohotová při manévrování."
     },
     {
       "sourceNumber": "59",
@@ -2289,7 +2302,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-59"
+      "id": "5-letove-zasady-vrtulnik-p12-59",
+      "explanation": "Stabilnější vrtulník vyžaduje při běžném letu méně neustálých opravných zásahů, a tím snižuje pracovní zátěž pilota. Neznamená to automaticky menší síly v řízení za všech podmínek ani větší povolenou hmotnost. Příliš vysoká stabilita může naopak omezovat obratnost."
     },
     {
       "sourceNumber": "60",
@@ -2305,7 +2319,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-60"
+      "id": "5-letove-zasady-vrtulnik-p12-60",
+      "explanation": "Nedostatečná statická nebo dynamická stabilita může vést k tomu, že se odchylky po poryvu samy nezmenšují, ale přetrvávají či rostou. Pilot pak musí neustále zasahovat a v krajním případě může dojít ke ztrátě ovladatelnosti. Stabilita proto patří mezi zásadní konstrukční i provozní bezpečnostní požadavky."
     },
     {
       "sourceNumber": "61",
@@ -2321,7 +2336,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-61"
+      "id": "5-letove-zasady-vrtulnik-p13-61",
+      "explanation": "Stabilizační plocha vytváří při změně polohy či rychlosti letu aerodynamické síly a momenty, které mohou působit proti nežádoucí odchylce. Její účinnost závisí na obtékání a rychlosti; při visu může být malá. Samotné snížení otáček rotoru nebo jeho hmotnosti nezaručuje vyšší stabilitu."
     },
     {
       "sourceNumber": "62",
@@ -2337,7 +2353,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-62"
+      "id": "5-letove-zasady-vrtulnik-p13-62",
+      "explanation": "Svislý stabilizátor vytváří při bočním obtékání aerodynamickou sílu s ramenem vůči těžišti, čímž přispívá ke směrové stabilitě kolem svislé osy. Jeho účinek roste s rychlostí proudění. Není primárně určen k řízení podélného sklonu, které souvisí s klopením."
     },
     {
       "sourceNumber": "63",

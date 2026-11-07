@@ -10,18 +10,10 @@
     <meta name="apple-mobile-web-app-title" content="PPL Testy" />
     <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./styles.css?v=24" />
+    <link rel="stylesheet" href="./styles.css?v=25" />
   </head>
   <body>
-    <header class="global-app-nav" role="banner">
-      <div class="global-app-name"><span class="global-app-logo">PPL</span><span>Letecké testy</span></div>
-      <nav class="module-nav" aria-label="Hlavní menu výuky">
-        <button class="active" data-module="ppl" type="button" aria-pressed="true">PPL testy</button>
-        <button data-module="ull" type="button" aria-pressed="false">ULL testy</button>
-        <button data-module="icao" type="button" aria-pressed="false">ICAO English</button>
-      </nav>
-    </header>
-    <main class="app-shell" id="applicationShell">
+    <main class="app-shell">
       <aside class="sidebar">
         <div class="brand">
           <div class="brand-mark">PPL</div>
@@ -50,6 +42,14 @@
         <section class="panel">
           <h2>Typ</h2>
           <div id="aircraftFilters" class="filter-list"></div>
+          <nav class="training-module-links" aria-label="Další výukové moduly">
+            <a class="aircraft-option training-module-link" href="./ull.html?v=25">
+              <strong>ULL testy</strong><span>ULL</span>
+            </a>
+            <a class="aircraft-option training-module-link" href="./icao.html?v=25">
+              <strong>ICAO English</strong><span>ICAO</span>
+            </a>
+          </nav>
         </section>
 
         <section class="panel">
@@ -98,7 +98,7 @@
         </section>
       </aside>
 
-      <section class="workspace" id="pplWorkspace">
+      <section class="workspace">
         <header class="topbar">
           <div>
             <p class="eyebrow" id="currentMeta">Výběr</p>
@@ -187,13 +187,9 @@
           </section>
         </section>
       </section>
-      <section id="embeddedWorkspace" class="embedded-workspace" hidden aria-label="Výukový modul">
-        <iframe id="moduleFrame" title="Výukový modul" loading="eager"></iframe>
-      </section>
     </main>
 
     <script src="./data/questions.js?v=12"></script>
     <script src="./app.js?v=12"></script>
-    <script src="./module-switch.js?v=24"></script>
   </body>
 </html>

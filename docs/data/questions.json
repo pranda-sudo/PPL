@@ -14814,7 +14814,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-1",
+      "explanation": "Maximální tloušťka profilu je největší vzdálenost mezi horním a dolním obrysem profilu, obvykle měřená kolmo k tětivě. Není určena polohou křídla vůči trupu."
     },
     {
       "sourceNumber": "2",
@@ -14830,7 +14831,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-2",
+      "explanation": "Příhradový trup tvoří soustava ocelových trubek přenášejících zatížení; plátěný či jiný nenosný potah především vytváří aerodynamický povrch. U skořepinové konstrukce naopak zatížení přenáší i potah."
     },
     {
       "sourceNumber": "3",
@@ -14846,7 +14848,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-3",
+      "explanation": "Přepážky dávají trupu příčný tvar a přenášejí soustředěná zatížení, podélníky zajišťují podélnou tuhost. U konkrétních konstrukcí se mohou vyskytovat i další prvky; test se ptá na základní dvojici."
     },
     {
       "sourceNumber": "4",
@@ -14880,7 +14883,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-5",
+      "explanation": "Poloskořepinový (semi-monocoque) trup přenáší zatížení kombinací nosného potahu, přepážek a podélných výztuh. Na rozdíl od čistě příhradové konstrukce není potah pouze aerodynamickým krytem."
     },
     {
       "sourceNumber": "6",
@@ -14914,7 +14918,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-7",
+      "explanation": "Ocasní plochy tvoří vodorovná a svislá část. Vodorovná zajišťuje především podélnou stabilitu a řízení klopení, svislá směrovou stabilitu a řízení bočení."
     },
     {
       "sourceNumber": "8",
@@ -14930,7 +14935,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-8",
+      "explanation": "Sendvičový panel má dvě relativně tenké, pevné povrchové vrstvy oddělené lehkým jádrem. Oddálení vrstev výrazně zvyšuje ohybovou tuhost při malé hmotnosti."
     },
     {
       "sourceNumber": "9",
@@ -14946,7 +14952,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-9",
+      "explanation": "Žebra určují průřezový aerodynamický profil křídla a podpírají potah. Nosníky přenášejí hlavní ohybová a smyková zatížení křídla."
     },
     {
       "sourceNumber": "10",
@@ -14962,7 +14969,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-10",
+      "explanation": "Násobek zatížení n je poměr aerodynamické vztlakové síly k tíze letadla: n = L/W. Při ustáleném přímém vodorovném letu je přibližně 1; v koordinované horizontální zatáčce roste jako 1/cos náklonu."
     },
     {
       "sourceNumber": "11",
@@ -14978,7 +14986,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-11",
+      "explanation": "Pevné tenké povrchové vrstvy a lehké jádro vytvářejí velkou ohybovou tuhost a dobrý poměr pevnosti k hmotnosti. Skutečné vlastnosti závisí na materiálu, tloušťce jádra a kvalitě spojení vrstev."
     },
     {
       "sourceNumber": "12",
@@ -14994,7 +15003,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-12"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-12",
+      "explanation": "Pevnost materiálu nelze jednoznačně určit jen podle názvu skupiny. Moderní vláknové kompozity mohou mít velmi vysokou pevnost vzhledem k hmotnosti, zejména ve směru vláken, a proto jsou v tomto zjednodušeném testu zvoleny. Skutečné porovnání vyžaduje konkrétní slitinu, typ kompozitu a směr namáhání."
     },
     {
       "sourceNumber": "13",
@@ -15010,7 +15020,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-13"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-13",
+      "explanation": "Překročení provozních limitů může způsobit skryté strukturální poškození. Před dalším letem je nutné postupovat podle údržbové dokumentace a zajistit předepsanou kontrolu oprávněnou osobou; samotná prohlídka pilotem nemusí stačit."
     },
     {
       "sourceNumber": "14",
@@ -15026,7 +15037,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-14"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-14",
+      "explanation": "Tvrdé přistání nebo překročení dovoleného zatížení může vyvolat lokální plastickou deformaci a vznik trhlin v namáhaných místech. Trhliny však mohou vznikat také únavou nebo korozí, proto je formulace otázky zjednodušená."
     },
     {
       "sourceNumber": "15",
@@ -15042,7 +15054,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-15"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-15",
+      "explanation": "Hydraulické kapaliny v letectví mohou být minerální i syntetické; používají se také například fosfátové estery. Správný druh určuje výrobce konkrétního systému a kapaliny nejsou libovolně zaměnitelné. Testová odpověď „syntetické oleje“ je příliš obecná."
     },
     {
       "sourceNumber": "16",
@@ -15076,7 +15089,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-17"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-17",
+      "explanation": "Silné poryvy mohou zvýšit okamžitý násobek zatížení nad konstrukční limity. Manévrovací rychlost VA není univerzální ochranou před všemi poryvy a současnými či opakovanými zásahy do řízení."
     },
     {
       "sourceNumber": "18",
@@ -15110,7 +15124,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-19"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-19",
+      "explanation": "U mnoha malých letadel jsou pedály směrového řízení mechanicky propojeny s řízením příďového nebo ostruhového kola. Konkrétní rozsah řízení závisí na typu letadla."
     },
     {
       "sourceNumber": "20",
@@ -15126,7 +15141,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-20"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p4-20",
+      "explanation": "Hlavní podvozek nese při pojíždění a brzdění rozhodující část zatížení; brzdy jsou proto běžně na jeho kolech. Příďové nebo ostruhové kolo zpravidla slouží především k vedení směru."
     },
     {
       "sourceNumber": "21",
@@ -15142,7 +15158,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-21"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-21",
+      "explanation": "U letounů s mechanicky řízeným příďovým kolem bývá řízení spojeno s pedály směrovky. Při pohybu pedálů se proto vychyluje směrové kormidlo a současně se může natáčet příďové kolo."
     },
     {
       "sourceNumber": "22",
@@ -15176,7 +15193,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-23"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-23",
+      "explanation": "Letoun má tři rotační osy: podélnou (klonění), příčnou (klopení) a svislou (bočení). Osy jsou vzájemně kolmé a procházejí přibližně těžištěm."
     },
     {
       "sourceNumber": "24",
@@ -15192,7 +15210,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-24"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-24",
+      "explanation": "Křidélka vytvářejí rozdíl vztlaku mezi levým a pravým křídlem, čímž vzniká moment kolem podélné osy a letoun se naklání."
     },
     {
       "sourceNumber": "25",
@@ -15208,7 +15227,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-25"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p5-25",
+      "explanation": "U běžných lehkých pístových letounů jsou primární řídicí plochy ovládány mechanicky lany, táhly či jejich kombinací. Hydraulické posilovače a fly-by-wire se používají především u jiných konstrukcí."
     },
     {
       "sourceNumber": "26",
@@ -15224,7 +15244,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-26"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-26",
+      "explanation": "Vychýlení směrovky doleva vyvolá primárně bočení doleva. Následkem směrového pohybu a rozdílu rychlostí obou křídel může vznikat sekundární klonění doleva; velikost závisí na typu a režimu letu."
     },
     {
       "sourceNumber": "27",
@@ -15240,7 +15261,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-27"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-27",
+      "explanation": "Přitažení řídicí páky zpravidla vychýlí výškové kormidlo nahoru, čímž se na běžné ocasní konfiguraci zvětší síla ocasních ploch směrem dolů. To vytvoří moment zvedající příď. Účinek závisí na konfiguraci letounu."
     },
     {
       "sourceNumber": "28",
@@ -15256,7 +15278,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-28"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-28",
+      "explanation": "Přitažení páky na běžném letounu s klasickými ocasními plochami zvyšuje aerodynamickou sílu na ocase směrem dolů a tím klopný moment zvedající příď. Jde o stejný princip jako u předchozí otázky."
     },
     {
       "sourceNumber": "29",
@@ -15272,7 +15295,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-29"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-29",
+      "explanation": "Při posunutí páky vpřed se sníží úhel náběhu a příď zpravidla klesne. Bez dalších korekcí se v běžném ustáleném režimu zvětšuje klesání a rychlost se může zvýšit; přesná odezva závisí na výchozím letu a výkonu."
     },
     {
       "sourceNumber": "30",
@@ -15288,7 +15312,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-30"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p6-30",
+      "explanation": "Primární řízení tvoří křidélka (klonění), výškové kormidlo (klopení) a směrové kormidlo (bočení). Klapky, sloty a trimy patří mezi pomocná či sekundární zařízení."
     },
     {
       "sourceNumber": "31",
@@ -15304,7 +15329,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-31"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-31",
+      "explanation": "Sekundární zařízení, například klapky a vyvažování, upravují letové vlastnosti, výkonnost a síly v řízení. Nenahrazují tři základní řídicí plochy."
     },
     {
       "sourceNumber": "32",
@@ -15320,7 +15346,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-32"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-32",
+      "explanation": "Pevná vyvažovací ploška (ground-adjustable trim tab) se mechanicky nastavuje na zemi, aby při zvoleném letovém režimu zmenšovala trvalé síly v řízení. Za letu se běžně neovládá. POZOR: správnému principu odpovídá první možnost; původní klíč chybně označuje třetí."
     },
     {
       "sourceNumber": "33",
@@ -15336,7 +15363,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-33"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-33",
+      "explanation": "Při trimování na přitažení (nose-up) se u klasického výškového kormidla trimovací ploška vychýlí dolů. Proud vzduchu působí na plošku silou nahoru a vyvolá moment, který vychyluje výškovku nahoru; tím se zmenší potřebná síla pilota. Platí pro konvenční trimovací plošku, nikoli pro všechny systémy vyvažování."
     },
     {
       "sourceNumber": "34",
@@ -15353,7 +15381,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-34"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-34",
+      "explanation": "Je-li letoun „těžký na ocas“, vyžaduje pro udržení polohy tlak na řízení vpřed (nose-down). U klasického trimu se ploška vychýlí nahoru a aerodynamicky pomáhá vychýlit výškovku dolů. Testová odpověď „dolů“ může odpovídat odlišné interpretaci pojmu; bez přesné definice je klíč sporný a musí být ověřen."
     },
     {
       "sourceNumber": "35",
@@ -15369,7 +15398,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-35"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-35",
+      "explanation": "Odlehčovací (servo) ploška se vychyluje opačně než hlavní řídicí plocha. Aerodynamická síla na plošce vytváří moment, který pomáhá hlavní plochu vychýlit a snižuje sílu potřebnou na řízení."
     },
     {
       "sourceNumber": "36",
@@ -15385,7 +15415,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-36"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-36",
+      "explanation": "Trim odstraňuje nebo zmenšuje dlouhodobou sílu, kterou by pilot musel vyvíjet na řízení při ustáleném režimu letu. Nenahrazuje aktivní řízení ani nemění přímo polohu těžiště."
     },
     {
       "sourceNumber": "37",
@@ -15401,7 +15432,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-37"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-37",
+      "explanation": "Mezi sekundární zařízení patří vztlakové klapky, zařízení na náběžné hraně, spoilery a trimovací plošky. Primárními řídicími plochami zůstávají křidélka, výškovka a směrovka."
     },
     {
       "sourceNumber": "38",
@@ -15417,7 +15449,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-38"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-38",
+      "explanation": "Při tankování je nutné vyloučit zdroje zapálení: nekouřit, nepoužívat otevřený oheň a zajistit předepsané elektrické pospojování/uzemnění podle postupu pro daný letoun a letiště. Hlavní vypínač ani magneta se kvůli tankování nezapínají."
     },
     {
       "sourceNumber": "39",
@@ -15433,7 +15466,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-39"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-39",
+      "explanation": "Nastřikovací čerpadlo (primer) přivádí palivo do sání nebo příslušných míst motoru při studeném startu, kdy je třeba usnadnit vytvoření zápalné směsi. Po použití musí být zajištěno podle letové příručky."
     },
     {
       "sourceNumber": "40",
@@ -15449,7 +15483,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 8,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-40"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p8-40",
+      "explanation": "Při odběru paliva musí být do nádrže přiváděn vzduch, jinak by vznikal podtlak omezující přítok paliva k motoru. Odvětrání rovněž vyrovnává tlak při změnách výšky a teploty."
     },
     {
       "sourceNumber": "41",
@@ -15465,7 +15500,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-41"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-41",
+      "explanation": "Akumulátor ukládá elektrickou energii a může napájet palubní síť; generátor či alternátor ji při chodu motoru vyrábí. Relé spíná obvody a jistič chrání vedení proti nadproudu."
     },
     {
       "sourceNumber": "42",
@@ -15481,7 +15517,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-42"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-42",
+      "explanation": "Elektrické napětí se měří ve voltech (V). Ampér je jednotka proudu, ohm odporu a watt výkonu. Z Ohmova zákona U = R × I plyne například při R = 2 Ω a I = 3 A napětí 6 V."
     },
     {
       "sourceNumber": "43",
@@ -15497,7 +15534,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-43"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-43",
+      "explanation": "Elektrický výkon se měří ve wattech (W). Pro stejnosměrný obvod platí P = U × I; například spotřebič při 12 V a 5 A odebírá 60 W."
     },
     {
       "sourceNumber": "44",
@@ -15513,7 +15551,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-44"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-44",
+      "explanation": "Vyzařovače statické elektřiny (static wicks) umožňují řízené odvádění nahromaděného náboje z povrchu letounu do okolního vzduchu a omezují rádiové rušení. Nenahrazují pospojování při tankování."
     },
     {
       "sourceNumber": "45",
@@ -15529,7 +15568,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 9,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-45"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p9-45",
+      "explanation": "Při výpadku alternátoru může palubní síť dočasně fungovat z akumulátoru. Jeho kapacita je omezená, proto je třeba podle checklistu omezit odběr, sledovat napětí a plánovat přistání; po vybití mohou elektrické systémy postupně vysadit."
     },
     {
       "sourceNumber": "46",
@@ -15545,7 +15585,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-46"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-46",
+      "explanation": "Zkratka DC označuje stejnosměrný proud (direct current), který je běžný v palubních elektrických soustavách lehkých letounů. AC znamená střídavý proud."
     },
     {
       "sourceNumber": "47",
@@ -15561,7 +15602,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-47"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-47",
+      "explanation": "Výpadek elektrické sítě může vyřadit radiostanice, elektronickou navigaci i elektricky napájené gyroskopické přístroje. Mechanický magnetický kompas a přístroje využívající pitot-statický tlak mohou fungovat nezávisle na elektřině; konkrétní závislosti určuje vybavení letounu."
     },
     {
       "sourceNumber": "48",
@@ -15577,7 +15619,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 10,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-48"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p10-48",
+      "explanation": "Pro lehké pístové letouny jsou typické ploché motory s vodorovně protilehlými válci (boxer). Uspořádání snižuje čelní plochu motoru a umožňuje kompaktní instalaci."
     },
     {
       "sourceNumber": "49",
@@ -15629,7 +15672,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-51"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-51",
+      "explanation": "Při kontrole magnet se vypíná jedna zapalovací větev. Vadná svíčka může způsobit nepravidelné spalování a hrubý chod motoru na zbývající větvi. Postup a dovolený pokles otáček stanoví letová příručka."
     },
     {
       "sourceNumber": "52",
@@ -15645,7 +15689,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-52"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-52",
+      "explanation": "V téměř prázdné nádrži je větší objem vzduchu, jehož vlhkost může při ochlazení kondenzovat na stěnách. Skutečné množství kondenzátu závisí na změnách teploty, vlhkosti a konstrukci odvětrání."
     },
     {
       "sourceNumber": "53",
@@ -15661,7 +15706,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-53"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-53",
+      "explanation": "Voda je hustší než běžný letecký benzín, proto se po oddělení usazuje v nejnižších částech nádrží a palivové soustavy. Před letem se proto odebírají vzorky z předepsaných vypouštěcích míst."
     },
     {
       "sourceNumber": "54",
@@ -15677,7 +15723,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-54"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-54",
+      "explanation": "Oktanové číslo vyjadřuje odolnost benzínu proti detonačnímu spalování (klepání) při zážehovém provozu. Neudává výhřevnost ani předstih zapalování; formulace „samovznícení“ je v testu zjednodušená."
     },
     {
       "sourceNumber": "55",
@@ -15693,7 +15740,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 11,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-55"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p11-55",
+      "explanation": "Letecký benzín AVGAS 100LL je standardně barven modře pro snadné rozlišení od jiných druhů paliv. Barva však sama o sobě nenahrazuje kontrolu správného paliva a jeho dokumentace."
     },
     {
       "sourceNumber": "56",
@@ -15709,7 +15757,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-56"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-56",
+      "explanation": "Zapnutí ohřevu karburátoru přivádí teplejší a méně hustý vzduch. U motoru s pevnou vrtulí tím obvykle klesne výkon i otáčky; při odstraňování skutečné námrazy mohou otáčky po určité době opět vzrůst."
     },
     {
       "sourceNumber": "57",
@@ -15725,7 +15774,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-57"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-57",
+      "explanation": "Karburátor dávkuje palivo do proudu nasávaného vzduchu a vytváří hořlavou směs pro válce motoru. Jeho správná funkce ovlivňuje výkon, spotřebu i riziko námrazy."
     },
     {
       "sourceNumber": "58",
@@ -15741,7 +15791,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-58"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-58",
+      "explanation": "U většiny běžných karburátorových lehkých letounů se při vzletu používá studený vzduch pro dosažení předepsaného výkonu. Výjimky a postupy při známé námraze se řídí výhradně letovou příručkou konkrétního typu; tvrzení „musí být vypnut“ není univerzální."
     },
     {
       "sourceNumber": "59",
@@ -15757,7 +15808,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-59"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-59",
+      "explanation": "Námraza karburátoru může vznikat i při kladné venkovní teplotě, protože odpařování paliva a pokles tlaku ve Venturiho trubici výrazně ochlazují směs. Rozhodující je také vlhkost vzduchu; uvedené teplotní rozmezí je orientační, nikoli pevná hranice."
     },
     {
       "sourceNumber": "60",
@@ -15773,7 +15825,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 12,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-60"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p12-60",
+      "explanation": "Chladicí žebra zvětšují plochu povrchu válce a hlavy, přes kterou se teplo předává proudícímu vzduchu. Při stejném rozdílu teplot tak mohou zvýšit odvod tepla."
     },
     {
       "sourceNumber": "61",
@@ -15789,7 +15842,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-61"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-61",
+      "explanation": "U jednoduchých instalací se CHT často sleduje na vybraném kritickém válci, u něhož se očekává nejvyšší tepelné zatížení. Moderní systémy mohou měřit CHT všech válců; testová odpověď tedy není univerzální pro všechny letouny."
     },
     {
       "sourceNumber": "62",
@@ -15805,7 +15859,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-62"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-62",
+      "explanation": "Při zanesení olejového filtru se v systémech vybavených obtokovým ventilem ventil otevře, aby zachoval průtok oleje. Olej pak může obcházet filtrační vložku a cirkulovat bez plné filtrace, což zvyšuje riziko opotřebení."
     },
     {
       "sourceNumber": 63,
@@ -15821,7 +15876,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-63"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-63",
+      "explanation": "Běžné zážehové letecké pístové motory mají dva nezávislé zapalovací okruhy, často se dvěma magnety a dvěma svíčkami na válec. Redundance zvyšuje spolehlivost a dvojí zapálení směsi může zlepšit spalování."
     },
     {
       "sourceNumber": 64,
@@ -15837,7 +15893,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 13,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-64"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p13-64",
+      "explanation": "Bohatá směs obsahuje vzhledem k množství vzduchu více paliva než stechiometrická směs. Obohacení se může používat při vysokém výkonu k chlazení, ale nadměrné obohacení snižuje účinnost a může zhoršit chod motoru."
     },
     {
       "sourceNumber": 65,
@@ -15871,7 +15928,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-66"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-66",
+      "explanation": "U klasického pístového motoru s vrtulí konstantních otáček se při zvyšování výkonu zpravidla nejprve zvýší nastavené otáčky ovladačem vrtule a potom plnicí tlak přípustí. Přednost mají limity a postupy v POH/AFM konkrétního letounu."
     },
     {
       "sourceNumber": 67,
@@ -15887,7 +15945,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-67"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-67",
+      "explanation": "Při snižování výkonu se u běžného systému nejprve sníží plnicí tlak přípustí a poté otáčky ovladačem vrtule. POZOR: v uloženém testu je jako správná označena možnost „snížit plnicí tlak, potom zvýšit otáčky“, která neodpovídá požadovanému snížení výkonu. Správný obecný postup je možnost s následným snížením otáček; rozhodující je AFM/POH."
     },
     {
       "sourceNumber": 68,
@@ -15903,7 +15962,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-68"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-68",
+      "explanation": "Bez přeplňování se s rostoucí výškou snižuje hustota nasávaného vzduchu. Do válců se při stejném objemu dostane méně kyslíku, takže lze spálit méně paliva a dostupný výkon klesá."
     },
     {
       "sourceNumber": "69",
@@ -15919,7 +15979,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-69",
+      "explanation": "S rostoucí nadmořskou výškou klesá u nepřeplňovaného motoru hustota vzduchu, množství dostupného kyslíku i maximální výkon. Správné nastavení směsi může zlepšit využití dostupného výkonu, ale neobnoví tlak okolního vzduchu."
     },
     {
       "sourceNumber": 70,
@@ -15935,7 +15996,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 14,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-70"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p14-70",
+      "explanation": "Přepnutí magnet do OFF má při správném uzemnění obou zapalovacích okruhů přerušit zapalování, takže otáčky začnou klesat; po rychlém návratu na BOTH se obnoví. Taková kontrola se provádí jen přesně podle předepsaného postupu, protože hrozí nezapálené palivo ve výfuku."
     },
     {
       "sourceNumber": 71,
@@ -15951,7 +16013,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-71"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-71",
+      "explanation": "Mezi teplotní přístroje mohou patřit teploměr oleje, chladicí kapaliny, hlav válců (CHT), výfukových plynů (EGT), vnějšího vzduchu (OAT) a kabiny. Konkrétní vybavení závisí na typu motoru a letounu."
     },
     {
       "sourceNumber": 72,
@@ -15967,7 +16030,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-72"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-72",
+      "explanation": "Ukazatel množství paliva má být pro každou nádrž předepsanou pro použití za letu a nulová indikace odpovídá nevyčerpatelnému množství paliva při stanovených podmínkách. Nevyčerpatelný zbytek není bezpečně použitelná zásoba; palivo se před letem ověřuje i jinými předepsanými postupy."
     },
     {
       "sourceNumber": 73,
@@ -15983,7 +16047,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-73"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-73",
+      "explanation": "Tlakem pracují tlakoměry oleje a paliva, snímač plnicího tlaku, výškoměr (statický tlak), variometr (změna statického tlaku) a rychloměr (rozdíl celkového a statického tlaku). POZOR: označená možnost s magnetickým kompasem je chybná, protože kompas tlak neměří; správná je první možnost, byť uvádí plnicí tlak dvakrát jinými slovy."
     },
     {
       "sourceNumber": 74,
@@ -15999,7 +16064,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 15,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-74"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p15-74",
+      "explanation": "Pitot-statická soustava poskytuje celkový tlak z Pitotovy trubice a statický tlak ze statického odběru. Jejich rozdíl je dynamický tlak, z něhož rychloměr odvozuje indikovanou rychlost; statický tlak používají také výškoměr a variometr."
     },
     {
       "sourceNumber": 75,
@@ -16015,7 +16081,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-75"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-75",
+      "explanation": "Pitotova trubice orientovaná proti proudu vzduchu měří celkový (stagnační) tlak. Dynamický tlak se získá až odečtením statického tlaku: q = p_t − p_s."
     },
     {
       "sourceNumber": 76,
@@ -16031,7 +16098,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-76"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-76",
+      "explanation": "QFE je tlak vztažený k určené referenční úrovni letiště; výškoměr nastavený na QFE ukazuje na této úrovni přibližně nulu. Není to výška nad mořem a referenční bod je nutné znát."
     },
     {
       "sourceNumber": 77,
@@ -16047,7 +16115,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-77",
+      "explanation": "Při nastavení standardního tlaku 1013,25 hPa ukazuje výškoměr tlakovou výšku; letové hladiny jsou vyjadřovány v násobcích 100 ft. Označení QNE se používá pro standardní nastavení / související tlakovou výšku, nikoli jako aktuální místní tlak."
     },
     {
       "sourceNumber": 78,
@@ -16063,7 +16132,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-78"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-78",
+      "explanation": "Pomocná barometrická stupnice (Kollsmanovo okénko) umožňuje nastavit referenční tlak, například QNH, QFE nebo standardních 1013,25 hPa. Sama neopravuje teplotní chybu výškoměru."
     },
     {
       "sourceNumber": "79",
@@ -16079,7 +16149,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 16,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p16-79",
+      "explanation": "Při nastavení vyššího tlaku, než je skutečné QNH, ukazuje výškoměr větší výšku, než odpovídá správnému nastavení. Přibližně 1 hPa znamená 27 ft, takže chyba +10 hPa může způsobit nadhodnocení o asi 270 ft. Skutečná výška nad překážkami je pak menší, než pilot předpokládá."
     },
     {
       "sourceNumber": 80,
@@ -16095,7 +16166,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-80"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-80",
+      "explanation": "V chladnějším vzduchu než ISA jsou tlakové hladiny blíže u sebe. Výškoměr bez teplotní korekce proto může ukazovat větší výšku, než je skutečná: pravidlo „z tepla do zimy – pozor na výšku“."
     },
     {
       "sourceNumber": 81,
@@ -16111,7 +16183,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-81"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-81",
+      "explanation": "Letová hladina je hladina konstantního atmosférického tlaku vztažená ke standardnímu nastavení 1013,25 hPa. Například FL 75 odpovídá indikaci tlakové výšky 7500 ft při standardním nastavení, nikoli nutně 7500 ft nad mořem."
     },
     {
       "sourceNumber": 82,
@@ -16127,7 +16200,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-82"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-82",
+      "explanation": "Skutečná nadmořská výška (true altitude) je skutečná svislá vzdálenost od střední hladiny moře. Oproti indikované výšce se může lišit vlivem teploty a tlakových odchylek; pouhá teplotní oprava nemusí vždy postačit."
     },
     {
       "sourceNumber": 83,
@@ -16143,7 +16217,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 17,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-83"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p17-83",
+      "explanation": "Ve vzduchu chladnějším než standardní atmosféra jsou tlakové hladiny níže, a proto je při správném QNH indikovaná výška vyšší než skutečná nadmořská výška. Rozdíl roste s výškou nad referenční hladinou a velikostí teplotní odchylky."
     },
     {
       "sourceNumber": 84,
@@ -16159,7 +16234,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-84"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-84",
+      "explanation": "V ideální standardní atmosféře se správným QNH odpovídá indikovaná výška skutečné nadmořské výšce (při zanedbání přístrojových chyb). Při teplotních odchylkách se tyto hodnoty mohou lišit."
     },
     {
       "sourceNumber": 85,
@@ -16175,7 +16251,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-85"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-85",
+      "explanation": "Hystereze aneroidních kapslí znamená, že při stejném tlaku může mít mechanický výškoměr mírně odlišnou indikaci podle předchozího průběhu změn tlaku. Jde o jednu z přístrojových chyb výškoměru."
     },
     {
       "sourceNumber": 86,
@@ -16191,7 +16268,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-86"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-86",
+      "explanation": "Barometrický výškoměr měří statický atmosférický tlak, který s rostoucí výškou klesá. Mechanismus přepočítává tlak na výšku podle kalibrovaného atmosférického modelu a nastaveného referenčního tlaku."
     },
     {
       "sourceNumber": 87,
@@ -16207,7 +16285,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-87"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-87",
+      "explanation": "Klasický variometr porovnává aktuální statický tlak s tlakem v kompenzační komoře, který se mění se zpožděním přes kalibrovaný průtokový odpor. Rozdíl tlaků odpovídá rychlosti stoupání nebo klesání."
     },
     {
       "sourceNumber": 88,
@@ -16223,7 +16302,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 18,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-88"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p18-88",
+      "explanation": "Variometr využívá rozdíl mezi aktuálním statickým tlakem a tlakem, který se v komoře mění se zpožděním. POZOR: testový klíč označuje rozdíl dynamických tlaků, což je nesprávně. Z nabízených odpovědí odpovídá principu první možnost (aktuální a předchozí statický tlak)."
     },
     {
       "sourceNumber": "89",
@@ -16239,7 +16319,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-89",
+      "explanation": "CAS je indikovaná rychlost IAS opravená o přístrojovou a polohovou chybu pitot-statického systému. CAS není rychlost vůči zemi; tu navíc ovlivňuje vítr."
     },
     {
       "sourceNumber": 90,
@@ -16255,7 +16336,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-90"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-90",
+      "explanation": "Pro hrubý odhad v nižších hladinách lze k CAS přičítat asi 2 % na každých 1000 ft výšky. Například CAS 100 kt ve výšce 5000 ft dává přibližně TAS 110 kt. Jde pouze o orientační pravidlo; přesný převod závisí na tlaku, teplotě a stlačitelnosti."
     },
     {
       "sourceNumber": 91,
@@ -16271,7 +16353,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-91"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-91",
+      "explanation": "Indikovaná rychlost vychází z pohybu vůči vzduchu, nikoli vůči zemi. Při TAS 100 kt, malé výšce a zanedbatelných chybách bude IAS přibližně 100 kt. Čelní vítr 30 kt sníží přibližnou GS na 70 kt, ale ne IAS."
     },
     {
       "sourceNumber": 92,
@@ -16287,7 +16370,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-92"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-92",
+      "explanation": "Nalepené fólie mohou narušit obtékání a případně zakrýt nebo ovlivnit odběry pitot-statického systému, čímž vznikne chyba indikace rychlosti. Jakákoli změna v okolí odběrů musí odpovídat schválené konfiguraci letounu."
     },
     {
       "sourceNumber": 93,
@@ -16303,7 +16387,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 19,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-93"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p19-93",
+      "explanation": "Rychloměr porovnává celkový tlak přivedený z Pitotovy trubice se statickým tlakem. Rozdíl p_t − p_s je dynamický tlak, který se převádí na indikovanou rychlost."
     },
     {
       "sourceNumber": 94,
@@ -16319,7 +16404,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-94"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-94",
+      "explanation": "Červené značky na přístrojích zpravidla vyznačují nepřekročitelné provozní limity, například maximální přípustnou rychlost VNE nebo mezní otáčky motoru. Význam každé značky je určen dokumentací daného letounu."
     },
     {
       "sourceNumber": 95,
@@ -16335,7 +16421,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-95"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-95",
+      "explanation": "Rychloměr využívá rozdíl celkového a statického tlaku: q = p_t − p_s. Pro malé rychlosti platí přibližně q = ½ρV²; větší rychlost znamená větší dynamický tlak."
     },
     {
       "sourceNumber": 96,
@@ -16351,7 +16438,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-96"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-96",
+      "explanation": "Bílý oblouk na běžném rychloměru lehkého letounu označuje provozní rozsah s vysunutými vztlakovými klapkami. Jeho horní mez odpovídá VFE a dolní mez příslušné pádové rychlosti v přistávací konfiguraci."
     },
     {
       "sourceNumber": 97,
@@ -16367,7 +16455,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-97"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-97",
+      "explanation": "Červená radiální čára na rychloměru označuje VNE, rychlost, která nesmí být překročena. Žlutý oblouk pod ní obvykle označuje oblast opatrného provozu pouze v klidném vzduchu."
     },
     {
       "sourceNumber": 98,
@@ -16383,7 +16472,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 20,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-98"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p20-98",
+      "explanation": "Deviace kompasu vzniká působením magnetického pole samotného letadla, jeho konstrukce a vybavení. Liší se podle směru letu a koriguje se kompenzací kompasu a deviační tabulkou. Magnetická deklinace je naproti tomu rozdíl mezi zeměpisným a magnetickým severem."
     },
     {
       "sourceNumber": "99",
@@ -16399,7 +16489,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-99"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-99",
+      "explanation": "Odchylku kompasu od magnetického směru mohou vyvolat deviace letounu a přechodné chyby při zatáčení nebo zrychlení. Deklinace (variace) vyjadřuje rozdíl mezi zeměpisným a magnetickým severem, nikoli mezi kompasem a magnetickým severem."
     },
     {
       "sourceNumber": 100,
@@ -16415,7 +16506,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-100"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-100",
+      "explanation": "Pitotova trubice přivádí celkový tlak do rychloměru. Výškoměr a variometr používají statický tlak; magnetický kompas nevyužívá pitot-statickou soustavu."
     },
     {
       "sourceNumber": 101,
@@ -16431,7 +16523,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-101"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-101",
+      "explanation": "Na statický odběr jsou připojeny výškoměr, variometr i rychloměr. Výškoměr vyhodnocuje absolutní statický tlak, variometr jeho změnu a rychloměr rozdíl mezi celkovým a statickým tlakem."
     },
     {
       "sourceNumber": 102,
@@ -16447,7 +16540,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-102"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-102",
+      "explanation": "Na severní polokouli má magnetický kompas při zatáčení k severu tendenci za skutečnou změnou kurzu zaostávat. Poučka UNOS (Undershoot North, Overshoot South) proto velí ukončit zatáčku na sever před dosažením severního kurzu na kompasu; zde orientačně kolem 330°. Velikost chyby závisí na zeměpisné šířce a náklonu."
     },
     {
       "sourceNumber": 103,
@@ -16463,7 +16557,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 21,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-103"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p21-103",
+      "explanation": "Při zatáčení na západ (270°) se běžná chyba magnetického kompasu spojená se severním/jižním směrem u cílového západního kurzu neuplatňuje stejným způsobem jako při zatáčení na sever či jih. Zatáčka se proto orientačně ukončuje při indikaci 270°, s ohledem na setrvačnost a dynamiku letounu."
     },
     {
       "sourceNumber": 104,
@@ -16479,7 +16574,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-104"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-104",
+      "explanation": "Statický tlak je místní tlak okolního vzduchu, který by byl měřen bez účinku zastavení proudu na čelním otvoru Pitotovy trubice. Je základní veličinou pro barometrický výškoměr a variometr."
     },
     {
       "sourceNumber": 105,
@@ -16495,7 +16591,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-105"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-105",
+      "explanation": "Na severní polokouli se při zatáčení na jih kompasová indikace zpravidla předbíhá, proto se podle UNOS zatáčka na jih ukončuje až po překročení indikace 180°, zde přibližně při 210°. Jde o orientační pravidlo závislé na šířce a dynamice letu."
     },
     {
       "sourceNumber": 106,
@@ -16511,7 +16608,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-106"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-106",
+      "explanation": "Dynamický tlak je q = ½ρV², kde ρ je hustota vzduchu a V rychlost proudění. Při nezměněné hustotě zdvojnásobení rychlosti zvýší dynamický tlak čtyřikrát."
     },
     {
       "sourceNumber": 107,
@@ -16527,7 +16625,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-107"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-107",
+      "explanation": "Příčinou akcelerační a decelerační chyby magnetického kompasu je sklon (inklinace) zemského magnetického pole a zavěšení magnetické soustavy. Na severní polokouli při akceleraci na východním či západním kurzu kompas obvykle ukazuje zdánlivou zatáčku k severu (ANDS)."
     },
     {
       "sourceNumber": 108,
@@ -16543,7 +16642,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 22,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-108"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p22-108",
+      "explanation": "Volně uložený rotující setrvačník má díky momentu hybnosti tendenci zachovávat orientaci své osy v inerciálním prostoru (rigidita). POZOR: původní testový klíč označuje kyvadlový pohyb, což je nesprávné; správná je první možnost."
     },
     {
       "sourceNumber": "1",
@@ -16559,7 +16659,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-1",
+      "explanation": "Na rotující setrvačník působí při vnějším momentu gyroskopická precese: změna orientace osy se projeví přibližně o 90° ve směru otáčení od místa působení momentu. Tento princip se využívá u gyroskopických přístrojů."
     },
     {
       "sourceNumber": 110,
@@ -16575,7 +16676,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-110"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-110",
+      "explanation": "Pro koordinovanou vodorovnou zatáčku s danou úhlovou rychlostí závisí potřebný náklon na pravé vzdušné rychlosti TAS. Platí tan φ = V·ω/g. Zatáčka o 360° za 120 s má ω = 2π/120 ≈ 0,0524 rad/s; při TAS 100 kt (51,4 m/s) vychází tan φ ≈ 0,275 a náklon asi 15,4°."
     },
     {
       "sourceNumber": 111,
@@ -16591,7 +16693,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-111"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-111",
+      "explanation": "Zatáčkoměr ukazuje úhlovou rychlost zatáčení a kulička skluzoměru ukazuje, zda je zatáčka koordinovaná, nebo zda letoun sklouzává či vykluzuje. Nejde o přímé měření úhlu náklonu."
     },
     {
       "sourceNumber": 112,
@@ -16607,7 +16710,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-112"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-112",
+      "explanation": "Nefunkční rychloměr je zásadní závada, protože pilot ztrácí spolehlivou informaci o rychlosti vůči vzduchu a rezervě nad pádem. Před běžným provozem musí být závada odstraněna v souladu s předpisy a dokumentací letounu; GPS rychlost vůči zemi rychloměr nenahrazuje."
     },
     {
       "sourceNumber": 113,
@@ -16623,7 +16727,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 23,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-113"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p23-113",
+      "explanation": "Oranžová či jantarová barva obvykle upozorňuje na výstražný stav vyžadující pozornost a případnou nápravnou akci. Červená zpravidla značí bezprostředně závažnější varování; přesný význam určuje příručka letounu."
     },
     {
       "sourceNumber": 114,
@@ -16639,7 +16744,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-114"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-114",
+      "explanation": "Žlutý oblouk rychloměru je oblast opatrného provozu, typicky nad maximální konstrukční cestovní rychlostí VNO a pod VNE. V této oblasti se běžně smí letět jen v klidném vzduchu a bez prudkých pohybů řízením."
     },
     {
       "sourceNumber": 115,
@@ -16655,7 +16761,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-115"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-115",
+      "explanation": "Pojem ADI (attitude director indicator) standardně označuje polohový indikátor s povelovými značkami letového povelového systému; neznamená prosté sloučení horizontu, směrového indikátoru a zatáčkoměru. Uložený testový klíč je terminologicky nepřesný a vyžaduje kontrolu podle použité učebnice."
     },
     {
       "sourceNumber": 116,
@@ -16671,7 +16778,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-116"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-116",
+      "explanation": "HSI je Horizontal Situation Indicator, tedy indikátor horizontální situace. Kombinuje směrovou informaci s navigační indikací kurzu a odchylky od zvolené tratě."
     },
     {
       "sourceNumber": 117,
@@ -16687,7 +16795,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-117"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-117",
+      "explanation": "HSI kombinuje údaj o směru z gyrokompasu či elektronického systému orientace s údaji radionavigace, například VOR nebo ILS. Pilot tak na jednom přístroji vidí zvolený kurz a odchylku od tratě."
     },
     {
       "sourceNumber": 118,
@@ -16703,7 +16812,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 24,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-118"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p24-118",
+      "explanation": "Při zvýšení nastaveného tlaku o 10 hPa vzroste indikace výškoměru přibližně o 270 ft, tedy asi 82 m. Přibližné pravidlo: 1 hPa ≈ 27 ft ≈ 8 m; proto správně přibližně o 80 m více."
     },
     {
       "sourceNumber": "1",
@@ -16719,7 +16829,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-1",
+      "explanation": "Referenční tlak výškoměru se ověřuje před letem a mění podle pravidel pro daný prostor, například při přechodu mezi QNH a standardním nastavením 1013,25 hPa. Zastaralé QNH může způsobit významnou chybu indikované výšky."
     },
     {
       "sourceNumber": 120,
@@ -16735,7 +16846,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-120"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-120",
+      "explanation": "Při nastavení QFE ukazuje výškoměr výšku nad referenční úrovní letiště, na které má přibližně nulovou indikaci. Nejde o nadmořskou výšku; pro tu se používá QNH."
     },
     {
       "sourceNumber": 121,
@@ -16751,7 +16863,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-121"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-121",
+      "explanation": "Klasický variometr porovnává aktuální statický tlak s opožděnou změnou tlaku v kompenzační komoře. Větší objem komory při jinak stejném průtokovém odporu může zvětšit rozdíl tlaků při stejné rychlosti změny tlaku, a tedy nadhodnocovat indikaci; záleží na konstrukci a kalibraci."
     },
     {
       "sourceNumber": 122,
@@ -16767,7 +16880,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-122"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-122",
+      "explanation": "Variometr využívá rozdíl aktuálního statického tlaku a zpožděného statického tlaku v kompenzační komoře. Při stoupání okolní tlak klesá a přístroj ukazuje kladnou vertikální rychlost."
     },
     {
       "sourceNumber": 123,
@@ -16783,7 +16897,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 25,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-123"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p25-123",
+      "explanation": "Magnetická inklinace (dip) je úhel, pod kterým siločáry zemského magnetického pole svírají vodorovnou rovinu. Na magnetickém rovníku je přibližně nulová a směrem k magnetickým pólům roste."
     },
     {
       "sourceNumber": 124,
@@ -16799,7 +16914,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-124"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-124",
+      "explanation": "Kuličkový relativní sklonoměr ukazuje směr výslednice gravitačního a setrvačného zrychlení vzhledem k letounu, tedy relativní vertikálu. Proto může při koordinované zatáčce zůstat uprostřed i při značném náklonu."
     },
     {
       "sourceNumber": 125,
@@ -16815,7 +16931,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-125"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-125",
+      "explanation": "Kulička vychýlená doprava signalizuje nevyváženou zatáčku; základní zásadou je „sešlápnout pedál na straně kuličky“ a upravit náklon či úhlovou rychlost pro koordinaci. Samotná nabízená kombinace změn náklonu a rychlosti zatáčení nemusí být univerzálně správná bez znalosti dalších podmínek."
     },
     {
       "sourceNumber": 126,
@@ -16831,7 +16948,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-126"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-126",
+      "explanation": "Winglet omezuje intenzitu koncových vírů a může snížit indukovaný odpor při vytváření vztlaku. Účinek závisí na konstrukci, režimu letu a případném nárůstu hmotnosti i profilového odporu."
     },
     {
       "sourceNumber": 127,
@@ -16847,7 +16965,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-127"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-127",
+      "explanation": "V turistických motorových kluzácích se běžně používají lehké čtyřválcové čtyřdobé pístové motory, často s vodorovně protilehlými válci. Konkrétní konstrukce se podle typu TMG liší."
     },
     {
       "sourceNumber": 128,
@@ -16863,7 +16982,8 @@
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 26,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-128"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p26-128",
+      "explanation": "Motorový olej zajišťuje mazání pohyblivých částí, odvádí část tepla, pomáhá těsnit a odvádět nečistoty do filtru. POZOR: v testu je označena možnost „chlazení a mazání motoru a zvýšení výkonu“, ale primárním účelem oleje není zvyšovat výkon; věcně přesnější je první možnost."
     },
     {
       "sourceNumber": "1",
@@ -16879,7 +16999,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-1"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-1",
+      "explanation": "Gyrodyn využívá nosný rotor i dopředný tah dalšího pohonného prvku. Ve srovnání s konvenčním vrtulníkem může dosahovat vyšší cestovní rychlosti; konkrétní výhoda závisí na konstrukci a provozním režimu."
     },
     {
       "sourceNumber": "2",
@@ -16895,7 +17016,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-2"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-2",
+      "explanation": "Příhradový trup tvoří soustava vzájemně propojených nosných trubek, často ocelových, které přenášejí hlavní zatížení. Vnější potah má především aerodynamickou a ochrannou funkci."
     },
     {
       "sourceNumber": "3",
@@ -16911,7 +17033,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-3"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-3",
+      "explanation": "Sendvičová konstrukce má dvě relativně tenké pevné povrchové vrstvy oddělené lehkým jádrem. Větší vzdálenost potahů zvyšuje ohybovou tuhost při malé hmotnosti."
     },
     {
       "sourceNumber": "4",
@@ -16927,7 +17050,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-4"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-4",
+      "explanation": "Násobek zatížení n vyjadřuje poměr výsledného aerodynamického zatížení k tíze. V ustáleném vodorovném letu je přibližně n = L/W = 1; v koordinované zatáčce n = 1/cos φ, například při náklonu 60° je n = 2."
     },
     {
       "sourceNumber": "5",
@@ -16943,7 +17067,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-5"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p1-5",
+      "explanation": "Sendvičové panely dosahují nízké hmotnosti a vysoké ohybové tuhosti díky lehkému jádru a pevným potahům. Únosnost závisí na materiálu, spojení vrstev a druhu zatížení."
     },
     {
       "sourceNumber": "6",
@@ -16959,7 +17084,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-6"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-6",
+      "explanation": "Vláknové kompozity mohou dosahovat vysoké specifické pevnosti, ale absolutní pořadí pevnosti nelze určit bez určení typu materiálu a směru namáhání. Testová volba kompozitu je zjednodušením."
     },
     {
       "sourceNumber": "7",
@@ -16975,7 +17101,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-7"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-7",
+      "explanation": "Po překročení provozních omezení je nutné postupovat podle letové a údržbové dokumentace a zajistit odborné posouzení, případně předepsanou inspekci před dalším letem. Pouhá vizuální kontrola pilotem nemusí odhalit skryté poškození."
     },
     {
       "sourceNumber": "8",
@@ -16991,7 +17118,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-8"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-8",
+      "explanation": "Škrábance na ocasním nosníku mohou být známkou kontaktu se zemí nebo překážkou, zejména při nadměrném podélném sklonu. Je třeba prověřit okolnosti a konstrukci podle údržbové dokumentace; samotné škrábance neprokazují jednoznačnou příčinu."
     },
     {
       "sourceNumber": "9",
@@ -17007,7 +17135,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-9"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-9",
+      "explanation": "V hydraulických systémech se podle konstrukce používají minerální i syntetické kapaliny. Je nutné použít výhradně schválený typ: některé kapaliny jsou chemicky nekompatibilní s těsněními i mezi sebou. Testový klíč „syntetické“ není univerzální."
     },
     {
       "sourceNumber": "10",
@@ -17023,7 +17152,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-10"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p2-10",
+      "explanation": "U řady vrtulníků je hydraulické čerpadlo poháněno přes hlavní převodovku (reduktor), takže je spojeno s pohonem rotorové soustavy. Konkrétní provedení a nouzové postupy závisí na typu."
     },
     {
       "sourceNumber": "11",
@@ -17039,7 +17169,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-11"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-11",
+      "explanation": "Vyměnitelné kluzné patky (skid shoes) chrání vlastní lyžiny při dosedání a posouvání po zemi. Opotřebované patky lze vyměnit, aniž by se musela nahrazovat celá lyžina."
     },
     {
       "sourceNumber": "12",
@@ -17055,7 +17186,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-12"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-12",
+      "explanation": "Úhel nastavení rotorových listů se u běžného mechanického řízení mění prostřednictvím táhel a řídicí desky. Kolektiv mění úhel všech listů společně, cyklika periodicky podle azimutu."
     },
     {
       "sourceNumber": "13",
@@ -17071,7 +17203,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-13"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-13",
+      "explanation": "Pohyb cykliky naklání řídicí desku a vytváří periodické změny úhlu nastavení listů při jejich oběhu. Výsledkem je změna orientace roviny rotoru a směru jeho tahové síly."
     },
     {
       "sourceNumber": "14",
@@ -17087,7 +17220,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-14"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-14",
+      "explanation": "Posunutí cykliky dopředu obvykle nakloní tah rotoru dopředu a vrtulník začne zrychlovat. Bez souběžné korekce kolektivem a výkonem se zmenší svislá složka tahu, takže může vzrůst klesání. Přesná odezva závisí na počátečním režimu."
     },
     {
       "sourceNumber": "15",
@@ -17103,7 +17237,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-15"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p3-15",
+      "explanation": "Směšovací jednotka mechanicky kombinuje vstupy kolektivu a cykliky tak, aby se správně přenášely na řízení úhlu rotorových listů. Umožňuje společnou změnu nastavení i jeho periodickou změnu."
     },
     {
       "sourceNumber": "16",
@@ -17119,7 +17254,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-16"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-16",
+      "explanation": "Pavoukové řízení (spider mechanism) je u některých rotorových hlav součást mechanismu přenosu řídicích pohybů na natáčení listů. Konkrétní uspořádání se liší podle typu vrtulníku; jeho účelem není ovládání zapalování ani dávkování paliva."
     },
     {
       "sourceNumber": "17",
@@ -17135,7 +17271,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-17"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-17",
+      "explanation": "Trim vrtulníku zmenšuje nebo nastavuje trvalé síly na řízení, aby pilot nemusel stále vyvíjet stejný tlak na cykliku. U různých typů může fungovat mechanicky, elektricky nebo pomocí force-trim systému."
     },
     {
       "sourceNumber": "18",
@@ -17151,7 +17288,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-18"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-18",
+      "explanation": "Korelátor u některých pístových vrtulníků automaticky přidává plyn při zvednutí kolektivu, kdy roste požadovaný výkon. Nezaručuje však přesné udržení otáček ve všech režimech; pilot sleduje přístroje a dodržuje postupy typu."
     },
     {
       "sourceNumber": "19",
@@ -17167,7 +17305,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-19"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-19",
+      "explanation": "Při tankování je nutné vyloučit zdroje zapálení: nekouřit, nepoužívat otevřený oheň a zajistit předepsané elektrické pospojování/uzemnění podle postupu pro daný letoun a letiště. Hlavní vypínač ani magneta se kvůli tankování nezapínají."
     },
     {
       "sourceNumber": "20",
@@ -17183,7 +17322,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 4,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-20"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p4-20",
+      "explanation": "Nastřikovací čerpadlo (primer) přivádí palivo do sání nebo příslušných míst motoru při studeném startu, kdy je třeba usnadnit vytvoření zápalné směsi. Po použití musí být zajištěno podle letové příručky."
     },
     {
       "sourceNumber": "21",
@@ -17199,7 +17339,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-21"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-21",
+      "explanation": "Při odběru paliva musí být do nádrže přiváděn vzduch, jinak by vznikal podtlak omezující přítok paliva k motoru. Odvětrání rovněž vyrovnává tlak při změnách výšky a teploty."
     },
     {
       "sourceNumber": "22",
@@ -17215,7 +17356,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-22"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-22",
+      "explanation": "Akumulátor ukládá elektrickou energii a může napájet palubní síť; generátor či alternátor ji při chodu motoru vyrábí. Relé spíná obvody a jistič chrání vedení proti nadproudu."
     },
     {
       "sourceNumber": "23",
@@ -17231,7 +17373,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-23"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-23",
+      "explanation": "Elektrické napětí se měří ve voltech (V). Ampér je jednotka proudu, ohm odporu a watt výkonu. Z Ohmova zákona U = R × I plyne například při R = 2 Ω a I = 3 A napětí 6 V."
     },
     {
       "sourceNumber": "24",
@@ -17247,7 +17390,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-24"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-24",
+      "explanation": "Elektrický výkon se měří ve wattech (W). Pro stejnosměrný obvod platí P = U × I; například spotřebič při 12 V a 5 A odebírá 60 W."
     },
     {
       "sourceNumber": "25",
@@ -17263,7 +17407,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 5,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-25"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p5-25",
+      "explanation": "Vyzařovače statické elektřiny (static wicks) umožňují řízené odvádění nahromaděného náboje z povrchu vrtulníku do okolního vzduchu a omezují rádiové rušení. Nenahrazují pospojování při tankování."
     },
     {
       "sourceNumber": "26",
@@ -17279,7 +17424,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-26"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-26",
+      "explanation": "Při výpadku alternátoru může palubní síť dočasně fungovat z akumulátoru. Jeho kapacita je omezená, proto je třeba podle checklistu omezit odběr, sledovat napětí a plánovat přistání; po vybití mohou elektrické systémy postupně vysadit."
     },
     {
       "sourceNumber": "27",
@@ -17295,7 +17441,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-27"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-27",
+      "explanation": "Zkratka DC označuje stejnosměrný proud (direct current), který je běžný v palubních elektrických soustavách lehkých letounů. AC znamená střídavý proud."
     },
     {
       "sourceNumber": "28",
@@ -17311,7 +17458,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-28"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-28",
+      "explanation": "Výpadek elektrické sítě může vyřadit radiostanice, elektronickou navigaci i elektricky napájené gyroskopické přístroje. Mechanický magnetický kompas a přístroje využívající pitot-statický tlak mohou fungovat nezávisle na elektřině; konkrétní závislosti určuje vybavení vrtulníku."
     },
     {
       "sourceNumber": "29",
@@ -17327,7 +17475,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "8-Obecne-znalosti-o-letadle-vrtulnik.pdf",
       "page": 6,
-      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-29"
+      "id": "8-obecne-znalosti-o-letadle-vrtulnik-p6-29",
+      "explanation": "Pro lehké pístové letouny jsou typické ploché motory s vodorovně protilehlými válci (boxer). Uspořádání snižuje čelní plochu motoru a umožňuje kompaktní instalaci."
     },
     {
       "sourceNumber": "30",
@@ -18915,7 +19064,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-1"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-1",
+      "explanation": "Při mezinárodním letu musí být na palubě předepsané doklady letadla a posádky, zejména osvědčení o zápisu do rejstříku, osvědčení letové způsobilosti, doklad o zachování letové způsobilosti podle použitelného režimu, palubní deník a průkazy posádky. EASA Form 1 je doklad o uvolnění výrobku či dílu, nikoli běžný palubní doklad. Úplný seznam závisí na provozním režimu a požadavcích států letu."
     },
     {
       "sourceNumber": "2",
@@ -18931,7 +19081,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-2"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-2",
+      "explanation": "Omezený prostor (R, restricted area) lze využít pouze za zveřejněných podmínek nebo se souhlasem příslušného orgánu. Zakázaný prostor (P) je zásadně nepřístupný, zatímco nebezpečný prostor (D) upozorňuje na potenciálně nebezpečnou činnost."
     },
     {
       "sourceNumber": "3",
@@ -18947,7 +19098,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-3"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-3",
+      "explanation": "AIP (Aeronautical Information Publication) zveřejňuje trvalé informace o vzdušném prostoru, včetně identifikace, vertikálních a horizontálních hranic a podmínek omezených prostorů. Aktuální dočasné změny je nutné ověřovat i v NOTAM."
     },
     {
       "sourceNumber": "4",
@@ -18963,7 +19115,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-4"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p1-4",
+      "explanation": "Požadavky Part-MED a další přímo použitelná evropská nařízení jsou právně závazná v členských státech EU bez individuální ratifikace. Je třeba odlišovat závazná pravidla od nezávazných AMC a GM, které vysvětlují přijatelné způsoby prokazování shody."
     },
     {
       "sourceNumber": 5,
@@ -18979,7 +19132,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-5"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-5",
+      "explanation": "Standardní osvědčení letové způsobilosti (Certificate of Airworthiness) nemá samo o sobě pevnou roční dobu platnosti, pokud zůstávají splněny příslušné podmínky. Zachování letové způsobilosti se dokládá odděleně, například ARC, a pravidelnou údržbou."
     },
     {
       "sourceNumber": "6",
@@ -18995,7 +19149,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-6"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-6",
+      "explanation": "ARC znamená Airworthiness Review Certificate, tedy osvědčení kontroly letové způsobilosti. Potvrzuje provedení příslušného přezkumu zachování letové způsobilosti; jeho platnost a případné prodlužování se řídí použitelnými předpisy."
     },
     {
       "sourceNumber": "7",
@@ -19011,7 +19166,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-7"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-7",
+      "explanation": "Osvědčení letové způsobilosti vydává nebo jeho vydání zajišťuje příslušný úřad státu zápisu letadla do rejstříku podle použitelného právního režimu. Místo výroby ani sídlo vlastníka nejsou samy o sobě rozhodující."
     },
     {
       "sourceNumber": "8",
@@ -19027,7 +19183,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-8"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-8",
+      "explanation": "Průkazy vydané podle standardů ICAO podléhají pravidlům uznávání v jednotlivých státech. Formulace „automaticky platný ve všech státech ICAO“ je příliš široká: pro letadla zapsaná v jiném státě může být nutná validace nebo převod a je třeba splnit národní či regionální požadavky."
     },
     {
       "sourceNumber": "9",
@@ -19043,7 +19200,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-9"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p2-9",
+      "explanation": "Příloha ICAO Annex 1 – Personnel Licensing upravuje mezinárodní standardy pro průkazy a kvalifikace leteckého personálu, včetně pilotů a zdravotní způsobilosti. Provoz letadel řeší zejména Annex 6, letové provozní služby Annex 11 a pravidla létání Annex 2."
     },
     {
       "sourceNumber": 10,
@@ -19059,7 +19217,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-10"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-10",
+      "explanation": "Průkaz PPL vydaný podle evropského systému nemá běžnou pevnou dobu skončení platnosti jako dokument. Výkon jeho práv je však podmíněn platnou příslušnou kvalifikací, zdravotní způsobilostí a splněním požadavků na nedávnou praxi."
     },
     {
       "sourceNumber": 13,
@@ -19075,7 +19234,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-13"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-13",
+      "explanation": "U osvědčení zdravotní způsobilosti 2. třídy se po dosažení 50 let věku uplatňuje zpravidla maximální platnost 12 měsíců. U 62letého pilota tedy test správně uvádí 12 měsíců; mohou platit individuální omezení zdravotního posudku."
     },
     {
       "sourceNumber": "14",
@@ -19091,7 +19251,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-14"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p3-14",
+      "explanation": "Text otázky je neúplný: chybí údaj, jakou konkrétní požadovanou dobu letu pilot nesplnil a pro jakou kvalifikaci. Při nesplnění podmínek prodloužení třídní kvalifikace bývá nutné přezkoušení odborné způsobilosti s examinátorem, ale přesný postup se řídí Part-FCL a stavem kvalifikace. Bez úplného zadání nelze potvrdit univerzální odpověď."
     },
     {
       "sourceNumber": "15",
@@ -19107,7 +19268,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-15"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-15",
+      "explanation": "Držitel PPL(A) smí v rozsahu platných kvalifikací působit jako PIC nebo druhý pilot při neobchodních letech bez úplaty. Evropská pravidla umožňují za stanovených podmínek odměnu za instruktorskou nebo examinátorskou činnost, pokud má příslušné oprávnění; nelze tím automaticky provozovat obchodní leteckou dopravu."
     },
     {
       "sourceNumber": "17",
@@ -19123,7 +19285,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-17"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-17",
+      "explanation": "SERA je zkratka pro Standardised European Rules of the Air, tedy standardizovaná evropská pravidla létání. Jsou obsažena zejména v prováděcím nařízení EU č. 923/2012 ve znění změn."
     },
     {
       "sourceNumber": "18",
@@ -19139,13 +19302,14 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-18"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-18",
+      "explanation": "TRA znamená Temporary Reserved Area – dočasně rezervovaný vzdušný prostor. Podmínky aktivace a vstupu je nutné ověřit v příslušných leteckých informačních publikacích a aktuálních oznámeních."
     },
     {
       "sourceNumber": "19",
       "question": "Co je třeba provést při vstupu do oblasti s povinným rádiovým spojením (RMZ)?",
       "options": [
-        "stále sledovat rádio a je-li to možné, navázat rádiové spojení",
+        "před vstupem navázat předepsané rádiové spojení, oznámit polohu, výšku a záměr a udržovat poslech",
         "obdržet povolení pro vstup do této oblasti",
         "odpovídač sekundárního radaru přepnout na mód C a 7000",
         "obdržet povolení od místního leteckého úřadu"
@@ -19155,7 +19319,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-19"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-19",
+      "explanation": "V RMZ je podle SERA.6005 nutné před vstupem uskutečnit počáteční rádiové volání na předepsaném kmitočtu s identifikací stanice, volacím znakem, typem letadla, polohou, hladinou a záměrem a dále udržovat nepřetržitý poslech, není-li stanoveno jinak. Samotné „je-li to možné“ nestačí. RMZ sama o sobě neznamená povinnost získat povolení ATC."
     },
     {
       "sourceNumber": "20",
@@ -19171,7 +19336,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-20"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-20",
+      "explanation": "Zvláštní let VFR (SVFR) v řízeném okrsku vyžaduje povolení ATC a splnění podmínek SERA, včetně letu mimo oblačnost s dohledností země a stanovených minim dohlednosti a rychlosti. Konkrétní minima závisejí na typu letu a případných výjimkách; testová odpověď „viditelnost země“ zachycuje jednu podmínku, nikoli všechny."
     },
     {
       "sourceNumber": "21",
@@ -19187,7 +19353,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-21"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-21",
+      "explanation": "TMZ (Transponder Mandatory Zone) vyžaduje provozuschopný odpovídač SSR s příslušným režimem A/C nebo S podle zveřejněných podmínek, není-li povolena výjimka. Samotné stisknutí IDENT nenahrazuje požadované nastavení."
     },
     {
       "sourceNumber": "22",
@@ -19203,7 +19370,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-22"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-22",
+      "explanation": "TMZ znamená Transponder Mandatory Zone – oblast s povinným odpovídačem sekundárního radaru. Konkrétní požadavky na vybavení a aktivaci jsou zveřejněny v leteckých informacích."
     },
     {
       "sourceNumber": "23",
@@ -19219,7 +19387,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-23"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-23",
+      "explanation": "IFR znamená Instrument Flight Rules, tedy pravidla pro let podle přístrojů. IFR není totéž co IMC: let podle IFR může probíhat i v meteorologických podmínkách VMC."
     },
     {
       "sourceNumber": "24",
@@ -19235,7 +19404,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-24"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p5-24",
+      "explanation": "Let VFR je let prováděný podle pravidel letu za viditelnosti, nikoli pouze let za dobrého počasí. Musí být splněny příslušné podmínky dohlednosti, vzdálenosti od oblačnosti a další požadavky daného prostoru."
     },
     {
       "sourceNumber": "25",
@@ -19251,7 +19421,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-25"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-25",
+      "explanation": "VMC (Visual Meteorological Conditions) označuje meteorologické podmínky pro let za viditelnosti definované hodnotami dohlednosti, vzdálenosti od oblačnosti a případně základny oblačnosti. VFR jsou pravidla letu, VMC jsou meteorologické podmínky."
     },
     {
       "sourceNumber": "26",
@@ -19267,7 +19438,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-26"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-26",
+      "explanation": "Při čelním nebo téměř čelním přiblížení dvou letadel musí oba piloti změnit kurz doprava, aby se bezpečně minuli. Pravidlo nezávisí na tom, zda je letoun jednomotorový nebo dvoumotorový."
     },
     {
       "sourceNumber": "27",
@@ -19283,7 +19455,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-27"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-27",
+      "explanation": "Při křižování tratí letadel stejné kategorie má zpravidla přednost letadlo, které je vůči druhému vpravo. Druhé letadlo musí uhnout; platí i povinnost aktivně zabránit srážce bez ohledu na formální přednost."
     },
     {
       "sourceNumber": "28",
@@ -19299,7 +19472,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-28"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-28",
+      "explanation": "Při křižování tratí dvou motorových letounů stejné kategorie rozhoduje pravidlo přednosti letadla zprava, nikoli velikost letadla či obchodní povaha letu. V řízeném prostoru musí piloti současně dodržovat příslušná povolení a pokyny ATC."
     },
     {
       "sourceNumber": "29",
@@ -19308,18 +19482,19 @@
         "špatné meteorologické podmínky v blízkosti letiště",
         "vzlet nebo přistání na letišti",
         "odhoz vlečených předmětů na letišti",
-        "přiblížení bez přistání na letišti Jednomotorový pístový a turbovrtulový letoun letí proti sobě ve stejné výšce. Který z nich má změnit"
+        "přiblížení bez přistání na letišti"
       ],
       "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-29"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p6-29",
+      "explanation": "Let pod předepsanou minimální výškou nelze odůvodnit pouze zhoršeným počasím v blízkosti letiště. Výjimky se vztahují na nezbytné fáze vzletu a přistání nebo na zvlášť povolené činnosti; při nepříznivých podmínkách je třeba let bezpečně změnit či ukončit."
     },
     {
       "sourceNumber": "30",
-      "question": "kurz, aby se vyhnul srážce?",
+      "question": "Jednomotorový pístový a turbovrtulový letoun letí proti sobě ve stejné výšce. Který z nich má změnit kurz, aby se vyhnul srážce?",
       "options": [
         "turbovrtulový letoun má dát přednost jednomotorovému pístovému letounu",
         "obě letadla mají uhnout doprava",
@@ -19331,7 +19506,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p7-30"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p7-30",
+      "explanation": "Při čelním nebo téměř čelním setkání dvou motorových letounů mají oba uhnout doprava. Druh pohonné jednotky (pístový nebo turbovrtulový) zde neurčuje přednost."
     },
     {
       "sourceNumber": "37",
@@ -19347,7 +19523,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p8-37"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p8-37",
+      "explanation": "V prostoru třídy B platí pro VFR běžné minimum vzdálenosti od oblačnosti 1500 m vodorovně a 300 m (1000 ft) svisle. Provozní minima se vždy ověřují podle aktuálních pravidel a místních podmínek."
     },
     {
       "sourceNumber": "40",
@@ -19363,7 +19540,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-40"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-40",
+      "explanation": "Ceiling, tedy výška základny nejnižší význačné vrstvy oblačnosti, je výška nad zemí nebo vodou nejnižší vrstvy pokrývající více než polovinu oblohy (BKN nebo OVC), pod stanovenou mezí. Nejde o nadmořskou výšku základny oblačnosti."
     },
     {
       "sourceNumber": "41",
@@ -19379,7 +19557,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-41"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-41",
+      "explanation": "Při zakročování znamená kývání křídly a následná mírná zatáčka zakročujícího letadla standardně pokyn „následujte mě“. Zakročované letadlo má potvrdit přijetí signálu předepsaným způsobem a postupovat podle pravidel pro zakročování."
     },
     {
       "sourceNumber": "43",
@@ -19395,7 +19574,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-43"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-43",
+      "explanation": "Při stoupání se výškoměr přestavuje z QNH na standardních 1013,25 hPa při průletu převodní výškou (transition altitude). Převodní výška je publikována pro daný prostor; není všude pevně 4000 ft."
     },
     {
       "sourceNumber": "44",
@@ -19411,7 +19591,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-44"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p9-44",
+      "explanation": "Letová hladina FL 80 znamená tlakovou výšku 8000 ft při standardním nastavení výškoměru 1013,25 hPa. Místní QNH se používá pod převodní hladinou podle příslušných pravidel."
     },
     {
       "sourceNumber": "45",
@@ -19427,7 +19608,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-45"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-45",
+      "explanation": "Půlkruhové pravidlo přiřazuje cestovní hladiny podle směru magnetické tratě, aby se snížila pravděpodobnost protisměrných letů ve stejné hladině. Konkrétní hladiny a výjimky závisí na pravidlech daného vzdušného prostoru."
     },
     {
       "sourceNumber": "46",
@@ -19443,7 +19625,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-46"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-46",
+      "explanation": "Základní režimy sekundárního přehledového radaru jsou Mode A (identifikační kód), Mode C (tlaková výška) a Mode S (selektivní adresování a další údaje). Ne každý odpovídač podporuje všechny režimy."
     },
     {
       "sourceNumber": "47",
@@ -19459,7 +19642,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-47"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p10-47",
+      "explanation": "Mode C poskytuje údaj o tlakové výšce, zatímco Mode S může tento údaj rovněž vysílat. Mode A přenáší zejména čtyřmístný kód, nikoli výšku."
     },
     {
       "sourceNumber": "51",
@@ -19475,7 +19659,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-51"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-51",
+      "explanation": "Řízení letového provozu (ATC) poskytuje stanovené služby a rozstupy v příslušném řízeném vzdušném prostoru. Za bezpečné provedení letu a vyhýbání se srážkám však nadále odpovídá velitel letadla v rozsahu svých povinností; formulace otázky je zjednodušená."
     },
     {
       "sourceNumber": "52",
@@ -19491,7 +19676,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-52"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-52",
+      "explanation": "Tři základní složky služby řízení letového provozu jsou oblastní služba řízení (ACC), přibližovací služba řízení (APP) a letištní služba řízení (TWR). FIS a pohotovostní služba jsou další služby ATS, nikoli typy ATC."
     },
     {
       "sourceNumber": "53",
@@ -19507,7 +19693,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-53"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-53",
+      "explanation": "Ve třídě E jsou poskytovány rozstupy mezi lety IFR navzájem. Letům VFR se rozstupy od ostatních letů běžně nezajišťují, i když mohou dostávat provozní informace, pokud je to možné."
     },
     {
       "sourceNumber": "54",
@@ -19523,7 +19710,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-54"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p11-54",
+      "explanation": "V letové informační oblasti FIR se zajišťuje letová informační služba FIS a pohotovostní služba ALR. Řízení letového provozu se poskytuje jen v příslušných řízených částech prostoru."
     },
     {
       "sourceNumber": "55",
@@ -19539,7 +19727,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-55"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-55",
+      "explanation": "Za letu lze službu FIS kontaktovat radiostanicí na publikovaném kmitočtu. Pilot může získat provozní a meteorologické informace, ale FIS zpravidla nevydává povolení ATC."
     },
     {
       "sourceNumber": "56",
@@ -19555,7 +19744,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-56"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-56",
+      "explanation": "Výstraha „pozor, turbulence v úplavu“ upozorňuje na víry za jiným letadlem. Jejich síla souvisí s hmotností, konfigurací a rychlostí předcházejícího letadla; pilot musí zajistit bezpečný odstup."
     },
     {
       "sourceNumber": "57",
@@ -19571,7 +19761,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-57"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-57",
+      "explanation": "Standardní hlášení polohy obsahuje volací znak, polohu a podle situace čas, hladinu a další údaje. Z uvedených možností je nejbližší „OKABC, N, 2500 ft“, ale přesná frazeologie závisí na požadovaném typu hlášení a správném uvedení výšky či hladiny."
     },
     {
       "sourceNumber": "58",
@@ -19587,7 +19778,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-58"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-58",
+      "explanation": "AIREP je hlášení z letadla (air-report), které může obsahovat polohu, čas, hladinu a meteorologické informace. Zvláštní hlášení AIREP SPECIAL se používá pro významné meteorologické jevy."
     },
     {
       "sourceNumber": "59",
@@ -19603,7 +19795,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-59"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p12-59",
+      "explanation": "Část GEN (General) AIP obsahuje všeobecné informace, například zkratky a symboly, administrativní údaje, poplatky a vybrané přehledy služeb. Informace o tratích a prostorech jsou především v ENR a podrobnosti letišť v AD."
     },
     {
       "sourceNumber": "60",
@@ -19619,7 +19812,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-60"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-60",
+      "explanation": "AIP je členěna na GEN (všeobecně), ENR (traťové informace a vzdušný prostor) a AD (letiště). Toto členění usnadňuje vyhledání pravidel a údajů potřebných k přípravě letu."
     },
     {
       "sourceNumber": "61",
@@ -19635,7 +19829,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-61"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-61",
+      "explanation": "Část AD (Aerodromes) obsahuje informace o letištích včetně drah, provozních postupů, zařízení a letištních map. Vzdušné prostory a tratě jsou primárně v části ENR."
     },
     {
       "sourceNumber": "63",
@@ -19651,7 +19846,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-63"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-63",
+      "explanation": "PIB (Pre-flight Information Bulletin) je předletový výběr aktuálních NOTAM relevantních pro plánovaný let. Nenahrazuje kontrolu dalších informací, například AIP, počasí a provozních omezení."
     },
     {
       "sourceNumber": "64",
@@ -19667,7 +19863,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-64"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p13-64",
+      "explanation": "Nadmořská výška letiště (aerodrome elevation) je nadmořská výška nejvyššího bodu přistávací plochy. Je důležitá pro výškoměrná nastavení a výkonnostní výpočty."
     },
     {
       "sourceNumber": "65",
@@ -19683,7 +19880,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-65"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-65",
+      "explanation": "Vzletová a přistávací dráha (runway) je vymezená obdélníková plocha na pozemním letišti upravená pro přistání a vzlet letadel. Vodní přistávací plocha se v terminologii ICAO posuzuje odlišně."
     },
     {
       "sourceNumber": "66",
@@ -19699,7 +19897,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-66"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-66",
+      "explanation": "Vyčkávací místo (holding position) je určené místo, kde letadlo nebo vozidlo zastaví a vyčkává, pokud není oprávněno pokračovat. Zvláštní význam má vyčkávací místo před dráhou; bez příslušného povolení se na dráhu nevjíždí."
     },
     {
       "sourceNumber": "67",
@@ -19710,12 +19909,13 @@
         "na povrchu dráhy jsou vidět kaluže vody",
         "na povrchu dráhy není voda ani led nebo sníh"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-67"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-67",
+      "explanation": "Mokrá dráha (wet) má viditelně mokrý povrch, případně vodu do stanovené malé hloubky, nikoli velkou část plochy zatopenou stojící vodou. Původní klíč ukazoval na zaplavení a byl opraven na první možnost. Při provozu je nutné používat aktuální hlášení stavu dráhy podle GRF."
     },
     {
       "sourceNumber": "68",
@@ -19731,7 +19931,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-68"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-68",
+      "explanation": "„Damp“ historicky označuje vlhký povrch, u něhož je patrná změna barvy, ale není viditelná významná vrstva vody. Aktuální globální metodika GRF může takový stav posuzovat jinak; pro provoz je rozhodující zveřejněný runway condition report."
     },
     {
       "sourceNumber": "69",
@@ -19747,7 +19948,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-69"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p14-69",
+      "explanation": "„Water patches“ v tradičním popisu označuje jednotlivé plochy stojící vody na dráze. Pro současné rozhodování je třeba vycházet z aktuálního hlášení stavu dráhy, hloubky a rozsahu kontaminace."
     },
     {
       "sourceNumber": "70",
@@ -19763,7 +19965,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-70"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-70",
+      "explanation": "Ukazatel směru větru (větrný rukáv) může být pro lepší rozpoznání obklopen výrazným bílým kruhem. Poskytuje orientační směr a sílu větru v místě umístění, nikoli přesné měření pro všechny části letiště."
     },
     {
       "sourceNumber": "71",
@@ -19779,7 +19982,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-71"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-71",
+      "explanation": "Blikající červené světlo směrované na letadlo za letu znamená „letiště není bezpečné, nepřistávejte“. Je třeba odlišovat tento signál od stálého červeného světla, které znamená dát přednost a pokračovat po okruhu."
     },
     {
       "sourceNumber": "72",
@@ -19795,7 +19999,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-72"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-72",
+      "explanation": "Blikající zelené světlo pro letadlo za letu znamená „vraťte se na přistání“; samotné povolení k přistání následuje stálým zeleným světlem. Pilot musí rozlišovat jednotlivé světelné signály."
     },
     {
       "sourceNumber": "73",
@@ -19811,7 +20016,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-73"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-73",
+      "explanation": "Stálé zelené světlo pro letadlo za letu znamená „přistání povoleno“. Význam světelných signálů závisí na tom, zda je letadlo ve vzduchu, nebo na zemi."
     },
     {
       "sourceNumber": "74",
@@ -19827,7 +20033,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-74"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p15-74",
+      "explanation": "Blikající bílé světlo pro letadlo na zemi znamená „vraťte se na výchozí místo na letišti“ (zpravidla na odbavovací plochu). Nejde o povolení vzletu ani pojíždění."
     },
     {
       "sourceNumber": "75",
@@ -19843,7 +20050,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-75"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-75",
+      "explanation": "Blikající červené světlo pro letadlo na zemi znamená „opusťte používanou přistávací plochu / dráhu“. Je nutné odlišit od stálého červeného světla, které znamená zastavit."
     },
     {
       "sourceNumber": "76",
@@ -19859,7 +20067,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-76"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-76",
+      "explanation": "Blikající zelené světlo pro letadlo na zemi znamená „pojíždění povoleno“. Stálé zelené světlo na zemi naopak znamená „vzlet povolen“."
     },
     {
       "sourceNumber": "77",
@@ -19875,7 +20084,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-77"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-77",
+      "explanation": "Ukazatel směru přistání (landing T) má tvar písmene T. Jeho podélná osa ukazuje směr, kterým mají letadla při přistání a vzletu postupovat; pilot současně respektuje místní pravidla a pokyny ATS."
     },
     {
       "sourceNumber": "78",
@@ -19891,7 +20101,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-78"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-78",
+      "explanation": "Signální čtverec je vyznačená plocha letiště určená pro pozemní vizuální signály, které pilotům poskytují informace o provozních podmínkách nebo omezeních. Význam jednotlivých symbolů stanoví pravidla létání."
     },
     {
       "sourceNumber": "79",
@@ -19907,7 +20118,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-79"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p16-79",
+      "explanation": "Za denního světla pilot letadla ve vzduchu potvrzuje přijetí světelných signálů kýváním křídly; zpravidla se tak nečiní na základně či ve finále zatáčky. V noci se potvrzení provádí příslušným blikáním přistávacích nebo navigačních světel podle předpisu."
     },
     {
       "sourceNumber": "80",
@@ -19923,7 +20135,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-80"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-80",
+      "explanation": "Stálé červené světlo směrované na letadlo na zemi znamená „zastavte“. Naproti tomu blikající červené světlo znamená uvolnit používanou přistávací plochu."
     },
     {
       "sourceNumber": "81",
@@ -19939,7 +20152,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-81"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-81",
+      "explanation": "Dvě souběžné dráhy se stejným číselným označením se rozlišují příponami L (left, levá) a R (right, pravá) z pohledu přiblížení. U tří souběžných drah se používá i C (center, prostřední)."
     },
     {
       "sourceNumber": "82",
@@ -19955,7 +20169,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-82"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-82",
+      "explanation": "Vodorovné značení vzletových a přistávacích drah je standardně bílé. Značení pojezdových drah bývá žluté; pilot tak rozpozná odlišné funkce pohybových ploch."
     },
     {
       "sourceNumber": "83",
@@ -19971,7 +20186,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-83"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p17-83",
+      "explanation": "Symetrické podélné bílé pruhy po obou stranách osy dráhy označují práh dráhy. Před prahem není dovoleno dosednout při přistání v daném směru, i když předprahová plocha může mít jiný schválený způsob využití."
     },
     {
       "sourceNumber": "86",
@@ -19987,7 +20203,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-86"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-86",
+      "explanation": "Letištní maják (aerodrome beacon, ABN) je světelný maják na letišti nebo v jeho blízkosti, který umožňuje pilotům za letu rozpoznat polohu letiště, zejména v noci nebo při snížené dohlednosti. Může používat rotující či ekvivalentní zábleskový systém."
     },
     {
       "sourceNumber": "87",
@@ -20003,7 +20220,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-87"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-87",
+      "explanation": "Postranní dráhová návěstidla jsou zpravidla bílá. V určitých úsecích nebo konfiguracích mohou být podle letištního osvětlení použity další barvy, například žlutá v závěrečné části dráhy."
     },
     {
       "sourceNumber": "88",
@@ -20019,7 +20237,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-88"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p18-88",
+      "explanation": "Koncová návěstidla dráhy svítí červeně ve směru pohledu k jejímu konci a upozorňují na hranici použitelné dráhy. Prahová návěstidla jsou při přiblížení zpravidla zelená."
     },
     {
       "sourceNumber": "89",
@@ -20101,7 +20320,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-93"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-93",
+      "explanation": "DETRESFA (distress phase) je údobí tísně: existuje důvodná jistota, že letadlu a osobám na palubě hrozí vážné a bezprostřední nebezpečí nebo je nutná okamžitá pomoc. Odlišuje se od INCERFA (nejistota) a ALERFA (pohotovost)."
     },
     {
       "sourceNumber": "94",
@@ -20117,7 +20337,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-94"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p19-94",
+      "explanation": "Pátrací a záchranné služby SAR koordinují příslušné záchranné koordinační orgány a mohou využívat civilní i vojenské prostředky. Cílem je vyhledat ohrožené osoby a poskytnout jim pomoc."
     },
     {
       "sourceNumber": "95",
@@ -20133,7 +20354,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-95"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-95",
+      "explanation": "Pilot letadla může za dne potvrdit porozumění pozemnímu signálu pátrání a záchrany kýváním křídly. Přesný postup a význam signálů se řídí předepsanými pravidly vizuální komunikace."
     },
     {
       "sourceNumber": "96",
@@ -20149,7 +20371,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-96"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-96",
+      "explanation": "Pro účely bezpečnostního šetření se rozlišují incident (příhoda), vážný incident (vážná příhoda) a nehoda. Vážný incident zahrnuje okolnosti nasvědčující vysoké pravděpodobnosti nehody; právní definice určují konkrétní zařazení."
     },
     {
       "sourceNumber": "97",
@@ -20165,7 +20388,8 @@
       "aircraft": "Letoun",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-97"
+      "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p20-97",
+      "explanation": "Hlavním cílem bezpečnostního šetření letecké nehody je předcházet dalším nehodám a incidentům zjištěním okolností a příčin a vydáním bezpečnostních doporučení. Není jím určování viny či právní odpovědnosti."
     },
     {
       "sourceNumber": "1",
@@ -20181,7 +20405,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-1"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-1",
+      "explanation": "Při mezinárodním letu musí být na palubě předepsané doklady letadla a posádky, zejména osvědčení o zápisu do rejstříku, osvědčení letové způsobilosti, doklad o zachování letové způsobilosti podle použitelného režimu, palubní deník a průkazy posádky. EASA Form 1 je doklad o uvolnění výrobku či dílu, nikoli běžný palubní doklad. Úplný seznam závisí na provozním režimu a požadavcích států letu."
     },
     {
       "sourceNumber": "2",
@@ -20197,7 +20422,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-2"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-2",
+      "explanation": "Omezený prostor (R, restricted area) lze využít pouze za zveřejněných podmínek nebo se souhlasem příslušného orgánu. Zakázaný prostor (P) je zásadně nepřístupný, zatímco nebezpečný prostor (D) upozorňuje na potenciálně nebezpečnou činnost."
     },
     {
       "sourceNumber": "3",
@@ -20213,7 +20439,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-3"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-3",
+      "explanation": "AIP (Aeronautical Information Publication) zveřejňuje trvalé informace o vzdušném prostoru, včetně identifikace, vertikálních a horizontálních hranic a podmínek omezených prostorů. Aktuální dočasné změny je nutné ověřovat i v NOTAM."
     },
     {
       "sourceNumber": "4",
@@ -20229,7 +20456,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 1,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-4"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p1-4",
+      "explanation": "Požadavky Part-MED a další přímo použitelná evropská nařízení jsou právně závazná v členských státech EU bez individuální ratifikace. Je třeba odlišovat závazná pravidla od nezávazných AMC a GM, které vysvětlují přijatelné způsoby prokazování shody."
     },
     {
       "sourceNumber": "5",
@@ -20245,7 +20473,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 2,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p2-5"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p2-5",
+      "explanation": "Standardní osvědčení letové způsobilosti (Certificate of Airworthiness) nemá samo o sobě pevnou roční dobu platnosti, pokud zůstávají splněny příslušné podmínky. Zachování letové způsobilosti se dokládá odděleně, například ARC, a pravidelnou údržbou."
     },
     {
       "sourceNumber": "6",
@@ -20261,7 +20490,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-6"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-6",
+      "explanation": "ARC znamená Airworthiness Review Certificate, tedy osvědčení kontroly letové způsobilosti. Potvrzuje provedení příslušného přezkumu zachování letové způsobilosti; jeho platnost a případné prodlužování se řídí použitelnými předpisy."
     },
     {
       "sourceNumber": "7",
@@ -20277,7 +20507,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-7"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-7",
+      "explanation": "Osvědčení letové způsobilosti vydává nebo jeho vydání zajišťuje příslušný úřad státu zápisu letadla do rejstříku podle použitelného právního režimu. Místo výroby ani sídlo vlastníka nejsou samy o sobě rozhodující."
     },
     {
       "sourceNumber": "8",
@@ -20293,7 +20524,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-8"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-8",
+      "explanation": "Průkazy vydané podle standardů ICAO podléhají pravidlům uznávání v jednotlivých státech. Formulace „automaticky platný ve všech státech ICAO“ je příliš široká: pro letadla zapsaná v jiném státě může být nutná validace nebo převod a je třeba splnit národní či regionální požadavky."
     },
     {
       "sourceNumber": "9",
@@ -20309,7 +20541,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-9"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-9",
+      "explanation": "Příloha ICAO Annex 1 – Personnel Licensing upravuje mezinárodní standardy pro průkazy a kvalifikace leteckého personálu, včetně pilotů a zdravotní způsobilosti. Provoz letadel řeší zejména Annex 6, letové provozní služby Annex 11 a pravidla létání Annex 2."
     },
     {
       "sourceNumber": "10",
@@ -20325,7 +20558,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 3,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-10"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p3-10",
+      "explanation": "Rozdílový výcvik pro příslušnou variantu nebo vybavení vrtulníku musí být po úspěšném absolvování potvrzen instruktorem v zápisníku letů nebo rovnocenném dokumentu, pokud tak stanoví Part-FCL. Nejde automaticky o obnovu celé typové kvalifikace."
     },
     {
       "sourceNumber": "11",
@@ -20341,7 +20575,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-11"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-11",
+      "explanation": "Průkaz PPL vydaný podle evropského systému nemá běžnou pevnou dobu skončení platnosti jako dokument. Výkon jeho práv je však podmíněn platnou příslušnou kvalifikací, zdravotní způsobilostí a splněním požadavků na nedávnou praxi."
     },
     {
       "sourceNumber": "12",
@@ -20357,7 +20592,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-12"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-12",
+      "explanation": "Minimální věk pro vydání PPL(H) podle Part-FCL je 17 let. Před vydáním průkazu musí žadatel splnit výcvik, zkoušky a zdravotní požadavky."
     },
     {
       "sourceNumber": "13",
@@ -20373,7 +20609,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-13"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-13",
+      "explanation": "U osvědčení zdravotní způsobilosti 2. třídy se po dosažení 50 let věku uplatňuje zpravidla maximální platnost 12 měsíců. U 62letého pilota tedy test správně uvádí 12 měsíců; mohou platit individuální omezení zdravotního posudku."
     },
     {
       "sourceNumber": "14",
@@ -20389,7 +20626,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-14"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-14",
+      "explanation": "Držitel PPL(H) smí v rozsahu platné typové kvalifikace vykonávat neobchodní lety bez úplaty. Pro přepravu cestujících se obecně vyžadují alespoň tři vzlety, přiblížení a přistání v posledních 90 dnech na příslušném typu nebo třídě podle pravidel nedávné praxe. Samotný PPL neopravňuje k běžné obchodní přepravě."
     },
     {
       "sourceNumber": "15",
@@ -20405,7 +20643,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 4,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-15"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p4-15",
+      "explanation": "Typová kvalifikace pro vrtulník má podle obecného pravidla Part-FCL platnost jeden rok. Pro prodloužení nebo obnovu je nutné splnit předepsané požadavky, zpravidla včetně přezkoušení odborné způsobilosti."
     },
     {
       "sourceNumber": "16",
@@ -20421,7 +20660,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-16"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-16",
+      "explanation": "Před prvním samostatným letem žáka vrtulníku musí být dosažen minimální věk 16 let a splněny požadavky instruktora a výcvikové organizace. Vydání průkazu PPL(H) je možné nejdříve v 17 letech."
     },
     {
       "sourceNumber": "17",
@@ -20437,7 +20677,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-17"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-17",
+      "explanation": "SERA je zkratka pro Standardised European Rules of the Air, tedy standardizovaná evropská pravidla létání. Jsou obsažena zejména v prováděcím nařízení EU č. 923/2012 ve znění změn."
     },
     {
       "sourceNumber": "18",
@@ -20453,13 +20694,14 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-18"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-18",
+      "explanation": "TRA znamená Temporary Reserved Area – dočasně rezervovaný vzdušný prostor. Podmínky aktivace a vstupu je nutné ověřit v příslušných leteckých informačních publikacích a aktuálních oznámeních."
     },
     {
       "sourceNumber": "19",
       "question": "Co je třeba provést při vstupu do oblasti s povinným rádiovým spojením (RMZ)?",
       "options": [
-        "stále sledovat rádio a je-li to možné, navázat rádiové spojení",
+        "před vstupem navázat předepsané rádiové spojení, oznámit polohu, výšku a záměr a udržovat poslech",
         "obdržet povolení pro vstup do této oblasti",
         "odpovídač sekundárního radaru přepnout na mód C a 7000",
         "obdržet povolení od místního leteckého úřadu"
@@ -20469,7 +20711,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-19"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-19",
+      "explanation": "V RMZ je podle SERA.6005 nutné před vstupem uskutečnit počáteční rádiové volání na předepsaném kmitočtu s identifikací stanice, volacím znakem, typem letadla, polohou, hladinou a záměrem a dále udržovat nepřetržitý poslech, není-li stanoveno jinak. Samotné „je-li to možné“ nestačí. RMZ sama o sobě neznamená povinnost získat povolení ATC."
     },
     {
       "sourceNumber": "20",
@@ -20485,7 +20728,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-20"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-20",
+      "explanation": "Zvláštní let VFR (SVFR) v řízeném okrsku vyžaduje povolení ATC a splnění podmínek SERA, včetně letu mimo oblačnost s dohledností země a stanovených minim dohlednosti a rychlosti. Konkrétní minima závisejí na typu letu a případných výjimkách; testová odpověď „viditelnost země“ zachycuje jednu podmínku, nikoli všechny."
     },
     {
       "sourceNumber": "21",
@@ -20501,7 +20745,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-21"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-21",
+      "explanation": "TMZ (Transponder Mandatory Zone) vyžaduje provozuschopný odpovídač SSR s příslušným režimem A/C nebo S podle zveřejněných podmínek, není-li povolena výjimka. Samotné stisknutí IDENT nenahrazuje požadované nastavení."
     },
     {
       "sourceNumber": "22",
@@ -20517,7 +20762,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-22"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-22",
+      "explanation": "TMZ znamená Transponder Mandatory Zone – oblast s povinným odpovídačem sekundárního radaru. Konkrétní požadavky na vybavení a aktivaci jsou zveřejněny v leteckých informacích."
     },
     {
       "sourceNumber": "23",
@@ -20533,7 +20779,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-23"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-23",
+      "explanation": "IFR znamená Instrument Flight Rules, tedy pravidla pro let podle přístrojů. IFR není totéž co IMC: let podle IFR může probíhat i v meteorologických podmínkách VMC."
     },
     {
       "sourceNumber": "24",
@@ -20549,7 +20796,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-24"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-24",
+      "explanation": "Let VFR je let prováděný podle pravidel letu za viditelnosti, nikoli pouze let za dobrého počasí. Musí být splněny příslušné podmínky dohlednosti, vzdálenosti od oblačnosti a další požadavky daného prostoru."
     },
     {
       "sourceNumber": "25",
@@ -20565,7 +20813,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-25"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-25",
+      "explanation": "VMC (Visual Meteorological Conditions) označuje meteorologické podmínky pro let za viditelnosti definované hodnotami dohlednosti, vzdálenosti od oblačnosti a případně základny oblačnosti. VFR jsou pravidla letu, VMC jsou meteorologické podmínky."
     },
     {
       "sourceNumber": "26",
@@ -20581,7 +20830,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-26"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-26",
+      "explanation": "Při čelním nebo téměř čelním přiblížení dvou letadel musí oba piloti změnit kurz doprava, aby se bezpečně minuli. Pravidlo nezávisí na tom, zda je letoun jednomotorový nebo dvoumotorový."
     },
     {
       "sourceNumber": "27",
@@ -20597,7 +20847,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-27"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-27",
+      "explanation": "Při křižování tratí letadel stejné kategorie má zpravidla přednost letadlo, které je vůči druhému vpravo. Druhé letadlo musí uhnout; platí i povinnost aktivně zabránit srážce bez ohledu na formální přednost."
     },
     {
       "sourceNumber": "28",
@@ -20613,7 +20864,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-28"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-28",
+      "explanation": "Při křižování tratí dvou motorových letounů stejné kategorie rozhoduje pravidlo přednosti letadla zprava, nikoli velikost letadla či obchodní povaha letu. V řízeném prostoru musí piloti současně dodržovat příslušná povolení a pokyny ATC."
     },
     {
       "sourceNumber": "29",
@@ -20629,7 +20881,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-29"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-29",
+      "explanation": "Let pod předepsanou minimální výškou nelze odůvodnit pouze zhoršeným počasím v blízkosti letiště. Výjimky se vztahují na nezbytné fáze vzletu a přistání nebo na zvlášť povolené činnosti; při nepříznivých podmínkách je třeba let bezpečně změnit či ukončit."
     },
     {
       "sourceNumber": "30",
@@ -20645,7 +20898,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-30"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-30",
+      "explanation": "Při čelním nebo téměř čelním setkání dvou motorových letounů mají oba uhnout doprava. Druh pohonné jednotky (pístový nebo turbovrtulový) zde neurčuje přednost."
     },
     {
       "sourceNumber": "31",
@@ -20661,7 +20915,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-31"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-31",
+      "explanation": "V prostoru třídy B platí pro VFR běžné minimum vzdálenosti od oblačnosti 1500 m vodorovně a 300 m (1000 ft) svisle. Provozní minima se vždy ověřují podle aktuálních pravidel a místních podmínek."
     },
     {
       "sourceNumber": "32",
@@ -20677,7 +20932,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-32"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-32",
+      "explanation": "V 5000 ft MSL je standardní minimální dohlednost VFR ve třídě B 5 km. Hranice pro obecné minimum 8 km je 10 000 ft AMSL."
     },
     {
       "sourceNumber": "33",
@@ -20693,7 +20949,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-33"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-33",
+      "explanation": "Ve třídě C v 5000 ft MSL se standardně požaduje dohlednost 5 km a odstup od oblačnosti 1500 m vodorovně a 300 m svisle."
     },
     {
       "sourceNumber": "34",
@@ -20709,7 +20966,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-34"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-34",
+      "explanation": "Ve FL 75 je obvyklé minimum VFR ve třídě E 5 km, pokud skutečná nadmořská výška nepřesáhne hranici 10 000 ft AMSL. Letová hladina a nadmořská výška nejsou totožné."
     },
     {
       "sourceNumber": "35",
@@ -20725,7 +20983,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-35"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-35",
+      "explanation": "Ve FL 110 je zpravidla požadována dohlednost VFR 8 km. Předpis však hranici stanoví podle 10 000 ft AMSL, nikoli přímo podle FL; je nutné zohlednit tlakové podmínky."
     },
     {
       "sourceNumber": "36",
@@ -20741,7 +21000,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-36"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-36",
+      "explanation": "Ve FL 125 se ve třídě C standardně vyžaduje dohlednost VFR alespoň 8 km a předepsané odstupy od oblačnosti."
     },
     {
       "sourceNumber": "37",
@@ -20757,7 +21017,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-37"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-37",
+      "explanation": "V prostoru třídy B platí pro VFR běžné minimum vzdálenosti od oblačnosti 1500 m vodorovně a 300 m (1000 ft) svisle. Provozní minima se vždy ověřují podle aktuálních pravidel a místních podmínek."
     },
     {
       "sourceNumber": "38",
@@ -20773,7 +21034,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-38"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-38",
+      "explanation": "Ve třídě C pod 10 000 ft AMSL je standardní minimum letové dohlednosti VFR 5 km. Současně platí odstup od oblačnosti 1500 m vodorovně a 300 m svisle."
     },
     {
       "sourceNumber": "39",
@@ -20789,7 +21051,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-39"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-39",
+      "explanation": "Od 10 000 ft AMSL se standardně požaduje dohlednost VFR 8 km. FL 100 představuje tlakovou hladinu a nemusí odpovídat přesně 10 000 ft AMSL, proto je zadání zjednodušené."
     },
     {
       "sourceNumber": "40",
@@ -20805,7 +21068,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-40"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-40",
+      "explanation": "Ceiling, tedy výška základny nejnižší význačné vrstvy oblačnosti, je výška nad zemí nebo vodou nejnižší vrstvy pokrývající více než polovinu oblohy (BKN nebo OVC), pod stanovenou mezí. Nejde o nadmořskou výšku základny oblačnosti."
     },
     {
       "sourceNumber": "41",
@@ -20821,7 +21085,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-41"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-41",
+      "explanation": "Při zakročování znamená kývání křídly a následná mírná zatáčka zakročujícího letadla standardně pokyn „následujte mě“. Zakročované letadlo má potvrdit přijetí signálu předepsaným způsobem a postupovat podle pravidel pro zakročování."
     },
     {
       "sourceNumber": "42",
@@ -20837,7 +21102,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-42"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-42",
+      "explanation": "Zakročující letadlo prudkou změnou kurzu o nejméně 90° a stoupáním bez křížení dráhy zakročovaného letadla signalizuje, že zakročované letadlo může pokračovat v letu."
     },
     {
       "sourceNumber": "43",
@@ -20853,7 +21119,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-43"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-43",
+      "explanation": "Při stoupání se výškoměr přestavuje z QNH na standardních 1013,25 hPa při průletu převodní výškou (transition altitude). Převodní výška je publikována pro daný prostor; není všude pevně 4000 ft."
     },
     {
       "sourceNumber": "44",
@@ -20869,7 +21136,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-44"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-44",
+      "explanation": "Letová hladina FL 80 znamená tlakovou výšku 8000 ft při standardním nastavení výškoměru 1013,25 hPa. Místní QNH se používá pod převodní hladinou podle příslušných pravidel."
     },
     {
       "sourceNumber": "45",
@@ -20880,12 +21148,13 @@
         "zabránit srážkám omezením manévrů zatáčení",
         "létat bez podaného letového plánu ve stanovených zónách publikovaných v AIP"
       ],
-      "correctIndex": 1,
+      "correctIndex": 0,
       "category": "Pravo",
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-45"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-45",
+      "explanation": "Správná je první možnost: půlkruhové pravidlo přiřazuje cestovní hladiny podle směru tratě, čímž snižuje riziko protisměrného provozu ve stejné hladině. Vyčkávací obrazec s tím nesouvisí. Původní chybný klíč byl opraven."
     },
     {
       "sourceNumber": "46",
@@ -20901,7 +21170,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-46"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-46",
+      "explanation": "Základní režimy sekundárního přehledového radaru jsou Mode A (identifikační kód), Mode C (tlaková výška) a Mode S (selektivní adresování a další údaje). Ne každý odpovídač podporuje všechny režimy."
     },
     {
       "sourceNumber": "47",
@@ -20917,7 +21187,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-47"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-47",
+      "explanation": "Mode C poskytuje údaj o tlakové výšce, zatímco Mode S může tento údaj rovněž vysílat. Mode A přenáší zejména čtyřmístný kód, nikoli výšku."
     },
     {
       "sourceNumber": "48",
@@ -20933,7 +21204,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-48"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-48",
+      "explanation": "Kód odpovídače SSR 7600 signalizuje ztrátu radiového spojení. Pilot musí dodržet postupy pro poruchu spojení a nadále zajistit bezpečný let."
     },
     {
       "sourceNumber": "49",
@@ -20949,7 +21221,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-49"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-49",
+      "explanation": "Při ztrátě radiového spojení se standardně nastaví SSR 7600. Kód 7500 znamená protiprávní čin a 7700 všeobecnou nouzi."
     },
     {
       "sourceNumber": "50",
@@ -20965,7 +21238,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-50"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-50",
+      "explanation": "SSR 7700 je všeobecný nouzový kód. Pilot při možnosti doplní radiové tísňové nebo pilnostní hlášení podle situace."
     },
     {
       "sourceNumber": "51",
@@ -20981,7 +21255,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-51"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-51",
+      "explanation": "Řízení letového provozu (ATC) poskytuje stanovené služby a rozstupy v příslušném řízeném vzdušném prostoru. Za bezpečné provedení letu a vyhýbání se srážkám však nadále odpovídá velitel letadla v rozsahu svých povinností; formulace otázky je zjednodušená."
     },
     {
       "sourceNumber": "52",
@@ -20997,7 +21272,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-52"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-52",
+      "explanation": "Tři základní složky služby řízení letového provozu jsou oblastní služba řízení (ACC), přibližovací služba řízení (APP) a letištní služba řízení (TWR). FIS a pohotovostní služba jsou další služby ATS, nikoli typy ATC."
     },
     {
       "sourceNumber": "53",
@@ -21013,7 +21289,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-53"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-53",
+      "explanation": "Ve třídě E jsou poskytovány rozstupy mezi lety IFR navzájem. Letům VFR se rozstupy od ostatních letů běžně nezajišťují, i když mohou dostávat provozní informace, pokud je to možné."
     },
     {
       "sourceNumber": "54",
@@ -21029,7 +21306,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-54"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-54",
+      "explanation": "V letové informační oblasti FIR se zajišťuje letová informační služba FIS a pohotovostní služba ALR. Řízení letového provozu se poskytuje jen v příslušných řízených částech prostoru."
     },
     {
       "sourceNumber": "55",
@@ -21045,7 +21323,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-55"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-55",
+      "explanation": "Za letu lze službu FIS kontaktovat radiostanicí na publikovaném kmitočtu. Pilot může získat provozní a meteorologické informace, ale FIS zpravidla nevydává povolení ATC."
     },
     {
       "sourceNumber": "56",
@@ -21061,7 +21340,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-56"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-56",
+      "explanation": "Výstraha „pozor, turbulence v úplavu“ upozorňuje na víry za jiným letadlem. Jejich síla souvisí s hmotností, konfigurací a rychlostí předcházejícího letadla; pilot musí zajistit bezpečný odstup."
     },
     {
       "sourceNumber": "57",
@@ -21077,7 +21357,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-57"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-57",
+      "explanation": "Standardní hlášení polohy obsahuje volací znak, polohu a podle situace čas, hladinu a další údaje. Z uvedených možností je nejbližší „OKABC, N, 2500 ft“, ale přesná frazeologie závisí na požadovaném typu hlášení a správném uvedení výšky či hladiny."
     },
     {
       "sourceNumber": "58",
@@ -21093,7 +21374,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-58"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-58",
+      "explanation": "AIREP je hlášení z letadla (air-report), které může obsahovat polohu, čas, hladinu a meteorologické informace. Zvláštní hlášení AIREP SPECIAL se používá pro významné meteorologické jevy."
     },
     {
       "sourceNumber": "59",
@@ -21109,7 +21391,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-59"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-59",
+      "explanation": "Část GEN (General) AIP obsahuje všeobecné informace, například zkratky a symboly, administrativní údaje, poplatky a vybrané přehledy služeb. Informace o tratích a prostorech jsou především v ENR a podrobnosti letišť v AD."
     },
     {
       "sourceNumber": "60",
@@ -21125,7 +21408,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-60"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-60",
+      "explanation": "AIP je členěna na GEN (všeobecně), ENR (traťové informace a vzdušný prostor) a AD (letiště). Toto členění usnadňuje vyhledání pravidel a údajů potřebných k přípravě letu."
     },
     {
       "sourceNumber": "61",
@@ -21141,7 +21425,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-61"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-61",
+      "explanation": "Část AD (Aerodromes) obsahuje informace o letištích včetně drah, provozních postupů, zařízení a letištních map. Vzdušné prostory a tratě jsou primárně v části ENR."
     },
     {
       "sourceNumber": "62",
@@ -21157,7 +21442,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-62"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-62",
+      "explanation": "NOTAM používá skupinu C) pro konec platnosti ve formátu YYMMDDhhmm v UTC. C) 1305211400 znamená 21. května 2013 ve 14:00 UTC. Skupina B) 1305211200 udává začátek 21. května 2013 ve 12:00 UTC; omezení tedy trvá dvě hodiny."
     },
     {
       "sourceNumber": "63",
@@ -21173,7 +21459,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-63"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-63",
+      "explanation": "PIB (Pre-flight Information Bulletin) je předletový výběr aktuálních NOTAM relevantních pro plánovaný let. Nenahrazuje kontrolu dalších informací, například AIP, počasí a provozních omezení."
     },
     {
       "sourceNumber": "64",
@@ -21189,7 +21476,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-64"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-64",
+      "explanation": "Nadmořská výška letiště (aerodrome elevation) je nadmořská výška nejvyššího bodu přistávací plochy. Je důležitá pro výškoměrná nastavení a výkonnostní výpočty."
     },
     {
       "sourceNumber": "65",
@@ -21205,7 +21493,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-65"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-65",
+      "explanation": "Vzletová a přistávací dráha (runway) je vymezená obdélníková plocha na pozemním letišti upravená pro přistání a vzlet letadel. Vodní přistávací plocha se v terminologii ICAO posuzuje odlišně."
     },
     {
       "sourceNumber": "66",
@@ -21221,7 +21510,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-66"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-66",
+      "explanation": "Vyčkávací místo (holding position) je určené místo, kde letadlo nebo vozidlo zastaví a vyčkává, pokud není oprávněno pokračovat. Zvláštní význam má vyčkávací místo před dráhou; bez příslušného povolení se na dráhu nevjíždí."
     },
     {
       "sourceNumber": "67",
@@ -21237,7 +21527,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-67"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-67",
+      "explanation": "Mokrá dráha (wet) znamená viditelně mokrý povrch bez významné vrstvy stojící vody; velké zatopené plochy nelze zaměňovat s běžným označením wet. Při posuzování výkonnosti je rozhodující aktuální hlášení stavu dráhy podle GRF."
     },
     {
       "sourceNumber": "68",
@@ -21253,7 +21544,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-68"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-68",
+      "explanation": "„Damp“ historicky označuje vlhký povrch, u něhož je patrná změna barvy, ale není viditelná významná vrstva vody. Aktuální globální metodika GRF může takový stav posuzovat jinak; pro provoz je rozhodující zveřejněný runway condition report."
     },
     {
       "sourceNumber": "69",
@@ -21269,7 +21561,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-69"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-69",
+      "explanation": "„Water patches“ v tradičním popisu označuje jednotlivé plochy stojící vody na dráze. Pro současné rozhodování je třeba vycházet z aktuálního hlášení stavu dráhy, hloubky a rozsahu kontaminace."
     },
     {
       "sourceNumber": "70",
@@ -21285,7 +21578,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-70"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-70",
+      "explanation": "Ukazatel směru větru (větrný rukáv) může být pro lepší rozpoznání obklopen výrazným bílým kruhem. Poskytuje orientační směr a sílu větru v místě umístění, nikoli přesné měření pro všechny části letiště."
     },
     {
       "sourceNumber": "71",
@@ -21301,7 +21595,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-71"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-71",
+      "explanation": "Blikající červené světlo směrované na letadlo za letu znamená „letiště není bezpečné, nepřistávejte“. Je třeba odlišovat tento signál od stálého červeného světla, které znamená dát přednost a pokračovat po okruhu."
     },
     {
       "sourceNumber": "72",
@@ -21317,7 +21612,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-72"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-72",
+      "explanation": "Blikající zelené světlo pro letadlo za letu znamená „vraťte se na přistání“; samotné povolení k přistání následuje stálým zeleným světlem. Pilot musí rozlišovat jednotlivé světelné signály."
     },
     {
       "sourceNumber": "73",
@@ -21333,7 +21629,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-73"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-73",
+      "explanation": "Stálé zelené světlo pro letadlo za letu znamená „přistání povoleno“. Význam světelných signálů závisí na tom, zda je letadlo ve vzduchu, nebo na zemi."
     },
     {
       "sourceNumber": "74",
@@ -21349,7 +21646,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-74"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-74",
+      "explanation": "Blikající bílé světlo pro letadlo na zemi znamená „vraťte se na výchozí místo na letišti“ (zpravidla na odbavovací plochu). Nejde o povolení vzletu ani pojíždění."
     },
     {
       "sourceNumber": "75",
@@ -21365,7 +21663,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-75"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-75",
+      "explanation": "Blikající červené světlo pro letadlo na zemi znamená „opusťte používanou přistávací plochu / dráhu“. Je nutné odlišit od stálého červeného světla, které znamená zastavit."
     },
     {
       "sourceNumber": "76",
@@ -21381,7 +21680,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-76"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-76",
+      "explanation": "Blikající zelené světlo pro letadlo na zemi znamená „pojíždění povoleno“. Stálé zelené světlo na zemi naopak znamená „vzlet povolen“."
     },
     {
       "sourceNumber": "77",
@@ -21397,7 +21697,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-77"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-77",
+      "explanation": "Ukazatel směru přistání (landing T) má tvar písmene T. Jeho podélná osa ukazuje směr, kterým mají letadla při přistání a vzletu postupovat; pilot současně respektuje místní pravidla a pokyny ATS."
     },
     {
       "sourceNumber": "78",
@@ -21413,7 +21714,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-78"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-78",
+      "explanation": "Signální čtverec je vyznačená plocha letiště určená pro pozemní vizuální signály, které pilotům poskytují informace o provozních podmínkách nebo omezeních. Význam jednotlivých symbolů stanoví pravidla létání."
     },
     {
       "sourceNumber": "79",
@@ -21429,7 +21731,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-79"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-79",
+      "explanation": "U vrtulníku nelze doslova použít potvrzení „zamáváním křídly“. Standardní vizuální potvrzování světelných signálů musí zohlednit typ letadla a předepsané alternativy; otázka byla zřejmě převzata z testu pro letouny a vyžaduje opravu zadání a klíče."
     },
     {
       "sourceNumber": "80",
@@ -21445,7 +21748,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-80"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-80",
+      "explanation": "Stálé červené světlo směrované na letadlo na zemi znamená „zastavte“. Naproti tomu blikající červené světlo znamená uvolnit používanou přistávací plochu."
     },
     {
       "sourceNumber": "81",
@@ -21461,7 +21765,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-81"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-81",
+      "explanation": "Dvě souběžné dráhy se stejným číselným označením se rozlišují příponami L (left, levá) a R (right, pravá) z pohledu přiblížení. U tří souběžných drah se používá i C (center, prostřední)."
     },
     {
       "sourceNumber": "82",
@@ -21477,7 +21782,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-82"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-82",
+      "explanation": "Vodorovné značení vzletových a přistávacích drah je standardně bílé. Značení pojezdových drah bývá žluté; pilot tak rozpozná odlišné funkce pohybových ploch."
     },
     {
       "sourceNumber": "83",
@@ -21493,7 +21799,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-83"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-83",
+      "explanation": "Symetrické podélné bílé pruhy po obou stranách osy dráhy označují práh dráhy. Před prahem není dovoleno dosednout při přistání v daném směru, i když předprahová plocha může mít jiný schválený způsob využití."
     },
     {
       "sourceNumber": "84",
@@ -21509,7 +21816,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-84"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-84",
+      "explanation": "Dvě paralelní dráhy se shodným magnetickým směrem se označují stejným číslem a příponami L a R. Proto je správná dvojice 06L a 06R."
     },
     {
       "sourceNumber": "85",
@@ -21525,7 +21833,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-85"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-85",
+      "explanation": "PAPI (Precision Approach Path Indicator) je vizuální sestupová soustava, která barevnými světly ukazuje polohu vůči požadované sestupové rovině. U běžné čtyřsvětelné soustavy dvě bílá a dvě červená znamenají správnou sestupovou rovinu; více bílých znamená příliš vysoko a více červených příliš nízko."
     },
     {
       "sourceNumber": "86",
@@ -21541,7 +21850,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 19,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-86"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p19-86",
+      "explanation": "Letištní maják (aerodrome beacon, ABN) je světelný maják na letišti nebo v jeho blízkosti, který umožňuje pilotům za letu rozpoznat polohu letiště, zejména v noci nebo při snížené dohlednosti. Může používat rotující či ekvivalentní zábleskový systém."
     },
     {
       "sourceNumber": "87",
@@ -21557,7 +21867,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-87"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-87",
+      "explanation": "Postranní dráhová návěstidla jsou zpravidla bílá. V určitých úsecích nebo konfiguracích mohou být podle letištního osvětlení použity další barvy, například žlutá v závěrečné části dráhy."
     },
     {
       "sourceNumber": "88",
@@ -21573,7 +21884,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 20,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-88"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p20-88",
+      "explanation": "Koncová návěstidla dráhy svítí červeně ve směru pohledu k jejímu konci a upozorňují na hranici použitelné dráhy. Prahová návěstidla jsou při přiblížení zpravidla zelená."
     },
     {
       "sourceNumber": "89",
@@ -21653,7 +21965,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-93"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-93",
+      "explanation": "DETRESFA (distress phase) je údobí tísně: existuje důvodná jistota, že letadlu a osobám na palubě hrozí vážné a bezprostřední nebezpečí nebo je nutná okamžitá pomoc. Odlišuje se od INCERFA (nejistota) a ALERFA (pohotovost)."
     },
     {
       "sourceNumber": "94",
@@ -21669,7 +21982,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-94"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-94",
+      "explanation": "Pátrací a záchranné služby SAR koordinují příslušné záchranné koordinační orgány a mohou využívat civilní i vojenské prostředky. Cílem je vyhledat ohrožené osoby a poskytnout jim pomoc."
     },
     {
       "sourceNumber": "95",
@@ -21685,7 +21999,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-95"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-95",
+      "explanation": "Zadání je pro vrtulník problematické: odpověď „zamáváním křídel“ byla převzata z letounové otázky, ale vrtulník nemá pevná křídla. Bez ověření předepsaného signálu pro vrtulníky nelze původní klíč považovat za spolehlivý. Otázku je třeba přeformulovat."
     },
     {
       "sourceNumber": "96",
@@ -21701,7 +22016,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 21,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-96"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p21-96",
+      "explanation": "Pro účely bezpečnostního šetření se rozlišují incident (příhoda), vážný incident (vážná příhoda) a nehoda. Vážný incident zahrnuje okolnosti nasvědčující vysoké pravděpodobnosti nehody; právní definice určují konkrétní zařazení."
     },
     {
       "sourceNumber": "97",
@@ -21717,7 +22033,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 22,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p22-97"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p22-97",
+      "explanation": "Hlavním cílem bezpečnostního šetření letecké nehody je předcházet dalším nehodám a incidentům zjištěním okolností a příčin a vydáním bezpečnostních doporučení. Není jím určování viny či právní odpovědnosti."
     },
     {
       "sourceNumber": "1",

@@ -10,9 +10,17 @@
     <meta name="apple-mobile-web-app-title" content="PPL Testy" />
     <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./styles.css?v=21" />
+    <link rel="stylesheet" href="./styles.css?v=22" />
   </head>
   <body>
+    <header class="global-app-nav" role="banner">
+      <div class="global-app-name"><span class="global-app-logo">PPL</span><span>Letecké testy</span></div>
+      <nav class="module-nav" aria-label="Hlavní menu výuky">
+        <button class="active" data-module="ppl" type="button" aria-pressed="true">PPL testy</button>
+        <button data-module="ull" type="button" aria-pressed="false">ULL testy</button>
+        <button data-module="icao" type="button" aria-pressed="false">ICAO English</button>
+      </nav>
+    </header>
     <main class="app-shell">
       <aside class="sidebar">
         <div class="brand">
@@ -23,11 +31,7 @@
           </div>
         </div>
 
-        <section class="panel module-picker" aria-label="Hlavní výukové menu"><h2>Výukový modul</h2><nav class="module-nav" aria-label="Přepínání mezi PPL, ULL a ICAO">
-<button class="active" data-module="ppl" type="button" aria-pressed="true">PPL testy</button>
-<button data-module="ull" type="button" aria-pressed="false">ULL testy</button>
-<button data-module="icao" type="button" aria-pressed="false">ICAO English</button>
-</nav></section><div id="pplSidebarControls">
+<div id="pplSidebarControls">
         <section class="panel">
           <h2>Režim</h2>
           <div class="segmented" role="group" aria-label="Rezim procvicovani">
@@ -190,6 +194,6 @@
 
     <script src="./data/questions.js?v=12"></script>
     <script src="./app.js?v=12"></script>
-    <script src="./module-switch.js?v=21"></script>
+    <script src="./module-switch.js?v=22"></script>
   </body>
 </html>

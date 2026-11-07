@@ -8055,7 +8055,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-1-p24-117"
+      "id": "3-meteorologie-letoun-1-p24-117",
+      "explanation": "V kódu METAR znamená RA déšť a znaménko + označuje silnou intenzitu srážek. Proto +RA znamená silný déšť."
     },
     {
       "sourceNumber": "118",
@@ -8071,7 +8072,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-1-p24-118"
+      "id": "3-meteorologie-letoun-1-p24-118",
+      "explanation": "V METAR značí SH přeháňky a RA déšť. Zápis SHRA tedy znamená dešťové přeháňky; bez znaménka + nebo − jde o mírnou intenzitu."
     },
     {
       "sourceNumber": "119",
@@ -8087,7 +8089,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 24,
-      "id": "3-meteorologie-letoun-1-p24-119"
+      "id": "3-meteorologie-letoun-1-p24-119",
+      "explanation": "ATIS poskytuje pilotům aktuální meteorologické i provozní údaje letiště, například používanou dráhu a převodní hladinu. METAR je meteorologická zpráva a tyto provozní pokyny běžně neobsahuje."
     },
     {
       "sourceNumber": "120",
@@ -8119,7 +8122,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-1-p25-121"
+      "id": "3-meteorologie-letoun-1-p25-121",
+      "explanation": "SIGMET upozorňuje na vybrané nebezpečné meteorologické jevy významné pro letecký provoz v určité letové informační oblasti FIR nebo horní letové informační oblasti UIR."
     },
     {
       "sourceNumber": "122",
@@ -8135,7 +8139,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-1-p25-122"
+      "id": "3-meteorologie-letoun-1-p25-122",
+      "explanation": "Při teplotní inverzi teplota vzduchu s rostoucí výškou stoupá, na rozdíl od obvyklého poklesu. Inverze často omezuje vertikální promíchávání."
     },
     {
       "sourceNumber": "123",
@@ -8151,7 +8156,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-1-p25-123"
+      "id": "3-meteorologie-letoun-1-p25-123",
+      "explanation": "Velké rozestupy izobar odpovídají malému tlakovému gradientu. Ten zpravidla vyvolává slabší vítr, ačkoliv místní podmínky mohou proudění pozměnit."
     },
     {
       "sourceNumber": "124",
@@ -8167,7 +8173,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-1-p25-124"
+      "id": "3-meteorologie-letoun-1-p25-124",
+      "explanation": "Horský vítr je místní svahové proudění směrem dolů, typicky v noci. Ochlazený vzduch nad svahem je hustší a stéká do údolí."
     },
     {
       "sourceNumber": "125",
@@ -8183,7 +8190,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 25,
-      "id": "3-meteorologie-letoun-1-p25-125"
+      "id": "3-meteorologie-letoun-1-p25-125",
+      "explanation": "Údolní vítr vzniká obvykle ve dne při ohřevu svahů a přilehlého vzduchu. Proudění směřuje vzhůru údolím a po svazích."
     },
     {
       "sourceNumber": "1",
@@ -8199,7 +8207,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-1-p26-1"
+      "id": "3-meteorologie-letoun-1-p26-1",
+      "explanation": "Zápis 225/15 udává vítr ze směru 225° o rychlosti 15 uzlů. Směr 225° odpovídá jihozápadu; v meteorologii se uvádí směr, odkud vítr vane."
     },
     {
       "sourceNumber": "127",
@@ -8215,7 +8224,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-1-p26-127"
+      "id": "3-meteorologie-letoun-1-p26-127",
+      "explanation": "Standardní teplota na hladině moře je +15 °C. Při poklesu o 6,5 °C na kilometr dosáhne v 10 km přibližně −50 °C."
     },
     {
       "sourceNumber": "128",
@@ -8231,7 +8241,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-1-p26-128"
+      "id": "3-meteorologie-letoun-1-p26-128",
+      "explanation": "Při jižním proudění přes Alpy může na jižní návětrné straně vznikat vrstevnatá srážková oblačnost. Na severní závětrné straně se objevují horské vlny, rotory a teplejší sušší fén."
     },
     {
       "sourceNumber": "129",
@@ -8247,7 +8258,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 26,
-      "id": "3-meteorologie-letoun-1-p26-129"
+      "id": "3-meteorologie-letoun-1-p26-129",
+      "explanation": "Sluncem ohřívaný horský svah zahřívá přilehlý vzduch, který stoupá. Termické výstupné proudy se mohou spojit s mechanickým výstupem na návětrné straně."
     },
     {
       "sourceNumber": "1",
@@ -8280,7 +8292,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 1,
-      "id": "3-meteorologie-vrtulnik-p1-2"
+      "id": "3-meteorologie-vrtulnik-p1-2",
+      "explanation": "Při proudění vlhkého vzduchu po svahu vzhůru dochází k adiabatickému ochlazování. Po dosažení rosného bodu kondenzuje vodní pára a vzniká orografická mlha."
     },
     {
       "sourceNumber": "3",
@@ -8483,7 +8496,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 3,
-      "id": "3-meteorologie-vrtulnik-p3-14"
+      "id": "3-meteorologie-vrtulnik-p3-14",
+      "explanation": "Sestupné proudění v tlakové výši způsobuje adiabatické oteplování vzduchu. Nad chladnější spodní vrstvou tak může vzniknout výšková subsidenční inverze."
     },
     {
       "sourceNumber": "15",
@@ -8515,7 +8529,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 4,
-      "id": "3-meteorologie-vrtulnik-p4-16"
+      "id": "3-meteorologie-vrtulnik-p4-16",
+      "explanation": "Za jasné noci povrch vyzařováním chladne a ochlazuje nejnižší vrstvu vzduchu. Výše položený vzduch zůstává teplejší, čímž vzniká přízemní radiační inverze."
     },
     {
       "sourceNumber": "17",
@@ -8650,7 +8665,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 5,
-      "id": "3-meteorologie-vrtulnik-p5-24"
+      "id": "3-meteorologie-vrtulnik-p5-24",
+      "explanation": "Při nastavení QFE ukazuje barometrický výškoměr na referenční úrovni letiště přibližně nulu. Za letu ukazuje výšku vzhledem k této tlakové referenci, nikoli nad mořem."
     },
     {
       "sourceNumber": "25",
@@ -8802,7 +8818,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 7,
-      "id": "3-meteorologie-vrtulnik-p7-35"
+      "id": "3-meteorologie-vrtulnik-p7-35",
+      "explanation": "Ve střední Evropě se střídají vzduchové hmoty polárního a subtropického původu. Jejich rozhraní a přesuny ovlivňují frontální počasí."
     },
     {
       "sourceNumber": "37",
@@ -9071,7 +9088,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-p11-55"
+      "id": "3-meteorologie-vrtulnik-p11-55",
+      "explanation": "Základní tvary oblaků jsou kupovité (cumulus), vrstevnaté (stratus) a řasovité (cirrus). Jejich kombinace tvoří další názvy oblačnosti."
     },
     {
       "sourceNumber": "57",
@@ -9312,7 +9330,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-p15-73"
+      "id": "3-meteorologie-vrtulnik-p15-73",
+      "explanation": "Před teplou frontou se typicky objevuje postupně houstnoucí vysoká a střední vrstevnatá oblačnost (Ci, Cs, As), následovaná Ns a vytrvalejšími srážkami. Po přechodu fronty se často otepluje."
     },
     {
       "sourceNumber": "74",
@@ -9328,7 +9347,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-p15-74"
+      "id": "3-meteorologie-vrtulnik-p15-74",
+      "explanation": "Studená fronta může vyvolat rychlý výstup teplého vlhkého vzduchu, vznik Cb, přeháněk, bouřek a nárazového větru. Za frontou se zpravidla ochladí a dohlednost se mezi přeháňkami zlepší."
     },
     {
       "sourceNumber": "75",
@@ -9378,7 +9398,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-p16-78"
+      "id": "3-meteorologie-vrtulnik-p16-78",
+      "explanation": "Frontální tlaková níže se obvykle přesouvá ve směru řídicího proudění ve střední troposféře, přibližně podél izobar v teplém sektoru. Její skutečná dráha závisí na synoptické situaci."
     },
     {
       "sourceNumber": "79",
@@ -9681,7 +9702,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-p20-100"
+      "id": "3-meteorologie-vrtulnik-p20-100",
+      "explanation": "Blízká přeháňka nebo bouřka může vyvolat prudký sestupný proud a jeho rozliv u země. Tím vznikají náhlé změny rychlosti a směru větru nebezpečné při vzletu a přistání."
     },
     {
       "sourceNumber": "102",
@@ -9714,7 +9736,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 21,
-      "id": "3-meteorologie-vrtulnik-p21-103"
+      "id": "3-meteorologie-vrtulnik-p21-103",
+      "explanation": "Ve zralém stadiu bouřky jsou současně přítomny silné výstupné a sestupné proudy. Sestupné proudy zesilují srážky a odpařování a mohou vytvářet nebezpečný střih větru."
     },
     {
       "sourceNumber": "104",
@@ -9900,7 +9923,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-p24-117"
+      "id": "3-meteorologie-vrtulnik-p24-117",
+      "explanation": "V kódu METAR znamená RA déšť a znaménko + označuje silnou intenzitu srážek. Proto +RA znamená silný déšť."
     },
     {
       "sourceNumber": "118",
@@ -9916,7 +9940,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-p24-118"
+      "id": "3-meteorologie-vrtulnik-p24-118",
+      "explanation": "V METAR značí SH přeháňky a RA déšť. Zápis SHRA tedy znamená dešťové přeháňky; bez znaménka + nebo − jde o mírnou intenzitu."
     },
     {
       "sourceNumber": "119",
@@ -9932,7 +9957,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-p24-119"
+      "id": "3-meteorologie-vrtulnik-p24-119",
+      "explanation": "ATIS poskytuje pilotům aktuální meteorologické i provozní údaje letiště, například používanou dráhu a převodní hladinu. METAR je meteorologická zpráva a tyto provozní pokyny běžně neobsahuje."
     },
     {
       "sourceNumber": "120",
@@ -9948,7 +9974,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-p24-120"
+      "id": "3-meteorologie-vrtulnik-p24-120",
+      "explanation": "ATIS je pravidelně aktualizovaná letištní informační služba. Pilot může za letu získat meteorologické i provozní údaje o cílovém letišti poslechem příslušného vysílání ATIS."
     },
     {
       "sourceNumber": "121",
@@ -9962,7 +9989,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
-      "id": "3-meteorologie-vrtulnik-p24-121"
+      "id": "3-meteorologie-vrtulnik-p24-121",
+      "explanation": "Výstraha SIGMET se vydává pro stanovenou oblast FIR nebo UIR a upozorňuje na závažné meteorologické jevy nebezpečné pro letový provoz."
     },
     {
       "sourceNumber": "122",
@@ -9978,7 +10006,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-p25-122"
+      "id": "3-meteorologie-vrtulnik-p25-122",
+      "explanation": "Při teplotní inverzi teplota vzduchu s rostoucí výškou stoupá, na rozdíl od obvyklého poklesu. Inverze často omezuje vertikální promíchávání."
     },
     {
       "sourceNumber": "123",
@@ -9994,7 +10023,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-p25-123"
+      "id": "3-meteorologie-vrtulnik-p25-123",
+      "explanation": "Velké rozestupy izobar odpovídají malému tlakovému gradientu. Ten zpravidla vyvolává slabší vítr, ačkoliv místní podmínky mohou proudění pozměnit."
     },
     {
       "sourceNumber": "124",
@@ -10010,7 +10040,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-p25-124"
+      "id": "3-meteorologie-vrtulnik-p25-124",
+      "explanation": "Horský vítr je místní svahové proudění směrem dolů, typicky v noci. Ochlazený vzduch nad svahem je hustší a stéká do údolí."
     },
     {
       "sourceNumber": "125",
@@ -10026,7 +10057,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-p25-125"
+      "id": "3-meteorologie-vrtulnik-p25-125",
+      "explanation": "Vítr hlášený jako 225/15 vane ze směru 225° (jihozápad) rychlostí 15 uzlů. Meteorologický směr větru udává směr, odkud proudí."
     },
     {
       "sourceNumber": "126",
@@ -10040,7 +10072,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
-      "id": "3-meteorologie-vrtulnik-p25-126"
+      "id": "3-meteorologie-vrtulnik-p25-126",
+      "explanation": "V ISA je teplota u hladiny moře +15 °C a v troposféře klesá o 6,5 °C na kilometr. Ve výšce 10 km tedy vychází přibližně −50 °C."
     },
     {
       "sourceNumber": "127",
@@ -10056,7 +10089,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 26,
-      "id": "3-meteorologie-vrtulnik-p26-127"
+      "id": "3-meteorologie-vrtulnik-p26-127",
+      "explanation": "Při jižním proudění přes Alpy se na návětrné jižní straně mohou tvořit srážkové oblaky. Na severní závětrné straně se projevují horské vlny, rotory a teplý suchý fén."
     },
     {
       "sourceNumber": "128",
@@ -10072,7 +10106,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 26,
-      "id": "3-meteorologie-vrtulnik-p26-128"
+      "id": "3-meteorologie-vrtulnik-p26-128",
+      "explanation": "Sluneční ohřev horských svahů vytváří termické výstupné proudy. Ty mohou zesílit mechanický výstup vzduchu na návětrné straně pohoří."
     },
     {
       "sourceNumber": "1",

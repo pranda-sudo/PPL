@@ -1,0 +1,51 @@
+(() => {
+"use strict";
+const $=id=>document.getElementById(id),PI=Math.PI,rad=d=>d*PI/180,norm=x=>(x%360+360)%360;
+const settings={speed:95,roll:0,pitch:0,altitude:3000,heading:90,vertical:0,turn:0,slip:0,qnh:1013};
+const controls=["speed","roll","pitch","altitude","heading","vertical","turn","slip","qnh"];
+const scenarios=[
+{pitch:9,roll:0,vertical:700,prompt:"Co znamenají údaje umělého horizontu a variometru?",choices:["Stoupání s přibližně vodorovnými křídly","Klesání s pravým náklonem","Vodorovný let s levým náklonem"],correct:0,why:"Nos míří nad horizont a variometr ukazuje kladnou vertikální rychlost. Náklon je přibližně nulový."},
+{pitch:-7,roll:-24,vertical:-600,prompt:"Jakou letovou situaci přístroje ukazují?",choices:["Stoupání a pravý náklon","Klesání a levý náklon","Vodorovný let bez náklonu"],correct:1,why:"Záporný podélný sklon značí nos pod horizontem, záporný náklon je vlevo a VSI ukazuje klesání."},
+{pitch:0,roll:28,vertical:0,prompt:"Co zobrazuje umělý horizont při nulovém VSI?",choices:["Přímý let bez náklonu","Pravý náklon a přibližně nulovou vertikální rychlost","Levý náklon se stoupáním"],correct:1,why:"Pravý náklon ukazuje změnu postoje do prava. Variometr má nulový odečet; neříká sám o sobě, jaká je rychlost zatáčení."},
+{pitch:-3,roll:0,vertical:-900,prompt:"Jak se vyvíjí indikovaná výška, pokud údaj variometru přetrvá?",choices:["Indikovaná výška se bude snižovat","Výška se musí zvyšovat","Výška zůstane konstantní"],correct:0,why:"Záporná vertikální rychlost znamená ztrátu výšky. VSI může mít časové zpoždění."},
+{pitch:5,roll:18,vertical:400,prompt:"Jaký závěr odpovídá oběma přístrojům?",choices:["Levý náklon a klesání","Pravý náklon a stoupání","Bez náklonu a bez změny výšky"],correct:1,why:"Přístroj ukazuje pravý náklon a kladnou vertikální rychlost. Nastavení jednotlivých hodnot v simulaci je nezávislé."},
+{pitch:0,roll:-35,vertical:0,prompt:"Ve kterém směru má letadlo náklon?",choices:["Vpravo","Vlevo","Bez náklonu"],correct:1,why:"Záporný náklon v této simulaci znamená náklon vlevo. Vodorovná poloha nosu a VSI 0 nejsou důkazem nepřítomnosti zatáčení."},
+{pitch:12,roll:-12,vertical:1100,prompt:"Které tvrzení nejlépe popisuje situaci?",choices:["Stoupání s levým náklonem","Klesání s pravým náklonem","Vodorovný let bez náklonu"],correct:0,why:"Nos je nad horizontem, levý náklon je záporný a VSI ukazuje stoupání."},
+{pitch:-12,roll:31,vertical:-1200,prompt:"Co ukazují oba přístroje?",choices:["Stoupání s levým náklonem","Vodorovný let","Klesání s pravým náklonem"],correct:2,why:"Nos je pod horizontem, VSI ukazuje klesání a náklon je doprava."}
+];
+function circle(c){c.beginPath();c.arc(0,0,170,0,PI*2);c.fillStyle="#101a23";c.fill();c.lineWidth=8;c.strokeStyle="#40505e";c.stroke();}
+function prepare(id){const canvas=$(id),ctx=canvas.getContext("2d");const s=canvas.width/400;ctx.setTransform(s,0,0,s,0,0);ctx.clearRect(0,0,400,400);ctx.translate(200,200);circle(ctx);return ctx;}
+function line(c,x1,y1,x2,y2,color="#e9f4f5",width=3){c.strokeStyle=color;c.lineWidth=width;c.beginPath();c.moveTo(x1,y1);c.lineTo(x2,y2);c.stroke()}
+function text(c,t,x,y,size=19,color="#eff7f7",weight="600"){c.fillStyle=color;c.font=weight+" "+size+"px system-ui,sans-serif";c.textAlign="center";c.textBaseline="middle";c.fillText(String(t),x,y)}
+function needle(c,angle,len=115){c.save();c.rotate(angle);c.fillStyle="#ebf5f4";c.beginPath();c.moveTo(-7,16);c.lineTo(0,-len);c.lineTo(7,16);c.closePath();c.fill();c.restore();c.beginPath();c.arc(0,0,9,0,2*PI);c.fillStyle="#d9e1e6";c.fill();}
+function scale(c,max,major,label){for(let i=0;i<=max;i+=major){const a=rad(-135+270*i/max);c.save();c.rotate(a);line(c,0,-153,0,-136,"#e4efef",4);c.restore();text(c,label(i),Math.sin(a)*111,-Math.cos(a)*111,17)}}
+function speed(c,v){c=prepare("speedDial");scale(c,180,20,n=>n);needle(c,rad(-135+270*Math.min(180,v)/180),117);text(c,"KNOTS",0,60,20);text(c,v,0,91,22);c.strokeStyle="#529b80";c.lineWidth=9;c.beginPath();c.arc(0,0,158,rad(-135+270*40/180),rad(-135+270*120/180));c.stroke();}
+function attitude(c,pitch,roll,id="attitudeDial"){c=prepare(id);c.save();c.beginPath();c.arc(0,0,160,0,2*PI);c.clip();c.rotate(-rad(roll));const off=pitch*4;
+c.fillStyle="#4688b0";c.fillRect(-330,-400+off,660,400);c.fillStyle="#936e51";c.fillRect(-330,off,660,440);
+for(const p of [-20,-10,0,10,20]){const y=off-p*4;const w=p===0?300:p%20===0?120:65;line(c,-w/2,y,w/2,y,p===0?"#fff7e8":"#f3f5f5",p===0?3:2);if(p!==0){text(c,Math.abs(p),-w/2-18,y,11);text(c,Math.abs(p),w/2+18,y,11)}}
+c.restore();c.strokeStyle="#d9e4e7";c.lineWidth=4;c.beginPath();c.arc(0,0,161,0,PI*2);c.stroke();
+for(const b of [-60,-45,-30,-20,-10,0,10,20,30,45,60]){c.save();c.rotate(rad(b));line(c,0,-161,0,b%30===0?-143:-151,"#fff",3);c.restore()}
+c.fillStyle="#edcb59";c.beginPath();c.moveTo(-62,0);c.lineTo(-21,0);c.lineTo(-13,9);c.lineTo(13,9);c.lineTo(21,0);c.lineTo(62,0);c.lineTo(62,5);c.lineTo(23,5);c.lineTo(12,18);c.lineTo(-12,18);c.lineTo(-23,5);c.lineTo(-62,5);c.closePath();c.fill();
+c.fillStyle="#ffda56";c.beginPath();c.moveTo(0,-154);c.lineTo(-8,-137);c.lineTo(8,-137);c.fill();}
+function altitude(c,v,id="altDial"){c=prepare(id);
+const hund=(v%1000)/1000*2*PI,thou=(v%10000)/10000*2*PI;
+for(let i=0;i<10;i++){let a=2*PI*i/10;text(c,i,Math.sin(a)*120,-Math.cos(a)*120,23)}
+for(let i=0;i<50;i++){const a=2*PI*i/50;c.save();c.rotate(a);line(c,0,-151,0,i%5===0?-140:-146,"#f0f4f5",i%5===0?3:1.5);c.restore()}
+needle(c,hund,119);c.save();c.rotate(thou);line(c,0,15,0,-75,"#9cd1d7",8);c.restore();text(c,v.toLocaleString("cs-CZ"),0,83,23);text(c,"FT",0,53,17);text(c,"QNH "+settings.qnh,0,-45,15,"#b8d6d7");}
+function heading(c,h){c=prepare("headingDial");for(let i=0;i<36;i++){let a=rad(i*10-h);c.save();c.rotate(a);line(c,0,-155,0,i%3===0?-135:-148,"#f5f5f5",i%3===0?3:2);c.restore();if(i%3===0){const lbl=i===0?"N":i===9?"E":i===18?"S":i===27?"W":String(i*10/10);text(c,lbl,Math.sin(a)*113,-Math.cos(a)*113,20)}}line(c,-50,0,50,0,"#e9d071",4);line(c,0,-31,0,30,"#e9d071",4);c.fillStyle="#efcf55";c.beginPath();c.moveTo(0,-168);c.lineTo(-9,-146);c.lineTo(9,-146);c.fill();text(c,String(Math.round(h)).padStart(3,"0")+"°",0,80,24);}
+function vsi(c,v,id="vsiDial"){c=prepare(id);for(let i=-2;i<=2;i++){const a=rad(i*60);c.save();c.rotate(a);line(c,0,-151,0,-135,"#fff",3);c.restore();text(c,Math.abs(i),Math.sin(a)*108,-Math.cos(a)*108,24)}needle(c,rad(Math.max(-2,Math.min(2,v/1000))*60),125);text(c,"VERT SPEED",0,56,16);text(c,"1000 FT/MIN",0,77,15);text(c,v>0?"CLIMB":v<0?"DESCEND":"LEVEL",0,104,17);}
+function turn(c,rate,slip){c=prepare("turnDial");line(c,-118,-75,118,-75,"#e3ecee",3);text(c,"TURN COORDINATOR",0,-119,15);for(const k of [-3,0,3]){let x=k/3*103;line(c,x,-88,x,-59,"#f4f4f4",4)}const angle=rad(Math.max(-3,Math.min(3,rate))/3*30);c.save();c.rotate(angle);c.fillStyle="#e2eef0";c.beginPath();c.moveTo(-105,12);c.lineTo(-21,1);c.lineTo(-7,-23);c.lineTo(7,-23);c.lineTo(21,1);c.lineTo(105,12);c.lineTo(15,17);c.lineTo(8,52);c.lineTo(-8,52);c.lineTo(-15,17);c.closePath();c.fill();c.restore();c.fillStyle="#384b57";c.fillRect(-70,101,140,17);line(c,-18,97,-18,124,"#dbe5e5",3);line(c,18,97,18,124,"#dbe5e5",3);c.beginPath();c.arc(Math.max(-55,Math.min(55,slip*.52)),109,12,0,2*PI);c.fillStyle="#f4f4f4";c.fill();text(c,"L", -134,-48,18);text(c,"R",134,-48,18);}
+function render(){const v={};controls.forEach(name=>{v[name]=Number($(name).value);settings[name]=v[name]});
+$("speedVal").textContent=v.speed+" kt";$("rollVal").textContent=v.roll+"°";$("pitchVal").textContent=v.pitch+"°";$("altitudeVal").textContent=v.altitude.toLocaleString("cs-CZ")+" ft";$("headingVal").textContent=v.heading+"°";$("verticalVal").textContent=v.vertical+" ft/min";$("turnVal").textContent=v.turn+"°/s";$("slipVal").textContent=v.slip+" %";$("qnhVal").textContent=v.qnh+" hPa";
+$("speedRead").textContent=v.speed+" kt";$("attitudeRead").textContent=v.pitch+"° / "+v.roll+"°";$("altRead").textContent=v.altitude.toLocaleString("cs-CZ")+" ft";$("headingRead").textContent=String(v.heading).padStart(3,"0")+"°";$("vsiRead").textContent=v.vertical+" ft/min";$("turnRead").textContent=v.turn+"°/s";
+speed(null,v.speed);attitude(null,v.pitch,v.roll);altitude(null,v.altitude);heading(null,v.heading);vsi(null,v.vertical);turn(null,v.turn,v.slip);
+}
+controls.forEach(k=>$(k).addEventListener("input",render));
+$("reset").onclick=()=>{const initial={speed:95,roll:0,pitch:0,altitude:3000,heading:90,vertical:0,turn:0,slip:0,qnh:1013};controls.forEach(k=>$(k).value=initial[k]);render()};
+let current=0,selected=null,checked=false;
+function scene(){const s=scenarios[current];$("questionCount").textContent=(current+1)+" / "+scenarios.length;$("scenarioText").textContent=s.prompt;attitude(null,s.pitch,s.roll,"trainAttitude");vsi(null,s.vertical,"trainVsi");$("scenarioOptions").replaceChildren();selected=null;checked=false;$("scenarioFeedback").hidden=true;s.choices.forEach((choice,i)=>{const label=document.createElement("label");const radio=document.createElement("input");radio.type="radio";radio.name="scenario";radio.value=i;radio.onchange=()=>{selected=i};label.append(radio,document.createTextNode(choice));$("scenarioOptions").append(label)});}
+$("check").onclick=()=>{if(checked)return;const box=$("scenarioFeedback");box.hidden=false;const s=scenarios[current];if(selected===null){box.textContent="Nejprve vyber jednu odpověď.";return}checked=true;box.classList.toggle("bad",selected!==s.correct);box.textContent=(selected===s.correct?"Správně. ":"Správná odpověď: "+s.choices[s.correct]+". ")+s.why;document.querySelectorAll("#scenarioOptions input").forEach(x=>x.disabled=true)};
+$("next").onclick=()=>{current=(current+1)%scenarios.length;scene()};
+document.querySelectorAll("[data-tab]").forEach(button=>button.onclick=()=>{const target=button.dataset.tab;document.querySelectorAll("[data-tab]").forEach(x=>x.classList.toggle("active",x===button));document.querySelectorAll(".tab-pane").forEach(x=>x.hidden=x.id!==target);if(target==="train")scene();});
+render();scene();
+})();

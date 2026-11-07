@@ -6758,7 +6758,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-1-p8-36"
+      "id": "3-meteorologie-letoun-1-p8-36",
+      "explanation": "Anabatický vítr proudí po osluněném svahu vzhůru. Vzniká, když se vzduch nad svahem ohřeje, zřídne a začne stoupat."
     },
     {
       "sourceNumber": "37",
@@ -6774,7 +6775,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-1-p8-37"
+      "id": "3-meteorologie-letoun-1-p8-37",
+      "explanation": "Katabatický vítr proudí po svahu dolů, často v noci, kdy se vzduch nad ochlazeným povrchem stává hustším a stéká do údolí."
     },
     {
       "sourceNumber": "38",
@@ -6790,7 +6792,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-1-p8-38"
+      "id": "3-meteorologie-letoun-1-p8-38",
+      "explanation": "Na závětrné straně pohoří vzduch sestupuje a adiabaticky se otepluje. Jde o závětrné sestupné proudění; ne každý takový sestup je v přísném meteorologickém smyslu katabatický vítr."
     },
     {
       "sourceNumber": "39",
@@ -6806,7 +6809,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-1-p8-39"
+      "id": "3-meteorologie-letoun-1-p8-39",
+      "explanation": "Fén vzniká při proudění přes horskou překážku. Na návětrné straně může vzduch vystupovat a ztrácet vlhkost; na závětrné straně sestupuje, adiabaticky se otepluje a bývá sušší. Může jej provázet silná turbulence."
     },
     {
       "sourceNumber": "40",
@@ -6822,7 +6826,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 8,
-      "id": "3-meteorologie-letoun-1-p8-40"
+      "id": "3-meteorologie-letoun-1-p8-40",
+      "explanation": "Na závětrné straně pohoří mohou při silném proudění vznikat horské vlny a rotory. Rotor je oblast výrazně turbulentního vířivého proudění, nebezpečná zejména v malé výšce."
     },
     {
       "sourceNumber": "41",
@@ -6838,7 +6843,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-1-p9-41"
+      "id": "3-meteorologie-letoun-1-p9-41",
+      "explanation": "Pod kupovitou oblačností často působí termické výstupné proudy a kompenzační sestupy, které způsobují turbulence. Slovo „vždy“ je z fyzikálního hlediska příliš absolutní: intenzita závisí na konkrétních podmínkách."
     },
     {
       "sourceNumber": "42",
@@ -6854,7 +6860,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-1-p9-42"
+      "id": "3-meteorologie-letoun-1-p9-42",
+      "explanation": "Rotorová oblačnost na závětrné straně hor signalizuje silné vířivé proudění v horské vlně. V okolí rotoru lze očekávat i silnou turbulenci a výrazné vertikální pohyby."
     },
     {
       "sourceNumber": "43",
@@ -6870,7 +6877,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-1-p9-43"
+      "id": "3-meteorologie-letoun-1-p9-43",
+      "explanation": "Voda se v atmosféře vyskytuje jako vodní pára (plyn), kapalné kapky a pevné částice ledu či sněhu. Oblaky mohou obsahovat více skupenství současně."
     },
     {
       "sourceNumber": "44",
@@ -6886,7 +6894,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-1-p9-44"
+      "id": "3-meteorologie-letoun-1-p9-44",
+      "explanation": "Pokud se nemění množství vodní páry ani tlak, rosný bod zůstává přibližně stejný. Ochlazováním se teplota přibližuje rosnému bodu a relativní vlhkost roste k 100 %."
     },
     {
       "sourceNumber": "45",
@@ -6902,7 +6911,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 9,
-      "id": "3-meteorologie-letoun-1-p9-45"
+      "id": "3-meteorologie-letoun-1-p9-45",
+      "explanation": "Při neměnném obsahu vodní páry se rosný bod přibližně nemění, zatímco teplota vzduchu roste. Rozdíl T−Td se zvětšuje a relativní vlhkost klesá."
     },
     {
       "sourceNumber": "46",
@@ -6918,7 +6928,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-1-p10-46"
+      "id": "3-meteorologie-letoun-1-p10-46",
+      "explanation": "Deficit rosného bodu je rozdíl mezi teplotou vzduchu a teplotou rosného bodu (T−Td). Malý rozdíl znamená vzduch blízký nasycení a vyšší pravděpodobnost mlhy či nízké oblačnosti."
     },
     {
       "sourceNumber": "47",
@@ -6934,7 +6945,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-1-p10-47"
+      "id": "3-meteorologie-letoun-1-p10-47",
+      "explanation": "Při ochlazení vzduchu bez změny množství vodní páry se zmenšuje rozdíl teploty a rosného bodu. Relativní vlhkost roste; při dosažení rosného bodu může začít kondenzace."
     },
     {
       "sourceNumber": "48",
@@ -6950,7 +6962,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-1-p10-48"
+      "id": "3-meteorologie-letoun-1-p10-48",
+      "explanation": "Při kondenzaci vodní páry na kapalné kapičky se do okolního vzduchu uvolňuje skupenské teplo. Tím se ochlazování stoupajícího nasyceného vzduchu zpomaluje."
     },
     {
       "sourceNumber": "49",
@@ -6966,7 +6979,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-1-p10-49"
+      "id": "3-meteorologie-letoun-1-p10-49",
+      "explanation": "Nasycený vzduch při výstupu kondenzuje a uvolňuje latentní teplo. Proto se obvykle ochlazuje pomaleji než suchý vzduch; vlhký adiabatický gradient závisí na teplotě a tlaku."
     },
     {
       "sourceNumber": "50",
@@ -6982,7 +6996,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 10,
-      "id": "3-meteorologie-letoun-1-p10-50"
+      "id": "3-meteorologie-letoun-1-p10-50",
+      "explanation": "Suchý adiabatický gradient je přibližně 9,8 °C/km, tedy 1 °C na 100 m. Platí pro nenasycený vzduch při adiabatickém výstupu či sestupu."
     },
     {
       "sourceNumber": "51",
@@ -6998,7 +7013,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-1-p11-51"
+      "id": "3-meteorologie-letoun-1-p11-51",
+      "explanation": "V učebnicových úlohách se často používá orientačně 0,6 °C na 100 m. Skutečný vlhký adiabatický gradient není konstantní, mění se podle teploty a tlaku."
     },
     {
       "sourceNumber": "52",
@@ -7014,7 +7030,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-1-p11-52"
+      "id": "3-meteorologie-letoun-1-p11-52",
+      "explanation": "Podmíněná instabilita znamená, že nenasycený vzduch může být stabilní, ale po dosažení nasycení a dostatečném zdvihu může vzniknout výrazná konvekce, věžovité kumuly, přeháňky či bouřky."
     },
     {
       "sourceNumber": "53",
@@ -7030,7 +7047,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-1-p11-53"
+      "id": "3-meteorologie-letoun-1-p11-53",
+      "explanation": "Advekční mlha vzniká při přesunu teplého vlhkého vzduchu nad chladnější povrch. Vzduch se odspodu ochlazuje k rosnému bodu a kondenzuje."
     },
     {
       "sourceNumber": "54",
@@ -7046,7 +7064,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-1-p11-54"
+      "id": "3-meteorologie-letoun-1-p11-54",
+      "explanation": "Základní vzhledové skupiny oblaků zahrnují kupovité (cumuliformní), vrstevnaté (stratiformní) a řasovité (cirriformní). Úplná klasifikace WMO rozlišuje deset hlavních rodů."
     },
     {
       "sourceNumber": "55",
@@ -7062,7 +7081,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 11,
-      "id": "3-meteorologie-letoun-1-p11-55"
+      "id": "3-meteorologie-letoun-1-p11-55",
+      "explanation": "Předpona cirro- označuje vysoké oblaky, například Cirrostratus a Cirrocumulus. Samostatný rod Cirrus tvoří jemné vláknité oblaky z ledových krystalků."
     },
     {
       "sourceNumber": "56",
@@ -7132,7 +7152,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-1-p12-59"
+      "id": "3-meteorologie-letoun-1-p12-59",
+      "explanation": "Inverze vytváří stabilní vrstvu, která omezuje další výstup konvekčních proudů. Může proto zastavit nebo zpomalit vertikální růst kumulovité oblačnosti."
     },
     {
       "sourceNumber": "60",
@@ -7148,7 +7169,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 12,
-      "id": "3-meteorologie-letoun-1-p12-60"
+      "id": "3-meteorologie-letoun-1-p12-60",
+      "explanation": "Malý rozdíl mezi teplotou vzduchu a rosným bodem ukazuje blízkost nasycení. Další ochlazování může vyvolat kondenzaci a tvorbu mlhy, zvláště při slabém větru."
     },
     {
       "sourceNumber": "61",
@@ -7164,7 +7186,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-1-p13-61"
+      "id": "3-meteorologie-letoun-1-p13-61",
+      "explanation": "Oblačnost omezuje noční vyzařování tepla ze zemského povrchu a tím jeho ochlazování. Zatažená obloha proto obvykle snižuje pravděpodobnost radiační mlhy."
     },
     {
       "sourceNumber": "62",
@@ -7180,7 +7203,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-1-p13-62"
+      "id": "3-meteorologie-letoun-1-p13-62",
+      "explanation": "Teplý vlhký vzduch proudící nad studenou zemí nebo vodou se ochlazuje až na rosný bod. Vzniklá kondenzace vytváří advekční mlhu, která se může udržovat i při mírném větru."
     },
     {
       "sourceNumber": "63",
@@ -7196,7 +7220,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-1-p13-63"
+      "id": "3-meteorologie-letoun-1-p13-63",
+      "explanation": "Vlhký vzduch nucený vystupovat po horském svahu se adiabaticky ochlazuje. Po dosažení rosného bodu kondenzuje a může zahalit svah mlhou nebo nízkou oblačností."
     },
     {
       "sourceNumber": "64",
@@ -7212,7 +7237,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-1-p13-64"
+      "id": "3-meteorologie-letoun-1-p13-64",
+      "explanation": "Srážkové částice vznikají růstem kapek srážkami a splýváním nebo ledovými procesy. Výstupné proudy podporují růst velkých částic, ale nejsou nezbytnou podmínkou každého druhu srážek; formulace testu je zjednodušená."
     },
     {
       "sourceNumber": "65",
@@ -7228,7 +7254,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 13,
-      "id": "3-meteorologie-letoun-1-p13-65"
+      "id": "3-meteorologie-letoun-1-p13-65",
+      "explanation": "Silné výstupné proudy mohou udržovat kapky a ledové částice v oblaku déle, takže mají čas růst, zvláště při tvorbě krup. Ne všechny srážky však vyžadují silné výstupné proudy."
     },
     {
       "sourceNumber": "66",
@@ -7244,7 +7271,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-1-p14-66"
+      "id": "3-meteorologie-letoun-1-p14-66",
+      "explanation": "Nimbostratus (Ns) je mohutná vrstevnatá oblačnost typicky spojená s rozsáhlými a déletrvajícími srážkami, často v oblasti teplé fronty."
     },
     {
       "sourceNumber": "67",
@@ -7260,7 +7288,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-1-p14-67"
+      "id": "3-meteorologie-letoun-1-p14-67",
+      "explanation": "Cumulonimbus (Cb) je bouřkový oblak s výrazným vertikálním rozvojem. Může přinést intenzivní přeháňky, bouřky, kroupy i silné poryvy větru."
     },
     {
       "sourceNumber": "68",
@@ -7276,7 +7305,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-1-p14-68"
+      "id": "3-meteorologie-letoun-1-p14-68",
+      "explanation": "Vzduch přicházející v zimě z vnitrozemí Ruska má často charakter kontinentální polární vzduchové hmoty: je studený a poměrně suchý."
     },
     {
       "sourceNumber": "69",
@@ -7292,7 +7322,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 14,
-      "id": "3-meteorologie-letoun-1-p14-69"
+      "id": "3-meteorologie-letoun-1-p14-69",
+      "explanation": "Vzduchová hmota získává teplotní a vlhkostní vlastnosti v oblasti svého původu. Během přesunu se může dále měnit podle podkladu, nad nímž proudí."
     },
     {
       "sourceNumber": "70",
@@ -7394,7 +7425,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 15,
-      "id": "3-meteorologie-letoun-1-p15-75"
+      "id": "3-meteorologie-letoun-1-p15-75",
+      "explanation": "V teplém sektoru závisí dohlednost na vlhkosti, stabilitě a aerosolech. V létě může být střední až dobrá s protrhanou oblačností, ale nejde o univerzální pravidlo."
     },
     {
       "sourceNumber": "76",
@@ -7410,7 +7442,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-76"
+      "id": "3-meteorologie-letoun-1-p16-76",
+      "explanation": "Za studenou frontou často proudí čistší chladný vzduch, takže se dohlednost mezi přeháňkami zlepšuje. Při konvekci se však mohou tvořit kumuly a lokální přeháňky."
     },
     {
       "sourceNumber": "77",
@@ -7426,7 +7459,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-77"
+      "id": "3-meteorologie-letoun-1-p16-77",
+      "explanation": "Stacionární fronta je rozhraní dvou vzduchových hmot, které se výrazně neposouvá. V jejím okolí se může udržovat rozsáhlá oblačnost a srážky."
     },
     {
       "sourceNumber": "78",
@@ -7442,7 +7476,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-78"
+      "id": "3-meteorologie-letoun-1-p16-78",
+      "explanation": "Mimotropické frontální níže se obvykle přesouvají v převládajícím proudění ve středních zeměpisných šířkách. Jejich dráha často přibližně sleduje proudění nad teplým sektorem."
     },
     {
       "sourceNumber": "79",
@@ -7458,7 +7493,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-79"
+      "id": "3-meteorologie-letoun-1-p16-79",
+      "explanation": "Před příchodem teplé fronty tlak obvykle klesá, v teplém sektoru se jeho pokles zmírňuje a za studenou frontou často výrazně stoupá."
     },
     {
       "sourceNumber": "80",
@@ -7474,7 +7510,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 16,
-      "id": "3-meteorologie-letoun-1-p16-80"
+      "id": "3-meteorologie-letoun-1-p16-80",
+      "explanation": "Před studenou frontou tlak často klesá nebo dosahuje minima, za frontou typicky stoupá. Přechod může doprovázet změna větru a konvekční srážky."
     },
     {
       "sourceNumber": "81",
@@ -7490,7 +7527,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-81"
+      "id": "3-meteorologie-letoun-1-p17-81",
+      "explanation": "Na severní polokouli se při typickém přechodu frontální níže vítr často stáčí ve směru hodinových ručiček (veering). Skutečný průběh závisí na dráze a poloze níže."
     },
     {
       "sourceNumber": "82",
@@ -7506,7 +7544,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-82"
+      "id": "3-meteorologie-letoun-1-p17-82",
+      "explanation": "Subtropické pásy vysokého tlaku se nacházejí zhruba kolem 30° severní a jižní šířky. Vzduch zde v sestupné větvi Hadleyovy cirkulace klesá a vysušuje se."
     },
     {
       "sourceNumber": "83",
@@ -7522,7 +7561,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-83"
+      "id": "3-meteorologie-letoun-1-p17-83",
+      "explanation": "V letní tlakové výši převládá sestupný pohyb a stabilnější počasí, ale denní ohřev země může vyvolat menší kupovitou oblačnost typu Cumulus."
     },
     {
       "sourceNumber": "84",
@@ -7538,7 +7578,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-84"
+      "id": "3-meteorologie-letoun-1-p17-84",
+      "explanation": "Studenější vzduch ve vyšší troposféře zmenšuje tloušťku tlakových vrstev a může se projevit jako výšková brázda či tlaková níže. Zároveň může zvýšit instabilitu."
     },
     {
       "sourceNumber": "85",
@@ -7554,7 +7595,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 17,
-      "id": "3-meteorologie-letoun-1-p17-85"
+      "id": "3-meteorologie-letoun-1-p17-85",
+      "explanation": "Ochlazení vyšších vrstev atmosféry zvětšuje teplotní rozdíl vůči přízemnímu vzduchu a může podporovat konvekční instabilitu, přeháňky a bouřky."
     },
     {
       "sourceNumber": "86",
@@ -7570,7 +7612,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-86"
+      "id": "3-meteorologie-letoun-1-p18-86",
+      "explanation": "Chladnější vzduch má menší tloušťku mezi dvěma tlakovými hladinami (hypsometrická rovnice). Výšky tlakových hladin proto mohou klesat a vzniká výšková brázda."
     },
     {
       "sourceNumber": "87",
@@ -7586,7 +7629,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-87"
+      "id": "3-meteorologie-letoun-1-p18-87",
+      "explanation": "Výšková brázda bývá spojena s chladnějším vzduchem ve výšce a podporou výstupných pohybů. Při dostatku vlhkosti mohou vznikat přeháňky a bouřkové oblaky Cb."
     },
     {
       "sourceNumber": "88",
@@ -7602,7 +7646,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-88"
+      "id": "3-meteorologie-letoun-1-p18-88",
+      "explanation": "Polární fronta je rozhraní mezi teplejším subtropickým a chladnějším polárním vzduchem. V jejím pásmu vznikají významné frontální systémy."
     },
     {
       "sourceNumber": "89",
@@ -7618,7 +7663,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-89"
+      "id": "3-meteorologie-letoun-1-p18-89",
+      "explanation": "V letní anticykloně sestupné proudění často potlačuje rozsáhlou oblačnost. Může však vznikat mělká denní kupovitá oblačnost a místní cirkulace."
     },
     {
       "sourceNumber": "90",
@@ -7634,7 +7680,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 18,
-      "id": "3-meteorologie-letoun-1-p18-90"
+      "id": "3-meteorologie-letoun-1-p18-90",
+      "explanation": "V tlakové výši bývá malý horizontální tlakový gradient, izobary jsou vzdálené a synoptický vítr slabý. Mohou převládat místní větry, například údolní a svahové."
     },
     {
       "sourceNumber": "91",
@@ -7650,7 +7697,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-91"
+      "id": "3-meteorologie-letoun-1-p19-91",
+      "explanation": "V zimní tlakové výši může slabý vítr a radiační ochlazování podporovat přízemní inverzi, mlhy a nízkou vrstevnatou oblačnost, které mohou přetrvávat i přes den."
     },
     {
       "sourceNumber": "92",
@@ -7666,7 +7714,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-92"
+      "id": "3-meteorologie-letoun-1-p19-92",
+      "explanation": "Větší rozestupy izobar značí slabší tlakový gradient a obvykle slabší synoptický vítr. V takových podmínkách mohou být výraznější místní větrné systémy."
     },
     {
       "sourceNumber": "93",
@@ -7682,7 +7731,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-93"
+      "id": "3-meteorologie-letoun-1-p19-93",
+      "explanation": "Na návětrné straně hor je vzduch nucen stoupat, ochlazuje se a kondenzuje. Vzniká oblačnost, zhoršená dohlednost a často vydatnější srážky; na závětrné straně se vzduch otepluje a vysušuje."
     },
     {
       "sourceNumber": "94",
@@ -7698,7 +7748,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-94"
+      "id": "3-meteorologie-letoun-1-p19-94",
+      "explanation": "Mistrál je silný převážně severní až severozápadní vítr v jižní Francii. Jeho proudění se může urychlovat kanálováním v údolí Rhôny mezi horskými překážkami."
     },
     {
       "sourceNumber": "95",
@@ -7714,7 +7765,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 19,
-      "id": "3-meteorologie-letoun-1-p19-95"
+      "id": "3-meteorologie-letoun-1-p19-95",
+      "explanation": "Bora je studený nárazový vítr, který sestupuje z dinárských hor směrem k Jaderskému moři, typicky ze severovýchodních směrů. Formulace „od severozápadu“ v otázce je geograficky nepřesná."
     },
     {
       "sourceNumber": "96",
@@ -7730,7 +7782,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-96"
+      "id": "3-meteorologie-letoun-1-p20-96",
+      "explanation": "Námraza na letadle se tvoří při kontaktu s podchlazenými kapalnými kapkami, které na povrchu namrzají. Nebezpečné jsou zejména teploty těsně pod 0 °C, ale námraza může vznikat i při nižších teplotách."
     },
     {
       "sourceNumber": "97",
@@ -7746,7 +7799,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-97"
+      "id": "3-meteorologie-letoun-1-p20-97",
+      "explanation": "Velké množství podchlazené kapalné vody se často vyskytuje mezi 0 a přibližně −12 °C, proto je tento rozsah zvlášť rizikový. Námraza ale může vznikat i mimo něj."
     },
     {
       "sourceNumber": "98",
@@ -7762,7 +7816,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-98"
+      "id": "3-meteorologie-letoun-1-p20-98",
+      "explanation": "Zrnitá námraza (rime ice) vzniká rychlým zamrzáním drobných podchlazených kapek na náběžných hranách. Má zpravidla bělavou, porézní strukturu."
     },
     {
       "sourceNumber": "99",
@@ -7778,7 +7833,8 @@
       "aircraft": "Letoun",
       "sourceFile": "3-Meteorologie-letoun (1).pdf",
       "page": 20,
-      "id": "3-meteorologie-letoun-1-p20-99"
+      "id": "3-meteorologie-letoun-1-p20-99",
+      "explanation": "Průhledná námraza (clear ice) vzniká z větších podchlazených kapek, které po nárazu částečně stečou a teprve poté zmrznou. Vytváří hladší, tvrdé a často rozsáhlé ledové nánosy."
     },
     {
       "sourceNumber": "1",
@@ -8832,7 +8888,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-p8-37"
+      "id": "3-meteorologie-vrtulnik-p8-37",
+      "explanation": "Anabatický vítr proudí po osluněném svahu vzhůru. Vzniká, když se vzduch nad svahem ohřeje, zřídne a začne stoupat."
     },
     {
       "sourceNumber": "38",
@@ -8848,7 +8905,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-p8-38"
+      "id": "3-meteorologie-vrtulnik-p8-38",
+      "explanation": "Katabatický vítr proudí po svahu dolů, často v noci, kdy se vzduch nad ochlazeným povrchem stává hustším a stéká do údolí."
     },
     {
       "sourceNumber": "39",
@@ -8864,7 +8922,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-p8-39"
+      "id": "3-meteorologie-vrtulnik-p8-39",
+      "explanation": "Na závětrné straně pohoří vzduch sestupuje a adiabaticky se otepluje. Jde o závětrné sestupné proudění; ne každý takový sestup je v přísném meteorologickém smyslu katabatický vítr."
     },
     {
       "sourceNumber": "40",
@@ -8880,7 +8939,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 8,
-      "id": "3-meteorologie-vrtulnik-p8-40"
+      "id": "3-meteorologie-vrtulnik-p8-40",
+      "explanation": "Fén vzniká při proudění přes horskou překážku. Na návětrné straně může vzduch vystupovat a ztrácet vlhkost; na závětrné straně sestupuje, adiabaticky se otepluje a bývá sušší. Může jej provázet silná turbulence."
     },
     {
       "sourceNumber": "42",
@@ -8896,7 +8956,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-p9-42"
+      "id": "3-meteorologie-vrtulnik-p9-42",
+      "explanation": "Pod kupovitou oblačností často působí termické výstupné proudy a kompenzační sestupy, které způsobují turbulence. Slovo „vždy“ je z fyzikálního hlediska příliš absolutní: intenzita závisí na konkrétních podmínkách."
     },
     {
       "sourceNumber": "43",
@@ -8912,7 +8973,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-p9-43"
+      "id": "3-meteorologie-vrtulnik-p9-43",
+      "explanation": "Rotorová oblačnost na závětrné straně hor signalizuje silné vířivé proudění v horské vlně. V okolí rotoru lze očekávat i silnou turbulenci a výrazné vertikální pohyby."
     },
     {
       "sourceNumber": "44",
@@ -8928,7 +8990,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-p9-44"
+      "id": "3-meteorologie-vrtulnik-p9-44",
+      "explanation": "Voda se v atmosféře vyskytuje jako vodní pára (plyn), kapalné kapky a pevné částice ledu či sněhu. Oblaky mohou obsahovat více skupenství současně."
     },
     {
       "sourceNumber": "45",
@@ -8944,7 +9007,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 9,
-      "id": "3-meteorologie-vrtulnik-p9-45"
+      "id": "3-meteorologie-vrtulnik-p9-45",
+      "explanation": "Pokud se nemění množství vodní páry ani tlak, rosný bod zůstává přibližně stejný. Ochlazováním se teplota přibližuje rosnému bodu a relativní vlhkost roste k 100 %."
     },
     {
       "sourceNumber": "47",
@@ -8960,7 +9024,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-p10-47"
+      "id": "3-meteorologie-vrtulnik-p10-47",
+      "explanation": "Deficit rosného bodu je rozdíl mezi teplotou vzduchu a teplotou rosného bodu (T−Td). Malý rozdíl znamená vzduch blízký nasycení a vyšší pravděpodobnost mlhy či nízké oblačnosti."
     },
     {
       "sourceNumber": "48",
@@ -8976,7 +9041,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-p10-48"
+      "id": "3-meteorologie-vrtulnik-p10-48",
+      "explanation": "Při ochlazení vzduchu bez změny množství vodní páry se zmenšuje rozdíl teploty a rosného bodu. Relativní vlhkost roste; při dosažení rosného bodu může začít kondenzace."
     },
     {
       "sourceNumber": "49",
@@ -8992,7 +9058,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-p10-49"
+      "id": "3-meteorologie-vrtulnik-p10-49",
+      "explanation": "Při kondenzaci vodní páry na kapalné kapičky se do okolního vzduchu uvolňuje skupenské teplo. Tím se ochlazování stoupajícího nasyceného vzduchu zpomaluje."
     },
     {
       "sourceNumber": "50",
@@ -9008,7 +9075,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 10,
-      "id": "3-meteorologie-vrtulnik-p10-50"
+      "id": "3-meteorologie-vrtulnik-p10-50",
+      "explanation": "Nasycený vzduch při výstupu kondenzuje a uvolňuje latentní teplo. Proto se obvykle ochlazuje pomaleji než suchý vzduch; vlhký adiabatický gradient závisí na teplotě a tlaku."
     },
     {
       "sourceNumber": "52",
@@ -9024,7 +9092,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-p11-52"
+      "id": "3-meteorologie-vrtulnik-p11-52",
+      "explanation": "V učebnicových úlohách se často používá orientačně 0,6 °C na 100 m. Skutečný vlhký adiabatický gradient není konstantní, mění se podle teploty a tlaku."
     },
     {
       "sourceNumber": "53",
@@ -9040,7 +9109,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-p11-53"
+      "id": "3-meteorologie-vrtulnik-p11-53",
+      "explanation": "Podmíněná instabilita znamená, že nenasycený vzduch může být stabilní, ale po dosažení nasycení a dostatečném zdvihu může vzniknout výrazná konvekce, věžovité kumuly, přeháňky či bouřky."
     },
     {
       "sourceNumber": "54",
@@ -9056,7 +9126,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-p11-54"
+      "id": "3-meteorologie-vrtulnik-p11-54",
+      "explanation": "Advekční mlha vzniká při přesunu teplého vlhkého vzduchu nad chladnější povrch. Vzduch se odspodu ochlazuje k rosnému bodu a kondenzuje."
     },
     {
       "sourceNumber": "55",
@@ -9072,7 +9143,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 11,
-      "id": "3-meteorologie-vrtulnik-p11-55"
+      "id": "3-meteorologie-vrtulnik-p11-55",
+      "explanation": "Základní vzhledové skupiny oblaků zahrnují kupovité (cumuliformní), vrstevnaté (stratiformní) a řasovité (cirriformní). Úplná klasifikace WMO rozlišuje deset hlavních rodů."
     },
     {
       "sourceNumber": "57",
@@ -9142,7 +9214,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 12,
-      "id": "3-meteorologie-vrtulnik-p12-60"
+      "id": "3-meteorologie-vrtulnik-p12-60",
+      "explanation": "Inverze vytváří stabilní vrstvu, která omezuje další výstup konvekčních proudů. Může proto zastavit nebo zpomalit vertikální růst kumulovité oblačnosti."
     },
     {
       "sourceNumber": "62",
@@ -9158,7 +9231,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-p13-62"
+      "id": "3-meteorologie-vrtulnik-p13-62",
+      "explanation": "Oblačnost omezuje noční vyzařování tepla ze zemského povrchu a tím jeho ochlazování. Zatažená obloha proto obvykle snižuje pravděpodobnost radiační mlhy."
     },
     {
       "sourceNumber": "63",
@@ -9174,7 +9248,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-p13-63"
+      "id": "3-meteorologie-vrtulnik-p13-63",
+      "explanation": "Teplý vlhký vzduch proudící nad studenou zemí nebo vodou se ochlazuje až na rosný bod. Vzniklá kondenzace vytváří advekční mlhu, která se může udržovat i při mírném větru."
     },
     {
       "sourceNumber": "64",
@@ -9190,7 +9265,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-p13-64"
+      "id": "3-meteorologie-vrtulnik-p13-64",
+      "explanation": "Vlhký vzduch nucený vystupovat po horském svahu se adiabaticky ochlazuje. Po dosažení rosného bodu kondenzuje a může zahalit svah mlhou nebo nízkou oblačností."
     },
     {
       "sourceNumber": "65",
@@ -9206,7 +9282,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 13,
-      "id": "3-meteorologie-vrtulnik-p13-65"
+      "id": "3-meteorologie-vrtulnik-p13-65",
+      "explanation": "Srážkové částice vznikají růstem kapek srážkami a splýváním nebo ledovými procesy. Výstupné proudy podporují růst velkých částic, ale nejsou nezbytnou podmínkou každého druhu srážek; formulace testu je zjednodušená."
     },
     {
       "sourceNumber": "67",
@@ -9222,7 +9299,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-p14-67"
+      "id": "3-meteorologie-vrtulnik-p14-67",
+      "explanation": "Nimbostratus (Ns) je mohutná vrstevnatá oblačnost typicky spojená s rozsáhlými a déletrvajícími srážkami, často v oblasti teplé fronty."
     },
     {
       "sourceNumber": "68",
@@ -9238,7 +9316,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-p14-68"
+      "id": "3-meteorologie-vrtulnik-p14-68",
+      "explanation": "Vzduch přicházející v zimě z vnitrozemí Ruska má často charakter kontinentální polární vzduchové hmoty: je studený a poměrně suchý."
     },
     {
       "sourceNumber": "69",
@@ -9254,7 +9333,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 14,
-      "id": "3-meteorologie-vrtulnik-p14-69"
+      "id": "3-meteorologie-vrtulnik-p14-69",
+      "explanation": "Vzduchová hmota získává teplotní a vlhkostní vlastnosti v oblasti svého původu. Během přesunu se může dále měnit podle podkladu, nad nímž proudí."
     },
     {
       "sourceNumber": "70",
@@ -9338,7 +9418,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 15,
-      "id": "3-meteorologie-vrtulnik-p15-75"
+      "id": "3-meteorologie-vrtulnik-p15-75",
+      "explanation": "V teplém sektoru závisí dohlednost na vlhkosti, stabilitě a aerosolech. V létě může být střední až dobrá s protrhanou oblačností, ale nejde o univerzální pravidlo."
     },
     {
       "sourceNumber": "77",
@@ -9354,7 +9435,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-p16-77"
+      "id": "3-meteorologie-vrtulnik-p16-77",
+      "explanation": "Stacionární fronta je rozhraní dvou vzduchových hmot, které se výrazně neposouvá. V jejím okolí se může udržovat rozsáhlá oblačnost a srážky."
     },
     {
       "sourceNumber": "78",
@@ -9370,7 +9452,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-p16-78"
+      "id": "3-meteorologie-vrtulnik-p16-78",
+      "explanation": "Mimotropické frontální níže se obvykle přesouvají v převládajícím proudění ve středních zeměpisných šířkách. Jejich dráha často přibližně sleduje proudění nad teplým sektorem."
     },
     {
       "sourceNumber": "79",
@@ -9386,7 +9469,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-p16-79"
+      "id": "3-meteorologie-vrtulnik-p16-79",
+      "explanation": "Před příchodem teplé fronty tlak obvykle klesá, v teplém sektoru se jeho pokles zmírňuje a za studenou frontou často výrazně stoupá."
     },
     {
       "sourceNumber": "80",
@@ -9402,7 +9486,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 16,
-      "id": "3-meteorologie-vrtulnik-p16-80"
+      "id": "3-meteorologie-vrtulnik-p16-80",
+      "explanation": "Před studenou frontou tlak často klesá nebo dosahuje minima, za frontou typicky stoupá. Přechod může doprovázet změna větru a konvekční srážky."
     },
     {
       "sourceNumber": "82",
@@ -9418,7 +9503,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-p17-82"
+      "id": "3-meteorologie-vrtulnik-p17-82",
+      "explanation": "Subtropické pásy vysokého tlaku se nacházejí zhruba kolem 30° severní a jižní šířky. Vzduch zde v sestupné větvi Hadleyovy cirkulace klesá a vysušuje se."
     },
     {
       "sourceNumber": "83",
@@ -9434,7 +9520,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-p17-83"
+      "id": "3-meteorologie-vrtulnik-p17-83",
+      "explanation": "V letní tlakové výši převládá sestupný pohyb a stabilnější počasí, ale denní ohřev země může vyvolat menší kupovitou oblačnost typu Cumulus."
     },
     {
       "sourceNumber": "84",
@@ -9450,7 +9537,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-p17-84"
+      "id": "3-meteorologie-vrtulnik-p17-84",
+      "explanation": "Studenější vzduch ve vyšší troposféře zmenšuje tloušťku tlakových vrstev a může se projevit jako výšková brázda či tlaková níže. Zároveň může zvýšit instabilitu."
     },
     {
       "sourceNumber": "85",
@@ -9466,7 +9554,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 17,
-      "id": "3-meteorologie-vrtulnik-p17-85"
+      "id": "3-meteorologie-vrtulnik-p17-85",
+      "explanation": "Ochlazení vyšších vrstev atmosféry zvětšuje teplotní rozdíl vůči přízemnímu vzduchu a může podporovat konvekční instabilitu, přeháňky a bouřky."
     },
     {
       "sourceNumber": "87",
@@ -9482,7 +9571,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-p18-87"
+      "id": "3-meteorologie-vrtulnik-p18-87",
+      "explanation": "Výšková brázda bývá spojena s chladnějším vzduchem ve výšce a podporou výstupných pohybů. Při dostatku vlhkosti mohou vznikat přeháňky a bouřkové oblaky Cb."
     },
     {
       "sourceNumber": "88",
@@ -9498,7 +9588,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-p18-88"
+      "id": "3-meteorologie-vrtulnik-p18-88",
+      "explanation": "Polární fronta je rozhraní mezi teplejším subtropickým a chladnějším polárním vzduchem. V jejím pásmu vznikají významné frontální systémy."
     },
     {
       "sourceNumber": "89",
@@ -9514,7 +9605,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-p18-89"
+      "id": "3-meteorologie-vrtulnik-p18-89",
+      "explanation": "V letní anticykloně sestupné proudění často potlačuje rozsáhlou oblačnost. Může však vznikat mělká denní kupovitá oblačnost a místní cirkulace."
     },
     {
       "sourceNumber": "90",
@@ -9530,7 +9622,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 18,
-      "id": "3-meteorologie-vrtulnik-p18-90"
+      "id": "3-meteorologie-vrtulnik-p18-90",
+      "explanation": "V tlakové výši bývá malý horizontální tlakový gradient, izobary jsou vzdálené a synoptický vítr slabý. Mohou převládat místní větry, například údolní a svahové."
     },
     {
       "sourceNumber": "92",
@@ -9546,7 +9639,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-p19-92"
+      "id": "3-meteorologie-vrtulnik-p19-92",
+      "explanation": "Větší rozestupy izobar značí slabší tlakový gradient a obvykle slabší synoptický vítr. V takových podmínkách mohou být výraznější místní větrné systémy."
     },
     {
       "sourceNumber": "93",
@@ -9562,7 +9656,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-p19-93"
+      "id": "3-meteorologie-vrtulnik-p19-93",
+      "explanation": "Na návětrné straně hor je vzduch nucen stoupat, ochlazuje se a kondenzuje. Vzniká oblačnost, zhoršená dohlednost a často vydatnější srážky; na závětrné straně se vzduch otepluje a vysušuje."
     },
     {
       "sourceNumber": "94",
@@ -9578,7 +9673,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-p19-94"
+      "id": "3-meteorologie-vrtulnik-p19-94",
+      "explanation": "Mistrál je silný převážně severní až severozápadní vítr v jižní Francii. Jeho proudění se může urychlovat kanálováním v údolí Rhôny mezi horskými překážkami."
     },
     {
       "sourceNumber": "95",
@@ -9594,7 +9690,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 19,
-      "id": "3-meteorologie-vrtulnik-p19-95"
+      "id": "3-meteorologie-vrtulnik-p19-95",
+      "explanation": "Bora je studený nárazový vítr, který sestupuje z dinárských hor směrem k Jaderskému moři, typicky ze severovýchodních směrů. Formulace „od severozápadu“ v otázce je geograficky nepřesná."
     },
     {
       "sourceNumber": "97",
@@ -9610,7 +9707,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-p20-97"
+      "id": "3-meteorologie-vrtulnik-p20-97",
+      "explanation": "Velké množství podchlazené kapalné vody se často vyskytuje mezi 0 a přibližně −12 °C, proto je tento rozsah zvlášť rizikový. Námraza ale může vznikat i mimo něj."
     },
     {
       "sourceNumber": "98",
@@ -9626,7 +9724,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-p20-98"
+      "id": "3-meteorologie-vrtulnik-p20-98",
+      "explanation": "Zrnitá námraza (rime ice) vzniká rychlým zamrzáním drobných podchlazených kapek na náběžných hranách. Má zpravidla bělavou, porézní strukturu."
     },
     {
       "sourceNumber": "99",
@@ -9642,7 +9741,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 20,
-      "id": "3-meteorologie-vrtulnik-p20-99"
+      "id": "3-meteorologie-vrtulnik-p20-99",
+      "explanation": "Průhledná námraza (clear ice) vzniká z větších podchlazených kapek, které po nárazu částečně stečou a teprve poté zmrznou. Vytváří hladší, tvrdé a často rozsáhlé ledové nánosy."
     },
     {
       "sourceNumber": "100",

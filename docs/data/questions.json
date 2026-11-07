@@ -1514,7 +1514,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-12"
+      "id": "5-letove-zasady-vrtulnik-p3-12",
+      "explanation": "Obvodová rychlost bodu rotorového listu je součinem úhlové rychlosti a vzdálenosti od osy rotace (v = ωr). Proto při stejných otáčkách roste od kořene ke konci listu a mění se i výsledná rychlost obtékání. Formulace správné varianty vyjadřuje, že blíže ke konci listu je obvodová rychlost větší."
     },
     {
       "sourceNumber": "13",
@@ -1562,7 +1563,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-15"
+      "id": "5-letove-zasady-vrtulnik-p3-15",
+      "explanation": "Aerodynamický střed profilu je místo, vůči němuž se klopivý moment při změně úhlu náběhu mění jen málo. Otázka používá termín „neutrální bod“; podstatná je zde přibližná stálost aerodynamického momentu, nikoli nulový moment."
     },
     {
       "sourceNumber": "16",
@@ -1594,7 +1596,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-17"
+      "id": "5-letove-zasady-vrtulnik-p4-17",
+      "explanation": "Půdorysný tvar a geometrické zkroucení rotorového listu ovlivňují místní tětivu, rychlost obtékání i úhel náběhu. Tím určují rozložení vztlaku po poloměru rotoru; ostatní možnosti nejsou přímým obecným důsledkem samotného tvaru."
     },
     {
       "sourceNumber": "18",
@@ -1610,7 +1613,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-18"
+      "id": "5-letove-zasady-vrtulnik-p4-18",
+      "explanation": "Rotor vírníku je při běžném letu poháněn autorotací: proud vzduchu procházející rotorem vytváří hnací aerodynamický moment. Motor zpravidla pohání samostatnou vrtuli pro dopředný tah, nikoli trvale hlavní rotor."
     },
     {
       "sourceNumber": "19",
@@ -1626,7 +1630,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-19"
+      "id": "5-letove-zasady-vrtulnik-p4-19",
+      "explanation": "Otáčky poháněného rotoru se udržují změnou výkonu motoru pomocí plynu a regulátoru otáček (governoru). Kolektiv mění nastavení listů a tím zatížení rotoru, ale sám není přímým regulátorem otáček."
     },
     {
       "sourceNumber": "20",
@@ -1642,7 +1647,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 4,
-      "id": "5-letove-zasady-vrtulnik-p4-20"
+      "id": "5-letove-zasady-vrtulnik-p4-20",
+      "explanation": "Teorie hybnosti (momentum theory) popisuje rotor jako disk, který urychluje proud vzduchu. Z potřebného tahu a indukované rychlosti lze odhadnout indukovaný výkon, a tím i požadavky na výkon při visu."
     },
     {
       "sourceNumber": "21",
@@ -1658,7 +1664,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-21"
+      "id": "5-letove-zasady-vrtulnik-p5-21",
+      "explanation": "Při visu rotor urychluje vzduch směrem dolů. V ideálním modelu proud za rotorovým diskem dále zrychluje až do vzdálenějšího proudu; rychlost v proudu za rotorem je vyšší než v rovině disku."
     },
     {
       "sourceNumber": "22",
@@ -1674,7 +1681,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-22"
+      "id": "5-letove-zasady-vrtulnik-p5-22",
+      "explanation": "Po zvýšení kolektivu se úhel nastavení listů zvětší a vlivem setrvačnosti vzduchu se indukované proudění nepřizpůsobí okamžitě. Přechodně se proto zvýší efektivní úhel náběhu a tah; s rozvojem stoupání a indukovaného proudění se ustaví nový rovnovážný stav."
     },
     {
       "sourceNumber": "23",
@@ -1706,7 +1714,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-24"
+      "id": "5-letove-zasady-vrtulnik-p5-24",
+      "explanation": "Při naklonění rotorového tahu vzniká vodorovná složka síly, která vrtulník zrychluje. Rychlost roste, dokud tuto složku nevyrovná aerodynamický odpor a výsledná vodorovná síla neklesne k nule."
     },
     {
       "sourceNumber": "25",
@@ -1722,7 +1731,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 5,
-      "id": "5-letove-zasady-vrtulnik-p5-25"
+      "id": "5-letove-zasady-vrtulnik-p5-25",
+      "explanation": "Ustupující list má při dopředném letu nižší relativní rychlost obtékání než postupující list. Aby vytvářel potřebný vztlak, pracuje s vyšším úhlem náběhu; při překročení kritické hodnoty nastává odtržení proudění (retreating blade stall)."
     },
     {
       "sourceNumber": "26",
@@ -1754,7 +1764,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-27"
+      "id": "5-letove-zasady-vrtulnik-p6-27",
+      "explanation": "Při dopředném letu se rychlost dopředného pohybu na postupující straně přičítá k obvodové rychlosti listu a na ustupující straně se od ní odečítá. Vzniká asymetrie relativního proudění, kterou rotor vyrovnává zejména máváním a cyklickou změnou nastavení listů."
     },
     {
       "sourceNumber": "28",
@@ -1770,7 +1781,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-28"
+      "id": "5-letove-zasady-vrtulnik-p6-28",
+      "explanation": "Při přechodu z visu do dopředného letu rotor získává účinnější proudění a klesá indukovaný výkon potřebný pro daný tah. V oblasti efektivního translačního vztlaku se mohou projevit změny vibrací, které pilot zaznamená."
     },
     {
       "sourceNumber": "29",
@@ -1786,7 +1798,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-29"
+      "id": "5-letove-zasady-vrtulnik-p6-29",
+      "explanation": "V ustálené koordinované horizontální zatáčce musí svislá složka tahu vyrovnat tíhu. S rostoucím náklonem proto roste požadovaný celkový tah přibližně jako 1/cos(náklon), a tím i zatížení rotorového disku."
     },
     {
       "sourceNumber": "30",
@@ -1802,7 +1815,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 6,
-      "id": "5-letove-zasady-vrtulnik-p6-30"
+      "id": "5-letove-zasady-vrtulnik-p6-30",
+      "explanation": "Při vstupu do horizontální zatáčky se část rotorového tahu využívá pro dostředivou sílu. Pro zachování výšky je proto potřeba zvýšit celkový tah, typicky přitažením cykliky a/nebo zvýšením kolektivu podle typu vrtulníku a letového režimu."
     },
     {
       "sourceNumber": "31",
@@ -1818,7 +1832,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-31"
+      "id": "5-letove-zasady-vrtulnik-p7-31",
+      "explanation": "Při vysoké dopředné rychlosti klesá na ustupující straně rotoru relativní rychlost obtékání. K udržení vztlaku musí list pracovat s vyšším úhlem náběhu, který může překročit kritickou hodnotu a způsobit odtržení proudění."
     },
     {
       "sourceNumber": "32",

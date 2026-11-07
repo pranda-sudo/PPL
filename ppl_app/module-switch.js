@@ -1,6 +1,6 @@
 (() => {
 "use strict";
-const modules={ppl:null,ull:"./ull.html?v=23",icao:"./icao.html?v=23"};
+const modules={ppl:null,ull:"./ull.html?v=24",icao:"./icao.html?v=24"};
 const buttons=[...document.querySelectorAll(".module-nav [data-module]")];
 const controls=document.getElementById("pplSidebarControls"),ppl=document.getElementById("pplWorkspace");
 const embedded=document.getElementById("embeddedWorkspace"),frame=document.getElementById("moduleFrame"),shell=document.getElementById("applicationShell");

@@ -628,7 +628,18 @@ fetch("./data/questions.json", { cache: "no-cache" })
     if (!response.ok) throw new Error("questions.json nenalezen");
     return response.json();
   })
-  .then(loadData)
+  .then(async (data) => {
+    try {
+      const extraResponse = await fetch("./data/meteorology-extra.json", { cache: "no-cache" });
+      if (extraResponse.ok) {
+        const extra = await extraResponse.json();
+        for (const question of data.questions || []) {
+          if (extra[question.id] && !question.explanation) question.explanation = extra[question.id];
+        }
+      }
+    } catch (error) { console.warn("Doplnková meteorologická vysvětlení nejsou dostupná.", error); }
+    loadData(data);
+  })
   .catch((error) => {
     if (window.PPL_QUESTIONS) {
       loadData(window.PPL_QUESTIONS);

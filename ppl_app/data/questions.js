@@ -11481,7 +11481,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-80"
+      "id": "9-navigace-letoun-1-p17-80",
+      "explanation": "Pravidlo 1 : 60 říká, že odchylka 1° způsobí přibližně 1 NM boční odchylky po 60 NM letu. Vychází z aproximace malých úhlů: 60 × tan(1°) ≈ 1,05 NM."
     },
     {
       "sourceNumber": "81",
@@ -11513,7 +11514,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-82"
+      "id": "9-navigace-letoun-1-p17-82",
+      "explanation": "Rozdíl výšek je 9 000 − 1 500 = 7 500 ft. Při klesání 1 200 ft/min trvá sestup 7 500 / 1 200 = 6,25 min, tedy přibližně 6 minut."
     },
     {
       "sourceNumber": "83",
@@ -11529,7 +11531,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-1-p18-83"
+      "id": "9-navigace-letoun-1-p18-83",
+      "explanation": "Je třeba sestoupit o 7 500 − 1 200 = 6 300 ft. Při rychlosti klesání 800 ft/min vychází 6 300 / 800 = 7,875 min, zaokrouhleně 8 minut."
     },
     {
       "sourceNumber": "84",
@@ -11581,7 +11584,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-1-p18-86"
+      "id": "9-navigace-letoun-1-p18-86",
+      "explanation": "Elektromagnetické vlny se ve vakuu šíří rychlostí 299 792 458 m/s, přibližně 300 000 km/s. Ve vzduchu je rychlost jen nepatrně nižší."
     },
     {
       "sourceNumber": "87",
@@ -11597,7 +11601,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-1-p18-87"
+      "id": "9-navigace-letoun-1-p18-87",
+      "explanation": "V pásmech LF a MF se signál může šířit jako povrchová vlna podél zemského povrchu i jako prostorová vlna odražená či lomená v ionosféře. To ovlivňuje dosah i přesnost NDB."
     },
     {
       "sourceNumber": "88",
@@ -11613,7 +11618,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-88"
+      "id": "9-navigace-letoun-1-p19-88",
+      "explanation": "VHF signály, například VOR, se šíří převážně přímočaře v dosahu rádiového horizontu. Terénní překážky a zakřivení Země proto jejich dosah omezují."
     },
     {
       "sourceNumber": "89",
@@ -11629,7 +11635,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-89"
+      "id": "9-navigace-letoun-1-p19-89",
+      "explanation": "Kvazioptické šíření znamená, že se rádiové vlny šíří přibližně přímo mezi vysílačem a přijímačem. Dosah je omezen terénem a rádiovým horizontem."
     },
     {
       "sourceNumber": "90",
@@ -11645,7 +11652,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-90"
+      "id": "9-navigace-letoun-1-p19-90",
+      "explanation": "VDF zaměřuje směr, odkud pozemní stanice přijímá VHF vysílání letadla. Z naměřeného směru může služba poskytnout magnetický směrník QDR nebo QDM."
     },
     {
       "sourceNumber": "91",
@@ -11661,7 +11669,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-91"
+      "id": "9-navigace-letoun-1-p19-91",
+      "explanation": "Při zaměřování VDF musí letadlo vysílat na letecké VHF frekvenci, kterou sleduje pozemní zaměřovač. Na palubě proto postačuje odpovídající VHF radiostanice."
     },
     {
       "sourceNumber": "92",
@@ -11677,7 +11686,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-92"
+      "id": "9-navigace-letoun-1-p19-92",
+      "explanation": "QDM je magnetický směr k pozemní stanici. Pro převod na zeměpisný směr QUJ přičteme východní deklinaci 10°: 138° + 10° = 148°."
     },
     {
       "sourceNumber": "93",
@@ -11693,7 +11703,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-93"
+      "id": "9-navigace-letoun-1-p20-93",
+      "explanation": "QTE je zeměpisný směr od stanice k letadlu: 229°. Opačný zeměpisný směr k ní je 229° − 180° = 49°. Při západní deklinaci 10° přičteme 10° a získáme QDM 059°."
     },
     {
       "sourceNumber": "94",
@@ -11709,7 +11720,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-94"
+      "id": "9-navigace-letoun-1-p20-94",
+      "explanation": "QDR je magnetický směr od stanice k letadlu. Při východní deklinaci 10° dostaneme zeměpisný směr QTE = 022° + 10° = 032°."
     },
     {
       "sourceNumber": "95",
@@ -11725,7 +11737,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-95"
+      "id": "9-navigace-letoun-1-p20-95",
+      "explanation": "QDM 248° je magnetický směr k pozemní stanici. Opačný magnetický směr od stanice je 068°. Při západní deklinaci 10° vychází zeměpisný QTE = 068° − 10° = 058°."
     },
     {
       "sourceNumber": "96",
@@ -11741,7 +11754,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-96"
+      "id": "9-navigace-letoun-1-p20-96",
+      "explanation": "QDM je opačný magnetický směr než QDR. Přičtením 180° k QDR 067° získáme QDM 247°. Výsledek nezávisí na deklinaci, protože oba směry jsou magnetické."
     },
     {
       "sourceNumber": "97",
@@ -11757,7 +11771,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-97"
+      "id": "9-navigace-letoun-1-p20-97",
+      "explanation": "QDR 152° je magnetický směr od stanice. Opačný magnetický směr ke stanici je 332°. Západní deklinaci 5° odečteme: zeměpisný směr QUJ = 327°. Deviace letadla se zde nepoužije."
     },
     {
       "sourceNumber": "98",
@@ -11773,7 +11788,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-98"
+      "id": "9-navigace-letoun-1-p21-98",
+      "explanation": "QTE 203° je zeměpisný směr od stanice. Při východní deklinaci 10° se magnetický směr získá odečtením: QDR = 203° − 10° = 193°."
     },
     {
       "sourceNumber": "99",
@@ -11789,7 +11805,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-99"
+      "id": "9-navigace-letoun-1-p21-99",
+      "explanation": "QTE 248° je zeměpisný směr od stanice. Při západní deklinaci 10° přičteme 10° a získáme magnetický QDR 258°."
     },
     {
       "sourceNumber": "100",
@@ -11805,7 +11822,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-100"
+      "id": "9-navigace-letoun-1-p21-100",
+      "explanation": "QDM 134° je magnetický směr k pozemní stanici. Opačný směr od stanice je 314°. Západní deklinaci 5° odečteme: QTE = 309°."
     },
     {
       "sourceNumber": "101",
@@ -11821,7 +11839,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-101"
+      "id": "9-navigace-letoun-1-p21-101",
+      "explanation": "QDR udává magnetický směr od pozemní stanice k letadlu. Hodnota 225° odpovídá jihozápadu, proto se letadlo nachází jihozápadně od stanice."
     },
     {
       "sourceNumber": "102",
@@ -11837,7 +11856,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-102"
+      "id": "9-navigace-letoun-1-p21-102",
+      "explanation": "QDR je magnetický směrník od pozemní stanice k letadlu, měřený od magnetického severu ve směru hodinových ručiček."
     },
     {
       "sourceNumber": "103",
@@ -11853,7 +11873,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-103"
+      "id": "9-navigace-letoun-1-p22-103",
+      "explanation": "QTE je zeměpisný směrník od pozemní stanice k letadlu. Na rozdíl od QDR se vztahuje k zeměpisnému severu."
     },
     {
       "sourceNumber": "104",
@@ -11869,7 +11890,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-104"
+      "id": "9-navigace-letoun-1-p22-104",
+      "explanation": "QDR 135° udává magnetický směr od zaměřovače k letadlu. Úhel 135° odpovídá jihovýchodnímu směru."
     },
     {
       "sourceNumber": "105",
@@ -11885,7 +11907,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-105"
+      "id": "9-navigace-letoun-1-p22-105",
+      "explanation": "QDR 315° udává magnetický směr od zaměřovače k letadlu. Úhel 315° odpovídá severozápadnímu směru."
     },
     {
       "sourceNumber": "106",
@@ -11901,7 +11924,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-106"
+      "id": "9-navigace-letoun-1-p22-106",
+      "explanation": "VDF využívá VHF rádiové vlny, které se šíří převážně přímočaře. S rostoucí výškou letadla se zvětšuje rádiový horizont, a tedy i možný dosah zaměřování."
     },
     {
       "sourceNumber": "107",
@@ -11917,7 +11941,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-107"
+      "id": "9-navigace-letoun-1-p22-107",
+      "explanation": "NDB je nesměrový pozemní radiomaják. Na palubě jeho signál přijímá automatický radiokompas ADF, který ukazuje směr k majáku."
     },
     {
       "sourceNumber": "108",
@@ -11933,7 +11958,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-1-p23-108"
+      "id": "9-navigace-letoun-1-p23-108",
+      "explanation": "NDB pracují v nízkofrekvenčním a středofrekvenčním pásmu LF/MF. Signál se může šířit povrchovou i ionosférickou vlnou."
     },
     {
       "sourceNumber": "109",
@@ -11983,7 +12009,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-1-p23-111"
+      "id": "9-navigace-letoun-1-p23-111",
+      "explanation": "Lokátor je NDB určený zpravidla pro místní přibližovací použití. Obvykle má nižší výkon a menší provozní dosah než traťový NDB."
     },
     {
       "sourceNumber": "112",
@@ -11999,7 +12026,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-1-p23-112"
+      "id": "9-navigace-letoun-1-p23-112",
+      "explanation": "V noci se v pásmu MF výrazněji uplatňuje ionosférická prostorová vlna, která může prodloužit dosah NDB. Současně však může způsobovat chyby zaměření."
     },
     {
       "sourceNumber": "113",
@@ -12015,7 +12043,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-113"
+      "id": "9-navigace-letoun-1-p24-113",
+      "explanation": "Při šikmém přechodu rádiové vlny mezi mořem a pevninou se mění její šíření a může dojít k chybě ADF. Pobřežní efekt je výrazný zejména při malém úhlu k pobřeží a v menších výškách."
     },
     {
       "sourceNumber": "114",
@@ -12031,7 +12060,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-114"
+      "id": "9-navigace-letoun-1-p24-114",
+      "explanation": "V noci se mohou u LF/MF signálů kombinovat povrchové a ionosférické vlny s různou fází. Jejich interference vede ke kolísání intenzity signálu neboli fadingu."
     },
     {
       "sourceNumber": "115",
@@ -12047,7 +12077,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-115"
+      "id": "9-navigace-letoun-1-p24-115",
+      "explanation": "Harmonický elektromagnetický signál lze popsat amplitudou, frekvencí a fází. Fázový úhel vyjadřuje okamžitou polohu signálu v periodickém cyklu."
     },
     {
       "sourceNumber": "116",
@@ -12063,7 +12094,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-116"
+      "id": "9-navigace-letoun-1-p24-116",
+      "explanation": "Při přibližování vysílače a přijímače se vlivem Dopplerova jevu přijímaná frekvence zvyšuje. Změna závisí na jejich relativní rychlosti."
     },
     {
       "sourceNumber": "117",
@@ -12079,7 +12111,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-117"
+      "id": "9-navigace-letoun-1-p24-117",
+      "explanation": "Při vzdalování vysílače a přijímače se vlivem Dopplerova jevu přijímaná frekvence snižuje."
     },
     {
       "sourceNumber": "118",
@@ -12095,7 +12128,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-1-p25-118"
+      "id": "9-navigace-letoun-1-p25-118",
+      "explanation": "VOR určuje azimut porovnáním fázového rozdílu dvou modulovaných signálů. Naměřený fázový rozdíl odpovídá radiálu od stanice."
     },
     {
       "sourceNumber": "119",
@@ -12111,7 +12145,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-1-p25-119"
+      "id": "9-navigace-letoun-1-p25-119",
+      "explanation": "Radiál VOR označuje magnetický směr od stanice k letadlu. Tomu významově odpovídá QDR; QDM naopak udává magnetický směr ke stanici."
     },
     {
       "sourceNumber": "120",
@@ -12127,7 +12162,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-1-p25-120"
+      "id": "9-navigace-letoun-1-p25-120",
+      "explanation": "U běžného VOR CDI představuje plná výchylka od středu přibližně 10° od nastaveného kurzu OBS. Není to vzdálenost v námořních mílích."
     },
     {
       "sourceNumber": "121",
@@ -12179,7 +12215,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-123"
+      "id": "9-navigace-letoun-1-p26-123",
+      "explanation": "VOR využívá přibližně přímočaré VHF šíření. Vyšší poloha vysílací i přijímací antény zvětšuje rádiový horizont a obvykle i dosah."
     },
     {
       "sourceNumber": "124",
@@ -12195,7 +12232,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-124"
+      "id": "9-navigace-letoun-1-p26-124",
+      "explanation": "DME měří dobu mezi vysláním dotazovacích impulsů a přijetím odpovědi pozemní stanice. Po odečtení známého zpoždění odpovídače z ní vypočítá vzdálenost."
     },
     {
       "sourceNumber": "125",
@@ -12211,7 +12249,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-125"
+      "id": "9-navigace-letoun-1-p26-125",
+      "explanation": "DME udává přímou šikmou vzdálenost mezi letadlem a pozemní stanicí, nikoli vodorovnou vzdálenost po zemi."
     },
     {
       "sourceNumber": "126",
@@ -12227,7 +12266,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-126"
+      "id": "9-navigace-letoun-1-p26-126",
+      "explanation": "Šikmá vzdálenost DME je přeponou pravoúhlého trojúhelníku s vodorovnou vzdáleností a výškovým rozdílem. Při přiblížení ke stanici vodorovná složka klesá a relativní rozdíl roste."
     },
     {
       "sourceNumber": "127",
@@ -12243,7 +12283,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-127"
+      "id": "9-navigace-letoun-1-p26-127",
+      "explanation": "Primární radar vysílá úzký směrovaný paprsek. Směr cíle se stanovuje podle azimutu antény v okamžiku přijetí odraženého signálu."
     },
     {
       "sourceNumber": "128",
@@ -12259,7 +12300,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-128"
+      "id": "9-navigace-letoun-1-p27-128",
+      "explanation": "Primární přehledový radar určuje vzdálenost podle doby návratu odrazu a azimut podle směru antény. Výšku samotný běžný dvourozměrný primární radar přímo neurčuje."
     },
     {
       "sourceNumber": "129",
@@ -12275,7 +12317,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-129"
+      "id": "9-navigace-letoun-1-p27-129",
+      "explanation": "SSR využívá palubní odpovídač (transpondér), který na dotazy pozemního radaru vysílá kód a případně tlakovou výšku nebo další údaje."
     },
     {
       "sourceNumber": "130",
@@ -12291,7 +12334,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-130"
+      "id": "9-navigace-letoun-1-p27-130",
+      "explanation": "Primární radar zjišťuje letadlo z odrazu vlastního vyslaného signálu. Sekundární radar SSR přijímá aktivní odpověď palubního transpondéru."
     },
     {
       "sourceNumber": "131",
@@ -12307,7 +12351,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-131"
+      "id": "9-navigace-letoun-1-p27-131",
+      "explanation": "Kód odpovídače 7500 je mezinárodní nouzový kód pro protiprávní zásah do letadla, například únos."
     },
     {
       "sourceNumber": "132",
@@ -12323,7 +12368,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-132"
+      "id": "9-navigace-letoun-1-p27-132",
+      "explanation": "Kód odpovídače 7600 signalizuje ztrátu rádiového spojení. Pilot musí současně dodržet příslušné postupy pro selhání spojení."
     },
     {
       "sourceNumber": "133",
@@ -12339,7 +12385,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-133"
+      "id": "9-navigace-letoun-1-p28-133",
+      "explanation": "SSR Mode C předává tlakovou výšku vztaženou ke standardnímu tlaku 1013,25 hPa. Nejde přímo o výšku podle místního nastavení QNH."
     },
     {
       "sourceNumber": "134",
@@ -12355,7 +12402,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-134"
+      "id": "9-navigace-letoun-1-p28-134",
+      "explanation": "Pro trojrozměrné určení polohy a současný výpočet chyby hodin přijímače GPS jsou obecně potřeba signály alespoň čtyř družic."
     },
     {
       "sourceNumber": "135",
@@ -12371,7 +12419,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-135"
+      "id": "9-navigace-letoun-1-p28-135",
+      "explanation": "GPS CDI obvykle zobrazuje příčnou odchylku od naprogramované tratě v jednotkách vzdálenosti, například NM. Rozsah plné výchylky se mění podle navigačního režimu, například en-route či approach."
     },
     {
       "sourceNumber": "136",
@@ -12387,7 +12436,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-136"
+      "id": "9-navigace-letoun-1-p28-136",
+      "explanation": "Srovnávací navigace spočívá v porovnávání viditelných orientačních bodů v terénu s mapou. Vyžaduje dostatečnou dohlednost a rozpoznatelné objekty."
     },
     {
       "sourceNumber": "137",
@@ -12403,7 +12453,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 29,
-      "id": "9-navigace-letoun-1-p29-137"
+      "id": "9-navigace-letoun-1-p29-137",
+      "explanation": "Výrazné liniové objekty, jako řeky, dálnice a železniční tratě, se při srovnávací navigaci snadno sledují a porovnávají s mapou. Je vhodné kombinovat více nezávislých orientačních bodů."
     },
     {
       "sourceNumber": "1",

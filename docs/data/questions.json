@@ -1865,7 +1865,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-33"
+      "id": "5-letove-zasady-vrtulnik-p7-33",
+      "explanation": "Při visu blízko rovného povrchu zem omezuje rozvoj rotorového proudu směrem dolů a mění indukované proudění. Pro stejný tah je pak obvykle potřeba menší indukovaný výkon než mimo přízemní efekt (IGE oproti OGE)."
     },
     {
       "sourceNumber": "34",
@@ -1881,7 +1882,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-34"
+      "id": "5-letove-zasady-vrtulnik-p7-34",
+      "explanation": "Nad malou lesní pasekou se proud od rotoru může odklánět a vracet od okolních stromů; překážky zároveň narušují pravidelné rozložení tlaku a proudění. Přízemní efekt proto nemusí odpovídat visu nad velkou otevřenou rovnou plochou."
     },
     {
       "sourceNumber": "35",
@@ -1897,7 +1899,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 7,
-      "id": "5-letove-zasady-vrtulnik-p7-35"
+      "id": "5-letove-zasady-vrtulnik-p7-35",
+      "explanation": "Souvislý rovný terén umožňuje vytvoření relativně pravidelného tlakového pole a proudění pod rotorovým diskem. Hrany vyvýšené plošiny, svah nebo malá mýtina mohou přízemní efekt oslabit či učinit nerovnoměrným."
     },
     {
       "sourceNumber": "36",
@@ -1913,7 +1916,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-36"
+      "id": "5-letove-zasady-vrtulnik-p8-36",
+      "explanation": "Režim vírového prstence (vortex ring state) může nastat při malém dopředném pohybu a výrazném klesání s výkonem. Rotor pak částečně pracuje ve vlastním recirkulujícím proudu a může dojít k prudkému, obtížně zastavitelnému nárůstu rychlosti klesání."
     },
     {
       "sourceNumber": "37",
@@ -1929,7 +1933,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-37"
+      "id": "5-letove-zasady-vrtulnik-p8-37",
+      "explanation": "Cílem vybrání vírového prstence je opustit recirkulující proudění, typicky získáním dopředné nebo boční rychlosti a vhodným snížením kolektivu podle letové příručky konkrétního typu. Samotné zvýšení kolektivu může klesání zhoršit; při vhodných podmínkách může být nutný přechod do autorotace."
     },
     {
       "sourceNumber": "38",
@@ -1945,7 +1950,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-38"
+      "id": "5-letove-zasady-vrtulnik-p8-38",
+      "explanation": "Při vírovém prstenci je proudění rotorem nestabilní a část vzduchu opakovaně recirkuluje. Projevuje se rychlým klesáním, vibracemi a nepravidelnými změnami klopení, klonění či bočení, přestože motor může dodávat výkon."
     },
     {
       "sourceNumber": "39",
@@ -1977,7 +1983,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 8,
-      "id": "5-letove-zasady-vrtulnik-p8-40"
+      "id": "5-letove-zasady-vrtulnik-p8-40",
+      "explanation": "Při autorotaci proudí vzduch rotorovým diskem relativně zdola nahoru. Výsledná aerodynamická síla v hnací oblasti listu má složku ve směru rotace, která vyrovnává brzdicí moment ostatních oblastí rotoru a udržuje otáčky bez pohonu motorem."
     },
     {
       "sourceNumber": "41",
@@ -2009,7 +2016,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-p9-42"
+      "id": "5-letove-zasady-vrtulnik-p9-42",
+      "explanation": "Hmotnost ovlivňuje požadovaný rotorový tah a energii při autorotaci; hustotní výška ovlivňuje aerodynamické síly a výkonnost rotoru. Proto oba faktory mění rychlost klesání, rozsah použitelných rychlostí a rezervu energie pro závěrečné podrovnání."
     },
     {
       "sourceNumber": "43",

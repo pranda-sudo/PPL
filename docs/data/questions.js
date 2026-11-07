@@ -407,7 +407,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-23"
+      "id": "komunikace-p5-23",
+      "explanation": "Zprávy o pravidelnosti letů se týkají provozních záležitostí letadel a zařízení potřebných pro pravidelný a bezpečný provoz. Nejde o tísňové nebo pilnostní volání; ty mají vyšší prioritu."
     },
     {
       "sourceNumber": "24",
@@ -507,7 +508,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-29"
+      "id": "komunikace-p6-29",
+      "explanation": "Letecká frekvence se hlásí číslicemi a desetinným oddělovačem. V praxi se podle použitého kanálového rozestupu a místních postupů může vyslovovat zkráceně; důležité je jednoznačné určení kanálu."
     },
     {
       "sourceNumber": "30",
@@ -523,7 +525,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-30"
+      "id": "komunikace-p6-30",
+      "explanation": "Poloha relativně vůči přídi letadla se často popisuje jako ciferník hodin. „Dvanáct hodin“ znamená přímo před letadlem, „tři hodiny“ vpravo a „devět hodin“ vlevo."
     },
     {
       "sourceNumber": "31",
@@ -641,7 +644,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-37"
+      "id": "komunikace-p8-37",
+      "explanation": "Pro vstup nebo průlet řízeným vzdušným prostorem je nutné získat příslušné povolení ATC. Pilot proto vysílá žádost a nesmí považovat pouhé navázání spojení za povolení ke vstupu."
     },
     {
       "sourceNumber": "38",
@@ -691,7 +695,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-40"
+      "id": "komunikace-p8-40",
+      "explanation": "Fráze „připraven k odletu“ sděluje řídícímu, že letoun je připraven pokračovat v odletovém postupu. Samotná připravenost není povolením ke vzletu; to musí být výslovně vydáno."
     },
     {
       "sourceNumber": "41",
@@ -707,7 +712,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-41"
+      "id": "komunikace-p9-41",
+      "explanation": "Hlášení průletu informuje stanoviště o prováděném manévru. Ve vzdušném prostoru, kde je požadováno povolení, ale samotné hlášení nenahrazuje předchozí povolení ATC."
     },
     {
       "sourceNumber": "42",
@@ -909,7 +915,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-54"
+      "id": "komunikace-p11-54",
+      "explanation": "Údaj o větru bývá provozní informace, kterou pilot zpravidla nemusí doslovně opakovat. Naopak bezpečnostně zásadní prvky povolení, například dráhu, kurz, hladinu nebo kód odpovídače, se opakují podle platných pravidel."
     },
     {
       "sourceNumber": "55",
@@ -925,7 +932,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-55"
+      "id": "komunikace-p11-55",
+      "explanation": "Informace o ostatním provozu zpravidla nevyžaduje doslovné zopakování jako povolení nebo pokyn. Pilot však musí potvrdit příjem vhodným způsobem a řídit se požadavky řídícího."
     },
     {
       "sourceNumber": "56",
@@ -941,7 +949,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-56"
+      "id": "komunikace-p12-56",
+      "explanation": "Při potvrzování vzletového povolení se opakují bezpečnostně zásadní části: povolení ke vzletu s dráhou a přidělené výšky a kurzy. Informace o větru se obvykle doslovně neopakuje. Opakování umožňuje ATC odhalit chybu."
     },
     {
       "sourceNumber": "57",
@@ -957,7 +966,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-57"
+      "id": "komunikace-p12-57",
+      "explanation": "„Provedu“ (WILCO) znamená, že pilot zprávě rozumí a bude podle ní postupovat. Hodí se k potvrzení jednoduchého pokynu, u něhož není předepsané úplné opakování."
     },
     {
       "sourceNumber": "58",
@@ -973,7 +983,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-58"
+      "id": "komunikace-p12-58",
+      "explanation": "Při změně kódu odpovídače a frekvence se opakuje přidělený kód i nová frekvence. Tak může řídící ověřit, že pilot přijal správné hodnoty."
     },
     {
       "sourceNumber": "59",
@@ -989,7 +1000,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 12,
-      "id": "komunikace-p12-59"
+      "id": "komunikace-p12-59",
+      "explanation": "„Rozumím“ (ROGER) potvrzuje přijetí informace. Oznámení o vstupu do prostoru samo o sobě není novým povolením, jehož parametry by pilot musel opakovat."
     },
     {
       "sourceNumber": "63",
@@ -1070,7 +1082,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-67"
+      "id": "komunikace-p14-67",
+      "explanation": "Některé stanice VOR mohou kromě navigačního signálu přenášet také hlasové informace, například ATIS. Pilot však musí ověřit, jaká služba je na konkrétní frekvenci skutečně dostupná."
     },
     {
       "sourceNumber": "68",
@@ -1103,7 +1116,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-70"
+      "id": "komunikace-p14-70",
+      "explanation": "Při vysílání naslepo pilot výslovně oznámí, že vysílá naslepo, protože nemá potvrzené obousměrné spojení. Zpráva má obsahovat identifikaci a podstatné údaje pro bezpečnost letu."
     },
     {
       "sourceNumber": "71",
@@ -1119,7 +1133,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-71"
+      "id": "komunikace-p15-71",
+      "explanation": "Při ztrátě obousměrného spojení se pilot nejprve pokouší vysílat na dosud používané frekvenci, kde jej může pozemní stanice stále přijímat. Dále postupuje podle předepsaných postupů pro poruchu spojení."
     },
     {
       "sourceNumber": "72",
@@ -1135,7 +1150,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-72"
+      "id": "komunikace-p15-72",
+      "explanation": "Opakování vysílání naslepo zvyšuje pravděpodobnost, že důležitou informaci pozemní stanice zachytí i při přerušovaném nebo nejistém příjmu."
     },
     {
       "sourceNumber": "73",
@@ -1184,7 +1200,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-75"
+      "id": "komunikace-p15-75",
+      "explanation": "Pokud bylo povolení ke vstupu do řízeného prostoru vydáno před poruchou spojení, pilot může postupovat v rozsahu tohoto povolení podle příslušných pravidel pro ztrátu spojení. Bez povolení nelze předpokládat automatický souhlas ke vstupu."
     },
     {
       "sourceNumber": "76",
@@ -1251,7 +1268,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-79"
+      "id": "komunikace-p16-79",
+      "explanation": "Tísňové volání se obvykle zahajuje na právě používané frekvenci, protože na ní již může být navázáno spojení s příslušným stanovištěm. Pokud spojení nefunguje, lze podle situace použít i nouzovou frekvenci 121,500 MHz."
     },
     {
       "sourceNumber": "84",

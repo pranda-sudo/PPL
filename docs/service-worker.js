@@ -1,7 +1,11 @@
-const CACHE_NAME = "ppl-testy-v11";
+const CACHE_NAME = "ppl-testy-v12";
 const ASSETS = [
   "./",
   "./index.html",
+  "./icao.html",
+  "./icao.css",
+  "./icao.js",
+  "./icao-data.js",
   "./styles.css",
   "./app.js",
   "./manifest.webmanifest",

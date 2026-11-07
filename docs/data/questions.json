@@ -2418,7 +2418,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-p14-66"
+      "id": "5-letove-zasady-vrtulnik-p14-66",
+      "explanation": "VX je rychlost nejlepšího úhlu stoupání: při ní vrtulník získá největší výšku na jednotku vodorovné vzdálenosti. Je důležitá například při překonávání překážek po vzletu. Není totožná s VY, která poskytuje největší výškový přírůstek za jednotku času. Konkrétní hodnoty stanoví letová příručka typu."
     },
     {
       "sourceNumber": "67",
@@ -2434,7 +2435,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-p14-67"
+      "id": "5-letove-zasady-vrtulnik-p14-67",
+      "explanation": "VY je rychlost nejlepší stoupavosti, tedy největšího přírůstku výšky za jednotku času. VX naproti tomu poskytuje nejlepší úhel stoupání, a je proto důležitá pro překonání překážek na krátké vzdálenosti. Rychlosti a jejich závislost na podmínkách je nutné ověřit v letové příručce."
     },
     {
       "sourceNumber": "1",
@@ -3813,7 +3815,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-82"
+      "id": "letove-zasady-letoun-p17-82",
+      "explanation": "Aerodynamické vyvážení směrovky snižuje síly potřebné k její výchylce. Část plochy před osou závěsu nebo vhodné vyvažovací prvky vytvářejí moment, který částečně kompenzuje aerodynamický moment na kormidle. Tím se mohou zmenšit síly na pedálech; nejde o prostředek ke snížení pádové rychlosti."
     },
     {
       "sourceNumber": 83,
@@ -3829,7 +3832,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-83"
+      "id": "letove-zasady-letoun-p17-83",
+      "explanation": "Aerodynamické vyvážení řídicí plochy snižuje moment kolem jejího závěsu, a tím i sílu, kterou musí pilot dlouhodobě vyvíjet. K tomuto účelu se používají například vyvažovací rohy či části plochy před osou závěsu. Trim slouží k odstranění trvalé síly při konkrétním režimu letu; není totožný s hmotovým vyvážením proti flutteru."
     },
     {
       "sourceNumber": 84,
@@ -3845,7 +3849,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-84"
+      "id": "letove-zasady-letoun-p17-84",
+      "explanation": "Hmotové vyvážení kormidel umísťuje závaží tak, aby se těžiště pohyblivé plochy přiblížilo k ose závěsu. Tím se omezuje riziko aeroelastických kmitů (flutteru), které mohou vést až k destrukci. Hmotové vyvážení není totéž co aerodynamické vyvážení, jehož hlavním účelem je snížit ovládací síly."
     },
     {
       "sourceNumber": 85,
@@ -3861,7 +3866,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 17,
-      "id": "letove-zasady-letoun-p17-85"
+      "id": "letove-zasady-letoun-p17-85",
+      "explanation": "Pokud má letoun při ustáleném výkonu tendenci zvedat příď, je třeba vytvořit vyvažovací moment přídí dolů. Podle testového značení toho lze dosáhnout vychýlením trimovací plošky výškovky nahoru: ploška vyvolá aerodynamický moment, který vychýlí samotnou výškovku dolů. Pozor, směr indikace trimu a konstrukční řešení se mohou podle typu lišit."
     },
     {
       "sourceNumber": 86,
@@ -3893,7 +3899,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-87"
+      "id": "letove-zasady-letoun-p18-87",
+      "explanation": "Plošné zatížení křídla je hmotnost letounu dělená plochou křídla (m/S), případně v silových jednotkách tíha dělená plochou (W/S). Vyšší plošné zatížení obvykle znamená vyšší pádovou rychlost a větší rychlosti potřebné k letu při stejné konfiguraci."
     },
     {
       "sourceNumber": 88,
@@ -3909,7 +3916,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-88"
+      "id": "letove-zasady-letoun-p18-88",
+      "explanation": "Vzestupný poryv může náhle zvýšit efektivní úhel náběhu a vztlak křídla, a tím i násobek zatížení n = L/W. Proto mohou poryvy vyvolat značné zatížení konstrukce i bez pilotova prudkého zásahu do řízení. Samotná vyšší hmotnost automaticky neznamená vyšší násobek."
     },
     {
       "sourceNumber": "89",
@@ -3925,7 +3933,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-89"
+      "id": "letove-zasady-letoun-p18-89",
+      "explanation": "Regulátor vrtule konstantních otáček automaticky mění úhel nastavení listů tak, aby udržel pilotem zvolené otáčky v pracovním rozsahu. Při růstu dopředné rychlosti zpravidla zvětší úhel nastavení listů, aby zabránil růstu otáček. Konstantní otáčky vrtule neznamenají konstantní rychlost letounu."
     },
     {
       "sourceNumber": 90,
@@ -3941,7 +3950,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-90"
+      "id": "letove-zasady-letoun-p18-90",
+      "explanation": "Obvodová rychlost bodu vrtulového listu roste se vzdáleností od osy otáčení. Proto mají listy geometrické zkroucení: u kořene bývá větší úhel nastavení než u konce. Cílem je udržet vhodný efektivní úhel náběhu a rozumné rozložení aerodynamického zatížení po délce listu."
     },
     {
       "sourceNumber": 91,
@@ -3957,7 +3967,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-91"
+      "id": "letove-zasady-letoun-p19-91",
+      "explanation": "Po vysazení motoru může proudící vzduch roztáčet vrtuli (mlýnkování). V takovém stavu vrtule odebírá energii proudění a vytváří výrazný aerodynamický odpor, který zhoršuje klouzavost. U vrtulí umožňujících praporování se odpor obvykle podstatně sníží nastavením listů přibližně do směru proudění."
     },
     {
       "sourceNumber": 92,
@@ -3973,7 +3984,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-92"
+      "id": "letove-zasady-letoun-p19-92",
+      "explanation": "Posunutí páky vrtule dozadu obvykle volí nižší otáčky. Regulátor proto zvětší úhel nastavení listů. Při klesání s malým výkonem může větší úhel listů snížit odpor mlýnkující vrtule a umožnit plošší sestup. Skutečný účinek závisí na typu vrtule, regulátoru a režimu; rozhodující je letová příručka."
     },
     {
       "sourceNumber": 93,
@@ -4025,7 +4037,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 19,
-      "id": "letove-zasady-letoun-p19-95"
+      "id": "letove-zasady-letoun-p19-95",
+      "explanation": "Při standardní zatáčce o 360° za dvě minuty je úhlová rychlost zatáčení 3° za sekundu. Potřebný náklon závisí na pravé vzdušné rychlosti: přibližně platí tan φ = V·ω/g. Čím vyšší TAS, tím větší náklon je při stejné úhlové rychlosti nutný. Vítr mění stopu nad zemí, nikoli tento základní vztah vůči vzduchu."
     },
     {
       "sourceNumber": 96,
@@ -4041,7 +4054,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-96"
+      "id": "letove-zasady-letoun-p20-96",
+      "explanation": "V ustálené koordinované horizontální zatáčce je násobek n = 1/cos φ, kde φ je náklon. Pro nenulový náklon tedy n > 1. Pádová rychlost roste přibližně podle V_S,zatáčka = V_S,rovně·√n. Například při náklonu 60° je n = 2 a pádová rychlost asi 1,41krát vyšší."
     },
     {
       "sourceNumber": 97,
@@ -4057,7 +4071,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-97"
+      "id": "letove-zasady-letoun-p20-97",
+      "explanation": "V koordinované horizontální zatáčce je vztlak nakloněn spolu s letounem. Jeho svislá složka L·cos φ musí vyrovnat tíhu W a vodorovná složka L·sin φ zajišťuje dostředivé zrychlení. Celkový potřebný vztlak proto s rostoucím náklonem roste; v neinerciální soustavě se někdy popisuje rovnováha s odstředivou setrvačnou silou."
     },
     {
       "sourceNumber": 98,
@@ -4073,7 +4088,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-98"
+      "id": "letove-zasady-letoun-p20-98",
+      "explanation": "Rozdíl tlaků mezi spodní a horní stranou křídla vede k obtékání kolem konců a vzniku koncových vírů. Ty vytvářejí downwash a indukovaný odpor, který souvisí s vytvářením vztlaku. Nejde o třecí ani čistě profilový odpor."
     },
     {
       "sourceNumber": "99",
@@ -4089,7 +4105,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-99"
+      "id": "letove-zasady-letoun-p20-99",
+      "explanation": "V blízkosti země se mění vírové pole křídla a zmenšuje se downwash i indukovaný odpor. Při stejném úhlu náběhu může být vztlak větší; prakticky letoun při přistání déle „plave“ nad dráhou. Přízemní efekt je výrazný především ve výšce řádově menší než rozpětí křídla."
     },
     {
       "sourceNumber": 100,
@@ -4105,7 +4122,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 20,
-      "id": "letove-zasady-letoun-p20-100"
+      "id": "letove-zasady-letoun-p20-100",
+      "explanation": "Vývrtka je autorotační sestup v přetažení: proudění je odtržené na obou křídlech, zpravidla výrazněji na vnitřním, a rychlost bývá relativně nízká. Strmá spirála naopak není přetažením; letoun zatáčí s velkým náklonem a rychlost může rychle růst. Postup vybrání se zásadně liší, proto je nutné správně rozpoznat situaci a dodržet příručku typu."
     },
     {
       "sourceNumber": "1",

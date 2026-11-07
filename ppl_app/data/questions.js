@@ -14760,7 +14760,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-1"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-1",
+      "explanation": "Maximální tloušťka profilu je největší vzdálenost mezi horní a spodní konturou profilu, měřená podle definice profilu kolmo k jeho tětivě. Není to rozpětí ani délka křídla."
     },
     {
       "sourceNumber": "2",
@@ -14776,7 +14777,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-2"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-2",
+      "explanation": "Příhradový trup tvoří soustava podélných, příčných a diagonálních prutů, které přenášejí zatížení. Potah bývá převážně aerodynamickým krytem a nenese hlavní konstrukční síly."
     },
     {
       "sourceNumber": "3",
@@ -14792,7 +14794,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-3"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-3",
+      "explanation": "Přepážky určují příčný tvar trupu a přenášejí lokální zatížení; podélníky vedou podél trupu a pomáhají přenášet podélné síly a zpevňovat potah. U skutečných konstrukcí se uplatňují i další prvky."
     },
     {
       "sourceNumber": "4",
@@ -14826,7 +14829,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 1,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-5"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p1-5",
+      "explanation": "Poloskořepinová (semi-monocoque) konstrukce přenáší zatížení společně nosným potahem, podélníky a přepážkami. Na rozdíl od čisté příhradové konstrukce se potah významně podílí na pevnosti trupu."
     },
     {
       "sourceNumber": "6",
@@ -14860,7 +14864,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-7"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-7",
+      "explanation": "Ocasní plochy tvoří především vodorovná část pro podélnou stabilitu a řízení kolem příčné osy a svislá část pro směrovou stabilitu a řízení kolem svislé osy. Obvykle zahrnují výškovku a směrovku."
     },
     {
       "sourceNumber": "8",
@@ -14876,7 +14881,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-8"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-8",
+      "explanation": "Sendvičový panel má dvě relativně tenké, pevné vnější vrstvy a lehké jádro mezi nimi. Vnější vrstvy přenášejí zejména tah a tlak při ohybu, jádro udržuje jejich rozestup a přenáší smyk."
     },
     {
       "sourceNumber": "9",
@@ -14892,7 +14898,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-9"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-9",
+      "explanation": "Žebra definují aerodynamický profil křídla v jednotlivých řezech a předávají zatížení do nosníků. Nosníky jsou hlavními prvky pro přenos ohybových sil, ale samotný tvar profilu určují především žebra."
     },
     {
       "sourceNumber": "10",
@@ -14908,7 +14915,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 2,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-10"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p2-10",
+      "explanation": "Násobek zatížení n je poměr aerodynamického vztlaku k tíze letadla (n = L/W) v běžném zjednodušeném vyjádření. Při ustáleném vodorovném letu je přibližně 1, v zatáčce se zvýšeným náklonem roste."
     },
     {
       "sourceNumber": "11",
@@ -14924,7 +14932,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-11"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-11",
+      "explanation": "Sendvičová konstrukce dosahuje vysoké ohybové tuhosti při nízké hmotnosti, protože pevné vnější vrstvy jsou odděleny lehkým jádrem. Výsledná pevnost a odolnost závisí na materiálech, spojení vrstev a způsobu zatížení."
     },
     {
       "sourceNumber": "12",
@@ -14956,7 +14965,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-13"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-13",
+      "explanation": "Překročení konstrukčních nebo provozních limitů může způsobit i skryté poškození. Letadlo se nesmí automaticky vrátit do provozu jen na základě pohledu pilota; vyžaduje postup podle dokumentace údržby a příslušnou kontrolu oprávněnou osobou."
     },
     {
       "sourceNumber": "14",
@@ -14972,7 +14982,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 3,
-      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-14"
+      "id": "8-obecne-znalosti-o-letadle-letoun-2-p3-14",
+      "explanation": "Tvrdé přistání či nadměrné zatížení může překročit dovolené napětí konstrukčních dílů a vyvolat trhliny nebo deformace. Trhliny ale mohou vznikat také únavou materiálu a korozí; uvedená možnost není jedinou možnou příčinou."
     },
     {
       "sourceNumber": "15",

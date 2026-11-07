@@ -307,7 +307,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-17"
+      "id": "komunikace-p4-17",
+      "explanation": "QTE je zeměpisný (pravý) směrník OD stanice. Zeměpisný směr se měří vůči zeměpisnému severu; magnetický směrník od stanice se označuje QDR."
     },
     {
       "sourceNumber": "18",
@@ -323,7 +324,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-18"
+      "id": "komunikace-p4-18",
+      "explanation": "QUJ označuje zeměpisný (pravý) směrník KE stanici. Pro magnetický směr ke stanici se používá QDM."
     },
     {
       "sourceNumber": "19",
@@ -371,7 +373,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-21"
+      "id": "komunikace-p5-21",
+      "explanation": "Tíseň znamená vážné a bezprostřední nebezpečí, při němž je potřeba okamžitá pomoc. V radiotelefonii se tísňové volání zahajuje MAYDAY; nejde jen o běžnou provozní komplikaci."
     },
     {
       "sourceNumber": "22",
@@ -387,7 +390,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-22"
+      "id": "komunikace-p5-22",
+      "explanation": "Pilnost se týká bezpečnosti letadla nebo osob, ale situace nemusí splňovat podmínky bezprostřední tísně. Pilnostní volání se označuje PAN PAN a má nižší prioritu než MAYDAY."
     },
     {
       "sourceNumber": "23",
@@ -435,7 +439,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-25"
+      "id": "komunikace-p5-25",
+      "explanation": "Volací značka se hláskuje podle mezinárodní letecké hláskovací abecedy: H = Hotel, B = Bravo, Y = Yankee, K = Kilo, M = Mike. Pomlčka se nehláskuje jako písmeno."
     },
     {
       "sourceNumber": "26",
@@ -451,7 +456,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-26"
+      "id": "komunikace-p6-26",
+      "explanation": "Podle mezinárodní letecké hláskovací abecedy se písmena O, E, J, V a K vyslovují Oscar, Echo, Juliett, Victor a Kilo."
     },
     {
       "sourceNumber": "27",
@@ -467,7 +473,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-27"
+      "id": "komunikace-p6-27",
+      "explanation": "Výšky se v radiotelefonii předávají tak, aby bylo jasné číslo i jednotka z kontextu povolení. Hodnota 4500 ft se vyslovuje „čtyři tisíce pět set“; nelze ji zaměnit s kurzem nebo letovou hladinou."
     },
     {
       "sourceNumber": "28",
@@ -483,7 +490,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 6,
-      "id": "komunikace-p6-28"
+      "id": "komunikace-p6-28",
+      "explanation": "Kurz je třímístný údaj ve stupních a jeho číslice se pro srozumitelnost vyslovují jednotlivě. Kurz 285° tedy zní „dva osm pět“."
     },
     {
       "sourceNumber": "29",
@@ -531,7 +539,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-31"
+      "id": "komunikace-p7-31",
+      "explanation": "V letectví se pro jednotné časové údaje používá UTC (koordinovaný světový čas). Díky tomu se časy v letových plánech, zprávách a komunikaci nepletou mezi místními časovými pásmy."
     },
     {
       "sourceNumber": "32",
@@ -547,7 +556,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-32"
+      "id": "komunikace-p7-32",
+      "explanation": "Při riziku záměny se čas předává po jednotlivých číslicích. Čas 16:20 UTC lze proto vyjádřit „jedna šest dva nula“, aby byl jednoznačný."
     },
     {
       "sourceNumber": "33",
@@ -563,7 +573,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-33"
+      "id": "komunikace-p7-33",
+      "explanation": "„Rozumím“ (ROGER) potvrzuje přijetí posledního vysílání. Samo o sobě ale neznamená souhlas s povolením ani nenahrazuje povinné zopakování důležitých pokynů."
     },
     {
       "sourceNumber": "34",
@@ -579,7 +590,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-34"
+      "id": "komunikace-p7-34",
+      "explanation": "„Oprava“ (CORRECTION) upozorňuje, že v právě vysílané zprávě zazněla chyba a následuje správný údaj. Pomáhá předejít použití chybné informace."
     },
     {
       "sourceNumber": "35",
@@ -595,7 +607,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 7,
-      "id": "komunikace-p7-35"
+      "id": "komunikace-p7-35",
+      "explanation": "„Schváleno“ (APPROVED) znamená, že požadovaný úkon byl povolen. Nejde o obecné potvrzení příjmu zprávy; to vyjadřuje „rozumím“."
     },
     {
       "sourceNumber": "36",
@@ -611,7 +624,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-36"
+      "id": "komunikace-p8-36",
+      "explanation": "Fráze „Jak slyšíte?“ (HOW DO YOU READ?) žádá protistanici o hodnocení čitelnosti rádiového vysílání. Odpověď se běžně uvádí stupněm srozumitelnosti od 1 do 5."
     },
     {
       "sourceNumber": "37",
@@ -643,7 +657,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-38"
+      "id": "komunikace-p8-38",
+      "explanation": "„Potvrzuji“ (AFFIRM) je jednoznačná kladná odpověď na otázku. Není to totéž jako „rozumím“, které potvrzuje pouze přijetí vysílání."
     },
     {
       "sourceNumber": "39",
@@ -659,7 +674,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 8,
-      "id": "komunikace-p8-39"
+      "id": "komunikace-p8-39",
+      "explanation": "„Negativ“ (NEGATIVE) je jednoznačná záporná odpověď nebo vyjádření nesouhlasu. Používá se, aby se předešlo nejasnostem v rádiovém spojení."
     },
     {
       "sourceNumber": "40",
@@ -707,7 +723,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-42"
+      "id": "komunikace-p9-42",
+      "explanation": "Stanoviště letištního řízení používá v radiotelefonii označení TOWER, česky „věž“. Řídí letištní provoz v rozsahu své působnosti."
     },
     {
       "sourceNumber": "43",
@@ -723,7 +740,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-43"
+      "id": "komunikace-p9-43",
+      "explanation": "Stanoviště řízení pohybů na zemi používá označení GROUND. Zajišťuje řízení pohybů letadel a dalších účastníků provozu na určených plochách letiště."
     },
     {
       "sourceNumber": "44",
@@ -739,7 +757,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-44"
+      "id": "komunikace-p9-44",
+      "explanation": "Stanoviště letové informační služby používá označení INFORMATION, česky „informace“. Poskytuje letové informace, nikoli automaticky povolení ATC."
     },
     {
       "sourceNumber": "45",
@@ -771,7 +790,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-46"
+      "id": "komunikace-p10-46",
+      "explanation": "Pilot smí zkrácenou volací značku použít až poté, co ji jako první použila příslušná pozemní stanice. Při navazování spojení se používá plná značka, aby nedošlo k záměně letadel."
     },
     {
       "sourceNumber": "47",
@@ -787,7 +807,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-47"
+      "id": "komunikace-p10-47",
+      "explanation": "Při prvním navázání rádiového spojení se používá úplná volací značka. Zkrácení je možné až podle pravidel a po použití zkrácené značky pozemní stanicí."
     },
     {
       "sourceNumber": "48",
@@ -803,7 +824,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-48"
+      "id": "komunikace-p10-48",
+      "explanation": "Při navazování spojení se nejprve osloví volaná stanice („Tuřany věž“) a potom se uvede vlastní volací značka („OK-ABC“). Stanice tak ihned ví, komu je volání určeno a kdo volá."
     },
     {
       "sourceNumber": "50",
@@ -819,7 +841,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 10,
-      "id": "komunikace-p10-50"
+      "id": "komunikace-p10-50",
+      "explanation": "Stupeň čitelnosti 1 znamená, že vysílání je nesrozumitelné. Na pětistupňové stupnici je to nejhorší hodnocení; stupeň 5 znamená dokonalou srozumitelnost."
     },
     {
       "sourceNumber": "51",
@@ -835,7 +858,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-51"
+      "id": "komunikace-p11-51",
+      "explanation": "Stupeň čitelnosti 2 znamená, že vysílání je srozumitelné jen občas. Informace se proto nemusejí spolehlivě předat a může být potřeba opakování."
     },
     {
       "sourceNumber": "52",
@@ -851,7 +875,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-52"
+      "id": "komunikace-p11-52",
+      "explanation": "Stupeň čitelnosti 3 znamená, že vysílání je srozumitelné, ale s obtížemi. Je lepší než stupeň 2, ale horší než stupeň 4 (srozumitelné)."
     },
     {
       "sourceNumber": "53",
@@ -867,7 +892,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 11,
-      "id": "komunikace-p11-53"
+      "id": "komunikace-p11-53",
+      "explanation": "Stupeň čitelnosti 5 znamená dokonale srozumitelné vysílání. Jde o nejlepší hodnocení na pětistupňové stupnici."
     },
     {
       "sourceNumber": "54",
@@ -1027,7 +1053,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-66"
+      "id": "komunikace-p14-66",
+      "explanation": "VOLMET je pravidelné nebo průběžné rádiové vysílání meteorologických informací pro letadla za letu. Může zahrnovat zprávy METAR či další předepsané meteorologické údaje."
     },
     {
       "sourceNumber": "67",
@@ -1059,7 +1086,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-68"
+      "id": "komunikace-p14-68",
+      "explanation": "VOLMET umožňuje posádce získat meteorologické informace pro vybraná letiště během letu rádiovým příjmem, aniž by musela jednotlivě kontaktovat každé letiště."
     },
     {
       "sourceNumber": "70",
@@ -1123,7 +1151,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-73"
+      "id": "komunikace-p15-73",
+      "explanation": "Kód odpovídače 7600 označuje poruchu rádiového spojení. Pro srovnání: 7700 je všeobecná nouze a 7500 nezákonný zásah do letu."
     },
     {
       "sourceNumber": "74",
@@ -1171,7 +1200,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-76"
+      "id": "komunikace-p16-76",
+      "explanation": "Pilnostní radiotelefonní volání začíná třikrát opakovaným výrazem PAN PAN. Odlišuje se tím od tísně, která se zahajuje MAYDAY."
     },
     {
       "sourceNumber": "77",
@@ -1187,7 +1217,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-77"
+      "id": "komunikace-p16-77",
+      "explanation": "Pilnostní zpráva se týká bezpečnosti letadla nebo osoby, ale nemusí jít o bezprostřední ohrožení vyžadující okamžitou pomoc. Označuje se PAN PAN."
     },
     {
       "sourceNumber": "78",
@@ -1203,7 +1234,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-78"
+      "id": "komunikace-p16-78",
+      "explanation": "Tísňová zpráva se používá při vážném a bezprostředním ohrožení, kdy je nutná okamžitá pomoc. Má nejvyšší prioritu a zahajuje se MAYDAY."
     },
     {
       "sourceNumber": "79",
@@ -1235,7 +1267,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 17,
-      "id": "komunikace-p17-84"
+      "id": "komunikace-p17-84",
+      "explanation": "Letecké hlasové spojení v pásmu přibližně 118 až 137 MHz patří do VHF (velmi krátké vlny). VHF obecně pokrývá frekvence 30 až 300 MHz."
     },
     {
       "sourceNumber": "85",
@@ -1251,7 +1284,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 18,
-      "id": "komunikace-p18-85"
+      "id": "komunikace-p18-85",
+      "explanation": "VKV/VHF spojení se šíří převážně na přímou viditelnost. S rostoucí výškou letadla se zpravidla zvětšuje rádiový horizont, a tedy i dosah spojení."
     },
     {
       "sourceNumber": "1",

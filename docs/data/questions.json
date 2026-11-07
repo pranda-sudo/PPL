@@ -11607,7 +11607,8 @@
       "page": 18,
       "id": "9-navigace-letoun-1-p18-84",
       "image": "./assets/questions/NAV-014.jpg",
-      "imageCode": "NAV-014"
+      "imageCode": "NAV-014",
+      "explanation": "Údaje TH, MH a magnetická trať se odvozují z plánované zeměpisné tratě, opravy snosu a deklinace. Konkrétní hodnoty 173°, 174° a 178° je nutné ověřit proti vstupním údajům na příloze NAV-014."
     },
     {
       "sourceNumber": "85",
@@ -11625,7 +11626,8 @@
       "page": 18,
       "id": "9-navigace-letoun-1-p18-85",
       "image": "./assets/questions/NAV-017.jpg",
-      "imageCode": "NAV-017"
+      "imageCode": "NAV-017",
+      "explanation": "NDB je nesměrový radiomaják v pásmech LF/MF a na palubě se přijímá pomocí radiokompasu ADF. Typ antény v NAV-017 je nutné ověřit podle obrázku."
     },
     {
       "sourceNumber": "86",
@@ -11641,7 +11643,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-1-p18-86"
+      "id": "9-navigace-letoun-1-p18-86",
+      "explanation": "Elektromagnetické vlny se ve vakuu šíří rychlostí 299 792 458 m/s, tedy přibližně 300 000 km/s. Ve vzduchu je rychlost jen nepatrně nižší."
     },
     {
       "sourceNumber": "87",
@@ -11657,7 +11660,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-1-p18-87"
+      "id": "9-navigace-letoun-1-p18-87",
+      "explanation": "V pásmech LF a MF se signál může šířit jako přízemní (povrchová) vlna podél zemského povrchu i jako ionosféricky odražená prostorová vlna, zvláště v noci."
     },
     {
       "sourceNumber": "88",
@@ -11673,7 +11677,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-88"
+      "id": "9-navigace-letoun-1-p19-88",
+      "explanation": "VKV signály VOR se šíří převážně přímočaře v dosahu rádiového horizontu. Terénní překážky a zakřivení Země proto jejich dosah omezují."
     },
     {
       "sourceNumber": "89",
@@ -11689,7 +11694,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-89"
+      "id": "9-navigace-letoun-1-p19-89",
+      "explanation": "Kvazioptické šíření znamená, že rádiová vlna postupuje přibližně přímo mezi vysílačem a přijímačem. Dosah je omezen rádiovým horizontem a překážkami."
     },
     {
       "sourceNumber": "90",
@@ -11705,7 +11711,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-90"
+      "id": "9-navigace-letoun-1-p19-90",
+      "explanation": "VDF určuje směr, ze kterého přijímá vysílání palubní VHF stanice. Může poskytnout například magnetický směrník QDM nebo QDR."
     },
     {
       "sourceNumber": "91",
@@ -11721,7 +11728,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-91"
+      "id": "9-navigace-letoun-1-p19-91",
+      "explanation": "VDF je pozemní zaměřovač vysílání z letadla. Na palubě proto stačí funkční letecká VHF radiostanice; speciální směrová anténa není potřebná."
     },
     {
       "sourceNumber": "92",
@@ -11737,7 +11745,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 19,
-      "id": "9-navigace-letoun-1-p19-92"
+      "id": "9-navigace-letoun-1-p19-92",
+      "explanation": "QDM 138° je magnetický směr K pozemní stanici. Při východní deklinaci 10° získáme zeměpisný směr QUJ = 138° + 10° = 148°."
     },
     {
       "sourceNumber": "93",
@@ -11753,7 +11762,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-93"
+      "id": "9-navigace-letoun-1-p20-93",
+      "explanation": "QTE 229° je zeměpisný směr OD stanice. Při deklinaci 10°W je magnetický směr od stanice QDR = 229° + 10° = 239°. Opačný směr k ní je QDM = 239° − 180° = 059°."
     },
     {
       "sourceNumber": "94",
@@ -11769,7 +11779,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-94"
+      "id": "9-navigace-letoun-1-p20-94",
+      "explanation": "QDR 022° je magnetický směr OD stanice. Při deklinaci 10°E je zeměpisný směr QTE = 022° + 10° = 032°."
     },
     {
       "sourceNumber": "95",
@@ -11785,7 +11796,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-95"
+      "id": "9-navigace-letoun-1-p20-95",
+      "explanation": "QDM 248° je magnetický směr KE stanici. Opačný magnetický směr QDR = 068°. Při deklinaci 10°W je QTE = 068° − 10° = 058°."
     },
     {
       "sourceNumber": "96",
@@ -11801,7 +11813,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-96"
+      "id": "9-navigace-letoun-1-p20-96",
+      "explanation": "QDR 067° ukazuje magnetický směr OD stanice. QDM je opačný magnetický směr: 067° + 180° = 247°. Deklinace se při tomto převodu nepoužívá."
     },
     {
       "sourceNumber": "97",
@@ -11817,7 +11830,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 20,
-      "id": "9-navigace-letoun-1-p20-97"
+      "id": "9-navigace-letoun-1-p20-97",
+      "explanation": "QDR 152° je magnetický směr OD stanice. Opačný magnetický směr QDM je 332°. Při deklinaci 5°W je zeměpisný směr ke stanici QUJ = 332° − 5° = 327°. Deviace palubního kompasu zde nehraje roli."
     },
     {
       "sourceNumber": "98",
@@ -11833,7 +11847,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-98"
+      "id": "9-navigace-letoun-1-p21-98",
+      "explanation": "QTE 203° je zeměpisný směr OD stanice. Při deklinaci 10°E je magnetický směr QDR = 203° − 10° = 193°."
     },
     {
       "sourceNumber": "99",
@@ -11849,7 +11864,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-99"
+      "id": "9-navigace-letoun-1-p21-99",
+      "explanation": "QTE 248° je zeměpisný směr OD stanice. Při deklinaci 10°W je QDR = 248° + 10° = 258°."
     },
     {
       "sourceNumber": "100",
@@ -11865,7 +11881,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-100"
+      "id": "9-navigace-letoun-1-p21-100",
+      "explanation": "QDM 134° je magnetický směr KE stanici. Opačný QDR = 314°. Při deklinaci 5°W dostaneme zeměpisný QTE = 314° − 5° = 309°."
     },
     {
       "sourceNumber": "101",
@@ -11881,7 +11898,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-101"
+      "id": "9-navigace-letoun-1-p21-101",
+      "explanation": "QDR je magnetický směr od pozemní stanice k letadlu. Hodnota 225° odpovídá jihozápadu, takže letadlo leží jihozápadně od stanice."
     },
     {
       "sourceNumber": "102",
@@ -11897,7 +11915,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 21,
-      "id": "9-navigace-letoun-1-p21-102"
+      "id": "9-navigace-letoun-1-p21-102",
+      "explanation": "QDR je magnetický směr OD pozemní zaměřovací stanice k letadlu. Je o 180° opačný než QDM, který míří ke stanici."
     },
     {
       "sourceNumber": "103",
@@ -11913,7 +11932,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-103"
+      "id": "9-navigace-letoun-1-p22-103",
+      "explanation": "QTE je zeměpisný směr OD pozemní stanice k letadlu, vztažený k zeměpisnému severu. Pro zakreslení na mapu se nemusí opravovat o deklinaci."
     },
     {
       "sourceNumber": "104",
@@ -11929,7 +11949,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-104"
+      "id": "9-navigace-letoun-1-p22-104",
+      "explanation": "QDR 135° je směr od stanice k letadlu měřený od magnetického severu. Odpovídá jihovýchodnímu směru."
     },
     {
       "sourceNumber": "105",
@@ -11945,7 +11966,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-105"
+      "id": "9-navigace-letoun-1-p22-105",
+      "explanation": "QDR 315° znamená, že letadlo leží od zaměřovače severozápadně."
     },
     {
       "sourceNumber": "106",
@@ -11961,7 +11983,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-106"
+      "id": "9-navigace-letoun-1-p22-106",
+      "explanation": "VHF se šíří přibližně v přímé viditelnosti. Vyšší poloha letadla zvětšuje rádiový horizont, a tím obvykle i dosah pozemního VDF."
     },
     {
       "sourceNumber": "107",
@@ -11977,7 +12000,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 22,
-      "id": "9-navigace-letoun-1-p22-107"
+      "id": "9-navigace-letoun-1-p22-107",
+      "explanation": "NDB vysílá nesměrový signál, který přijímá palubní ADF (Automatic Direction Finder). Radiokompas ukazuje relativní směr k majáku."
     },
     {
       "sourceNumber": "108",
@@ -11993,7 +12017,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-1-p23-108"
+      "id": "9-navigace-letoun-1-p23-108",
+      "explanation": "NDB pracují v nízkofrekvenčním a středofrekvenčním pásmu LF/MF. Na rozdíl od VOR může jejich signál sledovat zakřivení Země povrchovou vlnou."
     },
     {
       "sourceNumber": "109",
@@ -12009,7 +12034,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-1-p23-109"
+      "id": "9-navigace-letoun-1-p23-109",
+      "explanation": "Při kurzu 095° a relativním směrníku 355° je QDM 090°. Po změně relativního směrníku na 358° je QDM 093°, tedy maják se vůči nosu posunul doprava. To ukazuje změnu snosu a potřebu korigovat kurz doprava, pokud ostatní podmínky zůstaly stejné."
     },
     {
       "sourceNumber": "110",
@@ -12027,7 +12053,8 @@
       "page": 23,
       "id": "9-navigace-letoun-1-p23-110",
       "image": "./assets/questions/NAV-019.jpg",
-      "imageCode": "NAV-019"
+      "imageCode": "NAV-019",
+      "explanation": "Při bezvětří lze letět přímo k NDB s kurzem rovným QDM, tedy magnetickému směrníku k majáku. Hodnotu 260° je nutné ověřit podle indikace na příloze NAV-019."
     },
     {
       "sourceNumber": "111",
@@ -12043,7 +12070,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-1-p23-111"
+      "id": "9-navigace-letoun-1-p23-111",
+      "explanation": "Lokátor je NDB používaný zejména v oblasti přiblížení, obvykle s nižším výkonem a kratším dosahem než traťový NDB."
     },
     {
       "sourceNumber": "112",
@@ -12059,7 +12087,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 23,
-      "id": "9-navigace-letoun-1-p23-112"
+      "id": "9-navigace-letoun-1-p23-112",
+      "explanation": "V noci mohou v pásmu MF přispívat k příjmu také ionosféricky odražené vlny, čímž se dosah zvětší. Současně ale může vznikat rušení a kolísání směrníku."
     },
     {
       "sourceNumber": "113",
@@ -12075,7 +12104,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-113"
+      "id": "9-navigace-letoun-1-p24-113",
+      "explanation": "Při přechodu rádiové vlny z moře na pevninu nebo naopak se mění podmínky šíření. Největší chyba ADF vzniká při šikmém přechodu pobřeží, zvláště v menší výšce."
     },
     {
       "sourceNumber": "114",
@@ -12091,7 +12121,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-114"
+      "id": "9-navigace-letoun-1-p24-114",
+      "explanation": "V noci se u NDB častěji projevuje prostorová vlna odražená ionosférou. Její interference s povrchovou vlnou způsobuje kolísání síly signálu (fading) a chyby směru."
     },
     {
       "sourceNumber": "115",
@@ -12107,7 +12138,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-115"
+      "id": "9-navigace-letoun-1-p24-115",
+      "explanation": "Fáze popisuje okamžitou polohu v periodickém cyklu elektromagnetického kmitání. Fázový úhel se vyjadřuje ve stupních nebo radiánech."
     },
     {
       "sourceNumber": "116",
@@ -12123,7 +12155,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-116"
+      "id": "9-navigace-letoun-1-p24-116",
+      "explanation": "Při vzájemném přibližování zdroje a přijímače roste pozorovaná frekvence vlivem Dopplerova jevu. Právě frekvenční posun se využívá v některých navigačních systémech."
     },
     {
       "sourceNumber": "117",
@@ -12139,7 +12172,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 24,
-      "id": "9-navigace-letoun-1-p24-117"
+      "id": "9-navigace-letoun-1-p24-117",
+      "explanation": "Při vzájemném vzdalování zdroje a přijímače pozorovaná frekvence klesá. Jde o Dopplerův jev."
     },
     {
       "sourceNumber": "118",
@@ -12155,7 +12189,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-1-p25-118"
+      "id": "9-navigace-letoun-1-p25-118",
+      "explanation": "VOR určuje azimut porovnáním fáze referenčního a směrově proměnného signálu. Rozdíl fází odpovídá radiálu od stanice."
     },
     {
       "sourceNumber": "119",
@@ -12171,7 +12206,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-1-p25-119"
+      "id": "9-navigace-letoun-1-p25-119",
+      "explanation": "Radiál VOR je magnetický směr OD stanice, tedy odpovídá definici QDR. QDM označuje opačný směr ke stanici."
     },
     {
       "sourceNumber": "120",
@@ -12187,7 +12223,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 25,
-      "id": "9-navigace-letoun-1-p25-120"
+      "id": "9-navigace-letoun-1-p25-120",
+      "explanation": "U běžného VOR CDI představuje plná výchylka pět teček přibližně 10° od zvoleného radiálu (2° na tečku). Nejde o vzdálenost v námořních mílích."
     },
     {
       "sourceNumber": "121",
@@ -12205,7 +12242,8 @@
       "page": 25,
       "id": "9-navigace-letoun-1-p25-121",
       "image": "./assets/questions/NAV-022.jpg",
-      "imageCode": "NAV-022"
+      "imageCode": "NAV-022",
+      "explanation": "Polohu vůči VOR určuje radiál, na němž letadlo leží, nikoli samotný zvolený kurz OBS. Severovýchod odpovídá radiálu přibližně 045°; konkrétní indikaci je nutné ověřit podle NAV-022."
     },
     {
       "sourceNumber": "122",
@@ -12223,7 +12261,8 @@
       "page": 25,
       "id": "9-navigace-letoun-1-p25-122",
       "image": "./assets/questions/NAV-024.jpg",
-      "imageCode": "NAV-024"
+      "imageCode": "NAV-024",
+      "explanation": "Radiál VOR je magnetický směr od stanice k letadlu. Zobrazených 234° je třeba ověřit na přístrojové příloze NAV-024 s ohledem na indikaci TO/FROM."
     },
     {
       "sourceNumber": "123",
@@ -12239,7 +12278,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-123"
+      "id": "9-navigace-letoun-1-p26-123",
+      "explanation": "VOR používá VKV šíření blízké přímé viditelnosti. Výška antény vysílače i přijímače proto ovlivňuje rádiový horizont a dosah."
     },
     {
       "sourceNumber": "124",
@@ -12255,7 +12295,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-124"
+      "id": "9-navigace-letoun-1-p26-124",
+      "explanation": "DME měří čas mezi vyslaným dotazem a přijatou odpovědí pozemního odpovídače. Z doby šíření rádiového signálu se vypočte vzdálenost."
     },
     {
       "sourceNumber": "125",
@@ -12271,7 +12312,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-125"
+      "id": "9-navigace-letoun-1-p26-125",
+      "explanation": "DME měří šikmou vzdálenost mezi letadlem a pozemní stanicí, nikoli vodorovnou vzdálenost po zemi. Přímo nad stanicí může ukazovat přibližně výšku nad ní."
     },
     {
       "sourceNumber": "126",
@@ -12287,7 +12329,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-126"
+      "id": "9-navigace-letoun-1-p26-126",
+      "explanation": "Při přiblížení k DME se vodorovná vzdálenost zmenšuje, ale výškový rozdíl zůstává. Relativní rozdíl mezi šikmou a vodorovnou vzdáleností proto roste."
     },
     {
       "sourceNumber": "127",
@@ -12303,7 +12346,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 26,
-      "id": "9-navigace-letoun-1-p26-127"
+      "id": "9-navigace-letoun-1-p26-127",
+      "explanation": "Primární radar určuje směr cíle podle azimutu, do kterého je natočena anténa při přijetí odrazu. Vzdálenost se určuje z doby návratu signálu."
     },
     {
       "sourceNumber": "128",
@@ -12319,7 +12363,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-128"
+      "id": "9-navigace-letoun-1-p27-128",
+      "explanation": "Primární radar měří směr cíle z polohy antény a vzdálenost z doby letu impulsu k cíli a zpět. Bez dalších metod neposkytuje automaticky identitu letadla."
     },
     {
       "sourceNumber": "129",
@@ -12335,7 +12380,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-129"
+      "id": "9-navigace-letoun-1-p27-129",
+      "explanation": "Palubní odpovídač (transpondér) přijímá dotazy sekundárního radaru SSR a vysílá odpovědi s kódem a případně dalšími údaji."
     },
     {
       "sourceNumber": "130",
@@ -12351,7 +12397,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-130"
+      "id": "9-navigace-letoun-1-p27-130",
+      "explanation": "Primární radar přijímá odraz vlastního vyslaného impulsu od letadla. Sekundární radar SSR přijímá aktivní odpověď palubního transpondéru."
     },
     {
       "sourceNumber": "131",
@@ -12367,7 +12414,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-131"
+      "id": "9-navigace-letoun-1-p27-131",
+      "explanation": "Kód SSR 7500 označuje protiprávní zásah do letu, například únos. V reálném provozu se postupuje podle platných předpisů a pokynů ATS."
     },
     {
       "sourceNumber": "132",
@@ -12383,7 +12431,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 27,
-      "id": "9-navigace-letoun-1-p27-132"
+      "id": "9-navigace-letoun-1-p27-132",
+      "explanation": "Kód SSR 7600 je mezinárodně používaný kód pro ztrátu radiového spojení. Nenahrazuje předepsané postupy při poruše spojení."
     },
     {
       "sourceNumber": "133",
@@ -12399,7 +12448,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-133"
+      "id": "9-navigace-letoun-1-p28-133",
+      "explanation": "Odpovídač v módu C vysílá tlakovou výšku vztaženou ke standardnímu tlaku 1013,25 hPa, nikoli přímo výšku podle místního QNH."
     },
     {
       "sourceNumber": "134",
@@ -12415,7 +12465,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-134"
+      "id": "9-navigace-letoun-1-p28-134",
+      "explanation": "Pro trojrozměrné určení polohy GPS je běžně třeba nejméně čtyř satelitů, protože přijímač současně řeší tři prostorové souřadnice a chybu vlastních hodin."
     },
     {
       "sourceNumber": "135",
@@ -12431,7 +12482,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-135"
+      "id": "9-navigace-letoun-1-p28-135",
+      "explanation": "Příčná odchylka GPS (cross-track error, XTE) bývá vyjádřena jako boční vzdálenost od plánované tratě v NM. Rozsah plné výchylky CDI závisí na režimu navigace a konkrétním zařízení."
     },
     {
       "sourceNumber": "136",
@@ -12447,7 +12499,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 28,
-      "id": "9-navigace-letoun-1-p28-136"
+      "id": "9-navigace-letoun-1-p28-136",
+      "explanation": "Srovnávací navigace (pilotage) spočívá v určování polohy podle viditelných orientačních bodů a jejich porovnávání s mapou. Vyžaduje dostatečnou dohlednost a rozpoznatelný terén."
     },
     {
       "sourceNumber": "137",
@@ -12463,7 +12516,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 29,
-      "id": "9-navigace-letoun-1-p29-137"
+      "id": "9-navigace-letoun-1-p29-137",
+      "explanation": "Řeky, železnice a dálnice jsou dobře rozpoznatelné liniové orientační body. Jejich průsečíky a charakteristické ohyby pomáhají spolehlivě ověřovat polohu."
     },
     {
       "sourceNumber": "1",
@@ -12479,7 +12533,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-p1-1"
+      "id": "9-navigace-vrtulnik-p1-1",
+      "explanation": "Zemská rotační osa je pomyslná přímka spojující zeměpisný severní a jižní pól. Země se kolem ní otočí přibližně jednou za hvězdný den."
     },
     {
       "sourceNumber": "2",
@@ -12495,7 +12550,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-p1-2"
+      "id": "9-navigace-vrtulnik-p1-2",
+      "explanation": "Polární osa prochází oběma zeměpisnými póly a je kolmá k rovině zemského rovníku. Je nakloněna vůči rovině oběhu Země kolem Slunce."
     },
     {
       "sourceNumber": "3",
@@ -12511,7 +12567,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-p1-3"
+      "id": "9-navigace-vrtulnik-p1-3",
+      "explanation": "Pro navigační výpočty se Země aproximuje rotačním elipsoidem, protože je mírně zploštělá na pólech. Přesnější fyzikální hladinovou plochou je geoid."
     },
     {
       "sourceNumber": "4",
@@ -12527,7 +12584,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-p1-4"
+      "id": "9-navigace-vrtulnik-p1-4",
+      "explanation": "Loxodroma protíná všechny poledníky pod konstantním úhlem, a tedy odpovídá trati s konstantním zeměpisným kurzem. Na Mercatorově mapě je přímkou."
     },
     {
       "sourceNumber": "5",
@@ -12543,7 +12601,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 1,
-      "id": "9-navigace-vrtulnik-p1-5"
+      "id": "9-navigace-vrtulnik-p1-5",
+      "explanation": "Na kouli leží nejkratší povrchová spojnice dvou bodů na kratším oblouku hlavní (velké) kružnice, tzv. ortodromě. Na elipsoidu je nejkratší geodetická čára."
     },
     {
       "sourceNumber": "6",
@@ -12561,7 +12620,8 @@
       "page": 2,
       "id": "9-navigace-vrtulnik-p2-6",
       "image": "./assets/questions/NAV-002.jpg",
-      "imageCode": "NAV-002"
+      "imageCode": "NAV-002",
+      "explanation": "Rovník má délku přibližně 40 075 km. Po vydělení 1,852 km na námořní míli dostaneme přibližně 21 638 NM, což se pro školní navigaci zaokrouhluje na 21 600 NM."
     },
     {
       "sourceNumber": "7",
@@ -12577,7 +12637,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-p2-7"
+      "id": "9-navigace-vrtulnik-p2-7",
+      "explanation": "Body leží na opačných polokoulích, proto se absolutní hodnoty šířek sčítají: 12°53′30″ + 7°34′30″ = 20°28′00″."
     },
     {
       "sourceNumber": "8",
@@ -12593,7 +12654,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-p2-8"
+      "id": "9-navigace-vrtulnik-p2-8",
+      "explanation": "Polární kruhy leží přibližně na 66,5° severní a jižní šířky, tedy asi 23,5° od zeměpisných pólů. Jejich poloha souvisí se sklonem zemské osy."
     },
     {
       "sourceNumber": "9",
@@ -12609,7 +12671,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-p2-9"
+      "id": "9-navigace-vrtulnik-p2-9",
+      "explanation": "Rozdíl zeměpisné šířky je 1°. Jeden stupeň podél poledníku se v leteckých výpočtech bere jako 60 NM, tedy vzdálenost 60 NM."
     },
     {
       "sourceNumber": "10",
@@ -12625,7 +12688,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 2,
-      "id": "9-navigace-vrtulnik-p2-10"
+      "id": "9-navigace-vrtulnik-p2-10",
+      "explanation": "Jedna úhlová minuta zeměpisné šířky odpovídá přibližně jedné námořní míli. Proto 1° = 60′ představuje přibližně 60 NM podél poledníku."
     },
     {
       "sourceNumber": "11",
@@ -12641,7 +12705,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-p3-11"
+      "id": "9-navigace-vrtulnik-p3-11",
+      "explanation": "240 NM podél poledníku odpovídá 240/60 = 4° zeměpisné šířky. Ze 47°50′27″N směrem na sever získáme 51°50′27″N."
     },
     {
       "sourceNumber": "12",
@@ -12657,7 +12722,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-p3-12"
+      "id": "9-navigace-vrtulnik-p3-12",
+      "explanation": "Na rovníku odpovídá 1° zeměpisné délky přibližně 60 NM. Rozdíl mezi 150°E a 151°E je tedy 60 NM."
     },
     {
       "sourceNumber": "13",
@@ -12673,7 +12739,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-p3-13"
+      "id": "9-navigace-vrtulnik-p3-13",
+      "explanation": "Rovník je velká kružnice. Dva body na něm oddělené 1° délky mají po kratším oblouku rovníku vzdálenost přibližně 60 NM."
     },
     {
       "sourceNumber": "14",
@@ -12689,7 +12756,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-p3-14"
+      "id": "9-navigace-vrtulnik-p3-14",
+      "explanation": "Na rovnoběžce se vzdálenost mezi poledníky zkracuje faktorem cos φ: 10° × 60 NM × cos φ. Mimo rovník je cos φ menší než 1, tedy vzdálenost menší než 600 NM."
     },
     {
       "sourceNumber": "15",
@@ -12705,7 +12773,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 3,
-      "id": "9-navigace-vrtulnik-p3-15"
+      "id": "9-navigace-vrtulnik-p3-15",
+      "explanation": "Země se vůči Slunci otočí přibližně o 360° za 24 hodin, tedy 15° za hodinu. Pro 20° je potřeba 20/15 h = 1 h 20 min."
     },
     {
       "sourceNumber": "16",
@@ -12721,7 +12790,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-p4-16"
+      "id": "9-navigace-vrtulnik-p4-16",
+      "explanation": "Země se vůči Slunci otočí přibližně o 15° za hodinu. Posun o 10° tedy odpovídá 10/15 hodiny, čili 40 minutám."
     },
     {
       "sourceNumber": "17",
@@ -12737,7 +12807,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-p4-17"
+      "id": "9-navigace-vrtulnik-p4-17",
+      "explanation": "Země se vůči Slunci otočí přibližně o 15° za hodinu. Posun o 10° tedy odpovídá 10/15 hodiny, čili 40 minutám."
     },
     {
       "sourceNumber": "18",
@@ -12753,7 +12824,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-p4-18"
+      "id": "9-navigace-vrtulnik-p4-18",
+      "explanation": "CEST je UTC+2. Odečtením dvou hodin od 16:00 CEST dostaneme 14:00 UTC."
     },
     {
       "sourceNumber": "19",
@@ -12769,7 +12841,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-p4-19"
+      "id": "9-navigace-vrtulnik-p4-19",
+      "explanation": "UTC je koordinovaný světový čas používaný jako jednotná časová reference v mezinárodním letectví. Nezávisí na místních časových pásmech."
     },
     {
       "sourceNumber": "20",
@@ -12785,7 +12858,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 4,
-      "id": "9-navigace-vrtulnik-p4-20"
+      "id": "9-navigace-vrtulnik-p4-20",
+      "explanation": "CET je UTC+1, proto od 17:00 CET odečteme jednu hodinu a získáme 16:00 UTC."
     },
     {
       "sourceNumber": "21",
@@ -12801,7 +12875,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-p5-21"
+      "id": "9-navigace-vrtulnik-p5-21",
+      "explanation": "Vídeň leží asi o 3°34′ východněji než Salzburg. Při 4 minutách na jeden stupeň je místní sluneční čas ve Vídni přibližně o 14 minut napřed, takže východ i západ nastává v UTC dříve."
     },
     {
       "sourceNumber": "22",
@@ -12817,7 +12892,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-p5-22"
+      "id": "9-navigace-vrtulnik-p5-22",
+      "explanation": "Občanský soumrak trvá, když je střed Slunce od horizontu do 6° pod horizontem; existuje ranní i večerní občanský soumrak. Přesné letecké definice noci se mohou lišit podle předpisu."
     },
     {
       "sourceNumber": "23",
@@ -12833,7 +12909,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-p5-23"
+      "id": "9-navigace-vrtulnik-p5-23",
+      "explanation": "Zeměpisná trať = zeměpisný kurz − oprava snosu = 125° − (−12°) = 137°. Z rozdílu zeměpisné a magnetické tratě plyne deklinace 2°W. Magnetický kurz je 127° a po odečtení deviace 2°E kompasový kurz 125°."
     },
     {
       "sourceNumber": "24",
@@ -12849,7 +12926,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 5,
-      "id": "9-navigace-vrtulnik-p5-24"
+      "id": "9-navigace-vrtulnik-p5-24",
+      "explanation": "Zeměpisný kurz = 179° + (−12°) = 167°. Při deklinaci 4°E je magnetický kurz 163° a magnetická trať 175°."
     },
     {
       "sourceNumber": "25",
@@ -12865,7 +12943,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-p6-25"
+      "id": "9-navigace-vrtulnik-p6-25",
+      "explanation": "Snos větru je úhlový rozdíl mezi směrem, kam míří podélná osa letadla (kurz), a skutečnou tratí nad zemí. Oprava snosu (WCA) se přičítá k požadované trati pro získání kurzu."
     },
     {
       "sourceNumber": "26",
@@ -12881,7 +12960,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-p6-26"
+      "id": "9-navigace-vrtulnik-p6-26",
+      "explanation": "Magnetická deklinace je úhel mezi zeměpisným a magnetickým severem v daném místě. Proto se o ni liší zeměpisná a magnetická trať."
     },
     {
       "sourceNumber": "27",
@@ -12897,7 +12977,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-p6-27"
+      "id": "9-navigace-vrtulnik-p6-27",
+      "explanation": "Magnetická trať je úhel měřený od magnetického severu po směru hodinových ručiček ke směru pohybu letadla nad zemí."
     },
     {
       "sourceNumber": "28",
@@ -12913,7 +12994,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-p6-28"
+      "id": "9-navigace-vrtulnik-p6-28",
+      "explanation": "Zeměpisná trať (true track, TC) je směr dráhy letadla nad zemí, měřený od zeměpisného severu po směru hodinových ručiček."
     },
     {
       "sourceNumber": "29",
@@ -12929,7 +13011,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 6,
-      "id": "9-navigace-vrtulnik-p6-29"
+      "id": "9-navigace-vrtulnik-p6-29",
+      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Magnetický kurz je 198°, tedy deklinace je 4°W, protože při západní deklinaci se při převodu z true na magnetic přičítá."
     },
     {
       "sourceNumber": "30",
@@ -12945,7 +13028,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-p7-30"
+      "id": "9-navigace-vrtulnik-p7-30",
+      "explanation": "Zeměpisný kurz = 183° + 11° = 194°. Kompasový kurz 200° je o 2° větší než magnetický kurz 198°, což odpovídá deviaci 2°W (−002°)."
     },
     {
       "sourceNumber": "31",
@@ -12961,7 +13045,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-p7-31"
+      "id": "9-navigace-vrtulnik-p7-31",
+      "explanation": "Magnetický kurz 198° oproti zeměpisnému 194° znamená deklinaci 4°W. Kompasový kurz 200° oproti magnetickému 198° znamená deviaci 2°W."
     },
     {
       "sourceNumber": "32",
@@ -12977,7 +13062,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-p7-32"
+      "id": "9-navigace-vrtulnik-p7-32",
+      "explanation": "Magnetická inklinace je sklon magnetických siločar vůči vodorovné rovině. Na magnetickém rovníku je přibližně nulová a směrem k magnetickým pólům roste."
     },
     {
       "sourceNumber": "33",
@@ -12993,7 +13079,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-p7-33"
+      "id": "9-navigace-vrtulnik-p7-33",
+      "explanation": "Deviace je úhel mezi magnetickým a kompasovým severem. Způsobuje ji magnetické pole a elektrické vybavení konkrétního letadla."
     },
     {
       "sourceNumber": "34",
@@ -13009,7 +13096,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 7,
-      "id": "9-navigace-vrtulnik-p7-34"
+      "id": "9-navigace-vrtulnik-p7-34",
+      "explanation": "Kompasový sever je směr indikovaný magnetickým kompasem v letadle; oproti magnetickému severu může být posunut o deviaci způsobenou letadlem."
     },
     {
       "sourceNumber": "35",
@@ -13025,7 +13113,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-p8-35"
+      "id": "9-navigace-vrtulnik-p8-35",
+      "explanation": "Izogony spojují místa se stejnou magnetickou deklinací. Deklinace se mění podle místa i času."
     },
     {
       "sourceNumber": "36",
@@ -13041,7 +13130,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-p8-36"
+      "id": "9-navigace-vrtulnik-p8-36",
+      "explanation": "Agona je izogona s nulovou deklinací, tedy spojnice míst, kde magnetický sever splývá se zeměpisným severem."
     },
     {
       "sourceNumber": "37",
@@ -13057,7 +13147,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-p8-37"
+      "id": "9-navigace-vrtulnik-p8-37",
+      "explanation": "Pro vodorovné navigační vzdálenosti se používají námořní míle (NM) a kilometry (km). Jedna NM je přesně 1852 metrů."
     },
     {
       "sourceNumber": "38",
@@ -13073,7 +13164,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-p8-38"
+      "id": "9-navigace-vrtulnik-p8-38",
+      "explanation": "Jedna stopa je přesně 0,3048 m. Tisíc stop tedy činí 304,8 m, což se v testu zaokrouhluje na 300 m."
     },
     {
       "sourceNumber": "39",
@@ -13089,7 +13181,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 8,
-      "id": "9-navigace-vrtulnik-p8-39"
+      "id": "9-navigace-vrtulnik-p8-39",
+      "explanation": "5500 m / 0,3048 ≈ 18 045 ft, tedy přibližně 18 000 ft."
     },
     {
       "sourceNumber": "40",
@@ -13105,7 +13198,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-p9-40"
+      "id": "9-navigace-vrtulnik-p9-40",
+      "explanation": "Označení RWY vychází z magnetického směru osy dráhy zaokrouhleného na desítky stupňů. Při dlouhodobé změně magnetické deklinace může dojít k přečíslování dráhy."
     },
     {
       "sourceNumber": "41",
@@ -13121,7 +13215,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-p9-41"
+      "id": "9-navigace-vrtulnik-p9-41",
+      "explanation": "Elektrické a elektronické přístroje mohou vytvářet lokální magnetická pole, která ovlivňují magnetický kompas. Proto se stanovuje kompasová deviace pro konkrétní letadlo a konfiguraci vybavení."
     },
     {
       "sourceNumber": "42",
@@ -13137,7 +13232,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-p9-42"
+      "id": "9-navigace-vrtulnik-p9-42",
+      "explanation": "Mercatorovo zobrazení zachovává místní úhly. Loxodromy jsou přímky, ortodromy zpravidla křivky a měřítko roste se zeměpisnou šířkou."
     },
     {
       "sourceNumber": "43",
@@ -13153,7 +13249,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-p9-43"
+      "id": "9-navigace-vrtulnik-p9-43",
+      "explanation": "Loxodroma má stálý kurz a na Mercatorově mapě je přímkou. Ortodroma je nejkratší trasa po velké kružnici a mimo zvláštní případy se zobrazuje jako křivka."
     },
     {
       "sourceNumber": "44",
@@ -13169,7 +13266,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 9,
-      "id": "9-navigace-vrtulnik-p9-44"
+      "id": "9-navigace-vrtulnik-p9-44",
+      "explanation": "Lambertovo konformní kuželové zobrazení zachovává místní úhly a má v oblasti standardních rovnoběžek relativně malé zkreslení měřítka. Používá se pro letecké mapy středních šířek."
     },
     {
       "sourceNumber": "45",
@@ -13185,7 +13283,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-p10-45"
+      "id": "9-navigace-vrtulnik-p10-45",
+      "explanation": "K určení polohy průsečíkem dvou zaměření je vhodné použít zeměpisné směrníky QTE, tedy směry od stanic vztažené k zeměpisnému severu. Při zakreslení je nutné respektovat orientaci mapy."
     },
     {
       "sourceNumber": "46",
@@ -13203,7 +13302,8 @@
       "page": 10,
       "id": "9-navigace-vrtulnik-p10-46",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Radiál VOR je magnetický směr OD stanice. Ze souřadnic BKD a EDBU vychází směr přibližně východoseverovýchodní; přesný radiál 068° je nutné ověřit v příloze NAV-031 a vůči místní deklinaci."
     },
     {
       "sourceNumber": "47",
@@ -13219,7 +13319,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 10,
-      "id": "9-navigace-vrtulnik-p10-47"
+      "id": "9-navigace-vrtulnik-p10-47",
+      "explanation": "220 NM × 185 200 cm/NM = 40 744 000 cm ve skutečnosti. Poměr 40 744 000 / 40,7 ≈ 1 001 081, tedy měřítko přibližně 1 : 1 000 000."
     },
     {
       "sourceNumber": "48",
@@ -13237,7 +13338,8 @@
       "page": 10,
       "id": "9-navigace-vrtulnik-p10-48",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Polohu určí průsečík radiálu 119° od VOR HAM a radiálu 320° od VOR BKD. Pro přesné zakreslení je nutné pracovat s mapou NAV-031 a magnetickou deklinací; uvedená poloha je přibližná."
     },
     {
       "sourceNumber": "49",
@@ -13255,7 +13357,8 @@
       "page": 10,
       "id": "9-navigace-vrtulnik-p10-49",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Rozdíl šířek činí 9′ = 9 NM; rozdíl délek 38′ při šířce 53° odpovídá asi 38 × cos 53° ≈ 23 NM. Pythagorovou větou vychází přibližně 25 NM, tedy nejbližší mapová odpověď kolem 24 NM."
     },
     {
       "sourceNumber": "50",
@@ -13271,7 +13374,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-p11-50"
+      "id": "9-navigace-vrtulnik-p11-50",
+      "explanation": "60,745 NM × 185 200 cm/NM ≈ 11 249 974 cm. Děleno 7,5 cm na mapě dává měřítko přibližně 1 : 1 500 000."
     },
     {
       "sourceNumber": "51",
@@ -13287,7 +13391,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-p11-51"
+      "id": "9-navigace-vrtulnik-p11-51",
+      "explanation": "Při západní deklinaci 7° se k zeměpisné trati 245° při převodu na magnetickou přičítá 7°: 252°."
     },
     {
       "sourceNumber": "52",
@@ -13303,7 +13408,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-p11-52"
+      "id": "9-navigace-vrtulnik-p11-52",
+      "explanation": "Při stoupání klesá hustota vzduchu a TAS je při stejné IAS vyšší. Orientační pravidlo +2 % TAS na 1000 ft dává 150 × 1,16 ≈ 174 kt; jde o přibližný odhad závislý na teplotě."
     },
     {
       "sourceNumber": "53",
@@ -13319,7 +13425,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 11,
-      "id": "9-navigace-vrtulnik-p11-53"
+      "id": "9-navigace-vrtulnik-p11-53",
+      "explanation": "Traťová rychlost přibližně 130 − 15 = 115 kt. Doba letu 210/115 × 60 ≈ 110 min, takže 09:15 + 1 h 50 min = 11:05 UTC."
     },
     {
       "sourceNumber": "54",
@@ -13335,7 +13442,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-p12-54"
+      "id": "9-navigace-vrtulnik-p12-54",
+      "explanation": "GS = 105 − 12 = 93 kt. Čas 75/93 × 60 ≈ 48,4 min. Odlet 12:42 UTC tedy znamená přílet přibližně 13:30 UTC."
     },
     {
       "sourceNumber": "55",
@@ -13351,7 +13459,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-p12-55"
+      "id": "9-navigace-vrtulnik-p12-55",
+      "explanation": "Doba letu = 100/107 h × 60 ≈ 56,1 min. Od 09:33 UTC vychází ETA 10:29 UTC."
     },
     {
       "sourceNumber": "56",
@@ -13367,7 +13476,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-p12-56"
+      "id": "9-navigace-vrtulnik-p12-56",
+      "explanation": "Traťová rychlost je vzdálenost dělená časem: 100 km / (56/60 h) ≈ 107,1 km/h."
     },
     {
       "sourceNumber": "57",
@@ -13383,7 +13493,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-p12-57"
+      "id": "9-navigace-vrtulnik-p12-57",
+      "explanation": "85 minut = 85/60 h. GS = 110 / (85/60) ≈ 77,6 kt, tedy 78 kt."
     },
     {
       "sourceNumber": "58",
@@ -13399,7 +13510,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 12,
-      "id": "9-navigace-vrtulnik-p12-58"
+      "id": "9-navigace-vrtulnik-p12-58",
+      "explanation": "Čas = 236 NM / 134 kt ≈ 1,761 h = 1 h 45,7 min, po zaokrouhlení 1 h 46 min."
     },
     {
       "sourceNumber": "59",
@@ -13415,7 +13527,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-p13-59"
+      "id": "9-navigace-vrtulnik-p13-59",
+      "explanation": "Zadní složka větru zvýší GS na 120 + 35 = 155 kt. Čas = 185/155 h ≈ 1,194 h = přibližně 1 h 12 min."
     },
     {
       "sourceNumber": "60",
@@ -13431,7 +13544,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-p13-60"
+      "id": "9-navigace-vrtulnik-p13-60",
+      "explanation": "Čelní složka větru sníží GS na 180 − 25 = 155 kt. Čas 2 h 25 min = 2,4167 h. Vzdálenost ≈ 155 × 2,4167 = 374,6 NM, tedy 375 NM."
     },
     {
       "sourceNumber": "61",
@@ -13447,7 +13561,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-p13-61"
+      "id": "9-navigace-vrtulnik-p13-61",
+      "explanation": "Převod CAS na TAS vyžaduje hustotu vzduchu, která závisí na tlaku a teplotě. Ve FL80 a OAT +15 °C je vzduch řidší než u hladiny moře, takže TAS je významně vyšší než CAS. Označených 180 kt je vhodné ověřit výpočtovým pravítkem či přesným vztahem."
     },
     {
       "sourceNumber": "62",
@@ -13465,7 +13580,8 @@
       "page": 13,
       "id": "9-navigace-vrtulnik-p13-62",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Trať mezi uvedenými souřadnicemi míří k severovýchodu. Rozdíl šířek je 23′ a rozdíl délek 69′, v šířce 53° zhruba 42 NM na východ. arctan(42/23) ≈ 61° od severu."
     },
     {
       "sourceNumber": "63",
@@ -13481,7 +13597,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 13,
-      "id": "9-navigace-vrtulnik-p13-63"
+      "id": "9-navigace-vrtulnik-p13-63",
+      "explanation": "V chladnějším než standardním vzduchu je skutečná výška menší než indikovaná. Pro přesný výpočet je třeba znát teplotní profil; označených 6250 ft odpovídá přibližné korekci −250 ft."
     },
     {
       "sourceNumber": "64",
@@ -13499,7 +13616,8 @@
       "page": 14,
       "id": "9-navigace-vrtulnik-p14-64",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Rozdíl šířek 23′ = 23 NM, rozdíl délek 69′ × cos 53° ≈ 42 NM. Vzdálenost ≈ √(23²+42²) ≈ 48 NM; mapové měření může dát přibližně 46 NM."
     },
     {
       "sourceNumber": "65",
@@ -13515,7 +13633,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-p14-65"
+      "id": "9-navigace-vrtulnik-p14-65",
+      "explanation": "OAT +11 °C ve výšce 7000 ft je nad standardní teplotou ISA (přibližně +1 °C). Teplý vzduch zvětšuje tloušťku tlakových hladin, takže skutečná výška je vyšší než indikovaných 6500 ft; test uvádí přibližně 6750 ft."
     },
     {
       "sourceNumber": "66",
@@ -13531,7 +13650,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-p14-66"
+      "id": "9-navigace-vrtulnik-p14-66",
+      "explanation": "OAT +21 °C ve výšce 7000 ft je asi 20 °C nad ISA. Teplá vzduchová vrstva znamená větší skutečnou výšku než indikuje výškoměr; testová aproximace dává 7000 ft oproti indikovaným 6500 ft."
     },
     {
       "sourceNumber": "67",
@@ -13547,7 +13667,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-p14-67"
+      "id": "9-navigace-vrtulnik-p14-67",
+      "explanation": "Vítr 200°/10 kt přichází zleva od tratě 255°. Boční složka je přibližně 10 sin 55° ≈ 8,2 kt zleva; při TAS 100 kt je oprava asi 5° doleva, tedy kurz 250°."
     },
     {
       "sourceNumber": "68",
@@ -13563,7 +13684,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 14,
-      "id": "9-navigace-vrtulnik-p14-68"
+      "id": "9-navigace-vrtulnik-p14-68",
+      "explanation": "Vítr 130°/20 kt přichází zleva od tratě 165°. Boční složka ≈ 20 sin 35° = 11,5 kt. WCA ≈ −arcsin(11,5/90) ≈ −7°, tedy kurz 158°."
     },
     {
       "sourceNumber": "69",
@@ -13579,7 +13701,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-p15-69"
+      "id": "9-navigace-vrtulnik-p15-69",
+      "explanation": "Vítr 140°/20 kt přichází zleva od tratě 177°, takže kurz je třeba opravit doleva. Boční složka ≈ 20 sin 37° = 12 kt; při GS 160 kt odpovídá oprava přibližně 4°, tedy 173°."
     },
     {
       "sourceNumber": "70",
@@ -13595,7 +13718,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-p15-70"
+      "id": "9-navigace-vrtulnik-p15-70",
+      "explanation": "Vítr 270°/50 kt má vůči trati 220° převážně čelní složku 50 cos 50° ≈ 32 kt. Po započtení bočního větru vychází GS přibližně 185 kt."
     },
     {
       "sourceNumber": "71",
@@ -13611,7 +13735,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-p15-71"
+      "id": "9-navigace-vrtulnik-p15-71",
+      "explanation": "Vítr 350°/30 kt je vzhledem k trati 040° zleva. Čelní složka ≈ 30 cos 50° = 19 kt; po zohlednění boční složky vychází GS přibližně 159 kt."
     },
     {
       "sourceNumber": "72",
@@ -13627,7 +13752,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 15,
-      "id": "9-navigace-vrtulnik-p15-72"
+      "id": "9-navigace-vrtulnik-p15-72",
+      "explanation": "Vítr 350°/30 kt přichází 50° zleva od tratě 040°. Boční složka je 30 sin 50° ≈ 23 kt. WCA = −arcsin(23/180) ≈ −7°."
     },
     {
       "sourceNumber": "73",
@@ -13643,7 +13769,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-p16-73"
+      "id": "9-navigace-vrtulnik-p16-73",
+      "explanation": "Vítr 090°/25 kt je pro západní trať 270° přesně zadní, proto GS = 100 + 25 = 125 kt. Odpověď 117 kt v původním klíči je chybná."
     },
     {
       "sourceNumber": "74",
@@ -13659,7 +13786,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-p16-74"
+      "id": "9-navigace-vrtulnik-p16-74",
+      "explanation": "Při větru 090°/25 kt a trati 270° je GS = 125 kt. Čas na 100 NM je 100/125 × 60 = 48 minut."
     },
     {
       "sourceNumber": "75",
@@ -13675,7 +13803,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-p16-75"
+      "id": "9-navigace-vrtulnik-p16-75",
+      "explanation": "Vítr 350°/30 kt přichází 50° zleva od tratě 040°. Boční složka je 30 sin 50° ≈ 23 kt. WCA = −arcsin(23/180) ≈ −7°."
     },
     {
       "sourceNumber": "76",
@@ -13691,7 +13820,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-p16-76"
+      "id": "9-navigace-vrtulnik-p16-76",
+      "explanation": "Vítr 150°/12 kt při trati 120° přichází zprava. Boční složka ≈ 12 sin 30° = 6 kt. WCA ≈ arcsin(6/120) ≈ 3° doprava."
     },
     {
       "sourceNumber": "77",
@@ -13707,7 +13837,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 16,
-      "id": "9-navigace-vrtulnik-p16-77"
+      "id": "9-navigace-vrtulnik-p16-77",
+      "explanation": "Podle pravidla 1:60 dosavadní odchylka odpovídá 7/55 × 60 ≈ 7,6°. K dosažení cíle ze současné polohy je nutná úhlová oprava přibližně 7/(120−55) × 60 ≈ 6,5°. Celková změna dosavadního kurzu je přibližně 14° doleva."
     },
     {
       "sourceNumber": "78",
@@ -13723,7 +13854,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-p17-78"
+      "id": "9-navigace-vrtulnik-p17-78",
+      "explanation": "Po 45 NM je odchylka 4,5 NM, tedy úhlová chyba 4,5/45 × 60 = 6°. Zbývá 45 NM a návrat na cíl vyžaduje dalších 6°. Celková oprava dosavadního kurzu je 12° doprava."
     },
     {
       "sourceNumber": "79",
@@ -13739,7 +13871,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-p17-79"
+      "id": "9-navigace-vrtulnik-p17-79",
+      "explanation": "Pravidlo 1:60 říká, že odchylka 1° vytvoří po 60 NM přibližně 1 NM boční chyby. Používá se pro odhad odchylky od tratě a opravu kurzu."
     },
     {
       "sourceNumber": "80",
@@ -13755,7 +13888,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-p17-80"
+      "id": "9-navigace-vrtulnik-p17-80",
+      "explanation": "Plánovaný čas na 70 NM při 120 kt je 35 minut. Letadlo je o 5 minut napřed, skutečný čas je 30 minut, tedy GS = 140 kt. Celkový čas 220/140 h ≈ 94,3 min, od 12:00 vychází přibližně 13:34 až 13:35 UTC."
     },
     {
       "sourceNumber": "81",
@@ -13773,7 +13907,8 @@
       "page": 17,
       "id": "9-navigace-vrtulnik-p17-81",
       "image": "./assets/questions/NAV-014.jpg",
-      "imageCode": "NAV-014"
+      "imageCode": "NAV-014",
+      "explanation": "Údaje TH, MH a magnetická trať se odvozují z plánované zeměpisné tratě, opravy snosu a deklinace. Konkrétní hodnoty 173°, 174° a 178° je nutné ověřit proti vstupním údajům na příloze NAV-014."
     },
     {
       "sourceNumber": "82",
@@ -13789,7 +13924,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 17,
-      "id": "9-navigace-vrtulnik-p17-82"
+      "id": "9-navigace-vrtulnik-p17-82",
+      "explanation": "Elektromagnetické vlny se ve vakuu šíří rychlostí 299 792 458 m/s, tedy přibližně 300 000 km/s. Ve vzduchu je rychlost jen nepatrně nižší."
     },
     {
       "sourceNumber": "83",
@@ -13805,7 +13941,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-p18-83"
+      "id": "9-navigace-vrtulnik-p18-83",
+      "explanation": "V pásmech LF a MF se signál může šířit jako přízemní (povrchová) vlna podél zemského povrchu i jako ionosféricky odražená prostorová vlna, zvláště v noci."
     },
     {
       "sourceNumber": "84",
@@ -13821,7 +13958,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-p18-84"
+      "id": "9-navigace-vrtulnik-p18-84",
+      "explanation": "VKV signály VOR se šíří převážně přímočaře v dosahu rádiového horizontu. Terénní překážky a zakřivení Země proto jejich dosah omezují."
     },
     {
       "sourceNumber": "85",
@@ -13837,7 +13975,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-p18-85"
+      "id": "9-navigace-vrtulnik-p18-85",
+      "explanation": "Kvazioptické šíření znamená, že rádiová vlna postupuje přibližně přímo mezi vysílačem a přijímačem. Dosah je omezen rádiovým horizontem a překážkami."
     },
     {
       "sourceNumber": "86",
@@ -13853,7 +13992,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-p18-86"
+      "id": "9-navigace-vrtulnik-p18-86",
+      "explanation": "VDF určuje směr, ze kterého přijímá vysílání palubní VHF stanice. Může poskytnout například magnetický směrník QDM nebo QDR."
     },
     {
       "sourceNumber": "87",
@@ -13869,7 +14009,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 18,
-      "id": "9-navigace-vrtulnik-p18-87"
+      "id": "9-navigace-vrtulnik-p18-87",
+      "explanation": "VDF je pozemní zaměřovač vysílání z letadla. Na palubě proto stačí funkční letecká VHF radiostanice; speciální směrová anténa není potřebná."
     },
     {
       "sourceNumber": "88",
@@ -13885,7 +14026,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-p19-88"
+      "id": "9-navigace-vrtulnik-p19-88",
+      "explanation": "QDM 138° je magnetický směr K pozemní stanici. Při východní deklinaci 10° získáme zeměpisný směr QUJ = 138° + 10° = 148°."
     },
     {
       "sourceNumber": "89",
@@ -13901,7 +14043,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-p19-89"
+      "id": "9-navigace-vrtulnik-p19-89",
+      "explanation": "QTE 229° je zeměpisný směr OD stanice. Při deklinaci 10°W je magnetický směr od stanice QDR = 229° + 10° = 239°. Opačný směr k ní je QDM = 239° − 180° = 059°."
     },
     {
       "sourceNumber": "90",
@@ -13917,7 +14060,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-p19-90"
+      "id": "9-navigace-vrtulnik-p19-90",
+      "explanation": "QDR 022° je magnetický směr OD stanice. Při deklinaci 10°E je zeměpisný směr QTE = 022° + 10° = 032°."
     },
     {
       "sourceNumber": "91",
@@ -13933,7 +14077,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-p19-91"
+      "id": "9-navigace-vrtulnik-p19-91",
+      "explanation": "QDM 248° je magnetický směr KE stanici. Opačný magnetický směr QDR = 068°. Při deklinaci 10°W je QTE = 068° − 10° = 058°."
     },
     {
       "sourceNumber": "92",
@@ -13949,7 +14094,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 19,
-      "id": "9-navigace-vrtulnik-p19-92"
+      "id": "9-navigace-vrtulnik-p19-92",
+      "explanation": "QDR 067° ukazuje magnetický směr OD stanice. QDM je opačný magnetický směr: 067° + 180° = 247°. Deklinace se při tomto převodu nepoužívá."
     },
     {
       "sourceNumber": "93",
@@ -13965,7 +14111,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-p20-93"
+      "id": "9-navigace-vrtulnik-p20-93",
+      "explanation": "QDR 152° je magnetický směr OD stanice. Opačný magnetický směr QDM je 332°. Při deklinaci 5°W je zeměpisný směr ke stanici QUJ = 332° − 5° = 327°. Deviace palubního kompasu zde nehraje roli."
     },
     {
       "sourceNumber": "94",
@@ -13981,7 +14128,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-p20-94"
+      "id": "9-navigace-vrtulnik-p20-94",
+      "explanation": "QTE 203° je zeměpisný směr OD stanice. Při deklinaci 10°E je magnetický směr QDR = 203° − 10° = 193°."
     },
     {
       "sourceNumber": "95",
@@ -13997,7 +14145,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-p20-95"
+      "id": "9-navigace-vrtulnik-p20-95",
+      "explanation": "QTE 248° je zeměpisný směr OD stanice. Při deklinaci 10°W je QDR = 248° + 10° = 258°."
     },
     {
       "sourceNumber": "96",
@@ -14013,7 +14162,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-p20-96"
+      "id": "9-navigace-vrtulnik-p20-96",
+      "explanation": "QDM 134° je magnetický směr KE stanici. Opačný QDR = 314°. Při deklinaci 5°W dostaneme zeměpisný QTE = 314° − 5° = 309°."
     },
     {
       "sourceNumber": "97",
@@ -14029,7 +14179,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 20,
-      "id": "9-navigace-vrtulnik-p20-97"
+      "id": "9-navigace-vrtulnik-p20-97",
+      "explanation": "QDR je magnetický směr od pozemní stanice k letadlu. Hodnota 225° odpovídá jihozápadu, takže letadlo leží jihozápadně od stanice."
     },
     {
       "sourceNumber": "98",
@@ -14045,7 +14196,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-p21-98"
+      "id": "9-navigace-vrtulnik-p21-98",
+      "explanation": "QDR je magnetický směr OD pozemní zaměřovací stanice k letadlu. Je o 180° opačný než QDM, který míří ke stanici."
     },
     {
       "sourceNumber": "99",
@@ -14061,7 +14213,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-p21-99"
+      "id": "9-navigace-vrtulnik-p21-99",
+      "explanation": "QTE je zeměpisný směr OD pozemní stanice k letadlu, vztažený k zeměpisnému severu. Pro zakreslení na mapu se nemusí opravovat o deklinaci."
     },
     {
       "sourceNumber": "100",
@@ -14077,7 +14230,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-p21-100"
+      "id": "9-navigace-vrtulnik-p21-100",
+      "explanation": "QDR 135° je směr od stanice k letadlu měřený od magnetického severu. Odpovídá jihovýchodnímu směru."
     },
     {
       "sourceNumber": "101",
@@ -14093,7 +14247,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-p21-101"
+      "id": "9-navigace-vrtulnik-p21-101",
+      "explanation": "QDR 315° znamená, že letadlo leží od zaměřovače severozápadně."
     },
     {
       "sourceNumber": "102",
@@ -14109,7 +14264,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 21,
-      "id": "9-navigace-vrtulnik-p21-102"
+      "id": "9-navigace-vrtulnik-p21-102",
+      "explanation": "VHF se šíří přibližně v přímé viditelnosti. Vyšší poloha letadla zvětšuje rádiový horizont, a tím obvykle i dosah pozemního VDF."
     },
     {
       "sourceNumber": "103",
@@ -14125,7 +14281,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-p22-103"
+      "id": "9-navigace-vrtulnik-p22-103",
+      "explanation": "NDB vysílá nesměrový signál, který přijímá palubní ADF (Automatic Direction Finder). Radiokompas ukazuje relativní směr k majáku."
     },
     {
       "sourceNumber": "104",
@@ -14141,7 +14298,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-p22-104"
+      "id": "9-navigace-vrtulnik-p22-104",
+      "explanation": "NDB pracují v nízkofrekvenčním a středofrekvenčním pásmu LF/MF. Na rozdíl od VOR může jejich signál sledovat zakřivení Země povrchovou vlnou."
     },
     {
       "sourceNumber": "105",
@@ -14157,7 +14315,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-p22-105"
+      "id": "9-navigace-vrtulnik-p22-105",
+      "explanation": "Při kurzu 095° a relativním směrníku 355° je QDM 090°. Po změně relativního směrníku na 358° je QDM 093°, tedy maják se vůči nosu posunul doprava. To ukazuje změnu snosu a potřebu korigovat kurz doprava, pokud ostatní podmínky zůstaly stejné."
     },
     {
       "sourceNumber": "106",
@@ -14175,7 +14334,8 @@
       "page": 22,
       "id": "9-navigace-vrtulnik-p22-106",
       "image": "./assets/questions/NAV-019.jpg",
-      "imageCode": "NAV-019"
+      "imageCode": "NAV-019",
+      "explanation": "Při bezvětří lze letět přímo k NDB s kurzem rovným QDM, tedy magnetickému směrníku k majáku. Hodnotu 260° je nutné ověřit podle indikace na příloze NAV-019."
     },
     {
       "sourceNumber": "107",
@@ -14191,7 +14351,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 22,
-      "id": "9-navigace-vrtulnik-p22-107"
+      "id": "9-navigace-vrtulnik-p22-107",
+      "explanation": "Lokátor je NDB používaný zejména v oblasti přiblížení, obvykle s nižším výkonem a kratším dosahem než traťový NDB."
     },
     {
       "sourceNumber": "108",
@@ -14207,7 +14368,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-p23-108"
+      "id": "9-navigace-vrtulnik-p23-108",
+      "explanation": "V noci mohou v pásmu MF přispívat k příjmu také ionosféricky odražené vlny, čímž se dosah zvětší. Současně ale může vznikat rušení a kolísání směrníku."
     },
     {
       "sourceNumber": "109",
@@ -14223,7 +14385,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-p23-109"
+      "id": "9-navigace-vrtulnik-p23-109",
+      "explanation": "Při přechodu rádiové vlny z moře na pevninu nebo naopak se mění podmínky šíření. Největší chyba ADF vzniká při šikmém přechodu pobřeží, zvláště v menší výšce."
     },
     {
       "sourceNumber": "110",
@@ -14239,7 +14402,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-p23-110"
+      "id": "9-navigace-vrtulnik-p23-110",
+      "explanation": "V noci se u NDB častěji projevuje prostorová vlna odražená ionosférou. Její interference s povrchovou vlnou způsobuje kolísání síly signálu (fading) a chyby směru."
     },
     {
       "sourceNumber": "111",
@@ -14255,7 +14419,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-p23-111"
+      "id": "9-navigace-vrtulnik-p23-111",
+      "explanation": "Fáze popisuje okamžitou polohu v periodickém cyklu elektromagnetického kmitání. Fázový úhel se vyjadřuje ve stupních nebo radiánech."
     },
     {
       "sourceNumber": "112",
@@ -14271,7 +14436,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 23,
-      "id": "9-navigace-vrtulnik-p23-112"
+      "id": "9-navigace-vrtulnik-p23-112",
+      "explanation": "Při vzájemném přibližování zdroje a přijímače roste pozorovaná frekvence vlivem Dopplerova jevu. Právě frekvenční posun se využívá v některých navigačních systémech."
     },
     {
       "sourceNumber": "113",
@@ -14287,7 +14453,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-p24-113"
+      "id": "9-navigace-vrtulnik-p24-113",
+      "explanation": "Při vzájemném vzdalování zdroje a přijímače pozorovaná frekvence klesá. Jde o Dopplerův jev."
     },
     {
       "sourceNumber": "114",
@@ -14303,7 +14470,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-p24-114"
+      "id": "9-navigace-vrtulnik-p24-114",
+      "explanation": "VOR určuje azimut porovnáním fáze referenčního a směrově proměnného signálu. Rozdíl fází odpovídá radiálu od stanice."
     },
     {
       "sourceNumber": "115",
@@ -14319,7 +14487,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-p24-115"
+      "id": "9-navigace-vrtulnik-p24-115",
+      "explanation": "Radiál VOR je magnetický směr OD stanice, tedy odpovídá definici QDR. QDM označuje opačný směr ke stanici."
     },
     {
       "sourceNumber": "116",
@@ -14335,7 +14504,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 24,
-      "id": "9-navigace-vrtulnik-p24-116"
+      "id": "9-navigace-vrtulnik-p24-116",
+      "explanation": "U běžného VOR CDI představuje plná výchylka pět teček přibližně 10° od zvoleného radiálu (2° na tečku). Nejde o vzdálenost v námořních mílích."
     },
     {
       "sourceNumber": "117",
@@ -14353,7 +14523,8 @@
       "page": 24,
       "id": "9-navigace-vrtulnik-p24-117",
       "image": "./assets/questions/NAV-022.jpg",
-      "imageCode": "NAV-022"
+      "imageCode": "NAV-022",
+      "explanation": "Polohu vůči VOR určuje radiál, na němž letadlo leží, nikoli samotný zvolený kurz OBS. Severovýchod odpovídá radiálu přibližně 045°; konkrétní indikaci je nutné ověřit podle NAV-022."
     },
     {
       "sourceNumber": "118",
@@ -14371,7 +14542,8 @@
       "page": 25,
       "id": "9-navigace-vrtulnik-p25-118",
       "image": "./assets/questions/NAV-024.jpg",
-      "imageCode": "NAV-024"
+      "imageCode": "NAV-024",
+      "explanation": "Radiál VOR je magnetický směr od stanice k letadlu. Zobrazených 234° je třeba ověřit na přístrojové příloze NAV-024 s ohledem na indikaci TO/FROM."
     },
     {
       "sourceNumber": "119",
@@ -14387,7 +14559,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-p25-119"
+      "id": "9-navigace-vrtulnik-p25-119",
+      "explanation": "VOR používá VKV šíření blízké přímé viditelnosti. Výška antény vysílače i přijímače proto ovlivňuje rádiový horizont a dosah."
     },
     {
       "sourceNumber": "120",
@@ -14403,7 +14576,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-p25-120"
+      "id": "9-navigace-vrtulnik-p25-120",
+      "explanation": "DME měří čas mezi vyslaným dotazem a přijatou odpovědí pozemního odpovídače. Z doby šíření rádiového signálu se vypočte vzdálenost."
     },
     {
       "sourceNumber": "121",
@@ -14419,7 +14593,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-p25-121"
+      "id": "9-navigace-vrtulnik-p25-121",
+      "explanation": "DME měří šikmou vzdálenost mezi letadlem a pozemní stanicí, nikoli vodorovnou vzdálenost po zemi. Přímo nad stanicí může ukazovat přibližně výšku nad ní."
     },
     {
       "sourceNumber": "122",
@@ -14435,7 +14610,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 25,
-      "id": "9-navigace-vrtulnik-p25-122"
+      "id": "9-navigace-vrtulnik-p25-122",
+      "explanation": "Při přiblížení k DME se vodorovná vzdálenost zmenšuje, ale výškový rozdíl zůstává. Relativní rozdíl mezi šikmou a vodorovnou vzdáleností proto roste."
     },
     {
       "sourceNumber": "123",
@@ -14451,7 +14627,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-p26-123"
+      "id": "9-navigace-vrtulnik-p26-123",
+      "explanation": "Primární radar určuje směr cíle podle azimutu, do kterého je natočena anténa při přijetí odrazu. Vzdálenost se určuje z doby návratu signálu."
     },
     {
       "sourceNumber": "124",
@@ -14467,7 +14644,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-p26-124"
+      "id": "9-navigace-vrtulnik-p26-124",
+      "explanation": "Primární radar měří směr cíle z polohy antény a vzdálenost z doby letu impulsu k cíli a zpět. Bez dalších metod neposkytuje automaticky identitu letadla."
     },
     {
       "sourceNumber": "125",
@@ -14483,7 +14661,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-p26-125"
+      "id": "9-navigace-vrtulnik-p26-125",
+      "explanation": "Palubní odpovídač (transpondér) přijímá dotazy sekundárního radaru SSR a vysílá odpovědi s kódem a případně dalšími údaji."
     },
     {
       "sourceNumber": "126",
@@ -14499,7 +14678,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-p26-126"
+      "id": "9-navigace-vrtulnik-p26-126",
+      "explanation": "Primární radar přijímá odraz vlastního vyslaného impulsu od letadla. Sekundární radar SSR přijímá aktivní odpověď palubního transpondéru."
     },
     {
       "sourceNumber": "127",
@@ -14515,7 +14695,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 26,
-      "id": "9-navigace-vrtulnik-p26-127"
+      "id": "9-navigace-vrtulnik-p26-127",
+      "explanation": "Kód SSR 7500 označuje protiprávní zásah do letu, například únos. V reálném provozu se postupuje podle platných předpisů a pokynů ATS."
     },
     {
       "sourceNumber": "128",
@@ -14531,7 +14712,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-p27-128"
+      "id": "9-navigace-vrtulnik-p27-128",
+      "explanation": "Kód SSR 7600 je mezinárodně používaný kód pro ztrátu radiového spojení. Nenahrazuje předepsané postupy při poruše spojení."
     },
     {
       "sourceNumber": "129",
@@ -14547,7 +14729,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-p27-129"
+      "id": "9-navigace-vrtulnik-p27-129",
+      "explanation": "Odpovídač v módu C vysílá tlakovou výšku vztaženou ke standardnímu tlaku 1013,25 hPa, nikoli přímo výšku podle místního QNH."
     },
     {
       "sourceNumber": "130",
@@ -14563,7 +14746,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-p27-130"
+      "id": "9-navigace-vrtulnik-p27-130",
+      "explanation": "Pro trojrozměrné určení polohy GPS je běžně třeba nejméně čtyř satelitů, protože přijímač současně řeší tři prostorové souřadnice a chybu vlastních hodin."
     },
     {
       "sourceNumber": "131",
@@ -14579,7 +14763,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 27,
-      "id": "9-navigace-vrtulnik-p27-131"
+      "id": "9-navigace-vrtulnik-p27-131",
+      "explanation": "Příčná odchylka GPS (cross-track error, XTE) bývá vyjádřena jako boční vzdálenost od plánované tratě v NM. Rozsah plné výchylky CDI závisí na režimu navigace a konkrétním zařízení."
     },
     {
       "sourceNumber": "132",
@@ -14595,7 +14780,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 28,
-      "id": "9-navigace-vrtulnik-p28-132"
+      "id": "9-navigace-vrtulnik-p28-132",
+      "explanation": "Srovnávací navigace (pilotage) spočívá v určování polohy podle viditelných orientačních bodů a jejich porovnávání s mapou. Vyžaduje dostatečnou dohlednost a rozpoznatelný terén."
     },
     {
       "sourceNumber": "133",
@@ -14611,7 +14797,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "9-Navigace-vrtulnik.pdf",
       "page": 28,
-      "id": "9-navigace-vrtulnik-p28-133"
+      "id": "9-navigace-vrtulnik-p28-133",
+      "explanation": "Řeky, železnice a dálnice jsou dobře rozpoznatelné liniové orientační body. Jejich průsečíky a charakteristické ohyby pomáhají spolehlivě ověřovat polohu."
     },
     {
       "sourceNumber": "1",

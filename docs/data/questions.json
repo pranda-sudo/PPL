@@ -35,7 +35,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-1"
+      "id": "komunikace-p1-1",
+      "explanation": "Vysílání naslepo se používá, když nelze navázat obousměrné spojení a pilot nemá potvrzeno, že jeho zprávy byly přijaty. Nejde o běžné hromadné hlášení ani o automatický postup při ztrátě viditelnosti; při poruše spojení je nutné dodržet příslušné postupy."
     },
     {
       "sourceNumber": "2",
@@ -51,7 +52,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-2"
+      "id": "komunikace-p1-2",
+      "explanation": "Opuštění přidělené řídicí frekvence vyžaduje souhlas příslušného stanoviště ATS, aby zůstala zachována kontinuita spojení a řízení. Pouhé oznámení přeladění není totéž jako schválení; výjimkou v otázce je ukončení spojení po příjezdu na parkovací místo."
     },
     {
       "sourceNumber": "3",
@@ -67,7 +69,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-3"
+      "id": "komunikace-p1-3",
+      "explanation": "ABM je mezinárodní letecká zkratka pro „abeam“, tedy „na úrovni“ určitého bodu po straně letadla. Ostatní uvedené kombinace nejsou správnou zkratkou tohoto pojmu."
     },
     {
       "sourceNumber": "4",
@@ -83,7 +86,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-4"
+      "id": "komunikace-p1-4",
+      "explanation": "VFR znamená Visual Flight Rules, tedy pravidla pro let za viditelnosti. VMC označuje meteorologické podmínky pro let za viditelnosti, nikoli samotná pravidla; ostatní nabídnuté zkratky nejsou správné."
     },
     {
       "sourceNumber": "5",
@@ -99,7 +103,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 1,
-      "id": "komunikace-p1-5"
+      "id": "komunikace-p1-5",
+      "explanation": "OBST je standardní zkratka pro obstacle, tedy překážku. V leteckých informacích může označovat například terénní nebo umělou překážku důležitou pro bezpečnost letu."
     },
     {
       "sourceNumber": "6",
@@ -115,7 +120,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-6"
+      "id": "komunikace-p2-6",
+      "explanation": "FIS znamená Flight Information Service, česky letová informační služba. Poskytuje informace a rady užitečné pro bezpečné a efektivní provedení letu; nejde o technický informační systém."
     },
     {
       "sourceNumber": "7",
@@ -131,7 +137,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-7"
+      "id": "komunikace-p2-7",
+      "explanation": "FIR znamená Flight Information Region, tedy letovou informační oblast. Jde o vymezený vzdušný prostor, ve kterém se poskytuje letová informační a pohotovostní služba; zkratka neoznačuje radar ani přijímač."
     },
     {
       "sourceNumber": "8",
@@ -147,7 +154,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-8"
+      "id": "komunikace-p2-8",
+      "explanation": "H24 v leteckých publikacích znamená nepřetržitý provoz nebo poskytování služby 24 hodin denně. Nejde o dobu omezenou východem či západem slunce."
     },
     {
       "sourceNumber": "9",
@@ -163,7 +171,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-9"
+      "id": "komunikace-p2-9",
+      "explanation": "HX znamená, že provozní doba služby není stanovena pevnými hodinami. Neznamená automaticky nepřetržitý provoz (ten se značí H24) ani provoz pouze za dne či noci."
     },
     {
       "sourceNumber": "10",
@@ -179,7 +188,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 2,
-      "id": "komunikace-p2-10"
+      "id": "komunikace-p2-10",
+      "explanation": "QFE je tlak vztažený k referenční úrovni letiště; při nastavení QFE ukazuje výškoměr na této referenční úrovni přibližně nulu. QNH naproti tomu ukazuje nadmořskou výšku a standardní tlak 1013,25 hPa slouží k určení tlakové výšky/letové hladiny."
     },
     {
       "sourceNumber": "11",
@@ -195,7 +205,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-11"
+      "id": "komunikace-p3-11",
+      "explanation": "Při nastavení QNH ukazuje výškoměr nadmořskou výšku (altitude), tedy výšku vztaženou ke střední hladině moře. Na letišti pak přibližně ukazuje jeho nadmořskou výšku, nikoli nulu; tu na referenční úrovni ukazuje QFE."
     },
     {
       "sourceNumber": "12",
@@ -211,7 +222,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 3,
-      "id": "komunikace-p3-12"
+      "id": "komunikace-p3-12",
+      "explanation": "QFE je tlak vztažený k referenční úrovni letiště. Výškoměr nastavený na QFE ukazuje výšku nad touto tlakovou referencí a na referenční úrovni letiště přibližně nulu. QNH naproti tomu udává nadmořskou výšku."
     },
     {
       "sourceNumber": "13",

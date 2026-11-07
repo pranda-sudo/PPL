@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Letecká kalkulačka – Letecké testy</title><meta name="theme-color" content="#16202a">
+<link rel="stylesheet" href="./calc.css?v=1">
+</head>
+<body><main class="layout">
+<header class="top"><div><span class="eyebrow">PPL · ULL · ICAO</span><h1>Letecká výpočtová kalkulačka</h1><p>Interaktivní výpočty s vysvětlením vzorců a postupu.</p></div><a class="back" href="./index.html?v=26">← Zpět na testy</a></header>
+<div class="notice" role="note"><strong>Výuková pomůcka, nikoli schválený letový plánovač.</strong> Všechny výsledky jsou orientační. Skutečný let plánuj podle letové příručky konkrétního letadla, aktuálního počasí, AIP/NOTAM, map a provozních požadavků. Přednastavená čísla jsou pouze příklady.</div>
+<nav class="tabs" aria-label="Druh výpočtu">
+<button type="button" data-tab="navigation" class="selected" aria-pressed="true">Čas a vzdálenost</button>
+<button type="button" data-tab="wind" aria-pressed="false">Větrný trojúhelník</button>
+<button type="button" data-tab="runway" aria-pressed="false">Vítr na dráze</button>
+<button type="button" data-tab="fuel" aria-pressed="false">Palivo</button>
+<button type="button" data-tab="balance" aria-pressed="false">Hmotnost a těžiště</button>
+<button type="button" data-tab="climb" aria-pressed="false">Stoupání / klesání</button>
+<button type="button" data-tab="units" aria-pressed="false">Převody jednotek</button></nav>
+<section id="panel-navigation" class="tool" data-panel="navigation">
+<h2>Čas, vzdálenost a GS</h2><p class="helper">Zadej vzdálenost a rychlost vůči zemi (GS). Čas je výsledkem, nikoli časem podle TAS.</p>
+<div class="fields">
+<label>Vzdálenost (NM)<input id="nav-distance" type="number" min="0" step="any" inputmode="decimal" value="90"></label>
+<label>Ground speed / GS (kt)<input id="nav-gs" type="number" min="0.1" step="any" inputmode="decimal" value="100"></label></div>
+<div class="results" id="result-navigation" aria-live="polite"></div></section>
+<section id="panel-wind" class="tool" data-panel="wind" hidden>
+<h2>Větrný trojúhelník</h2><p class="helper">Výpočet požadovaného magnetického nebo pravého kurzu – všechny zadané směry musejí být vztažené ke stejnému severu. Vítr se zadává <strong>odkud</strong> vane.</p>
+<div class="fields">
+<label>Požadovaná trať / track (°)<input id="wind-track" type="number" step="any" min="0" max="360" value="90" inputmode="decimal"></label>
+<label>TAS (kt)<input id="wind-tas" type="number" step="any" min="0.1" value="100" inputmode="decimal"></label>
+<label>Vítr od směru (°)<input id="wind-from" type="number" step="any" min="0" max="360" value="180" inputmode="decimal"></label>
+<label>Rychlost větru (kt)<input id="wind-speed" type="number" min="0" step="any" value="20" inputmode="decimal"></label></div>
+<div class="results" id="result-wind" aria-live="polite"></div></section>
+<section id="panel-runway" class="tool" data-panel="runway" hidden>
+<h2>Složky větru vůči dráze</h2><p class="helper">Pro dráhu 27 zadej směr osy přibližně 270°. Hodnoty vycházejí z uvedeného větru, nikoli z nárazů.</p>
+<div class="fields">
+<label>Směr dráhy (°)<input id="runway-heading" type="number" step="any" min="0" max="360" value="270" inputmode="decimal"></label>
+<label>Vítr od směru (°)<input id="runway-from" type="number" step="any" min="0" max="360" value="310" inputmode="decimal"></label>
+<label>Rychlost větru (kt)<input id="runway-speed" type="number" min="0" step="any" value="15" inputmode="decimal"></label></div>
+<div class="results" id="result-runway" aria-live="polite"></div></section>
+<section id="panel-fuel" class="tool" data-panel="fuel" hidden>
+<h2>Spotřeba, doletová vytrvalost a palivová rezerva</h2><p class="helper">Zadej <strong>použitelné</strong> palivo a vlastní zvolenou časovou rezervu. Hodnoty nejsou automaticky zákonným minimem pro daný let.</p>
+<div class="fields">
+<label>Použitelné palivo (l)<input id="fuel-usable" type="number" step="any" min="0" value="90" inputmode="decimal"></label>
+<label>Průměrná spotřeba (l/h)<input id="fuel-burn" type="number" step="any" min="0.1" value="20" inputmode="decimal"></label>
+<label>Plánovaný čas letu (min)<input id="fuel-time" type="number" step="any" min="0" value="180" inputmode="decimal"></label>
+<label>Volitelná rezerva (min)<input id="fuel-reserve" type="number" step="any" min="0" value="30" inputmode="decimal"></label></div>
+<div class="results" id="result-fuel" aria-live="polite"></div></section>
+<section id="panel-balance" class="tool" data-panel="balance" hidden>
+<h2>Hmotnost a poloha těžiště</h2><p class="helper">Zadej hmotnosti v kg a ramena v metrech od <strong>stejného referenčního bodu</strong>. Rameno může být i záporné. Do palivové hmotnosti zadej kilogramy, nikoli litry.</p>
+<div class="balance-wrap"><table><thead><tr><th>Část</th><th>Hmotnost (kg)</th><th>Rameno (m)</th></tr></thead><tbody>
+<tr><th>Prázdné letadlo</th><td><input id="cg-m1" type="number" step="any" min="0" value="330" aria-label="Prázdné letadlo hmotnost"></td><td><input id="cg-a1" type="number" step="any" value="1.2" aria-label="Prázdné letadlo rameno"></td></tr>
+<tr><th>Pilot a cestující</th><td><input id="cg-m2" type="number" step="any" min="0" value="90" aria-label="Pilot hmotnost"></td><td><input id="cg-a2" type="number" step="any" value="1.6" aria-label="Pilot rameno"></td></tr>
+<tr><th>Palivo (kg)</th><td><input id="cg-m3" type="number" step="any" min="0" value="35" aria-label="Palivo hmotnost"></td><td><input id="cg-a3" type="number" step="any" value="1.3" aria-label="Palivo rameno"></td></tr>
+<tr><th>Zavazadla</th><td><input id="cg-m4" type="number" step="any" min="0" value="10" aria-label="Zavazadla hmotnost"></td><td><input id="cg-a4" type="number" step="any" value="2.0" aria-label="Zavazadla rameno"></td></tr>
+</tbody></table></div>
+<div class="fields">
+<label>MTOM (kg, volitelně)<input id="cg-max" type="number" step="any" min="0" placeholder="Dle letové příručky" inputmode="decimal"></label>
+<label>Přední mez těžiště (m, volitelně)<input id="cg-forward" type="number" step="any" placeholder="Dle příručky" inputmode="decimal"></label>
+<label>Zadní mez těžiště (m, volitelně)<input id="cg-aft" type="number" step="any" placeholder="Dle příručky" inputmode="decimal"></label>
+</div>
+<div class="results" id="result-balance" aria-live="polite"></div></section>
+<section id="panel-climb" class="tool" data-panel="climb" hidden>
+<h2>Výškový rozdíl, čas a gradient</h2><p class="helper">Čistě matematický výpočet pro konstantní vertikální rychlost. Nezohledňuje změnu výkonu s výškou, turbulence ani terén.</p>
+<div class="fields">
+<label>Výškový rozdíl (ft)<input id="climb-feet" type="number" step="any" min="0" value="3000" inputmode="decimal"></label>
+<label>Vertikální rychlost (ft/min)<input id="climb-rate" type="number" step="any" min="0.1" value="500" inputmode="decimal"></label>
+<label>GS (kt)<input id="climb-gs" type="number" step="any" min="0.1" value="80" inputmode="decimal"></label></div>
+<div class="results" id="result-climb" aria-live="polite"></div></section>
+<section id="panel-units" class="tool" data-panel="units" hidden>
+<h2>Převody jednotek</h2><p class="helper">Převody v běžně používaných leteckých jednotkách.</p>
+<div class="fields"><label>Převod<select id="unit-pair">
+<option value="nm-km">Námořní míle → kilometry</option>
+<option value="km-nm">Kilometry → námořní míle</option>
+<option value="ft-m">Stopy → metry</option>
+<option value="m-ft">Metry → stopy</option>
+<option value="kt-kmh">Uzly → km/h</option>
+<option value="kmh-kt">km/h → uzly</option>
+<option value="kg-lb">Kilogramy → libry</option>
+<option value="lb-kg">Libry → kilogramy</option>
+<option value="l-usgal">Litry → americké galony</option>
+<option value="usgal-l">Americké galony → litry</option>
+<option value="c-f">°C → °F</option>
+<option value="f-c">°F → °C</option>
+<option value="hpa-inhg">hPa → inHg</option>
+<option value="inhg-hpa">inHg → hPa</option>
+</select></label><label>Hodnota<input id="unit-value" type="number" step="any" value="10" inputmode="decimal"></label></div>
+<div class="results" id="result-units" aria-live="polite"></div></section>
+<footer><p><strong>Autor:</strong> Petr Randa · <a href="mailto:petr.randa@gmail.com">petr.randa@gmail.com</a></p><p>Studijní vzorce – bez typově specifických provozních schválení. U hmotnosti a těžiště kontroluj i polohu CG pro jednotlivé fáze letu.</p></footer>
+</main><script src="./calc.js?v=1"></script></body></html>

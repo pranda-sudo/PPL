@@ -1072,7 +1072,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-66"
+      "id": "komunikace-p14-66",
+      "explanation": "VOLMET je pravidelné vysílání meteorologických informací pro letadla za letu, například zpráv o počasí na vybraných letištích. NOTAM je jiný druh letecké informace a navigační údaje nejsou hlavním obsahem VOLMET."
     },
     {
       "sourceNumber": "67",
@@ -1088,7 +1089,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-67"
+      "id": "komunikace-p14-67",
+      "explanation": "ATIS je automatické vysílání aktuálních letištních provozních informací. Jeho zvukový signál lze v některých instalacích přenášet i prostřednictvím hlasového kanálu VOR; DME slouží k měření vzdálenosti a GPS není pozemní hlasový vysílač."
     },
     {
       "sourceNumber": "68",
@@ -1104,7 +1106,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-68"
+      "id": "komunikace-p14-68",
+      "explanation": "VOLMET umožňuje posádce za letu přijímat meteorologické zprávy pro vybraná letiště. METAR je samotná pravidelná letištní meteorologická zpráva; GAMET a AIRMET mají odlišný účel."
     },
     {
       "sourceNumber": "70",
@@ -1120,7 +1123,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 14,
-      "id": "komunikace-p14-70"
+      "id": "komunikace-p14-70",
+      "explanation": "Jestliže pilot nemůže navázat spojení a vysílá bez očekávaného potvrzení, uvede zprávu frází „vysílám naslepo“ (TRANSMITTING BLIND). Tím upozorní ostatní, že neprobíhá běžná obousměrná komunikace."
     },
     {
       "sourceNumber": "71",
@@ -1136,7 +1140,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-71"
+      "id": "komunikace-p15-71",
+      "explanation": "Vysílání naslepo při ztrátě obousměrného spojení se zahajuje na dosud používané frekvenci, kde jej příslušné stanoviště nejspíše přijme. Další pokusy na jiných vhodných frekvencích se řídí postupy pro ztrátu spojení."
     },
     {
       "sourceNumber": "72",
@@ -1152,7 +1157,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-72"
+      "id": "komunikace-p15-72",
+      "explanation": "Při vysílání naslepo se zpráva opakuje dvakrát, aby se zvýšila pravděpodobnost správného příjmu bez potvrzení. Pilot přitom uvede, že vysílá naslepo."
     },
     {
       "sourceNumber": "73",
@@ -1168,7 +1174,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-73"
+      "id": "komunikace-p15-73",
+      "explanation": "Kód odpovídače 7600 je mezinárodní signál poruchy radiového spojení. Kód 7700 označuje obecnou nouzi a 7500 protiprávní zásah; samotný vstup do oblačnosti není důvodem pro 7600."
     },
     {
       "sourceNumber": "74",
@@ -1184,7 +1191,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-74"
+      "id": "komunikace-p15-74",
+      "explanation": "Při poruše spojení za VFR v řízeném prostoru je třeba dodržet příslušné postupy pro ztrátu spojení a nepředpokládat nové povolení. Testová odpověď uvádí pokračování podle posledního povolení a pravidel VFR nebo co nejrychlejší opuštění prostoru; konkrétní postup vždy závisí také na publikovaných místních pravidlech a situaci."
     },
     {
       "sourceNumber": "75",
@@ -1200,7 +1208,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 15,
-      "id": "komunikace-p15-75"
+      "id": "komunikace-p15-75",
+      "explanation": "Ztráta spojení sama o sobě nezakládá nové povolení ke vstupu do řízeného prostoru třídy D. Uvedená testová výjimka předpokládá, že potřebné povolení bylo vydáno ještě před ztrátou spojení; jinak pilot nesmí vstup považovat za automaticky schválený."
     },
     {
       "sourceNumber": "76",
@@ -1216,7 +1225,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-76"
+      "id": "komunikace-p16-76",
+      "explanation": "Pilnostní radiotelefonní volání se zahajuje třikrát opakovaným „PAN PAN“. „MAYDAY“ je vyhrazeno pro tíseň, tedy bezprostřední vážné ohrožení s potřebou okamžité pomoci."
     },
     {
       "sourceNumber": "77",
@@ -1232,7 +1242,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-77"
+      "id": "komunikace-p16-77",
+      "explanation": "Pilnostní zpráva se týká naléhavé situace ovlivňující bezpečnost letadla nebo osob, ale nemusí jít o bezprostřední vážné nebezpečí. Při takovém nebezpečí s potřebou okamžité pomoci se používá tísňové volání MAYDAY."
     },
     {
       "sourceNumber": "78",
@@ -1248,7 +1259,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-78"
+      "id": "komunikace-p16-78",
+      "explanation": "Tísňová zpráva oznamuje vážné a bezprostřední nebezpečí a potřebu okamžité pomoci. Její priorita je nejvyšší; oproti tomu pilnostní zpráva PAN PAN nemusí znamenat bezprostřední ohrožení."
     },
     {
       "sourceNumber": "79",
@@ -1264,7 +1276,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 16,
-      "id": "komunikace-p16-79"
+      "id": "komunikace-p16-79",
+      "explanation": "Úvodní tísňové volání se zpravidla vysílá na právě používané frekvenci, protože na ní pilot již komunikuje se stanovištěm schopným zajistit pomoc. Nouzová frekvence 121,500 MHz je důležitá alternativa, pokud spojení na stávající frekvenci nefunguje."
     },
     {
       "sourceNumber": "84",
@@ -1280,7 +1293,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 17,
-      "id": "komunikace-p17-84"
+      "id": "komunikace-p17-84",
+      "explanation": "Frekvenční pásmo 118,000–136,975 MHz patří do VHF (Very High Frequency), česky velmi krátké vlny. LF, MF a HF jsou nižší frekvenční oblasti s jinými vlastnostmi šíření."
     },
     {
       "sourceNumber": "85",
@@ -1296,7 +1310,8 @@
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 18,
-      "id": "komunikace-p18-85"
+      "id": "komunikace-p18-85",
+      "explanation": "VKV/VHF letecké spojení se šíří převážně přímou viditelností. Větší výška letadla zpravidla prodlužuje rádiový horizont a zlepšuje možnost příjmu vzdálených stanic; ionosférické efekty typické pro HF zde nejsou hlavním faktorem."
     },
     {
       "sourceNumber": "1",

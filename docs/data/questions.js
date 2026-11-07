@@ -341,7 +341,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-19"
+      "id": "komunikace-p4-19",
+      "explanation": "Zprávy o rádiovém zaměřování patří v pořadí přednosti před zprávy týkající se bezpečnosti letu. Priorita radiotelefonních zpráv je stanovena podle jejich provozního významu, nikoli podle pořadí přijetí."
     },
     {
       "sourceNumber": "20",
@@ -357,7 +358,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 4,
-      "id": "komunikace-p4-20"
+      "id": "komunikace-p4-20",
+      "explanation": "Zprávy nezbytné pro řízení letového provozu se řadí mezi zprávy pro zajištění bezpečnosti letu. Nejde o meteorologickou zprávu ani o zprávu o pravidelnosti provozu."
     },
     {
       "sourceNumber": "21",
@@ -424,7 +426,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 5,
-      "id": "komunikace-p5-24"
+      "id": "komunikace-p5-24",
+      "explanation": "Požadavek QDM se týká rádiového zaměřování, které má ve stanoveném pořadí přednosti radiotelefonních zpráv vyšší prioritu než běžné informace o větru nebo tlaku."
     },
     {
       "sourceNumber": "25",
@@ -780,7 +783,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Spolecne",
       "sourceFile": "Komunikace.pdf",
       "page": 9,
-      "id": "komunikace-p9-45"
+      "id": "komunikace-p9-45",
+      "explanation": "Při zkrácení volací značky tvořené státní značkou a registrační značkou se používá první znak státní značky a nejméně poslední dva znaky registrační značky. D-EAZF se tak může zkrátit na D-ZF, pokud jsou splněny podmínky pro zkracování."
     },
     {
       "sourceNumber": "46",
@@ -1319,7 +1323,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-1"
+      "id": "5-letove-zasady-vrtulnik-p1-1",
+      "explanation": "Zatížení disku je poměr hmotnosti vrtulníku k ploše kruhu opisovaného hlavním rotorem. Vyšší zatížení disku obecně znamená vyšší požadavky na indukovaný výkon při visení."
     },
     {
       "sourceNumber": "2",
@@ -1351,7 +1356,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-3"
+      "id": "5-letove-zasady-vrtulnik-p1-3",
+      "explanation": "Po překročení kritického úhlu náběhu již proudění nedokáže sledovat horní povrch profilu a začíná se odtrhávat. Vztlak přestává růst a odpor výrazně narůstá."
     },
     {
       "sourceNumber": "4",
@@ -1367,7 +1373,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-4"
+      "id": "5-letove-zasady-vrtulnik-p1-4",
+      "explanation": "Mezní vrstva bývá v přední části profilu laminární a dále po proudu přechází do turbulentní. Poloha přechodu závisí na profilu, drsnosti a podmínkách proudění."
     },
     {
       "sourceNumber": "5",
@@ -1383,7 +1390,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 1,
-      "id": "5-letove-zasady-vrtulnik-p1-5"
+      "id": "5-letove-zasady-vrtulnik-p1-5",
+      "explanation": "Turbulentní mezní vrstva má větší výměnu hybnosti, takže lépe překonává nepříznivý tlakový gradient. Odtržení proudění proto často nastává později než u laminární mezní vrstvy."
     },
     {
       "sourceNumber": "6",
@@ -1399,7 +1407,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-6"
+      "id": "5-letove-zasady-vrtulnik-p2-6",
+      "explanation": "Virtuální osa otáčení je kolmá na rovinu trajektorie konců rotorových listů, tedy na rovinu vytvářenou jejich oběhem. Nemusí být totožná s mechanickou osou hřídele."
     },
     {
       "sourceNumber": "7",
@@ -1415,7 +1424,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-7"
+      "id": "5-letove-zasady-vrtulnik-p2-7",
+      "explanation": "Efektivní úhel náběhu se měří mezi tětivou profilu a směrem skutečného relativního proudění vzduchu na list. Zahrnuje vliv obvodové rychlosti i indukovaného proudění."
     },
     {
       "sourceNumber": "8",
@@ -1431,7 +1441,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-8"
+      "id": "5-letove-zasady-vrtulnik-p2-8",
+      "explanation": "Při vytváření vztlaku vzniká indukovaný odpor související s odkloněním proudu vzduchu a s vírovým systémem. Je odlišný od profilového třecího odporu."
     },
     {
       "sourceNumber": "9",
@@ -1447,7 +1458,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-9"
+      "id": "5-letove-zasady-vrtulnik-p2-9",
+      "explanation": "Tangenciální složka aerodynamické síly působící proti směru otáčení vytváří brzdicí moment rotoru. Motor jej při poháněném letu musí překonávat."
     },
     {
       "sourceNumber": "10",
@@ -1463,7 +1475,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 2,
-      "id": "5-letove-zasady-vrtulnik-p2-10"
+      "id": "5-letove-zasady-vrtulnik-p2-10",
+      "explanation": "Výsledný tah hlavního rotoru je v základním aerodynamickém modelu kolmý k rovině trajektorie konců listů. Při naklopení této roviny se naklápí také vektor tahu."
     },
     {
       "sourceNumber": "11",
@@ -1479,7 +1492,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 3,
-      "id": "5-letove-zasady-vrtulnik-p3-11"
+      "id": "5-letove-zasady-vrtulnik-p3-11",
+      "explanation": "Při ostatních stejných podmínkách jsou aerodynamické síly na rotorových listech přibližně úměrné druhé mocnině obvodové rychlosti. Snížení otáček proto zmenšuje tah i tangenciální sílu."
     },
     {
       "sourceNumber": "12",

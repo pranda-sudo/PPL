@@ -5065,7 +5065,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-2"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-2",
+      "explanation": "Model švýcarského sýra popisuje bezpečnostní bariéry jako vrstvy s nedokonalostmi. Nehoda může vzniknout, když se slabiny několika vrstev současně seřadí a nebezpečí projde všemi bariérami."
     },
     {
       "sourceNumber": "3",
@@ -5081,7 +5082,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-3"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-3",
+      "explanation": "Podíl kyslíku v suchém vzduchu zůstává v běžných letových výškách přibližně 20,95 %. S výškou klesá celkový atmosférický tlak, a tedy i parciální tlak kyslíku; proto může vzniknout hypoxie, přestože procento kyslíku zůstává stejné."
     },
     {
       "sourceNumber": "4",
@@ -5097,7 +5099,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-4"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-4",
+      "explanation": "Suchý vzduch obsahuje přibližně 78 % dusíku, 21 % kyslíku a přibližně 1 % ostatních plynů. Tyto podíly jsou v nižší atmosféře relativně stálé."
     },
     {
       "sourceNumber": "5",
@@ -5113,7 +5116,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-5"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-5",
+      "explanation": "Ve standardní atmosféře klesá tlak s výškou nelineárně. Přibližně v 18 000 ft dosahuje asi poloviny tlaku u hladiny moře; proto je ve výšce významně nižší i parciální tlak kyslíku."
     },
     {
       "sourceNumber": "6",
@@ -5145,7 +5149,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-7"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-7",
+      "explanation": "Cigaretový kouř obsahuje oxid uhelnatý (CO). Ten se váže na hemoglobin mnohem silněji než kyslík, a tím omezuje přenos kyslíku krví; i kuřák proto může mít zvýšenou hladinu karboxyhemoglobinu."
     },
     {
       "sourceNumber": "8",
@@ -5161,7 +5166,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-8"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-8",
+      "explanation": "Při záporném násobku zatížení se krev přesouvá směrem k hlavě. Zvýšené prokrvení cév v oku může vyvolat červené vidění (red-out), na rozdíl od šedého až černého vidění při vysokém kladném násobku."
     },
     {
       "sourceNumber": "9",
@@ -5177,7 +5183,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-9"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-9",
+      "explanation": "U některých pístových letadel se kabina vytápí vzduchem ohřívaným kolem výfukového potrubí. Netěsnost výměníku může do kabiny přivést oxid uhelnatý z výfukových plynů; podezření na CO vyžaduje okamžitou reakci podle postupů letounu."
     },
     {
       "sourceNumber": "10",
@@ -5209,7 +5216,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-11"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-11",
+      "explanation": "Při nedostatečném okysličení krve se může objevit cyanóza – namodralé zbarvení rtů a konečků prstů. Je to závažný příznak hypoxie, ale nemusí být přítomen u každého postiženého."
     },
     {
       "sourceNumber": "12",
@@ -5225,7 +5233,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-12"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-12",
+      "explanation": "Sítnice oka a zrakové funkce jsou citlivé na nedostatek kyslíku. Hypoxie může zhoršovat zejména noční vidění ještě před výraznějšími subjektivními příznaky."
     },
     {
       "sourceNumber": "13",
@@ -5273,7 +5282,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 3,
-      "id": "2-lidska-vykonnost-vrtulnik-p3-15"
+      "id": "2-lidska-vykonnost-vrtulnik-p3-15",
+      "explanation": "Červené krvinky obsahují hemoglobin, který váže kyslík v plicích a přenáší jej do tkání. Nedostatečný počet krvinek nebo porucha hemoglobinu snižují schopnost krve zásobovat tělo kyslíkem."
     },
     {
       "sourceNumber": "16",
@@ -5289,7 +5299,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-16"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-16",
+      "explanation": "Krevní destičky (trombocyty) se při poranění cévy shlukují a podílejí se na vytvoření krevní zátky. Společně s koagulačními faktory umožňují zastavení krvácení."
     },
     {
       "sourceNumber": "17",
@@ -5305,7 +5316,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-17"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-17",
+      "explanation": "Bílé krvinky (leukocyty) rozpoznávají a potlačují infekce a podílejí se na imunitních reakcích. Na rozdíl od červených krvinek není jejich hlavním úkolem přenos kyslíku."
     },
     {
       "sourceNumber": "18",
@@ -5321,7 +5333,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-18"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-18",
+      "explanation": "Krevní destičky pomáhají zastavit krvácení vytvořením primární krevní zátky a podporují srážecí proces. Červené krvinky přenášejí kyslík, bílé krvinky se účastní imunitní obrany."
     },
     {
       "sourceNumber": "19",
@@ -5353,7 +5366,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 4,
-      "id": "2-lidska-vykonnost-vrtulnik-p4-20"
+      "id": "2-lidska-vykonnost-vrtulnik-p4-20",
+      "explanation": "Oxid uhelnatý se váže na hemoglobin a vytváří karboxyhemoglobin, který nemůže přenášet kyslík. Jde tedy o poruchu transportní kapacity krve – anemický typ hypoxie."
     },
     {
       "sourceNumber": "21",
@@ -5417,7 +5431,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-24"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-24",
+      "explanation": "Reflex je rychlá, mimovolní odpověď nervového systému na podnět, například mrknutí při přiblížení předmětu k oku. Nemusí vyžadovat vědomé rozhodnutí."
     },
     {
       "sourceNumber": "25",
@@ -5433,7 +5448,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-25"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-25",
+      "explanation": "Autonomní nervový systém řídí mnoho mimovolních funkcí, například srdeční frekvenci, trávení a regulaci cév. Dýchání má automatickou složku, ale lze je do určité míry ovládat i vědomě."
     },
     {
       "sourceNumber": "26",
@@ -5449,7 +5465,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-26"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-26",
+      "explanation": "Paralaxa vzniká, když pozorovatel sleduje ručičku vůči stupnici pod šikmým úhlem. Zdánlivá poloha ručičky se pak liší od správné hodnoty; analogové přístroje je vhodné číst kolmo."
     },
     {
       "sourceNumber": "27",
@@ -5481,7 +5498,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-28"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-28",
+      "explanation": "Čípky na sítnici umožňují barevné vidění a ostré rozlišování detailů při dostatečném osvětlení. Tyčinky jsou citlivější za šera, ale barvy nerozlišují."
     },
     {
       "sourceNumber": "29",
@@ -5497,7 +5515,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-29"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-29",
+      "explanation": "Eustachova trubice spojuje středoušní dutinu s nosohltanem. Při polykání či zívání pomáhá vyrovnávat tlak mezi středním uchem a okolím."
     },
     {
       "sourceNumber": "30",
@@ -5513,7 +5532,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-30"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-30",
+      "explanation": "Při otoku nebo neprůchodnosti Eustachovy trubice se tlak ve středním uchu vyrovnává obtížně. Změny výšky pak mohou vyvolat bolest nebo barotrauma; let s výraznou rýmou proto představuje riziko."
     },
     {
       "sourceNumber": "31",
@@ -5529,7 +5549,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-31"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-31",
+      "explanation": "Po delší koordinované zatáčce se polokruhovité kanálky vnitřního ucha přizpůsobí stálému otáčení. Při vyrovnání zatáčky mohou krátce vyvolat falešný pocit otáčení na opačnou stranu."
     },
     {
       "sourceNumber": "32",
@@ -5561,7 +5582,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-33"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-33",
+      "explanation": "Při dopředném zrychlení může otolitový aparát vnitřního ucha zaměnit výsledné zrychlení za zaklonění hlavy. Pilot tak může mylně vnímat stoupání – jde o somatogravickou iluzi."
     },
     {
       "sourceNumber": "34",
@@ -5577,7 +5599,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-34"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-34",
+      "explanation": "Při zpomalení může otolitový aparát vyvolat falešný pocit sklopení přídě a klesání. Bez spolehlivých vnějších orientačních bodů je nutné důvěřovat letovým přístrojům."
     },
     {
       "sourceNumber": "35",
@@ -5625,7 +5648,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-37"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-37",
+      "explanation": "Pohyb hlavy při ustálené zatáčce stimuluje různé polokruhovité kanálky současně. Může vzniknout Coriolisova iluze – intenzivní falešný pocit rotace nebo náklonu."
     },
     {
       "sourceNumber": "38",
@@ -5641,7 +5665,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-38"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-38",
+      "explanation": "Při kladném přetížení se krev přesouvá od hlavy k dolním částem těla. Snížené prokrvení sítnice může nejprve vyvolat šedé vidění (grey-out), později black-out a případně ztrátu vědomí."
     },
     {
       "sourceNumber": "39",
@@ -5657,7 +5682,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 8,
-      "id": "2-lidska-vykonnost-vrtulnik-p8-39"
+      "id": "2-lidska-vykonnost-vrtulnik-p8-39",
+      "explanation": "Mozek vyhodnocuje zrakové podněty na základě zkušeností a očekávání. Pokud okolní podmínky vytvářejí zavádějící perspektivu nebo kontrast, může vzniknout optický klam i při zdravém zraku."
     },
     {
       "sourceNumber": "40",
@@ -5689,7 +5715,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-41"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-41",
+      "explanation": "Nadváha a zejména nadbytek viscerálního tuku souvisejí s inzulinovou rezistencí, a tím se zvýšeným rizikem diabetu 2. typu. Pro leteckou zdravotní způsobilost je důležitý i způsob léčby a riziko hypoglykémie."
     },
     {
       "sourceNumber": "42",
@@ -5705,7 +5732,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-42"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-42",
+      "explanation": "Po přístrojovém potápění může být v tkáních zvýšené množství rozpuštěného dusíku. Pokles okolního tlaku při letu podporuje vznik bublinek a dekompresní nemoci; před letem je nutný odpovídající časový odstup."
     },
     {
       "sourceNumber": "43",
@@ -5753,7 +5781,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-45"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-45",
+      "explanation": "Latentní (skrytá) chyba může být zabudovaná do postupů, organizace nebo technického systému a dlouho se neprojevit. Nehoda vzniká, když se taková slabina spojí s dalšími chybami nebo nepříznivými okolnostmi."
     },
     {
       "sourceNumber": "46",
@@ -5769,7 +5798,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-46"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-46",
+      "explanation": "Potvrzovací zkreslení znamená, že člověk vyhledává a upřednostňuje informace podporující jeho dosavadní názor a podceňuje protichůdné důkazy. Pilot mu čelí aktivním ověřováním alternativních vysvětlení."
     },
     {
       "sourceNumber": "47",
@@ -5785,7 +5815,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-47"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-47",
+      "explanation": "Situační povědomí zahrnuje vnímání aktuálních informací, porozumění jejich významu a předvídání dalšího vývoje. Pilot sleduje polohu, počasí, provoz, stav letounu i časové rezervy."
     },
     {
       "sourceNumber": "48",
@@ -5801,7 +5832,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-48"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-48",
+      "explanation": "Standardní radiotelefonní frazeologie snižuje nejednoznačnost. Pilot i řídící používají stejný význam předepsaných výrazů a správné opakování klíčových údajů pomáhá odhalit chyby."
     },
     {
       "sourceNumber": "49",
@@ -5817,7 +5849,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-49"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-49",
+      "explanation": "Základní reakce na riziko zahrnují vyhnutí se činnosti, snížení pravděpodobnosti či následků, přenesení některých dopadů a vědomé přijetí zbytkového rizika. V letectví nelze nepřijatelné bezpečnostní riziko jednoduše „převést“ a ignorovat."
     },
     {
       "sourceNumber": "50",
@@ -5833,7 +5866,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 10,
-      "id": "2-lidska-vykonnost-vrtulnik-p10-50"
+      "id": "2-lidska-vykonnost-vrtulnik-p10-50",
+      "explanation": "Skupinový tlak může vést k přijetí většího rizika, než by člověk připustil sám. Pilot musí rozhodovat podle provozních limitů a bezpečnostních kritérií, nikoli podle očekávání cestujících nebo kolegů."
     },
     {
       "sourceNumber": "51",
@@ -5849,7 +5883,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-51"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-51",
+      "explanation": "Posun rizika (risky shift) popisuje situaci, kdy skupina přijme rizikovější rozhodnutí než její členové samostatně. Příčinou může být rozptýlení odpovědnosti či vzájemné povzbuzování."
     },
     {
       "sourceNumber": "52",
@@ -5865,7 +5900,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-52"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-52",
+      "explanation": "Předvádění se může vést k nebezpečným manévrům, zatímco pocit nezranitelnosti vede k podceňování následků. Tyto postoje se vzájemně posilují a zvyšují pravděpodobnost nehody."
     },
     {
       "sourceNumber": "53",
@@ -5881,7 +5917,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-53"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-53",
+      "explanation": "Snaha zapůsobit na diváky nebo cestující může svádět k nízkým průletům, prudkým manévrům či jinému zbytečnému riziku. Bezpečný pilot upřednostňuje limity letounu a předpisy před dojmem na okolí."
     },
     {
       "sourceNumber": "54",
@@ -5897,7 +5934,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 11,
-      "id": "2-lidska-vykonnost-vrtulnik-p11-54"
+      "id": "2-lidska-vykonnost-vrtulnik-p11-54",
+      "explanation": "Očekávání ovlivňují to, co člověk skutečně zaznamená. Pilot může například přehlédnout neobvyklý údaj přístroje, protože očekává běžný stav; pomáhá systematická kontrola a vzájemné ověřování."
     },
     {
       "sourceNumber": "55",
@@ -5929,7 +5967,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-56"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-56",
+      "explanation": "Přílišná důvěra v automatizaci může snížit pozornost pilota a připravenost převzít řízení. Automatické systémy je nutné průběžně monitorovat a rozumět jejich režimům a omezením."
     },
     {
       "sourceNumber": "57",

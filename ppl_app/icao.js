@@ -17,5 +17,6 @@ function render(){if(mode==="flight"){el("study").hidden=true;el("about").hidden
 document.querySelectorAll(".tabs button").forEach(b=>b.addEventListener("click",()=>{mode=b.dataset.mode;index=0;document.querySelectorAll(".tabs button").forEach(x=>x.classList.toggle("active",x===b));render();}));
 el("reveal").addEventListener("click",()=>{if(!answered&&mode!=="about")reveal()});
 el("next").addEventListener("click",()=>{index=(index+1)%items().length;render()});
+if(new URLSearchParams(window.location.search).get("lesson")==="flight"){mode="flight";const tab=document.querySelector('.tabs button[data-mode="flight"]');document.querySelectorAll(".tabs button").forEach(b=>b.classList.toggle("active",b===tab));}
 updateStats();render();
 })();

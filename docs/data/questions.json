@@ -2071,7 +2071,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 9,
-      "id": "5-letove-zasady-vrtulnik-p9-45"
+      "id": "5-letove-zasady-vrtulnik-p9-45",
+      "explanation": "Otáčky rotoru při autorotaci určuje rovnováha aerodynamického hnacího a brzdicího momentu. Ovlivňuje je kolektiv, rychlost a trajektorie letu i manévrování. Brzda rotoru se za letu nepoužívá; její použití by ovšem rotor mechanicky brzdilo, takže doslovná formulace otázky „nemá vliv“ je fyzikálně zavádějící. Odpověď v původním klíči je nutné ověřit proti zdrojovému testu."
     },
     {
       "sourceNumber": "46",
@@ -2169,7 +2170,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 11,
-      "id": "5-letove-zasady-vrtulnik-p11-51"
+      "id": "5-letove-zasady-vrtulnik-p11-51",
+      "explanation": "Při mávání rotorového listu se mění vzdálenost jeho hmoty od osy otáčení. Zachování momentu hybnosti pak vyvolává tendenci ke změně úhlové rychlosti listu: při pohybu hmoty blíže k ose má list tendenci předbíhat v rovině otáčení, při pohybu ven zaostávat. Tyto pohyby se nazývají předbíhání a zaostávání (lead–lag) a souvisejí s Coriolisovým efektem."
     },
     {
       "sourceNumber": "52",
@@ -2252,7 +2254,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-56"
+      "id": "5-letove-zasady-vrtulnik-p12-56",
+      "explanation": "Delta závěs je konstrukční řešení, při němž geometrie závěsů spojuje mávání listu se změnou jeho úhlu nastavení. Tato vazba může při mávnutí listu snížit jeho úhel nastavení a tím omezit další nárůst aerodynamického zatížení. Přesný účinek a znaménko změny závisí na geometrii konkrétní rotorové hlavy."
     },
     {
       "sourceNumber": "57",
@@ -2404,7 +2407,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-65"
+      "id": "5-letove-zasady-vrtulnik-p13-65",
+      "explanation": "Násobek zatížení popisuje poměr výsledné aerodynamické síly nesoucí vrtulník k jeho tíze. Při manévru s nízkým násobkem se rotor a drak dočasně odlehčí. Proudění diskem a odezva rotoru se přitom mohou výrazně změnit; zvlášť u dvoulistého polotuhého rotoru jsou nízké až záporné násobky nebezpečné. Hmotnost cestujících ani jejich skutečná tíha se tím nemění."
     },
     {
       "sourceNumber": "66",
@@ -2505,7 +2509,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 1,
-      "id": "letove-zasady-letoun-p1-4"
+      "id": "letove-zasady-letoun-p1-4",
+      "explanation": "Námraza narušuje profil vrtulového listu, snižuje jeho aerodynamickou účinnost, zvyšuje odpor a může způsobit vibrace či nevyváženost. Změna otáček ale závisí na typu vrtule, regulátoru a nastavení výkonu. Původní klíč uvádí nárůst otáček, což nelze považovat za obecné pravidlo pro všechny vrtule; tuto konkrétní volbu je třeba ověřit v původním podkladu."
     },
     {
       "sourceNumber": "5",
@@ -3633,7 +3638,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 15,
-      "id": "letove-zasady-letoun-p15-71"
+      "id": "letove-zasady-letoun-p15-71",
+      "explanation": "Úhel náběhu je úhel mezi tětivou křídla a relativním proudem, nikoli úhel mezi osou trupu a horizontem. Při přechodu z vodorovného letu do ustáleného stoupání se mění rychlost, tah, vyvážení i požadovaný součinitel vztlaku. V běžném režimu stoupání při nižší rychlosti bývá úhel náběhu vyšší, ale bez určení rychlostí a konfigurace nelze tvrzení zobecnit na každý let."
     },
     {
       "sourceNumber": 72,
@@ -3887,7 +3893,8 @@
       "aircraft": "Letoun",
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 18,
-      "id": "letove-zasady-letoun-p18-86"
+      "id": "letove-zasady-letoun-p18-86",
+      "explanation": "Trim výškovky slouží k odstranění trvalé síly v podélném řízení. U klasické trimovací plošky vychýlení plošky nahoru obvykle vyvolá vychýlení samotné výškovky dolů a klopivý moment přídí dolů, tedy nastavení „těžký na hlavu“. U letounů s jiným systémem trimu se směr mechanického pohybu a indikace mohou lišit; vždy rozhoduje značení a příručka typu."
     },
     {
       "sourceNumber": 87,

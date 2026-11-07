@@ -2251,7 +2251,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-57"
+      "id": "5-letove-zasady-vrtulnik-p12-57",
+      "explanation": "Při určitých kombinacích směru a rychlosti větru může ocasní rotor pracovat v narušeném proudění včetně vlastního vírového systému. Jeho účinnost pak může kolísat a vyžadovat rychlý správný zásah podle letové příručky."
     },
     {
       "sourceNumber": "58",
@@ -2267,7 +2268,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-58"
+      "id": "5-letove-zasady-vrtulnik-p12-58",
+      "explanation": "Stabilnější vrtulník má menší tendenci k neřízenému rozvoji odchylek od požadovaného režimu letu. To obecně zvyšuje bezpečnost, zejména při vyšší pracovní zátěži pilota."
     },
     {
       "sourceNumber": "59",
@@ -2283,7 +2285,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 12,
-      "id": "5-letove-zasady-vrtulnik-p12-59"
+      "id": "5-letove-zasady-vrtulnik-p12-59",
+      "explanation": "Dobrá stabilita snižuje počet a velikost nutných korekcí řízení. Pilot tak může více pozornosti věnovat navigaci, komunikaci a sledování okolí."
     },
     {
       "sourceNumber": "60",
@@ -2333,7 +2336,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-62"
+      "id": "5-letove-zasady-vrtulnik-p13-62",
+      "explanation": "Svislá ocasní plocha při dopředném letu vytváří aerodynamické síly, které pomáhají udržovat směr letu. Zlepšuje směrovou stabilitu a může snížit potřebný zásah pedály."
     },
     {
       "sourceNumber": "63",
@@ -2349,7 +2353,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 13,
-      "id": "5-letove-zasady-vrtulnik-p13-63"
+      "id": "5-letove-zasady-vrtulnik-p13-63",
+      "explanation": "Vyšší vlastní stabilita zpravidla usnadňuje udržování zvoleného režimu letu, ale může zvyšovat odpor proti rychlým změnám polohy. Stabilita a obratnost proto představují konstrukční kompromis."
     },
     {
       "sourceNumber": "64",
@@ -2397,7 +2402,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-p14-66"
+      "id": "5-letove-zasady-vrtulnik-p14-66",
+      "explanation": "Rychlost VX je rychlost nejlepšího úhlu stoupání: umožňuje získat co největší výšku na jednotku vodorovné vzdálenosti. Je důležitá například při překonávání překážek."
     },
     {
       "sourceNumber": "67",
@@ -2413,7 +2419,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "5-Letove-zasady-vrtulnik.pdf",
       "page": 14,
-      "id": "5-letove-zasady-vrtulnik-p14-67"
+      "id": "5-letove-zasady-vrtulnik-p14-67",
+      "explanation": "Rychlost VY je rychlost nejlepší stoupavosti, tedy největšího přírůstku výšky za jednotku času. Nemusí být stejná jako rychlost nejlepšího úhlu stoupání."
     },
     {
       "sourceNumber": "1",
@@ -4115,7 +4122,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-letoun-2-p1-1"
+      "id": "2-lidska-vykonnost-letoun-2-p1-1",
+      "explanation": "Lidský faktor patří mezi hlavní příčiny a přispívající okolnosti leteckých nehod. Patří sem chyby rozhodování, nedostatečné plánování, únava, ztráta situačního povědomí i porušení postupů."
     },
     {
       "sourceNumber": "2",
@@ -4448,7 +4456,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-letoun-2-p5-21"
+      "id": "2-lidska-vykonnost-letoun-2-p5-21",
+      "explanation": "Při nevolnosti cestujícího pomáhá klidný koordinovaný let bez prudkých manévrů, přiměřená teplota a větrání kabiny. Pilot zároveň musí sledovat, zda nejde o závažnější zdravotní problém."
     },
     {
       "sourceNumber": "22",
@@ -4515,7 +4524,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-letoun-2-p6-25"
+      "id": "2-lidska-vykonnost-letoun-2-p6-25",
+      "explanation": "Polarizační brýle mohou zhoršovat čitelnost některých LCD displejů a zobrazení přístrojů v kabině. Pro pilotáž jsou proto často vhodnější kvalitní nepolarizovaná skla."
     },
     {
       "sourceNumber": "26",
@@ -4599,7 +4609,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-letoun-2-p7-30"
+      "id": "2-lidska-vykonnost-letoun-2-p7-30",
+      "explanation": "Při přímém ustáleném letu bez zrychlení se vestibulární systém obvykle nedráždí tak jako při zatáčení nebo změnách zrychlení. Bez spolehlivých vizuálních referencí však dezorientace zůstává možná."
     },
     {
       "sourceNumber": "31",
@@ -4799,7 +4810,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-letoun-2-p9-42"
+      "id": "2-lidska-vykonnost-letoun-2-p9-42",
+      "explanation": "Neopakovaná informace v krátkodobé paměti obvykle vydrží jen několik desítek sekund, často přibližně 10–20 sekund. Pomáhá opakování, zapisování a používání kontrolních seznamů."
     },
     {
       "sourceNumber": "43",
@@ -5071,7 +5083,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Letoun",
       "sourceFile": "2.-Lidska-vykonnost-letoun (2).pdf",
       "page": 13,
-      "id": "2-lidska-vykonnost-letoun-2-p13-58"
+      "id": "2-lidska-vykonnost-letoun-2-p13-58",
+      "explanation": "Stres vzniká, když člověk vnímá požadavky situace jako obtížně zvládnutelné nebo ohrožující. Nedostatek zjevného řešení může stres dále zesilovat."
     },
     {
       "sourceNumber": "1",
@@ -5087,7 +5100,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 1,
-      "id": "2-lidska-vykonnost-vrtulnik-p1-1"
+      "id": "2-lidska-vykonnost-vrtulnik-p1-1",
+      "explanation": "Lidský faktor patří mezi hlavní příčiny a přispívající okolnosti leteckých nehod. Patří sem chyby rozhodování, nedostatečné plánování, únava, ztráta situačního povědomí i porušení postupů."
     },
     {
       "sourceNumber": "2",
@@ -5171,7 +5185,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-6"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-6",
+      "explanation": "Suchý vzduch tvoří přibližně 78 % dusíku a 21 % kyslíku. Zbývající přibližně jedno procento představují zejména argon a stopová množství dalších plynů."
     },
     {
       "sourceNumber": "7",
@@ -5238,7 +5253,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 2,
-      "id": "2-lidska-vykonnost-vrtulnik-p2-10"
+      "id": "2-lidska-vykonnost-vrtulnik-p2-10",
+      "explanation": "Cyanóza je namodralé zbarvení kůže či sliznic při nedostatečném okysličení krve. Hyperventilace naopak typicky vede k poklesu oxidu uhličitého a může způsobit závratě, brnění či křeče."
     },
     {
       "sourceNumber": "11",
@@ -5421,7 +5437,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-21"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-21",
+      "explanation": "Při spouštění motoru se zadním větrem se mohou výfukové plyny hromadit nebo být zaneseny k přívodům vzduchu do kabiny. Oxid uhelnatý je bezbarvý a bez zápachu a může způsobit otravu."
     },
     {
       "sourceNumber": "22",
@@ -5437,7 +5454,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-22"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-22",
+      "explanation": "Vířící sníh odráží světlo přistávacích či protisrážkových světel a rotující části mohou vytvářet rušivé světelné efekty. Pilot může ztratit vizuální reference a prostorovou orientaci."
     },
     {
       "sourceNumber": "23",
@@ -5453,7 +5471,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 5,
-      "id": "2-lidska-vykonnost-vrtulnik-p5-23"
+      "id": "2-lidska-vykonnost-vrtulnik-p5-23",
+      "explanation": "Při nevolnosti cestujícího pomáhá klidný koordinovaný let bez prudkých manévrů, přiměřená teplota a větrání kabiny. Pilot zároveň musí sledovat, zda nejde o závažnější zdravotní problém."
     },
     {
       "sourceNumber": "24",
@@ -5520,7 +5539,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 6,
-      "id": "2-lidska-vykonnost-vrtulnik-p6-27"
+      "id": "2-lidska-vykonnost-vrtulnik-p6-27",
+      "explanation": "Polarizační brýle mohou zhoršovat čitelnost některých LCD displejů a zobrazení přístrojů v kabině. Pro pilotáž jsou proto často vhodnější kvalitní nepolarizovaná skla."
     },
     {
       "sourceNumber": "28",
@@ -5604,7 +5624,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-32"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-32",
+      "explanation": "Při přímém ustáleném letu bez zrychlení se vestibulární systém obvykle nedráždí tak jako při zatáčení nebo změnách zrychlení. Bez spolehlivých vizuálních referencí však dezorientace zůstává možná."
     },
     {
       "sourceNumber": "33",
@@ -5654,7 +5675,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 7,
-      "id": "2-lidska-vykonnost-vrtulnik-p7-35"
+      "id": "2-lidska-vykonnost-vrtulnik-p7-35",
+      "explanation": "Při přiblížení na dráhu skloněnou dolů může geometrie dráhy vyvolat dojem, že letadlo je níže než ve skutečnosti. Pilot pak může zvolit příliš vysokou trajektorii; je důležité spoléhat na správné přibližovací reference."
     },
     {
       "sourceNumber": "36",
@@ -5787,7 +5809,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-43"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-43",
+      "explanation": "Klasický model krátkodobé paměti uvádí přibližně sedm plus minus dvě položky. Jde o orientační historický model; skutečná kapacita pracovní paměti závisí na typu úlohy a seskupování informací."
     },
     {
       "sourceNumber": "44",
@@ -5803,7 +5826,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 9,
-      "id": "2-lidska-vykonnost-vrtulnik-p9-44"
+      "id": "2-lidska-vykonnost-vrtulnik-p9-44",
+      "explanation": "Neopakovaná informace v krátkodobé paměti obvykle vydrží jen několik desítek sekund, často přibližně 10–20 sekund. Pomáhá opakování, zapisování a používání kontrolních seznamů."
     },
     {
       "sourceNumber": "45",
@@ -6074,7 +6098,8 @@ window.PPL_QUESTIONS = {
       "aircraft": "Vrtulnik",
       "sourceFile": "2.-Lidska-vykonnost-vrtulnik.pdf",
       "page": 12,
-      "id": "2-lidska-vykonnost-vrtulnik-p12-60"
+      "id": "2-lidska-vykonnost-vrtulnik-p12-60",
+      "explanation": "Stres vzniká, když člověk vnímá požadavky situace jako obtížně zvládnutelné nebo ohrožující. Nedostatek zjevného řešení může stres dále zesilovat."
     },
     {
       "sourceNumber": "1",

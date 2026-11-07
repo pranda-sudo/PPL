@@ -427,7 +427,7 @@ const VERIFIED_EXPLANATIONS = {
 };
 
 function renderAnswerExplanation(question, answer) {
-  const show = state.mode === "practice" && Boolean(question && answer?.revealed);
+  const show = Boolean(question && answer?.revealed && (state.mode !== "mock" || state.examCompleted));
   els.answerExplanation.hidden = !show;
   if (!show) return;
   const correct = question.options[question.correctIndex];

@@ -114,8 +114,8 @@ function revealExercise(isDecision,mark){
 $("sample").onchange=()=>{$("raw").value=samples[Number($("sample").value)];fillDecode()};
 $("decode").onclick=fillDecode;
 $("copy").onclick=()=>{const value=$("raw").value;if(navigator.clipboard&&window.isSecureContext)navigator.clipboard.writeText(value).catch(()=>{});else{$("raw").focus();$("raw").select()}};
-$("reveal").onclick=()=>revealExercise(false,false);$("next").onclick=()=>{q=(q+1)%questions.length;renderExercise("quiz")};
-$("dReveal").onclick=()=>revealExercise(true,false);$("dNext").onclick=()=>{d=(d+1)%decisions.length;renderExercise("decision")};
+$("qCheck").onclick=()=>revealExercise(false,true);$("reveal").onclick=()=>revealExercise(false,false);$("next").onclick=()=>{q=(q+1)%questions.length;renderExercise("quiz")};
+$("dCheck").onclick=()=>revealExercise(true,true);$("dReveal").onclick=()=>revealExercise(true,false);$("dNext").onclick=()=>{d=(d+1)%decisions.length;renderExercise("decision")};
 document.querySelectorAll("[data-tab]").forEach(b=>b.onclick=()=>{const active=b.dataset.tab;document.querySelectorAll("[data-tab]").forEach(x=>x.classList.toggle("active",x===b));for(const name of ["decoder","quiz","decision","glossary"])$("panel-"+name).hidden=active!==name;});
 const glossary=$("glossary");for(const [short,meaning] of gloss){const item=document.createElement("div");const strong=document.createElement("strong");strong.textContent=short;const p=document.createElement("p");p.textContent=meaning;item.append(strong,p);glossary.append(item)}
 $("raw").value=samples[0];fillDecode();renderExercise("quiz");renderExercise("decision");

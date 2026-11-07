@@ -1,0 +1,36 @@
+<!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#16202a"><title>Radiotelefonista OFL / VFL – Letecké testy</title><link rel="stylesheet" href="./radio-exam.css?v=32"></head><body><main class="shell">
+<header class="top"><div><span class="eyebrow">Příprava na zkoušky ČTÚ</span><h1>Radiotelefonista OFL / VFL</h1><p>Teorie, testové otázky, ústní zkouška a oficiální materiály.</p></div><a class="back" href="./index.html?v=32">← PPL testy</a></header>
+<div class="notice"><strong>Rozlišení zdrojů:</strong> Interaktivní otázky jsou autorské a neobsahují celou oficiální banku ČTÚ. Kompletní otázky se správnými odpověďmi jsou dostupné níže jako oficiální PDF ČTÚ (09/2025). Samostatný oddíl pomáhá připravit i ústní zkoušku. Výsledky v aplikaci nejsou oficiálním hodnocením.</div>
+<section class="settings"><h2>Vyber průkaz</h2><div class="licenses" role="group" aria-label="Druh radiotelefonního průkazu">
+<button type="button" data-license="ofl" class="active" aria-pressed="true"><strong>OFL</strong><span>Omezený průkaz · ČR</span></button>
+<button type="button" data-license="vfl" aria-pressed="false"><strong>VFL</strong><span>Všeobecný průkaz · širší oprávnění</span></button>
+</div><p id="licenseInfo" class="muted"></p>
+<div class="modes" role="group" aria-label="Výuková sekce"><button class="active" type="button" data-view="test">Testy a učení</button><button type="button" data-view="oral">Ústní zkouška</button><button type="button" data-view="official">Všechny oficiální otázky</button></div></section>
+<section id="testView" class="view">
+<div class="settings"><h2>Nastavení procvičování</h2><div class="controls">
+<label>Režim<select id="mode"><option value="learn">Učení – okamžité vysvětlení</option><option value="exam">Zkušební test – vyhodnocení na konci</option><option value="errors">Opakovat chyby</option></select></label>
+<label>Předmět<select id="category"><option value="all">Všechny předměty</option></select></label>
+<label>Počet otázek<select id="limit"><option value="all">Všechny dostupné</option><option value="10">10</option><option value="20">20</option><option value="30">30</option></select></label>
+</div><button type="button" class="secondary" id="restart">Nový průchod / zamíchat</button></div>
+<section class="stats"><div><strong id="bankCount">0</strong><span>v databázi pro průkaz</span></div><div><strong id="selectedCount">0</strong><span>v průchodu</span></div><div><strong id="correctCount">0</strong><span>správně</span></div><div><strong id="wrongCount">0</strong><span>chybně</span></div></section>
+<section class="question"><div class="qhead"><span id="subject"></span><span id="position"></span></div><h2 id="prompt"></h2>
+<div id="choices" class="choices"></div><div id="feedback" class="feedback" hidden aria-live="polite"></div>
+<div class="actions"><button id="reveal" type="button" class="secondary">Zobrazit odpověď</button><button id="next" type="button" class="primary">Další otázka →</button></div>
+<div id="examResult" class="exam-result" hidden></div><div id="review" hidden><h3>Kontrola chybných odpovědí</h3><div id="reviewRows"></div></div></section></section>
+<section id="oralView" class="view" hidden>
+<section class="question"><h2>Ústní část zkoušky ČTÚ</h2><p>Procházej scénáře, zkus odpovědět nahlas a teprve poté otevři vzorový postup. Výklad je výukový – konkrétní situace může vyžadovat jiné pokyny.</p>
+<div id="oralCards"></div><div class="oralstatus" id="oralStatus" aria-live="polite"></div><button id="resetOral" class="secondary" type="button">Vynulovat označení ústní přípravy</button>
+</section></section>
+<section id="officialView" class="view" hidden><section class="question"><h2>Úplné oficiální otázky a odpovědi ČTÚ</h2>
+<p>Oficiální PDF obsahují celý publikovaný seznam zkušebních otázek a správných odpovědí. Tento seznam je rozhodující při kontrole úplnosti přípravy – interaktivní sada výše je pouze doplňkový trenažér.</p>
+<div class="officiallinks">
+<a href="https://ctu.gov.cz/sites/default/files/obsah/2025_09_OFL_otazky.pdf" target="_blank" rel="noopener">OFL – kompletní oficiální otázky (PDF, 09/2025)</a>
+<a href="https://ctu.gov.cz/sites/default/files/obsah/2025_09_VFL_otazky.pdf" target="_blank" rel="noopener">VFL – kompletní oficiální otázky (PDF, 09/2025)</a>
+<a href="https://ctu.gov.cz/sites/default/files/obsah/osnovyofl_2019-07.pdf" target="_blank" rel="noopener">OFL – oficiální osnovy ústní zkoušky</a>
+<a href="https://ctu.gov.cz/sites/default/files/obsah/osnovyvfl_2019-07.pdf" target="_blank" rel="noopener">VFL – oficiální osnovy ústní zkoušky</a>
+<a href="https://ctu.gov.cz/en/node/98258" target="_blank" rel="noopener">ČTÚ – přehled průkazů a aktuální odkazy</a>
+</div>
+<h3>Co splnit pro úspěšnou přípravu</h3><p>ČTÚ v publikovaných otázkách stanoví alespoň <strong>90 % správně v každém písemném předmětu</strong>. Při ústní části je třeba předvést požadované znalosti frazeologie, hláskování, tísňového provozu a komunikace. VFL zahrnuje i angličtinu a práci s ATIS. <strong>Procvičovací skóre není potvrzení připravenosti</strong>, zejména pokud nejsou probrané všechny oficiální otázky a ústní osnova.</p>
+</section></section>
+<footer>Autor aplikace: <strong>Petr Randa</strong> · <a href="mailto:petr.randa@gmail.com">petr.randa@gmail.com</a><p>Výukový modul pro samostatnou přípravu. Obsah kontroluj proti aktuálním informacím Českého telekomunikačního úřadu.</p></footer></main>
+<script src="./radio-exam-data.js?v=32"></script><script src="./radio-exam.js?v=32"></script></body></html>

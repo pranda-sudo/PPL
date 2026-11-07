@@ -12,6 +12,7 @@
   [...new Set(data.questions.map(q=>q.category))].forEach(c=>{let o=document.createElement("option");o.value=c;o.textContent=c;category.append(o)});
   function persist(){try{localStorage.setItem(key,JSON.stringify(errors))}catch{}}
   function shuffle(a){const b=a.slice();for(let i=b.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[b[i],b[j]]=[b[j],b[i]]}return b}
+  $("databaseTotal").textContent=data.questions.length;
   function start(){
     pool=shuffle(data.questions.filter(q=>(category.value==="all"||q.category===category.value)&&(mode.value!=="errors"||errors.includes(q.id))));
     if(limit.value!=="all")pool=pool.slice(0,Number(limit.value));

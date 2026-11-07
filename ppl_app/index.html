@@ -10,7 +10,7 @@
     <meta name="apple-mobile-web-app-title" content="PPL Testy" />
     <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./styles.css?v=12" />
+    <link rel="stylesheet" href="./styles.css?v=21" />
   </head>
   <body>
     <main class="app-shell">
@@ -23,6 +23,11 @@
           </div>
         </div>
 
+        <section class="panel module-picker" aria-label="Hlavní výukové menu"><h2>Výukový modul</h2><nav class="module-nav" aria-label="Přepínání mezi PPL, ULL a ICAO">
+<button class="active" data-module="ppl" type="button" aria-pressed="true">PPL testy</button>
+<button data-module="ull" type="button" aria-pressed="false">ULL testy</button>
+<button data-module="icao" type="button" aria-pressed="false">ICAO English</button>
+</nav></section><div id="pplSidebarControls">
         <section class="panel">
           <h2>Režim</h2>
           <div class="segmented" role="group" aria-label="Rezim procvicovani">
@@ -74,18 +79,7 @@
           <div id="mockPlan" class="exam-plan"></div>
         </section>
 
-        <section class="panel">
-          <h2>ULL Testy</h2>
-          <p style="color:var(--muted);margin:0 0 12px">Samostatné cvičné otázky pro ultralehká letadla: učení, testy, opakování chyb a česká vysvětlení.</p>
-          <a href="./ull.html?v=19" style="display:block;text-align:center;padding:12px;border-radius:9px;background:var(--accent);color:#fff;text-decoration:none;font-weight:700">Otevřít ULL Testy →</a>
-        </section>
-
-        <section class="panel">
-          <h2>ICAO English</h2>
-          <p style="color:var(--muted);margin:0 0 12px">Letecká angličtina: slovní zásoba, radiokomunikace a česká vysvětlení.</p>
-          <a href="./icao.html" style="display:block;text-align:center;padding:12px;border-radius:9px;background:var(--accent);color:#fff;text-decoration:none;font-weight:700">Otevřít ICAO English →</a>
-          <a href="./icao.html?lesson=flight&v=16" style="display:block;text-align:center;padding:10px;margin-top:8px;border:1px solid var(--accent);border-radius:9px;color:var(--accent);text-decoration:none;font-weight:700">✈ Celý let Líně → Sardinie</a>
-        </section>
+        </div>
 
         <section class="panel about-panel">
           <h2>O aplikaci</h2>
@@ -100,7 +94,7 @@
         </section>
       </aside>
 
-      <section class="workspace">
+      <section class="workspace" id="pplWorkspace">
         <header class="topbar">
           <div>
             <p class="eyebrow" id="currentMeta">Výběr</p>
@@ -189,9 +183,13 @@
           </section>
         </section>
       </section>
+      <section id="embeddedWorkspace" class="embedded-workspace" hidden aria-label="Výukový modul">
+        <iframe id="moduleFrame" title="Výukový modul" loading="lazy"></iframe>
+      </section>
     </main>
 
     <script src="./data/questions.js?v=12"></script>
     <script src="./app.js?v=12"></script>
+    <script src="./module-switch.js?v=21"></script>
   </body>
 </html>

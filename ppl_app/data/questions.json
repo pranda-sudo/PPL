@@ -21306,7 +21306,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-54"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-54",
+      "explanation": "V letové informační oblasti FIR se zajišťuje letová informační služba FIS a pohotovostní služba ALR. Řízení letového provozu se poskytuje jen v příslušných řízených částech prostoru."
     },
     {
       "sourceNumber": "55",
@@ -21322,7 +21323,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-55"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-55",
+      "explanation": "Za letu lze službu FIS kontaktovat radiostanicí na publikovaném kmitočtu. Pilot může získat provozní a meteorologické informace, ale FIS zpravidla nevydává povolení ATC."
     },
     {
       "sourceNumber": "56",
@@ -21338,7 +21340,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-56"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-56",
+      "explanation": "Výstraha „pozor, turbulence v úplavu“ upozorňuje na víry za jiným letadlem. Jejich síla souvisí s hmotností, konfigurací a rychlostí předcházejícího letadla; pilot musí zajistit bezpečný odstup."
     },
     {
       "sourceNumber": "57",
@@ -21354,7 +21357,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-57"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-57",
+      "explanation": "Standardní hlášení polohy obsahuje volací znak, polohu a podle situace čas, hladinu a další údaje. Z uvedených možností je nejbližší „OKABC, N, 2500 ft“, ale přesná frazeologie závisí na požadovaném typu hlášení a správném uvedení výšky či hladiny."
     },
     {
       "sourceNumber": "58",
@@ -21370,7 +21374,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 13,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-58"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p13-58",
+      "explanation": "AIREP je hlášení z letadla (air-report), které může obsahovat polohu, čas, hladinu a meteorologické informace. Zvláštní hlášení AIREP SPECIAL se používá pro významné meteorologické jevy."
     },
     {
       "sourceNumber": "59",
@@ -21386,7 +21391,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-59"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-59",
+      "explanation": "Část GEN (General) AIP obsahuje všeobecné informace, například zkratky a symboly, administrativní údaje, poplatky a vybrané přehledy služeb. Informace o tratích a prostorech jsou především v ENR a podrobnosti letišť v AD."
     },
     {
       "sourceNumber": "60",
@@ -21402,7 +21408,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-60"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-60",
+      "explanation": "AIP je členěna na GEN (všeobecně), ENR (traťové informace a vzdušný prostor) a AD (letiště). Toto členění usnadňuje vyhledání pravidel a údajů potřebných k přípravě letu."
     },
     {
       "sourceNumber": "61",
@@ -21418,7 +21425,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-61"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-61",
+      "explanation": "Část AD (Aerodromes) obsahuje informace o letištích včetně drah, provozních postupů, zařízení a letištních map. Vzdušné prostory a tratě jsou primárně v části ENR."
     },
     {
       "sourceNumber": "62",
@@ -21434,7 +21442,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 14,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-62"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p14-62",
+      "explanation": "NOTAM používá skupinu C) pro konec platnosti ve formátu YYMMDDhhmm v UTC. C) 1305211400 znamená 21. května 2013 ve 14:00 UTC. Skupina B) 1305211200 udává začátek 21. května 2013 ve 12:00 UTC; omezení tedy trvá dvě hodiny."
     },
     {
       "sourceNumber": "63",
@@ -21450,7 +21459,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-63"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-63",
+      "explanation": "PIB (Pre-flight Information Bulletin) je předletový výběr aktuálních NOTAM relevantních pro plánovaný let. Nenahrazuje kontrolu dalších informací, například AIP, počasí a provozních omezení."
     },
     {
       "sourceNumber": "64",
@@ -21466,7 +21476,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-64"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-64",
+      "explanation": "Nadmořská výška letiště (aerodrome elevation) je nadmořská výška nejvyššího bodu přistávací plochy. Je důležitá pro výškoměrná nastavení a výkonnostní výpočty."
     },
     {
       "sourceNumber": "65",
@@ -21482,7 +21493,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-65"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-65",
+      "explanation": "Vzletová a přistávací dráha (runway) je vymezená obdélníková plocha na pozemním letišti upravená pro přistání a vzlet letadel. Vodní přistávací plocha se v terminologii ICAO posuzuje odlišně."
     },
     {
       "sourceNumber": "66",
@@ -21498,7 +21510,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-66"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-66",
+      "explanation": "Vyčkávací místo (holding position) je určené místo, kde letadlo nebo vozidlo zastaví a vyčkává, pokud není oprávněno pokračovat. Zvláštní význam má vyčkávací místo před dráhou; bez příslušného povolení se na dráhu nevjíždí."
     },
     {
       "sourceNumber": "67",
@@ -21514,7 +21527,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 15,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-67"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p15-67",
+      "explanation": "Označení „wet“ znamená mokrou dráhu, jejíž povrch je viditelně mokrý nebo pokrytý vodou do stanovené malé hloubky; významné stojící vrstvy vody spadají do jiných kategorií. POZOR: klíč označuje „velká část zatopená vodou“, což neodpovídá běžnému významu wet. Způsob hlášení se řídí aktuální metodikou stavu dráhy (GRF)."
     },
     {
       "sourceNumber": "68",
@@ -21530,7 +21544,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-68"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-68",
+      "explanation": "„Damp“ historicky označuje vlhký povrch, u něhož je patrná změna barvy, ale není viditelná významná vrstva vody. Aktuální globální metodika GRF může takový stav posuzovat jinak; pro provoz je rozhodující zveřejněný runway condition report."
     },
     {
       "sourceNumber": "69",
@@ -21546,7 +21561,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-69"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-69",
+      "explanation": "„Water patches“ v tradičním popisu označuje jednotlivé plochy stojící vody na dráze. Pro současné rozhodování je třeba vycházet z aktuálního hlášení stavu dráhy, hloubky a rozsahu kontaminace."
     },
     {
       "sourceNumber": "70",
@@ -21562,7 +21578,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-70"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-70",
+      "explanation": "Ukazatel směru větru (větrný rukáv) může být pro lepší rozpoznání obklopen výrazným bílým kruhem. Poskytuje orientační směr a sílu větru v místě umístění, nikoli přesné měření pro všechny části letiště."
     },
     {
       "sourceNumber": "71",
@@ -21578,7 +21595,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-71"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-71",
+      "explanation": "Blikající červené světlo směrované na letadlo za letu znamená „letiště není bezpečné, nepřistávejte“. Je třeba odlišovat tento signál od stálého červeného světla, které znamená dát přednost a pokračovat po okruhu."
     },
     {
       "sourceNumber": "72",
@@ -21594,7 +21612,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 16,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-72"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p16-72",
+      "explanation": "Blikající zelené světlo pro letadlo za letu znamená „vraťte se na přistání“; samotné povolení k přistání následuje stálým zeleným světlem. Pilot musí rozlišovat jednotlivé světelné signály."
     },
     {
       "sourceNumber": "73",
@@ -21610,7 +21629,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-73"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-73",
+      "explanation": "Stálé zelené světlo pro letadlo za letu znamená „přistání povoleno“. Význam světelných signálů závisí na tom, zda je letadlo ve vzduchu, nebo na zemi."
     },
     {
       "sourceNumber": "74",
@@ -21626,7 +21646,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-74"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-74",
+      "explanation": "Blikající bílé světlo pro letadlo na zemi znamená „vraťte se na výchozí místo na letišti“ (zpravidla na odbavovací plochu). Nejde o povolení vzletu ani pojíždění."
     },
     {
       "sourceNumber": "75",
@@ -21642,7 +21663,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-75"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-75",
+      "explanation": "Blikající červené světlo pro letadlo na zemi znamená „opusťte používanou přistávací plochu / dráhu“. Je nutné odlišit od stálého červeného světla, které znamená zastavit."
     },
     {
       "sourceNumber": "76",
@@ -21658,7 +21680,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-76"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-76",
+      "explanation": "Blikající zelené světlo pro letadlo na zemi znamená „pojíždění povoleno“. Stálé zelené světlo na zemi naopak znamená „vzlet povolen“."
     },
     {
       "sourceNumber": "77",
@@ -21674,7 +21697,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 17,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-77"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p17-77",
+      "explanation": "Ukazatel směru přistání (landing T) má tvar písmene T. Jeho podélná osa ukazuje směr, kterým mají letadla při přistání a vzletu postupovat; pilot současně respektuje místní pravidla a pokyny ATS."
     },
     {
       "sourceNumber": "78",
@@ -21690,7 +21714,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-78"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-78",
+      "explanation": "Signální čtverec je vyznačená plocha letiště určená pro pozemní vizuální signály, které pilotům poskytují informace o provozních podmínkách nebo omezeních. Význam jednotlivých symbolů stanoví pravidla létání."
     },
     {
       "sourceNumber": "79",
@@ -21706,7 +21731,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-79"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-79",
+      "explanation": "U vrtulníku nelze doslova použít potvrzení „zamáváním křídly“. Standardní vizuální potvrzování světelných signálů musí zohlednit typ letadla a předepsané alternativy; otázka byla zřejmě převzata z testu pro letouny a vyžaduje opravu zadání a klíče."
     },
     {
       "sourceNumber": "80",
@@ -21722,7 +21748,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 18,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-80"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p18-80",
+      "explanation": "Stálé červené světlo směrované na letadlo na zemi znamená „zastavte“. Naproti tomu blikající červené světlo znamená uvolnit používanou přistávací plochu."
     },
     {
       "sourceNumber": "81",

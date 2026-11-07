@@ -10881,7 +10881,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-1-p9-42"
+      "id": "9-navigace-letoun-1-p9-42",
+      "explanation": "Elektrické a elektronické přístroje mohou vytvářet lokální magnetická pole, která ovlivňují magnetický kompas. Proto se stanovuje kompasová deviace pro konkrétní letadlo a konfiguraci vybavení."
     },
     {
       "sourceNumber": "43",
@@ -10897,7 +10898,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-1-p9-43"
+      "id": "9-navigace-letoun-1-p9-43",
+      "explanation": "Mercatorovo zobrazení zachovává místní úhly. Loxodromy jsou přímky, ortodromy zpravidla křivky a měřítko roste se zeměpisnou šířkou."
     },
     {
       "sourceNumber": "44",
@@ -10913,7 +10915,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 9,
-      "id": "9-navigace-letoun-1-p9-44"
+      "id": "9-navigace-letoun-1-p9-44",
+      "explanation": "Loxodroma má stálý kurz a na Mercatorově mapě je přímkou. Ortodroma je nejkratší trasa po velké kružnici a mimo zvláštní případy se zobrazuje jako křivka."
     },
     {
       "sourceNumber": "45",
@@ -10929,7 +10932,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-1-p10-45"
+      "id": "9-navigace-letoun-1-p10-45",
+      "explanation": "Lambertovo konformní kuželové zobrazení zachovává místní úhly a má v oblasti standardních rovnoběžek relativně malé zkreslení měřítka. Používá se pro letecké mapy středních šířek."
     },
     {
       "sourceNumber": "46",
@@ -10945,7 +10949,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-1-p10-46"
+      "id": "9-navigace-letoun-1-p10-46",
+      "explanation": "K určení polohy průsečíkem dvou zaměření je vhodné použít zeměpisné směrníky QTE, tedy směry od stanic vztažené k zeměpisnému severu. Při zakreslení je nutné respektovat orientaci mapy."
     },
     {
       "sourceNumber": "47",
@@ -10963,7 +10968,8 @@
       "page": 10,
       "id": "9-navigace-letoun-1-p10-47",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Radiál VOR je magnetický směr OD stanice. Ze souřadnic BKD a EDBU vychází směr přibližně východoseverovýchodní; přesný radiál 068° je nutné ověřit v příloze NAV-031 a vůči místní deklinaci."
     },
     {
       "sourceNumber": "48",
@@ -10979,7 +10985,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 10,
-      "id": "9-navigace-letoun-1-p10-48"
+      "id": "9-navigace-letoun-1-p10-48",
+      "explanation": "220 NM × 185 200 cm/NM = 40 744 000 cm ve skutečnosti. Poměr 40 744 000 / 40,7 ≈ 1 001 081, tedy měřítko přibližně 1 : 1 000 000."
     },
     {
       "sourceNumber": "49",
@@ -10997,7 +11004,8 @@
       "page": 10,
       "id": "9-navigace-letoun-1-p10-49",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Polohu určí průsečík radiálu 119° od VOR HAM a radiálu 320° od VOR BKD. Pro přesné zakreslení je nutné pracovat s mapou NAV-031 a magnetickou deklinací; uvedená poloha je přibližná."
     },
     {
       "sourceNumber": "50",
@@ -11015,7 +11023,8 @@
       "page": 11,
       "id": "9-navigace-letoun-1-p11-50",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Rozdíl šířek činí 9′ = 9 NM; rozdíl délek 38′ při šířce 53° odpovídá asi 38 × cos 53° ≈ 23 NM. Pythagorovou větou vychází přibližně 25 NM, tedy nejbližší mapová odpověď kolem 24 NM."
     },
     {
       "sourceNumber": "51",
@@ -11031,7 +11040,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-1-p11-51"
+      "id": "9-navigace-letoun-1-p11-51",
+      "explanation": "60,745 NM × 185 200 cm/NM ≈ 11 249 974 cm. Děleno 7,5 cm na mapě dává měřítko přibližně 1 : 1 500 000."
     },
     {
       "sourceNumber": "52",
@@ -11047,7 +11057,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-1-p11-52"
+      "id": "9-navigace-letoun-1-p11-52",
+      "explanation": "Při západní deklinaci 7° se k zeměpisné trati 245° při převodu na magnetickou přičítá 7°: 252°."
     },
     {
       "sourceNumber": "53",
@@ -11063,7 +11074,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 11,
-      "id": "9-navigace-letoun-1-p11-53"
+      "id": "9-navigace-letoun-1-p11-53",
+      "explanation": "Při stoupání klesá hustota vzduchu a TAS je při stejné IAS vyšší. Orientační pravidlo +2 % TAS na 1000 ft dává 150 × 1,16 ≈ 174 kt; jde o přibližný odhad závislý na teplotě."
     },
     {
       "sourceNumber": "54",
@@ -11079,7 +11091,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-1-p12-54"
+      "id": "9-navigace-letoun-1-p12-54",
+      "explanation": "Traťová rychlost přibližně 130 − 15 = 115 kt. Doba letu 210/115 × 60 ≈ 110 min, takže 09:15 + 1 h 50 min = 11:05 UTC."
     },
     {
       "sourceNumber": "55",
@@ -11095,7 +11108,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-1-p12-55"
+      "id": "9-navigace-letoun-1-p12-55",
+      "explanation": "GS = 105 − 12 = 93 kt. Čas 75/93 × 60 ≈ 48,4 min. Odlet 12:42 UTC tedy znamená přílet přibližně 13:30 UTC."
     },
     {
       "sourceNumber": "56",
@@ -11111,7 +11125,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-1-p12-56"
+      "id": "9-navigace-letoun-1-p12-56",
+      "explanation": "Doba letu = 100/107 h × 60 ≈ 56,1 min. Od 09:33 UTC vychází ETA 10:29 UTC."
     },
     {
       "sourceNumber": "57",
@@ -11127,7 +11142,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-1-p12-57"
+      "id": "9-navigace-letoun-1-p12-57",
+      "explanation": "Traťová rychlost je vzdálenost dělená časem: 100 km / (56/60 h) ≈ 107,1 km/h."
     },
     {
       "sourceNumber": "58",
@@ -11143,7 +11159,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 12,
-      "id": "9-navigace-letoun-1-p12-58"
+      "id": "9-navigace-letoun-1-p12-58",
+      "explanation": "85 minut = 85/60 h. GS = 110 / (85/60) ≈ 77,6 kt, tedy 78 kt."
     },
     {
       "sourceNumber": "59",
@@ -11159,7 +11176,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-1-p13-59"
+      "id": "9-navigace-letoun-1-p13-59",
+      "explanation": "Čas = 236 NM / 134 kt ≈ 1,761 h = 1 h 45,7 min, po zaokrouhlení 1 h 46 min."
     },
     {
       "sourceNumber": "60",
@@ -11175,7 +11193,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-1-p13-60"
+      "id": "9-navigace-letoun-1-p13-60",
+      "explanation": "Zadní složka větru zvýší GS na 120 + 35 = 155 kt. Čas = 185/155 h ≈ 1,194 h = přibližně 1 h 12 min."
     },
     {
       "sourceNumber": "61",
@@ -11191,7 +11210,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-1-p13-61"
+      "id": "9-navigace-letoun-1-p13-61",
+      "explanation": "Čelní složka větru sníží GS na 180 − 25 = 155 kt. Čas 2 h 25 min = 2,4167 h. Vzdálenost ≈ 155 × 2,4167 = 374,6 NM, tedy 375 NM."
     },
     {
       "sourceNumber": "62",
@@ -11207,7 +11227,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 13,
-      "id": "9-navigace-letoun-1-p13-62"
+      "id": "9-navigace-letoun-1-p13-62",
+      "explanation": "Převod CAS na TAS vyžaduje hustotu vzduchu, která závisí na tlaku a teplotě. Ve FL80 a OAT +15 °C je vzduch řidší než u hladiny moře, takže TAS je významně vyšší než CAS. Označených 180 kt je vhodné ověřit výpočtovým pravítkem či přesným vztahem."
     },
     {
       "sourceNumber": "63",
@@ -11225,7 +11246,8 @@
       "page": 13,
       "id": "9-navigace-letoun-1-p13-63",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Trať mezi uvedenými souřadnicemi míří k severovýchodu. Rozdíl šířek je 23′ a rozdíl délek 69′, v šířce 53° zhruba 42 NM na východ. arctan(42/23) ≈ 61° od severu."
     },
     {
       "sourceNumber": "64",
@@ -11241,7 +11263,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-1-p14-64"
+      "id": "9-navigace-letoun-1-p14-64",
+      "explanation": "V chladnějším než standardním vzduchu je skutečná výška menší než indikovaná. Pro přesný výpočet je třeba znát teplotní profil; označených 6250 ft odpovídá přibližné korekci −250 ft."
     },
     {
       "sourceNumber": "65",
@@ -11259,7 +11282,8 @@
       "page": 14,
       "id": "9-navigace-letoun-1-p14-65",
       "image": "./assets/questions/NAV-031.jpg",
-      "imageCode": "NAV-031"
+      "imageCode": "NAV-031",
+      "explanation": "Rozdíl šířek 23′ = 23 NM, rozdíl délek 69′ × cos 53° ≈ 42 NM. Vzdálenost ≈ √(23²+42²) ≈ 48 NM; mapové měření může dát přibližně 46 NM."
     },
     {
       "sourceNumber": "66",
@@ -11275,7 +11299,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-1-p14-66"
+      "id": "9-navigace-letoun-1-p14-66",
+      "explanation": "OAT +11 °C ve výšce 7000 ft je nad standardní teplotou ISA (přibližně +1 °C). Teplý vzduch zvětšuje tloušťku tlakových hladin, takže skutečná výška je vyšší než indikovaných 6500 ft; test uvádí přibližně 6750 ft."
     },
     {
       "sourceNumber": "67",
@@ -11291,7 +11316,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-1-p14-67"
+      "id": "9-navigace-letoun-1-p14-67",
+      "explanation": "OAT +21 °C ve výšce 7000 ft je asi 20 °C nad ISA. Teplá vzduchová vrstva znamená větší skutečnou výšku než indikuje výškoměr; testová aproximace dává 7000 ft oproti indikovaným 6500 ft."
     },
     {
       "sourceNumber": "68",
@@ -11307,7 +11333,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 14,
-      "id": "9-navigace-letoun-1-p14-68"
+      "id": "9-navigace-letoun-1-p14-68",
+      "explanation": "Vítr 200°/10 kt přichází zleva od tratě 255°. Boční složka je přibližně 10 sin 55° ≈ 8,2 kt zleva; při TAS 100 kt je oprava asi 5° doleva, tedy kurz 250°."
     },
     {
       "sourceNumber": "69",
@@ -11323,7 +11350,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-69"
+      "id": "9-navigace-letoun-1-p15-69",
+      "explanation": "Vítr 130°/20 kt přichází zleva od tratě 165°. Boční složka ≈ 20 sin 35° = 11,5 kt. WCA ≈ −arcsin(11,5/90) ≈ −7°, tedy kurz 158°."
     },
     {
       "sourceNumber": "70",
@@ -11339,7 +11367,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-70"
+      "id": "9-navigace-letoun-1-p15-70",
+      "explanation": "Vítr 140°/20 kt přichází zleva od tratě 177°, takže kurz je třeba opravit doleva. Boční složka ≈ 20 sin 37° = 12 kt; při GS 160 kt odpovídá oprava přibližně 4°, tedy 173°."
     },
     {
       "sourceNumber": "71",
@@ -11355,7 +11384,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-71"
+      "id": "9-navigace-letoun-1-p15-71",
+      "explanation": "Vítr 270°/50 kt má vůči trati 220° převážně čelní složku 50 cos 50° ≈ 32 kt. Po započtení bočního větru vychází GS přibližně 185 kt."
     },
     {
       "sourceNumber": "72",
@@ -11371,7 +11401,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 15,
-      "id": "9-navigace-letoun-1-p15-72"
+      "id": "9-navigace-letoun-1-p15-72",
+      "explanation": "Vítr 350°/30 kt je vzhledem k trati 040° zleva. Čelní složka ≈ 30 cos 50° = 19 kt; po zohlednění boční složky vychází GS přibližně 159 kt."
     },
     {
       "sourceNumber": "73",
@@ -11387,7 +11418,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-73"
+      "id": "9-navigace-letoun-1-p16-73",
+      "explanation": "Vítr 350°/30 kt přichází 50° zleva od tratě 040°. Boční složka je 30 sin 50° ≈ 23 kt. WCA = −arcsin(23/180) ≈ −7°."
     },
     {
       "sourceNumber": "74",
@@ -11398,12 +11430,13 @@
         "117 kt",
         "131 kt"
       ],
-      "correctIndex": 2,
+      "correctIndex": 1,
       "category": "Navigace",
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-74"
+      "id": "9-navigace-letoun-1-p16-74",
+      "explanation": "Vítr 090°/25 kt je pro západní trať 270° přesně zadní, proto GS = 100 + 25 = 125 kt. Odpověď 117 kt v původním klíči je chybná."
     },
     {
       "sourceNumber": "75",
@@ -11419,7 +11452,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-75"
+      "id": "9-navigace-letoun-1-p16-75",
+      "explanation": "Při větru 090°/25 kt a trati 270° je GS = 125 kt. Čas na 100 NM je 100/125 × 60 = 48 minut."
     },
     {
       "sourceNumber": "76",
@@ -11435,7 +11469,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-76"
+      "id": "9-navigace-letoun-1-p16-76",
+      "explanation": "Vítr 350°/30 kt při trati 040° přichází zleva. Pro udržení tratě je nutná oprava kurzu přibližně 7° doleva."
     },
     {
       "sourceNumber": "77",
@@ -11451,7 +11486,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 16,
-      "id": "9-navigace-letoun-1-p16-77"
+      "id": "9-navigace-letoun-1-p16-77",
+      "explanation": "Vítr 150°/12 kt při trati 120° přichází zprava. Boční složka ≈ 12 sin 30° = 6 kt. WCA ≈ arcsin(6/120) ≈ 3° doprava."
     },
     {
       "sourceNumber": "78",
@@ -11467,7 +11503,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-78"
+      "id": "9-navigace-letoun-1-p17-78",
+      "explanation": "Podle pravidla 1:60 dosavadní odchylka odpovídá 7/55 × 60 ≈ 7,6°. K dosažení cíle ze současné polohy je nutná úhlová oprava přibližně 7/(120−55) × 60 ≈ 6,5°. Celková změna dosavadního kurzu je přibližně 14° doleva."
     },
     {
       "sourceNumber": "79",
@@ -11483,7 +11520,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-79"
+      "id": "9-navigace-letoun-1-p17-79",
+      "explanation": "Po 45 NM je odchylka 4,5 NM, tedy úhlová chyba 4,5/45 × 60 = 6°. Zbývá 45 NM a návrat na cíl vyžaduje dalších 6°. Celková oprava dosavadního kurzu je 12° doprava."
     },
     {
       "sourceNumber": "80",
@@ -11499,7 +11537,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-80"
+      "id": "9-navigace-letoun-1-p17-80",
+      "explanation": "Pravidlo 1:60 říká, že odchylka 1° vytvoří po 60 NM přibližně 1 NM boční chyby. Používá se pro odhad odchylky od tratě a opravu kurzu."
     },
     {
       "sourceNumber": "81",
@@ -11515,7 +11554,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-81"
+      "id": "9-navigace-letoun-1-p17-81",
+      "explanation": "Plánovaný čas na 70 NM při 120 kt je 35 minut. Letadlo je o 5 minut napřed, skutečný čas je 30 minut, tedy GS = 140 kt. Celkový čas 220/140 h ≈ 94,3 min, od 12:00 vychází přibližně 13:34 až 13:35 UTC."
     },
     {
       "sourceNumber": "82",
@@ -11531,7 +11571,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 17,
-      "id": "9-navigace-letoun-1-p17-82"
+      "id": "9-navigace-letoun-1-p17-82",
+      "explanation": "Rozdíl výšek 9000 − 1500 = 7500 ft. Při klesání 1200 ft/min je čas 7500/1200 = 6,25 min, tedy asi 6 min 15 s; test zaokrouhluje na 6 min."
     },
     {
       "sourceNumber": "83",
@@ -11547,7 +11588,8 @@
       "aircraft": "Letoun",
       "sourceFile": "9-Navigace-letoun (1).pdf",
       "page": 18,
-      "id": "9-navigace-letoun-1-p18-83"
+      "id": "9-navigace-letoun-1-p18-83",
+      "explanation": "Rozdíl výšek 7500 − 1200 = 6300 ft. Při klesání 800 ft/min trvá sestup 6300/800 = 7,875 min, přibližně 8 minut."
     },
     {
       "sourceNumber": "84",

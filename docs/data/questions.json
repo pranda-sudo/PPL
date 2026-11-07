@@ -2792,8 +2792,7 @@
         "při zvětšení úhlu náběhu se posune dopředu",
         "jeho poloha nezávisí na úhlu náběhu",
         "při zvětšení úhlu náběhu se posune dozadu",
-        "se nachází přibližně ve 25% tětivy, měřeno od odtokové hrany",
-        "Kam se posune působiště vztlaku profilu s kladným prohnutím střední čáry, zvětší-li se úhel"
+        "se nachází přibližně ve 25% tětivy, měřeno od odtokové hrany"
       ],
       "correctIndex": 0,
       "category": "Letove zasady",
@@ -2801,7 +2800,7 @@
       "sourceFile": "Letove-zasady-letoun.pdf",
       "page": 5,
       "id": "letove-zasady-letoun-p5-21",
-      "explanation": "U prohnutého profilu se působiště výsledné vztlakové síly (střed tlaku) s úhlem náběhu obvykle posouvá. Při zvyšování úhlu náběhu v běžném předpádovém rozsahu se zpravidla posouvá dopředu. Naopak aerodynamický střed je bod, kolem něhož se moment mění s úhlem náběhu jen málo; oba pojmy se nesmějí zaměňovat."
+      "explanation": "U profilu s kladným prohnutím se poloha působiště výsledné vztlakové síly s úhlem náběhu obecně mění. Při běžném zvyšování úhlu náběhu před odtržením proudění se může posouvat dopředu. Nezaměňovat s aerodynamickým středem, který je přibližně stálý."
     },
     {
       "sourceNumber": 22,
@@ -10105,7 +10104,9 @@
       "question": "Výstrahy SIGMET jsou vydávány pro:",
       "options": [
         "letiště",
-        "oblasti FIR / UIR"
+        "oblasti FIR / UIR",
+        "zvláštní tratě",
+        "státy"
       ],
       "correctIndex": 1,
       "category": "Meteorologie",
@@ -10113,7 +10114,7 @@
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 24,
       "id": "3-meteorologie-vrtulnik-p24-121",
-      "explanation": "SIGMET upozorňuje na výskyt nebo předpokládaný výskyt významných meteorologických jevů v oblasti FIR, případně UIR, které mohou ovlivnit bezpečnost letu."
+      "explanation": "SIGMET vydává meteorologická výstražná služba pro určený FIR nebo UIR při významných meteorologických jevech nebezpečných pro letectví. Není to výstraha pouze pro konkrétní letiště."
     },
     {
       "sourceNumber": "122",
@@ -10187,8 +10188,10 @@
       "sourceNumber": "126",
       "question": "Jak se mění teplota vzduchu dle mezinárodní standardní atmosféry od MSL do výšky přibližně 10.000 m?",
       "options": [
-        "od +15° do-50 °C",
-        "od +30° do-40 °C"
+        "od +15° do -50 °C",
+        "od +30° do -40 °C",
+        "od +20° do -40 °C",
+        "od -15° do 50 °C"
       ],
       "correctIndex": 0,
       "category": "Meteorologie",
@@ -10196,7 +10199,7 @@
       "sourceFile": "3-Meteorologie-vrtulnik.pdf",
       "page": 25,
       "id": "3-meteorologie-vrtulnik-p25-126",
-      "explanation": "V ISA je u hladiny moře +15 °C a teplota v troposféře klesá o 6,5 °C na kilometr. V 10 km tak vychází přibližně −50 °C."
+      "explanation": "ISA má na hladině moře +15 °C; v troposféře teplota klesá přibližně o 6,5 °C na kilometr. Ve výšce 10 km proto vychází 15 − 6,5×10 = −50 °C."
     },
     {
       "sourceNumber": "127",
@@ -15444,8 +15447,7 @@
         "pohybuje se dolů",
         "pohybuje se nahoru",
         "to závisí na poloze těžiště",
-        "pohybuje se ve směru výchylky směrovky",
-        "Jakým směrem se pohybuje odlehčovací ploška vzhledem k výchylce řídící plochy, ke které je"
+        "pohybuje se ve směru výchylky směrovky"
       ],
       "correctIndex": 0,
       "category": "Obecna znalost o letadle",
@@ -15453,7 +15455,7 @@
       "sourceFile": "8-Obecne-znalosti-o-letadle-letoun (2).pdf",
       "page": 7,
       "id": "8-obecne-znalosti-o-letadle-letoun-2-p7-34",
-      "explanation": "Je-li letoun „těžký na ocas“, vyžaduje pro udržení polohy tlak na řízení vpřed (nose-down). U klasického trimu se ploška vychýlí nahoru a aerodynamicky pomáhá vychýlit výškovku dolů. Testová odpověď „dolů“ může odpovídat odlišné interpretaci pojmu; bez přesné definice je klíč sporný a musí být ověřen."
+      "explanation": "Je-li letoun 'těžký na ocas', potřebuje pro vyvážení moment přídí dolů. Na klasické výškovce se trimovací ploška vychýlí dolů, čímž aerodynamicky vychýlí výškovku nahoru či dolů podle konkrétního mechanismu; u běžné trimovací plošky vychýlení dolů způsobuje výškovku nahoru, tedy moment přídí nahoru. Pozor: text odpovědního klíče je proto fyzikálně podezřelý a je nutné ověřit přesnou definici 'těžký na ocas' u zdrojové metodiky."
     },
     {
       "sourceNumber": "35",
@@ -25381,19 +25383,18 @@
       "sourceNumber": "98",
       "question": "Pro let je dáno: Traťové palivo = 70 US galonů, palivo pro mimořádné okolnosti = 5 % traťového paliva, palivo pro let na náhradní letiště a konečná zásoba paliva = 20 US galonů. Využitelné palivo při vzletu = 90 US galonů. Po uletění poloviny vzdálenosti bylo spotřebováno 30 US galonů. Předpokládejte, že spotřeba paliva zůstane nezměněna. Který výrok je pravdivý?",
       "options": [
-        "po přistání bude zbytek paliva 10.0 US galonů plus palivo pro let na náhradní letiště a konečná",
-        "záloha paliva",
+        "po přistání bude zbytek paliva 10.0 US galonů plus palivo pro let na náhradní letiště a konečná záloha paliva",
         "zbývající palivo nestačí pro přistání na cílovém letišti se zbytkem paliva pro let na náhradní letiště a konečnou zálohou paliva",
         "po přistání zbyde 30.0 US galonů plus palivo pro let na náhradní letiště a konečná záloha paliva",
         "po přistání zbyde celkem 10.0 US galonů paliva"
       ],
-      "correctIndex": 3,
+      "correctIndex": 0,
       "category": "Provedeni a planovani letu",
       "aircraft": "Letoun",
       "sourceFile": "7-Vykonnost-a-planovani-letu-letoun (2).pdf",
       "page": 22,
       "id": "7-vykonnost-a-planovani-letu-letoun-2-p22-98",
-      "explanation": "Po polovině trasy bylo spotřebováno 30 USG, při nezměněné spotřebě dalších 30 USG: po přistání zbude 90 − 60 = 30 USG celkem, nikoli 30 USG plus samostatných 20 USG rezerv. Původní klíč je zavádějící."
+      "explanation": "Za první polovinu trati se spotřebovalo 30 USG, takže za stejných podmínek bude za druhou polovinu spotřebováno dalších 30 USG. Z 90 USG po přistání zbude 90 − 30 − 30 = 30 USG celkem. Z toho 20 USG tvoří palivo pro náhradní letiště a konečnou zálohu; nad tyto rezervy tedy zbývá 10 USG. Proto je správná první možnost: 10 USG PLUS 20 USG vyhrazených rezerv."
     },
     {
       "sourceNumber": "99",

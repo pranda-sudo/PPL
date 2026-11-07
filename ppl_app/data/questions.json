@@ -20796,7 +20796,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-24"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-24",
+      "explanation": "Let VFR je let prováděný podle pravidel letu za viditelnosti, nikoli pouze let za dobrého počasí. Musí být splněny příslušné podmínky dohlednosti, vzdálenosti od oblačnosti a další požadavky daného prostoru."
     },
     {
       "sourceNumber": "25",
@@ -20812,7 +20813,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 6,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-25"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p6-25",
+      "explanation": "VMC (Visual Meteorological Conditions) označuje meteorologické podmínky pro let za viditelnosti definované hodnotami dohlednosti, vzdálenosti od oblačnosti a případně základny oblačnosti. VFR jsou pravidla letu, VMC jsou meteorologické podmínky."
     },
     {
       "sourceNumber": "26",
@@ -20828,7 +20830,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-26"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-26",
+      "explanation": "Při čelním nebo téměř čelním přiblížení dvou letadel musí oba piloti změnit kurz doprava, aby se bezpečně minuli. Pravidlo nezávisí na tom, zda je letoun jednomotorový nebo dvoumotorový."
     },
     {
       "sourceNumber": "27",
@@ -20844,7 +20847,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-27"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-27",
+      "explanation": "Při křižování tratí letadel stejné kategorie má zpravidla přednost letadlo, které je vůči druhému vpravo. Druhé letadlo musí uhnout; platí i povinnost aktivně zabránit srážce bez ohledu na formální přednost."
     },
     {
       "sourceNumber": "28",
@@ -20860,7 +20864,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-28"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-28",
+      "explanation": "Při křižování tratí dvou motorových letounů stejné kategorie rozhoduje pravidlo přednosti letadla zprava, nikoli velikost letadla či obchodní povaha letu. V řízeném prostoru musí piloti současně dodržovat příslušná povolení a pokyny ATC."
     },
     {
       "sourceNumber": "29",
@@ -20876,7 +20881,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-29"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-29",
+      "explanation": "Let pod předepsanou minimální výškou nelze odůvodnit pouze zhoršeným počasím v blízkosti letiště. Výjimky se vztahují na nezbytné fáze vzletu a přistání nebo na zvlášť povolené činnosti; při nepříznivých podmínkách je třeba let bezpečně změnit či ukončit."
     },
     {
       "sourceNumber": "30",
@@ -20892,7 +20898,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 7,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-30"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p7-30",
+      "explanation": "Při čelním nebo téměř čelním setkání dvou motorových letounů mají oba uhnout doprava. Druh pohonné jednotky (pístový nebo turbovrtulový) zde neurčuje přednost."
     },
     {
       "sourceNumber": "31",
@@ -20908,7 +20915,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-31"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-31",
+      "explanation": "V prostoru třídy B platí pro VFR běžné minimum vzdálenosti od oblačnosti 1500 m vodorovně a 300 m (1000 ft) svisle. Provozní minima se vždy ověřují podle aktuálních pravidel a místních podmínek."
     },
     {
       "sourceNumber": "32",
@@ -20924,7 +20932,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-32"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-32",
+      "explanation": "V 5000 ft MSL je standardní minimální dohlednost VFR ve třídě B 5 km. Hranice pro obecné minimum 8 km je 10 000 ft AMSL."
     },
     {
       "sourceNumber": "33",
@@ -20940,7 +20949,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-33"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-33",
+      "explanation": "Ve třídě C v 5000 ft MSL se standardně požaduje dohlednost 5 km a odstup od oblačnosti 1500 m vodorovně a 300 m svisle."
     },
     {
       "sourceNumber": "34",
@@ -20956,7 +20966,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-34"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-34",
+      "explanation": "Ve FL 75 je obvyklé minimum VFR ve třídě E 5 km, pokud skutečná nadmořská výška nepřesáhne hranici 10 000 ft AMSL. Letová hladina a nadmořská výška nejsou totožné."
     },
     {
       "sourceNumber": "35",
@@ -20972,7 +20983,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 8,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-35"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p8-35",
+      "explanation": "Ve FL 110 je zpravidla požadována dohlednost VFR 8 km. Předpis však hranici stanoví podle 10 000 ft AMSL, nikoli přímo podle FL; je nutné zohlednit tlakové podmínky."
     },
     {
       "sourceNumber": "36",
@@ -20988,7 +21000,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-36"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-36",
+      "explanation": "Ve FL 125 se ve třídě C standardně vyžaduje dohlednost VFR alespoň 8 km a předepsané odstupy od oblačnosti."
     },
     {
       "sourceNumber": "37",
@@ -21004,7 +21017,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-37"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-37",
+      "explanation": "V prostoru třídy B platí pro VFR běžné minimum vzdálenosti od oblačnosti 1500 m vodorovně a 300 m (1000 ft) svisle. Provozní minima se vždy ověřují podle aktuálních pravidel a místních podmínek."
     },
     {
       "sourceNumber": "38",
@@ -21020,7 +21034,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-38"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-38",
+      "explanation": "Ve třídě C pod 10 000 ft AMSL je standardní minimum letové dohlednosti VFR 5 km. Současně platí odstup od oblačnosti 1500 m vodorovně a 300 m svisle."
     },
     {
       "sourceNumber": "39",
@@ -21036,7 +21051,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 9,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-39"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p9-39",
+      "explanation": "Od 10 000 ft AMSL se standardně požaduje dohlednost VFR 8 km. FL 100 představuje tlakovou hladinu a nemusí odpovídat přesně 10 000 ft AMSL, proto je zadání zjednodušené."
     },
     {
       "sourceNumber": "40",
@@ -21052,7 +21068,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-40"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-40",
+      "explanation": "Ceiling, tedy výška základny nejnižší význačné vrstvy oblačnosti, je výška nad zemí nebo vodou nejnižší vrstvy pokrývající více než polovinu oblohy (BKN nebo OVC), pod stanovenou mezí. Nejde o nadmořskou výšku základny oblačnosti."
     },
     {
       "sourceNumber": "41",
@@ -21068,7 +21085,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-41"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-41",
+      "explanation": "Při zakročování znamená kývání křídly a následná mírná zatáčka zakročujícího letadla standardně pokyn „následujte mě“. Zakročované letadlo má potvrdit přijetí signálu předepsaným způsobem a postupovat podle pravidel pro zakročování."
     },
     {
       "sourceNumber": "42",
@@ -21084,7 +21102,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-42"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-42",
+      "explanation": "Zakročující letadlo prudkou změnou kurzu o nejméně 90° a stoupáním bez křížení dráhy zakročovaného letadla signalizuje, že zakročované letadlo může pokračovat v letu."
     },
     {
       "sourceNumber": "43",
@@ -21100,7 +21119,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 10,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-43"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p10-43",
+      "explanation": "Při stoupání se výškoměr přestavuje z QNH na standardních 1013,25 hPa při průletu převodní výškou (transition altitude). Převodní výška je publikována pro daný prostor; není všude pevně 4000 ft."
     },
     {
       "sourceNumber": "44",
@@ -21116,7 +21136,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-44"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-44",
+      "explanation": "Letová hladina FL 80 znamená tlakovou výšku 8000 ft při standardním nastavení výškoměru 1013,25 hPa. Místní QNH se používá pod převodní hladinou podle příslušných pravidel."
     },
     {
       "sourceNumber": "45",
@@ -21132,7 +21153,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-45"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-45",
+      "explanation": "Půlkruhové pravidlo přiřazuje cestovní hladiny podle směru tratě a snižuje riziko protisměrného provozu ve stejné hladině. POZOR: původní klíč chybně označuje vyčkávací obrazec; věcně správná je první možnost."
     },
     {
       "sourceNumber": "46",
@@ -21148,7 +21170,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-46"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-46",
+      "explanation": "Základní režimy sekundárního přehledového radaru jsou Mode A (identifikační kód), Mode C (tlaková výška) a Mode S (selektivní adresování a další údaje). Ne každý odpovídač podporuje všechny režimy."
     },
     {
       "sourceNumber": "47",
@@ -21164,7 +21187,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-47"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-47",
+      "explanation": "Mode C poskytuje údaj o tlakové výšce, zatímco Mode S může tento údaj rovněž vysílat. Mode A přenáší zejména čtyřmístný kód, nikoli výšku."
     },
     {
       "sourceNumber": "48",
@@ -21180,7 +21204,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 11,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-48"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p11-48",
+      "explanation": "Kód odpovídače SSR 7600 signalizuje ztrátu radiového spojení. Pilot musí dodržet postupy pro poruchu spojení a nadále zajistit bezpečný let."
     },
     {
       "sourceNumber": "49",
@@ -21196,7 +21221,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-49"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-49",
+      "explanation": "Při ztrátě radiového spojení se standardně nastaví SSR 7600. Kód 7500 znamená protiprávní čin a 7700 všeobecnou nouzi."
     },
     {
       "sourceNumber": "50",
@@ -21212,7 +21238,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-50"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-50",
+      "explanation": "SSR 7700 je všeobecný nouzový kód. Pilot při možnosti doplní radiové tísňové nebo pilnostní hlášení podle situace."
     },
     {
       "sourceNumber": "51",
@@ -21228,7 +21255,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-51"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-51",
+      "explanation": "Řízení letového provozu (ATC) poskytuje stanovené služby a rozstupy v příslušném řízeném vzdušném prostoru. Za bezpečné provedení letu a vyhýbání se srážkám však nadále odpovídá velitel letadla v rozsahu svých povinností; formulace otázky je zjednodušená."
     },
     {
       "sourceNumber": "52",
@@ -21244,7 +21272,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-52"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-52",
+      "explanation": "Tři základní složky služby řízení letového provozu jsou oblastní služba řízení (ACC), přibližovací služba řízení (APP) a letištní služba řízení (TWR). FIS a pohotovostní služba jsou další služby ATS, nikoli typy ATC."
     },
     {
       "sourceNumber": "53",
@@ -21260,7 +21289,8 @@
       "aircraft": "Vrtulnik",
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 12,
-      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-53"
+      "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p12-53",
+      "explanation": "Ve třídě E jsou poskytovány rozstupy mezi lety IFR navzájem. Letům VFR se rozstupy od ostatních letů běžně nezajišťují, i když mohou dostávat provozní informace, pokud je to možné."
     },
     {
       "sourceNumber": "54",

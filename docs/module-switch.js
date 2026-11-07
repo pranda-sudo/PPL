@@ -1,6 +1,6 @@
 (() => {
 "use strict";
-const modules={ppl:null,ull:"./ull.html?v=21",icao:"./icao.html?v=21"};
+const modules={ppl:null,ull:"./ull.html?v=22",icao:"./icao.html?v=22"};
 const buttons=[...document.querySelectorAll(".module-nav [data-module]")];
 const controls=document.getElementById("pplSidebarControls"),ppl=document.getElementById("pplWorkspace");
 const embedded=document.getElementById("embeddedWorkspace"),frame=document.getElementById("moduleFrame");
@@ -17,7 +17,7 @@ function activate(target,updateHistory=true){
   if(isPpl)url.searchParams.delete("module");else url.searchParams.set("module",target);
   if(updateHistory&&url.href!==window.location.href)history.pushState({module:target},"",url);
 }
-buttons.forEach(b=>b.addEventListener("click",()=>activate(b.dataset.module)));
+buttons.forEach(b=>b.addEventListener("click",()=>{activate(b.dataset.module);window.scrollTo({top:0,behavior:"instant"});}));
 window.addEventListener("popstate",()=>activate(new URLSearchParams(window.location.search).get("module")||"ppl",false));
 activate(new URLSearchParams(window.location.search).get("module")||"ppl",false);
 })();

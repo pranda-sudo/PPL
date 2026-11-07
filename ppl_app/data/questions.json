@@ -19309,7 +19309,7 @@
       "sourceNumber": "19",
       "question": "Co je třeba provést při vstupu do oblasti s povinným rádiovým spojením (RMZ)?",
       "options": [
-        "stále sledovat rádio a je-li to možné, navázat rádiové spojení",
+        "před vstupem navázat předepsané rádiové spojení, oznámit polohu, výšku a záměr a udržovat poslech",
         "obdržet povolení pro vstup do této oblasti",
         "odpovídač sekundárního radaru přepnout na mód C a 7000",
         "obdržet povolení od místního leteckého úřadu"
@@ -19320,7 +19320,7 @@
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-letoun (2).pdf",
       "page": 4,
       "id": "1-letecky-zakon-a-postupy-atc-letoun-2-p4-19",
-      "explanation": "V RMZ (Radio Mandatory Zone) je zpravidla nutné před vstupem navázat předepsané rádiové spojení, sdělit identifikaci, polohu, hladinu a záměr a udržovat poslech. POZOR: testová možnost „sledovat rádio a je-li to možné, navázat spojení“ je příliš slabá; konkrétní požadavky a výjimky stanoví SERA.6005."
+      "explanation": "V RMZ je podle SERA.6005 nutné před vstupem uskutečnit počáteční rádiové volání na předepsaném kmitočtu s identifikací stanice, volacím znakem, typem letadla, polohou, hladinou a záměrem a dále udržovat nepřetržitý poslech, není-li stanoveno jinak. Samotné „je-li to možné“ nestačí. RMZ sama o sobě neznamená povinnost získat povolení ATC."
     },
     {
       "sourceNumber": "20",
@@ -19482,7 +19482,7 @@
         "špatné meteorologické podmínky v blízkosti letiště",
         "vzlet nebo přistání na letišti",
         "odhoz vlečených předmětů na letišti",
-        "přiblížení bez přistání na letišti Jednomotorový pístový a turbovrtulový letoun letí proti sobě ve stejné výšce. Který z nich má změnit"
+        "přiblížení bez přistání na letišti"
       ],
       "correctIndex": 0,
       "category": "Pravo",
@@ -19494,7 +19494,7 @@
     },
     {
       "sourceNumber": "30",
-      "question": "kurz, aby se vyhnul srážce?",
+      "question": "Jednomotorový pístový a turbovrtulový letoun letí proti sobě ve stejné výšce. Který z nich má změnit kurz, aby se vyhnul srážce?",
       "options": [
         "turbovrtulový letoun má dát přednost jednomotorovému pístovému letounu",
         "obě letadla mají uhnout doprava",
@@ -20701,7 +20701,7 @@
       "sourceNumber": "19",
       "question": "Co je třeba provést při vstupu do oblasti s povinným rádiovým spojením (RMZ)?",
       "options": [
-        "stále sledovat rádio a je-li to možné, navázat rádiové spojení",
+        "před vstupem navázat předepsané rádiové spojení, oznámit polohu, výšku a záměr a udržovat poslech",
         "obdržet povolení pro vstup do této oblasti",
         "odpovídač sekundárního radaru přepnout na mód C a 7000",
         "obdržet povolení od místního leteckého úřadu"
@@ -20712,7 +20712,7 @@
       "sourceFile": "1-Letecky-zakon-a-postupy-ATC-vrtulnik (1).pdf",
       "page": 5,
       "id": "1-letecky-zakon-a-postupy-atc-vrtulnik-1-p5-19",
-      "explanation": "V RMZ (Radio Mandatory Zone) je zpravidla nutné před vstupem navázat předepsané rádiové spojení, sdělit identifikaci, polohu, hladinu a záměr a udržovat poslech. POZOR: testová možnost „sledovat rádio a je-li to možné, navázat spojení“ je příliš slabá; konkrétní požadavky a výjimky stanoví SERA.6005."
+      "explanation": "V RMZ je podle SERA.6005 nutné před vstupem uskutečnit počáteční rádiové volání na předepsaném kmitočtu s identifikací stanice, volacím znakem, typem letadla, polohou, hladinou a záměrem a dále udržovat nepřetržitý poslech, není-li stanoveno jinak. Samotné „je-li to možné“ nestačí. RMZ sama o sobě neznamená povinnost získat povolení ATC."
     },
     {
       "sourceNumber": "20",

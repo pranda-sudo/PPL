@@ -1,5 +1,5 @@
 const fs=require("node:fs"),assert=require("node:assert/strict");
-const dirs=["docs","ppl_app","ppl_mobile/www"],files=["index.html","service-worker.js","clenstvi.html","ucet.html","pilot-public-config.js","membership-gate.js","radio-exam.js","radio-exam-data.js","ifr.js","ifr-data.js"];
+const dirs=["docs","ppl_app","ppl_mobile/www"],files=["index.html","styles.css","service-worker.js","clenstvi.html","ucet.html","pilot-public-config.js","membership-gate.js","radio-exam.js","radio-exam-data.js","ifr.js","ifr-data.js"];
 for(const file of files){const a=fs.readFileSync(dirs[0]+"/"+file,"utf8");for(const dir of dirs.slice(1))assert.equal(fs.readFileSync(dir+"/"+file,"utf8"),a,"Unsynced "+dir+"/"+file);}
 for(const dir of dirs){
 const p=fs.readFileSync(dir+"/pilot-public-config.js","utf8"),index=fs.readFileSync(dir+"/index.html","utf8");
@@ -21,3 +21,14 @@ for(const file of exposed){const content=fs.readFileSync(file,"utf8");assert.doe
 const sql=fs.readFileSync("supabase/migrations/20261107_pilot_academy.sql","utf8");
 for(const name of ["student_profiles","memberships","study_progress","premium_questions","stripe_event_receipts"])assert.match(sql,new RegExp("alter table public\\."+name+" enable row level security","i"));
 console.log("✓ Member UI gates installed across all modules; PWA caches retired; web/mobile synced; payments remain disabled.");
+
+for (const dir of dirs) {
+ const mainCss=fs.readFileSync(dir+"/styles.css","utf8");
+ const account=fs.readFileSync(dir+"/ucet.html","utf8");
+ assert.match(mainCss,/touch-action:\s*manipulation/,"Mobile touch behavior missing: "+dir);
+ assert.match(mainCss,/@media \(max-width: 360px\)/,"Very narrow mobile layout missing: "+dir);
+ assert.match(mainCss,/grid-template-columns:\s*1fr/,"Single-column mobile layout missing: "+dir);
+ assert.match(account,/fields input\{font-size:16px/,"iOS login input zoom prevention missing: "+dir);
+ assert.match(account,/safe-area-inset-bottom/,"iOS safe-area handling missing: "+dir);
+}
+console.log("✓ Mobile web styles and login consistency validated.");

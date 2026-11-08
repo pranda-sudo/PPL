@@ -27,7 +27,8 @@
       links.appendChild(a);
     }
     const small=document.createElement("p");small.textContent="Platby zatím nejsou spuštěné. Přístup je uzamčený do dokončení bezpečné platební integrace.";small.style.cssText="font-size:12px;color:#7b8790;margin:23px 0 0";
-    card.append(icon,h,p,links,small);document.body.append(card);
+    const mobile=document.createElement("p");mobile.textContent="📱 Připravujeme také mobilní aplikaci pro iPhone (Apple App Store) a Android (Google Play). Termín vydání zatím nebyl stanoven.";mobile.style.cssText="margin:18px 0 0;padding:14px;background:#edf8f5;color:#17695d;border-radius:11px;font-size:13px;line-height:1.6";
+    card.append(icon,h,p,links,mobile,small);document.body.append(card);
   };
   async function check(){
     try{

@@ -10,11 +10,11 @@ const cors: Record<string,string> = {
   "Access-Control-Allow-Methods": "POST, OPTIONS",
   "Vary": "Origin"
 };
-const plans: Record<string, {priceEnv:string,mode:"payment"|"subscription"}> = {
-  month: {priceEnv:"STRIPE_PRICE_MONTHLY",mode:"subscription"},
-  quarter: {priceEnv:"STRIPE_PRICE_QUARTER",mode:"payment"},
-  half: {priceEnv:"STRIPE_PRICE_HALF_YEAR",mode:"payment"},
-  year: {priceEnv:"STRIPE_PRICE_YEAR",mode:"payment"}
+const plans: Record<string, {priceEnv:string,mode:"payment"|"subscription",amount:number}> = {
+  month: {priceEnv:"STRIPE_PRICE_MONTHLY",mode:"subscription",amount:39900},
+  quarter: {priceEnv:"STRIPE_PRICE_QUARTER",mode:"payment",amount:99000},
+  half: {priceEnv:"STRIPE_PRICE_HALF_YEAR",mode:"payment",amount:169000},
+  year: {priceEnv:"STRIPE_PRICE_YEAR",mode:"payment",amount:249000}
 };
 const reply=(status:number,body:unknown)=>new Response(JSON.stringify(body),{status,headers:{...cors,"Content-Type":"application/json; charset=utf-8","Cache-Control":"no-store"}});
 serve(async request=>{
@@ -35,6 +35,22 @@ serve(async request=>{
   if(typeof plan!=="string"||!Object.hasOwn(plans,plan))return reply(400,{error:"Neznámý tarif."});
   const selected=plans[plan],priceId=Deno.env.get(selected.priceEnv);
   if(!priceId||!/^price_[A-Za-z0-9]+$/.test(priceId))return reply(503,{error:"Tarif zatím není aktivní."});
+  // Fail closed if the linked Stripe Price does not match the approved tariff.
+  // CZK amounts use minor units (haléře), e.g. 399 Kč = 39900.
+  let price: {id?:string,currency?:string,unit_amount?:number,type?:string,recurring?:{interval?:string,interval_count?:number},active?:boolean};
+  try {
+    const check=await fetch("https://api.stripe.com/v1/prices/"+encodeURIComponent(priceId),{
+      headers:{"Authorization":"Bearer "+stripeKey}
+    });
+    if(!check.ok)return reply(503,{error:"Tarif Stripe nebylo možné ověřit."});
+    price=await check.json();
+  } catch{return reply(503,{error:"Nepodařilo se ověřit ceník."})}
+  const recurring=selected.mode==="subscription";
+  if(price.id!==priceId||price.active!==true||price.currency!=="czk"||
+     price.unit_amount!==selected.amount||
+     (recurring ? price.type!=="recurring"||price.recurring?.interval!=="month"||price.recurring?.interval_count!==1 : price.type!=="one_time")){
+    return reply(503,{error:"Konfigurace tarifu neodpovídá schválenému ceníku."});
+  }
   if(selected.mode==="subscription"){
     const {data:active,error:dbErr}=await supabase.from("memberships").select("id").eq("user_id",user.id).eq("status","active").eq("product_code","monthly").gt("ends_at",new Date().toISOString()).limit(1);
     if(dbErr)return reply(503,{error:"Členství nelze ověřit."});

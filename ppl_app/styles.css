@@ -738,3 +738,57 @@ h1 {
 .mobile-coming-soon-copy{flex:1;min-width:0}.mobile-coming-soon-label{font-size:11px;font-weight:800;letter-spacing:.13em;color:#9de5d2}.mobile-coming-soon h2{color:#fff;margin:4px 0 7px;font-size:clamp(18px,2vw,24px);letter-spacing:-.02em}.mobile-coming-soon p{margin:0;color:#d3e6e6;font-size:14px;line-height:1.55}
 .mobile-coming-soon-platforms{white-space:nowrap;font-size:13px;font-weight:800;background:#ffffff18;padding:9px 13px;border-radius:999px;color:white}
 @media(max-width:750px){.mobile-coming-soon{align-items:flex-start;flex-wrap:wrap;padding:18px;gap:12px}.mobile-coming-soon-icon{width:48px;height:48px;font-size:25px}.mobile-coming-soon-copy{flex-basis:calc(100% - 65px)}.mobile-coming-soon-platforms{margin-left:60px}}
+
+
+/* Mobile web usability: narrow iPhone/Android screens, touch navigation and safe areas. */
+html { -webkit-text-size-adjust: 100%; }
+html, body { max-width: 100%; }
+button, a, input, select { touch-action: manipulation; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible {
+  outline: 3px solid #0c6b5e;
+  outline-offset: 3px;
+}
+.workspace, .sidebar, .question-card, .subject-progress, .question-area, .topbar {
+  min-width: 0;
+}
+.question-card h3, .answer, .source, .subject-card, .result-subjects,
+.course-tile, .course-tools a { overflow-wrap: anywhere; }
+@media (max-width: 820px) {
+  .app-shell { display: flex; flex-direction: column; }
+  .workspace { display: block; width: 100%; }
+  .sidebar { overflow: visible; }
+  .topbar { position: relative; }
+  .question-area { width: 100%; }
+  .segmented button, .toolbar button, .plain-btn, .aircraft-option,
+  .question-dot, .actions button { min-height: 44px; }
+  .question-navigator { grid-template-columns: repeat(auto-fill, minmax(44px, 1fr)); }
+}
+@media (max-width: 560px) {
+  .sidebar { padding: 14px 16px; }
+  .brand-mark { width: 46px; height: 46px; flex-shrink: 0; }
+  .brand h1 { font-size: 21px; }
+  .topbar { padding: 14px 16px; }
+  .topbar h2 { font-size: 20px; }
+  .question-area { padding: 12px; }
+  .status-grid { gap: 7px; }
+  .status-grid div { min-width: 0; padding: 11px; }
+  .status-grid strong { font-size: clamp(16px, 5vw, 20px); }
+  .question-card { padding: 16px 14px; }
+  .question-card h3 { font-size: 20px; line-height: 1.45; }
+  .answer { grid-template-columns: 30px minmax(0, 1fr); gap: 9px; font-size: 16px; line-height: 1.5; }
+  .actions { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .actions button { height: auto; padding: 11px 8px; line-height: 1.35; white-space: normal; }
+  .course-overview { margin: 12px; }
+  .course-tools { grid-template-columns: 1fr; }
+  .mobile-coming-soon { margin: 12px; }
+  .mobile-coming-soon-platforms { white-space: normal; }
+  .question-nav-head, .section-head { align-items: flex-start; }
+  .result-subjects div { flex-wrap: wrap; }
+  .question-navigator { max-height: 220px; grid-template-columns: repeat(auto-fill, minmax(44px, 1fr)); }
+  .question-dot { min-height: 44px; }
+}
+@media (max-width: 360px) {
+  .status-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .actions { grid-template-columns: 1fr; }
+  .subject-grid, .result-grid { grid-template-columns: 1fr; }
+}

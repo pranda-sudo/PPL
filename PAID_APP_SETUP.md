@@ -15,10 +15,10 @@
 ## Navržené tarify (návrh, bez DPH upřesnění)
 | Tarif | Cena | Obnovení |
 | --- | --- | --- |
-| Měsíční | 299 Kč | Automatické měsíční |
-| 3 měsíce | 699 Kč | Jednorázové |
-| 6 měsíců | 1 190 Kč | Jednorázové |
-| 12 měsíců | 1 990 Kč | Jednorázové |
+| Měsíční | 399 Kč | Automatické měsíční |
+| 3 měsíce | 990 Kč | Jednorázové |
+| 6 měsíců | 1 690 Kč | Jednorázové |
+| 12 měsíců | 2 490 Kč | Jednorázové |
 
 Dobu jednorázového přístupu počítat od potvrzené platby podle jednotné obchodní definice 90 / 180 / 365 dnů.
 

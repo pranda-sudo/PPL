@@ -731,3 +731,10 @@ h1 {
 @media(max-width:1190px){.course-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.course-tools{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:700px){.course-overview{margin:14px 12px;padding:18px 14px}.course-overview-head{flex-direction:column;align-items:flex-start;gap:12px}.course-grid{grid-template-columns:1fr}.course-tile{min-height:0;padding:16px}.course-membership-link{width:100%;text-align:center}.course-tools{grid-template-columns:1fr 1fr}}
 @media(max-width:380px){.course-tools{grid-template-columns:1fr}}
+
+/* Upcoming native applications – consistent with Pilot Academy homepage */
+.mobile-coming-soon{display:flex;align-items:center;gap:20px;margin:0 0 22px;padding:22px 25px;border-radius:18px;background:linear-gradient(125deg,#142b3c,#185e60);color:#fff;border:1px solid #244e57;box-shadow:0 16px 35px #162e3c16}
+.mobile-coming-soon-icon{display:grid;place-items:center;width:62px;height:62px;flex-shrink:0;background:#ffffff19;border-radius:17px;font-size:31px}
+.mobile-coming-soon-copy{flex:1;min-width:0}.mobile-coming-soon-label{font-size:11px;font-weight:800;letter-spacing:.13em;color:#9de5d2}.mobile-coming-soon h2{color:#fff;margin:4px 0 7px;font-size:clamp(18px,2vw,24px);letter-spacing:-.02em}.mobile-coming-soon p{margin:0;color:#d3e6e6;font-size:14px;line-height:1.55}
+.mobile-coming-soon-platforms{white-space:nowrap;font-size:13px;font-weight:800;background:#ffffff18;padding:9px 13px;border-radius:999px;color:white}
+@media(max-width:750px){.mobile-coming-soon{align-items:flex-start;flex-wrap:wrap;padding:18px;gap:12px}.mobile-coming-soon-icon{width:48px;height:48px;font-size:25px}.mobile-coming-soon-copy{flex-basis:calc(100% - 65px)}.mobile-coming-soon-platforms{margin-left:60px}}

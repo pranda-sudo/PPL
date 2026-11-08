@@ -1,0 +1,85 @@
+name: Mobile internal builds (Android / iOS)
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install mobile dependencies
+        working-directory: ppl_mobile
+        run: npm install --no-audit --no-fund
+          npm run sync:web
+      - name: Check mobile app structure
+        working-directory: ppl_mobile
+        run: npm run check:mobile
+  android-debug:
+    needs: verify
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '21'
+      - uses: android-actions/setup-android@v3
+      - name: Install dependencies and create Android project
+        working-directory: ppl_mobile
+        run: |
+          npm install --no-audit --no-fund
+          npm run sync:web
+          npm run check:mobile
+          npx cap add android
+          npx cap sync android
+      - name: Assemble internal debug APK
+        working-directory: ppl_mobile/android
+        run: bash ./gradlew assembleDebug --no-daemon
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pilotni-akademie-android-debug-internal
+          path: ppl_mobile/android/app/build/outputs/apk/debug/*.apk
+          retention-days: 3
+          if-no-files-found: error
+  ios-simulator:
+    needs: verify
+    runs-on: macos-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install dependencies and create iOS project
+        working-directory: ppl_mobile
+        run: |
+          npm install --no-audit --no-fund
+          npm run sync:web
+          npm run check:mobile
+          npx cap add ios
+          npx cap sync ios
+      - name: Compile unsigned iOS simulator app
+        working-directory: ppl_mobile
+        run: |
+          xcodebuild -project ios/App/App.xcodeproj -scheme App -configuration Debug -sdk iphonesimulator -derivedDataPath ios-derived CODE_SIGNING_ALLOWED=NO build
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pilotni-akademie-ios-simulator-internal
+          path: ppl_mobile/ios-derived/Build/Products/Debug-iphonesimulator/App.app/**
+          retention-days: 3
+          if-no-files-found: error

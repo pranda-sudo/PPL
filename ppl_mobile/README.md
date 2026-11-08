@@ -65,10 +65,17 @@ npm run cap:sync
 
 ## Checklist Apple App Store
 
-1. Aktivovat Apple Developer Program až před podepisováním a publikací.
+1. Zkontrolovat aktivní Apple Developer Program a správný podpisový tým.
 2. Připravit App Store Connect kartu, metadata, screenshoty, privacy details a funkční proces pro smazání účtu.
 3. Vyřešit App Store In-App Purchase a příslušná pravidla digitálních předplatných, včetně obnovení a zrušení.
 4. Ověřit Xcode/iOS SDK požadavky v době vydání, podepsat build a odeslat do TestFlight.
 5. Otestovat přihlášení, obnovení přístupu a pravidla recenzního řízení.
 
 Tato připravenost není tvrzením, že aplikace nyní splňuje podmínky schválení.
+
+
+## Nové interní testovací sestavení
+
+Pro interní Android a iOS simulátor je připraven workflow v GitHub Actions `Mobile internal builds (Android / iOS)` (ruční spuštění). Podrobné předprodukční blokery najdeš v `RELEASE_CHECKLIST.md`.
+
+`npm run sync:web` nyní kopíruje web ze složky `docs/`, která se skutečně publikuje na GitHub Pages. `npm run check:mobile` ověřuje strukturu. `npm run check:release` záměrně odmítá vydání, dokud nejsou z balíčku odstraněny veřejné databáze odpovědí a dokončeny ostatní podmínky.

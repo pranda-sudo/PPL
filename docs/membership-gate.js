@@ -39,6 +39,18 @@
       const {data,error}=await supabase.from("memberships").select("id").eq("user_id",user.id).eq("status","active").lte("starts_at",now).gt("ends_at",now).limit(1);
       if(error||!data?.length){await render();return}
       document.documentElement.classList.add("pilot-access-granted");
+      // Load training code only after a fresh authenticated membership check.
+      // Source files themselves are still public until server-side migration.
+      for (const placeholder of document.querySelectorAll("script[data-member-src]")) {
+        await new Promise((resolve,reject)=>{
+          const script=document.createElement("script");
+          script.src=placeholder.dataset.memberSrc;
+          script.async=false;
+          script.onload=resolve;
+          script.onerror=()=>reject(new Error("Training file unavailable"));
+          placeholder.replaceWith(script);
+        });
+      }
     }catch(e){await render()}
   }
   // Required network check on every page load; no stored membership grant.

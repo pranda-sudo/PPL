@@ -28,8 +28,34 @@
 <details><summary>Kdy můžu vytvořit účet a zaplatit?</summary><p>Registraci a platby zatím technicky nepřijímáme. Tuto stránku jsme připravili jako bezpečný návrh komerční nabídky.</p></details>
 </section><footer>Pilotní akademie Petra Randy · pilot.petrranda.cz · Neoficiální vzdělávací portál. Ceny jsou návrhem a mohou se před spuštěním změnit.</footer>
 </main><div class="toast" id="toast" role="status" hidden></div>
-<script>
+<script src="./pilot-public-config.js?v=37"></script><script>
+(async()=>{
+"use strict";
 const filters={allPlans:"all",oneTime:"one-time",subscription:"subscription"};
 Object.entries(filters).forEach(([id,type])=>{document.getElementById(id).addEventListener("click",()=>{document.querySelectorAll(".billing button").forEach(x=>x.classList.toggle("active",x.id===id));document.querySelectorAll(".plan").forEach(x=>{x.hidden=type!=="all"&&x.dataset.type!==type})})});
-let closeNotice;document.querySelectorAll("[data-plan]").forEach(b=>b.addEventListener("click",()=>{const box=document.getElementById("toast");box.textContent="Tarif je připravený jako návrh. Registrace a platby zatím nejsou aktivní; nic se neobjednalo.";box.hidden=false;clearTimeout(closeNotice);closeNotice=setTimeout(()=>box.hidden=true,5600)}));
+const cfg=window.PILOT_PUBLIC_CONFIG||{},ready=cfg.paymentsEnabled===true&&/^https:\/\/[^/]+\.supabase\.co$/.test(cfg.url||"")&&typeof cfg.publishableKey==="string"&&cfg.publishableKey.length>15;
+let supabase=null,closeNotice;
+function message(text){const box=document.getElementById("toast");box.textContent=text;box.hidden=false;clearTimeout(closeNotice);closeNotice=setTimeout(()=>box.hidden=true,6500)}
+if(ready){
+  try{const mod=await import("https://esm.sh/@supabase/supabase-js@2.49.4");supabase=mod.createClient(cfg.url,cfg.publishableKey)}catch(e){message("Platební službu nelze načíst. Zkus to později.")}
+}
+for(const b of document.querySelectorAll("[data-plan]")){
+ b.addEventListener("click",async()=>{
+  if(!ready||!supabase){message("Tarif je zatím pouze návrh. Platby nebyly spuštěné a nic se neobjednalo.");return}
+  b.disabled=true;
+  try{
+   const {data:{session},error:authError}=await supabase.auth.getSession();
+   if(authError||!session?.access_token){location.href="./ucet.html?return=clenstvi";return}
+   const response=await fetch(cfg.url+"/functions/v1/create-checkout",{
+     method:"POST",
+     headers:{"Content-Type":"application/json","Authorization":"Bearer "+session.access_token,"apikey":cfg.publishableKey},
+     body:JSON.stringify({plan:b.dataset.plan})
+   });
+   const result=await response.json();
+   if(!response.ok||!/^https:\/\/checkout\.stripe\.com\//.test(result.url||"")){message(result.error||"Platbu nyní nelze zahájit.");return}
+   location.assign(result.url);
+  }catch(e){message("Spojení s platební službou selhalo. Zkus to znovu.")}finally{b.disabled=false}
+ });
+}
+})();
 </script></body></html>

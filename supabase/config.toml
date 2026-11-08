@@ -1,0 +1,8 @@
+# Pilotní akademie – Supabase CLI function settings
+# Client function validates the user's JWT itself.
+[functions.create-checkout]
+verify_jwt = false
+
+# Stripe does not send Supabase JWT; webhook validates Stripe-Signature itself.
+[functions.stripe-webhook]
+verify_jwt = false

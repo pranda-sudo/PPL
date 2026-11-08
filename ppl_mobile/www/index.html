@@ -10,7 +10,7 @@
     <meta name="apple-mobile-web-app-title" content="PPL Testy" />
     <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
     <link rel="manifest" href="./manifest.webmanifest" />
-    <link rel="stylesheet" href="./styles.css?v=34" />
+    <link rel="stylesheet" href="./styles.css?v=38" />
   </head>
   <body>
     <main class="app-shell">
@@ -18,7 +18,7 @@
         <div class="brand">
           <div class="brand-mark">PPL</div>
           <div>
-            <h1>PPL Testy <small style="font-size:11px;color:var(--muted);font-weight:600">v37</small></h1>
+            <h1>PPL Testy <small style="font-size:11px;color:var(--muted);font-weight:600">v38</small></h1>
             <p id="questionCount">Načítání otázek...</p>
           </div>
         </div>
@@ -132,7 +132,30 @@
           </div>
         </header>
 
-        <section class="question-area">
+        <section class="course-overview" aria-label="Přehled pilotních kurzů">
+          <div class="course-overview-head">
+            <div><p class="course-kicker">PILOTNÍ AKADEMIE</p><h2>Vyber si, co se chceš naučit</h2><p>Testy, letecká komunikace i praktické trenažéry. Přehled toho, co si u nás můžeš procvičit.</p></div>
+            <a class="course-membership-link" href="./clenstvi.html?v=38">Členství a tarify</a>
+          </div>
+          <div class="course-grid">
+            <a class="course-tile" href="#ppl-test"><span class="course-icon">✈</span><span class="course-type">Pilotní zkoušky</span><strong>PPL(A) – soukromý pilot</strong><span class="course-description">Teoretické otázky, odborná vysvětlení a zkušební režim.</span><span class="course-arrow">Otevřít testy →</span></a>
+            <a class="course-tile" href="./ull.html?v=25"><span class="course-icon">🛩</span><span class="course-type">Pilotní zkoušky</span><strong>ULL – ultralehké letouny</strong><span class="course-description">Autorské procvičovací otázky pro piloty ULL.</span><span class="course-arrow">Otevřít kurz →</span></a>
+            <a class="course-tile" href="./ifr.html?v=34"><span class="course-icon">◉</span><span class="course-type">Přístrojové létání</span><strong>IFR / IR(A)</strong><span class="course-description">Úvod do IFR, ILS, ATC komunikace a výpočty sestupu.</span><span class="course-arrow">Otevřít trenažér →</span></a>
+            <a class="course-tile" href="./radio-exam.html?v=32&amp;license=ofl"><span class="course-icon">◈</span><span class="course-type">Radiotelefonista ČTÚ</span><strong>OFL – omezený průkaz</strong><span class="course-description">Procvičovací otázky, vysvětlení a příprava ústní části.</span><span class="course-arrow">Otevřít kurz →</span></a>
+            <a class="course-tile" href="./radio-exam.html?v=32&amp;license=vfl"><span class="course-icon">◈</span><span class="course-type">Radiotelefonista ČTÚ</span><strong>VFL – všeobecný průkaz</strong><span class="course-description">Otázky, radiokomunikace a anglická frazeologie.</span><span class="course-arrow">Otevřít kurz →</span></a>
+            <a class="course-tile" href="./icao.html?v=25"><span class="course-icon">ABC</span><span class="course-type">Letecká angličtina</span><strong>ICAO English</strong><span class="course-description">Procvičování angličtiny a komunikace pro piloty.</span><span class="course-arrow">Otevřít výuku →</span></a>
+          </div>
+          <h3 class="course-tools-title">Praktické pomůcky a trenažéry</h3>
+          <div class="course-tools">
+            <a href="./weather-trainer.html?v=31">☁ METAR / TAF <span>→</span></a>
+            <a href="./instruments.html?v=30">◉ Letecké přístroje <span>→</span></a>
+            <a href="./calc.html?v=26">⌗ Letecká kalkulačka <span>→</span></a>
+            <a href="./preflight.html?v=29">☑ Předletová příprava <span>→</span></a>
+          </div>
+          <p class="course-note">Část otázek je autorská a neoficiální. Rozsah modulů se liší; nenahrazují úplné oficiální zkouškové databáze ani schválený výcvik.</p>
+        </section>
+
+        <section class="question-area" id="ppl-test">
           <div class="status-grid">
             <div>
               <span>Otázka</span>

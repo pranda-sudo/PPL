@@ -52,3 +52,18 @@ V Stripe otevři **Katalog produktů → Přidat produkt**. Zadej cenu v CZK a o
 - Obnova předplatného → správný konec období.
 - Zrušení, neuhrazená faktura, refundace a spor → správné omezení / odebrání přístupu.
 - Expirace členství → API otázky odmítne další přístup.
+
+## Ověřené Stripe sandbox produkty – vytvořeno 8. 11. 2026
+
+Všechny čtyři produkty a jejich výchozí Price ID jsou **skutečně vytvořeny** v sandbox účtu `acct_1UQsnRC1UC9efvKa` (Petr Randa sandbox), `livemode=false`. Jejich částky a typy byly ověřeny přes Stripe API:
+
+| Tarif | Product ID | Price ID | Cena | Typ |
+|---|---|---|---:|---|
+| Měsíční | `prod_VaijifLs7bkc4E` | `price_1UZXHiC1UC9efvKajcz82GGj` | 399 Kč | recurring / month |
+| 90 dní | `prod_VaikOnPUH3vYDA` | `price_1UZXIhC1UC9efvKaMGDZXEEF` | 990 Kč | one_time |
+| 180 dní | `prod_VaikyvfIL3Pq3z` | `price_1UZXInC1UC9efvKaYhaZUW81` | 1 690 Kč | one_time |
+| 365 dní | `prod_VaikR8Fp2oyygp` | `price_1UZXIsC1UC9efvKaWxZoa8N9` | 2 490 Kč | one_time |
+
+Daňové nastavení dle posledního rozhodnutí provozovatele: **neplátce DPH**. Stripe Price mají `tax_behavior=unspecified`; není nastaven automatický výpočet daně. Toto není právní posouzení povinnosti DPH při přeshraničním digitálním prodeji. Před ostrým prodejem ověřit režim u účetní.
+
+Price ID jsou netajné identifikátory. Jsou i v `supabase/.env.example`, ale **zatím nejsou nahrány do hostovaných Supabase Edge Function Secrets**. Produktové ID `prod_...` se nesmí zaměňovat s cenovým `price_...`.

@@ -20,7 +20,8 @@ function text(c,t,x,y,size=19,color="#eff7f7",weight="600"){c.fillStyle=color;c.
 function needle(c,angle,len=115){c.save();c.rotate(angle);c.fillStyle="#ebf5f4";c.beginPath();c.moveTo(-7,16);c.lineTo(0,-len);c.lineTo(7,16);c.closePath();c.fill();c.restore();c.beginPath();c.arc(0,0,9,0,2*PI);c.fillStyle="#d9e1e6";c.fill();}
 function scale(c,max,major,label){for(let i=0;i<=max;i+=major){const a=rad(-135+270*i/max);c.save();c.rotate(a);line(c,0,-153,0,-136,"#e4efef",4);c.restore();text(c,label(i),Math.sin(a)*111,-Math.cos(a)*111,17)}}
 function speed(c,v){c=prepare("speedDial");scale(c,180,20,n=>n);needle(c,rad(-135+270*Math.min(180,v)/180),117);text(c,"KNOTS",0,60,20);text(c,v,0,91,22);c.strokeStyle="#529b80";c.lineWidth=9;c.beginPath();c.arc(0,0,158,rad(-135+270*40/180),rad(-135+270*120/180));c.stroke();}
-function attitude(c,pitch,roll,id="attitudeDial"){c=prepare(id);c.save();c.beginPath();c.arc(0,0,160,0,2*PI);c.clip();c.rotate(-rad(roll));const off=pitch*4;
+function attitude(c,pitch,roll,id="attitudeDial"){c=prepare(id);c.save();c.beginPath();c.arc(0,0,160,0,2*PI);c.clip();// The horizon moves opposite the aircraft bank: positive roll = right bank.
+c.rotate(rad(roll));const off=pitch*4;
 c.fillStyle="#4688b0";c.fillRect(-330,-400+off,660,400);c.fillStyle="#936e51";c.fillRect(-330,off,660,440);
 for(const p of [-20,-10,0,10,20]){const y=off-p*4;const w=p===0?300:p%20===0?120:65;line(c,-w/2,y,w/2,y,p===0?"#fff7e8":"#f3f5f5",p===0?3:2);if(p!==0){text(c,Math.abs(p),-w/2-18,y,11);text(c,Math.abs(p),w/2+18,y,11)}}
 c.restore();c.strokeStyle="#d9e4e7";c.lineWidth=4;c.beginPath();c.arc(0,0,161,0,PI*2);c.stroke();

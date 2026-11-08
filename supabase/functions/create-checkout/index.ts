@@ -16,6 +16,13 @@ const plans: Record<string, {priceEnv:string,mode:"payment"|"subscription",amoun
   half: {priceEnv:"STRIPE_PRICE_HALF_YEAR",mode:"payment",amount:169000},
   year: {priceEnv:"STRIPE_PRICE_YEAR",mode:"payment",amount:249000}
 };
+// Veřejná Stripe sandbox Price ID (netajné identifikátory), pouze testovací účet.
+const sandboxPriceIds: Record<string,string> = {
+  month: "price_1UZXHiC1UC9efvKajcz82GGj",
+  quarter: "price_1UZXIhC1UC9efvKaMGDZXEEF",
+  half: "price_1UZXInC1UC9efvKaYhaZUW81",
+  year: "price_1UZXIsC1UC9efvKaWxZoa8N9"
+};
 const reply=(status:number,body:unknown)=>new Response(JSON.stringify(body),{status,headers:{...cors,"Content-Type":"application/json; charset=utf-8","Cache-Control":"no-store"}});
 serve(async request=>{
   if(request.method==="OPTIONS")return new Response(null,{status:204,headers:cors});
@@ -33,7 +40,9 @@ serve(async request=>{
   let requested:unknown;try{requested=await request.json()}catch{return reply(400,{error:"Neplatný požadavek."})}
   const plan=(requested as {plan?:unknown})?.plan;
   if(typeof plan!=="string"||!Object.hasOwn(plans,plan))return reply(400,{error:"Neznámý tarif."});
-  const selected=plans[plan],priceId=Deno.env.get(selected.priceEnv);
+  const selected=plans[plan],priceId=sandboxPriceIds[plan];
+  // Fail closed if a mismatching production price is accidentally configured.
+  if(Deno.env.get(selected.priceEnv)&&Deno.env.get(selected.priceEnv)!==priceId)return reply(503,{error:"Nesoulad testovacího ceníku."});
   if(!priceId||!/^price_[A-Za-z0-9]+$/.test(priceId))return reply(503,{error:"Tarif zatím není aktivní."});
   // Fail closed if the linked Stripe Price does not match the approved tariff.
   // CZK amounts use minor units (haléře), e.g. 399 Kč = 39900.

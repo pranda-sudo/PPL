@@ -25,10 +25,10 @@ console.log("✓ Member UI gates installed across all modules; PWA caches retire
 for (const dir of dirs) {
  const mainCss=fs.readFileSync(dir+"/styles.css","utf8");
  const account=fs.readFileSync(dir+"/ucet.html","utf8");
- assert.match(mainCss,/touch-action:\\s*manipulation/,"Mobile touch behavior missing: "+dir);
- assert.match(mainCss,/@media \\(max-width: 360px\\)/,"Very narrow mobile layout missing: "+dir);
- assert.match(mainCss,/grid-template-columns:\\s*1fr/,"Single-column mobile layout missing: "+dir);
- assert.match(account,/fields input\\{font-size:16px/,"iOS login input zoom prevention missing: "+dir);
+ assert.match(mainCss,/touch-action:\s*manipulation/,"Mobile touch behavior missing: "+dir);
+ assert.match(mainCss,/@media \(max-width: 360px\)/,"Very narrow mobile layout missing: "+dir);
+ assert.match(mainCss,/grid-template-columns:\s*1fr/,"Single-column mobile layout missing: "+dir);
+ assert.match(account,/fields input\{font-size:16px/,"iOS login input zoom prevention missing: "+dir);
  assert.match(account,/safe-area-inset-bottom/,"iOS safe-area handling missing: "+dir);
 }
 console.log("✓ Mobile web styles and login consistency validated.");

@@ -6,3 +6,7 @@ verify_jwt = false
 # Stripe does not send Supabase JWT; webhook validates Stripe-Signature itself.
 [functions.stripe-webhook]
 verify_jwt = false
+
+# Premium question delivery checks Supabase JWT and membership in handler.
+[functions.premium-questions]
+verify_jwt = false

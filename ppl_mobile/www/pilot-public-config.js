@@ -3,5 +3,6 @@
 // Nikdy sem nedávej service_role, secret key, Stripe klíč ani hesla.
 window.PILOT_PUBLIC_CONFIG = {
   url: "https://rnoykjhrmparxtopwnrm.supabase.co",
-  publishableKey: ""
+  publishableKey: "",
+  paymentsEnabled: false
 };

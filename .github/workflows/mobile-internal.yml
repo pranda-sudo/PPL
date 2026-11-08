@@ -17,6 +17,7 @@ jobs:
       - name: Install mobile dependencies
         working-directory: ppl_mobile
         run: npm install --no-audit --no-fund
+          npm run sync:web
       - name: Check mobile app structure
         working-directory: ppl_mobile
         run: npm run check:mobile
@@ -40,6 +41,7 @@ jobs:
         working-directory: ppl_mobile
         run: |
           npm install --no-audit --no-fund
+          npm run sync:web
           npm run check:mobile
           npx cap add android
           npx cap sync android
@@ -67,6 +69,7 @@ jobs:
         working-directory: ppl_mobile
         run: |
           npm install --no-audit --no-fund
+          npm run sync:web
           npm run check:mobile
           npx cap add ios
           npx cap sync ios

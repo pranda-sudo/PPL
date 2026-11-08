@@ -649,10 +649,6 @@ fetch("./data/questions.json", { cache: "no-cache" })
     }
   });
 
-if ("serviceWorker" in navigator) {
-window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./service-worker.js").catch(() => {});
-  });
-}
+// Premium mode: do not register offline caches of paid question banks.
 
 window.addEventListener("beforeunload", stopExamTimer);

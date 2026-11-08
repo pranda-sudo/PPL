@@ -706,3 +706,28 @@ h1 {
 .training-module-link:visited{color:var(--ink)}
 .training-module-link:hover,.training-module-link:focus-visible{border-color:var(--accent);background:var(--focus);outline:2px solid transparent}
 .training-module-link strong{font-size:inherit}
+
+
+/* Přehled výukových kurzů na úvodní obrazovce */
+.course-overview{margin:24px 28px 10px;padding:27px;border:1px solid #d9e3ea;border-radius:19px;background:linear-gradient(145deg,#f1f7f7,#fff 58%);box-shadow:0 8px 28px rgba(18,36,49,.045)}
+.course-overview-head{display:flex;gap:18px;align-items:center;justify-content:space-between;margin-bottom:21px}
+.course-overview-head h2{font-size:clamp(23px,2.3vw,30px);letter-spacing:-.035em;margin:4px 0 7px}
+.course-overview-head p:not(.course-kicker){color:#5b6d79;font-size:14px;max-width:690px;line-height:1.5}
+.course-kicker{font-size:11px;color:#087b6a;letter-spacing:.12em;font-weight:850}
+.course-membership-link{flex-shrink:0;border-radius:10px;background:#153342;color:#fff;padding:11px 15px;text-decoration:none;font-size:13px;font-weight:750}
+.course-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}
+.course-tile{display:flex;flex-direction:column;min-width:0;min-height:196px;border:1px solid #dbe3e8;border-radius:13px;background:white;padding:17px;gap:7px;text-decoration:none;color:#192e3e;transition:transform .18s,border-color .18s,box-shadow .18s}
+.course-tile:hover,.course-tile:focus-visible{transform:translateY(-2px);border-color:#4eafa0;box-shadow:0 9px 24px #163c3614}
+.course-icon{font-size:22px;color:#0c7669;min-height:28px;font-weight:800;line-height:1}
+.course-type{font-size:10px;font-weight:850;color:#0a7566;text-transform:uppercase;letter-spacing:.075em}
+.course-tile strong{font-size:16px;line-height:1.27}
+.course-description{font-size:12px;color:#627483;line-height:1.5}
+.course-arrow{font-size:12px;color:#0b796a;font-weight:780;margin-top:auto;padding-top:5px}
+.course-tools-title{margin:25px 0 11px;font-size:15px}
+.course-tools{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:9px}
+.course-tools a{background:#eaf4f1;border:1px solid #cfe4dc;border-radius:9px;padding:12px 10px;text-decoration:none;color:#235a50;font-size:12px;font-weight:750;display:flex;gap:6px;justify-content:space-between;align-items:center}
+.course-note{color:#667786;font-size:11px;line-height:1.5;margin-top:17px}
+#ppl-test{scroll-margin-top:16px}
+@media(max-width:1190px){.course-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.course-tools{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:700px){.course-overview{margin:14px 12px;padding:18px 14px}.course-overview-head{flex-direction:column;align-items:flex-start;gap:12px}.course-grid{grid-template-columns:1fr}.course-tile{min-height:0;padding:16px}.course-membership-link{width:100%;text-align:center}.course-tools{grid-template-columns:1fr 1fr}}
+@media(max-width:380px){.course-tools{grid-template-columns:1fr}}

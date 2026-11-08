@@ -56,7 +56,7 @@ console.log("✓ Desktop and mobile course chooser both enabled.");
 const mobilePkg=JSON.parse(fs.readFileSync("ppl_mobile/package.json","utf8"));
 assert.equal(mobilePkg.scripts["check:mobile"],"node scripts/check-readiness.js");
 assert.equal(mobilePkg.scripts["check:release"],"node scripts/check-readiness.js --release");
-for(const dep of ["@capacitor/core","@capacitor/android","@capacitor/ios"])assert.match(mobilePkg.dependencies[dep],/^\\d+\\.\\d+\\.\\d+$/,"Capacitor version must be pinned");
+for(const dep of ["@capacitor/core","@capacitor/android","@capacitor/ios"])assert.match(mobilePkg.dependencies[dep],new RegExp("^[0-9]+[.][0-9]+[.][0-9]+$"),"Capacitor version must be pinned");
 const mobileWorkflow=fs.readFileSync(".github/workflows/mobile-internal.yml","utf8");
 assert.match(mobileWorkflow,/workflow_dispatch:/);
 assert.match(mobileWorkflow,/CODE_SIGNING_ALLOWED=NO/);

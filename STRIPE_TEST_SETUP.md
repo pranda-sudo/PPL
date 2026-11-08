@@ -67,3 +67,27 @@ Všechny čtyři produkty a jejich výchozí Price ID jsou **skutečně vytvoře
 Daňové nastavení dle posledního rozhodnutí provozovatele: **neplátce DPH**. Stripe Price mají `tax_behavior=unspecified`; není nastaven automatický výpočet daně. Toto není právní posouzení povinnosti DPH při přeshraničním digitálním prodeji. Před ostrým prodejem ověřit režim u účetní.
 
 Price ID jsou netajné identifikátory. Jsou i v `supabase/.env.example`, ale **zatím nejsou nahrány do hostovaných Supabase Edge Function Secrets**. Produktové ID `prod_...` se nesmí zaměňovat s cenovým `price_...`.
+
+## Skutečné propojení Stripe Sandbox → Supabase (8. 11. 2026)
+
+**Provedeno a ověřeno:**
+
+- ✅ Supabase Edge Function `create-checkout` je nasazená v projektu `rnoykjhrmparxtopwnrm`, verze 1; serverový whitelist používá přesná Price ID čtyř sandbox tarifů a ověřuje částku, měnu a periodu přes Stripe API.
+- ✅ Supabase Edge Function `stripe-webhook` je nasazená, verze 1; příjem Stripe událostí používá podpisové ověřování a bez signing secretu vrací chybu.
+- ✅ Ve Stripe účtu `acct_1UQsnRC1UC9efvKa` je vytvořená a ověřená testovací webhook destinace `we_1UZXo7C1UC9efvKaXX8w9l9S`, URL `https://rnoykjhrmparxtopwnrm.supabase.co/functions/v1/stripe-webhook`.
+- ✅ Webhook je výhradně sandbox (`livemode=false`) a ve Stripe je `enabled`. Produkty a ceny jsou vytvořeny jako testovací.
+- ✅ Webová platba zůstává bezpečně vypnutá (`paymentsEnabled: false`). Placené otázky stále nejsou zamčené.
+
+**Zbývající bezpečné nastavení v uživatelských administracích:**
+
+1. V **Stripe Sandbox → Developers / API keys** vygenerovat testovací Stripe secret `sk_test_...` (nebo odpovídající restricted key s potřebnými oprávněními). **Neukládat do GitHubu ani sem do chatu.**
+2. V **Supabase → Edge Functions → Secrets** uložit `STRIPE_SECRET_KEY` s hodnotou testovacího Stripe secretu. Nepřepínat na produkční klíč.
+3. V **Stripe Sandbox → Workbench → Webhooks / Event Destinations → Pilotní akademie** otevřít destinaci, odhalit její testovací **Signing secret `whsec_...`**. V Supabase Edge Function Secrets uložit `STRIPE_WEBHOOK_SECRET`. **Nezaměňovat se Stripe API klíčem.**
+4. Další secrets mohou mít testovací hodnoty `STRIPE_PRICE_MONTHLY`, `STRIPE_PRICE_QUARTER`, `STRIPE_PRICE_HALF_YEAR`, `STRIPE_PRICE_YEAR` podle tabulky výše. `create-checkout` už však obsahuje bezpečně kontrolované veřejné testovací Price ID; tyto proměnné jsou volitelné a případné jiné hodnoty platbu zamítnou.
+5. Ověřit, že `SUPABASE_URL` a serverový `SUPABASE_SERVICE_ROLE_KEY` jsou dostupné Edge Functions jako projektové systémové proměnné. **Nedávat žádný serverový klíč do HTML, JS ani GitHubu.**
+6. Otestovat vstupní podpis webhooku a token přihlášeného studenta, pak testovací Checkout, aktivaci, obnovu, zamítnutí, refundaci a spor. **Současný handler vyžaduje před produkčním použitím dokončit refund/dispute logiku a ověřit aktuální Stripe API struktury.**
+7. Teprve po testech i vyřešení autorských práv aktivovat webové placení.
+
+**Proč nejsou secrets nahrané automaticky:** Připojené Supabase nástroje umí nasadit Edge Functions, migrace i SQL, ale nemají operaci pro bezpečné nastavení Edge Function Secrets. Secrets se nesmějí obcházet přes veřejný GitHub nebo klientskou konfiguraci. Stripe konektor zase neumožňuje přes MCP nastavit secrets v Supabase.
+
+**UPOZORNĚNÍ:** Už vytvořený Stripe webhook může do konfigurace secrets vracet `503` a testovací Stripe může zaznamenat neúspěšné doručení. Neprovádět testovací nákupy, dokud nebudou secrets nastavené a zpracování webhooku bezpečně ověřené.

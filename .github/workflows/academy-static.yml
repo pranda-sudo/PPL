@@ -19,5 +19,7 @@ jobs:
           persist-credentials: false
       - name: Check synced web/mobile and payment safety
         run: node tests/academy-static.cjs
+      - name: Check paid-content authorization invariants
+        run: node tests/security-invariants.cjs
       - name: Scan tracked files for embedded secrets
         run: node tests/security-audit.cjs

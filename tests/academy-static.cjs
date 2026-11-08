@@ -42,3 +42,13 @@ for(const dir of dirs){
  new Function(js);
 }
 console.log("✓ Mobile course selection and navigation synced.");
+
+for (const dir of dirs) {
+  const css=fs.readFileSync(dir+"/styles.css","utf8");
+  const selector=css.slice(css.lastIndexOf("/* The same post-login course chooser is the desktop home as well. */"));
+  assert.ok(selector.includes("@media(min-width:821px)"),"Desktop course selection breakpoint missing: "+dir);
+  assert.ok(selector.includes("html:not(.pilot-mobile-ppl-open) .app-shell{display:none}"),"Desktop default must show course chooser: "+dir);
+  assert.ok(selector.includes("html.pilot-mobile-ppl-open .mobile-back-to-courses{display:inline-flex}"),"Desktop return navigation missing: "+dir);
+  assert.ok(selector.includes("repeat(3,minmax(0,1fr))"),"Desktop course card grid missing: "+dir);
+}
+console.log("✓ Desktop and mobile course chooser both enabled.");

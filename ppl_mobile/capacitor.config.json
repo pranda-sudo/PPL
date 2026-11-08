@@ -1,6 +1,6 @@
 {
   "appId": "cz.ppltesty.app",
-  "appName": "PPL Testy",
+  "appName": "Pilotní akademie",
   "webDir": "www",
   "server": {
     "androidScheme": "https"

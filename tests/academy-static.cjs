@@ -62,3 +62,32 @@ assert.match(mobileWorkflow,/workflow_dispatch:/);
 assert.match(mobileWorkflow,/CODE_SIGNING_ALLOWED=NO/);
 assert.doesNotMatch(mobileWorkflow,/play-store|app-store-connect|fastlane supply|fastlane deliver/i);
 console.log("✓ Mobile internal builds configured without automatic store publishing.");
+
+const vm=require("node:vm");
+for(const dir of dirs){
+ const instrument=fs.readFileSync(dir+"/instruments.js","utf8");
+ const match=instrument.match(/const scenarios=(\[[\s\S]*?\]);\nfunction circle/);
+ assert.ok(match,"Instrument training scenarios unavailable: "+dir);
+ const scenarios=vm.runInNewContext(match[1]);
+ assert.equal(scenarios.length,8,"All eight instrument scenarios must be audited");
+ // Canvas Y axis points down. For a positive (right) bank, horizon tilts down to right.
+ assert.ok(instrument.includes("c.rotate(rad(roll));const off=pitch*4;"),
+   "Horizon bank rendering must agree with the sign of roll: "+dir);
+ assert.ok(!instrument.includes("c.rotate(-rad(roll));const off=pitch*4;"),
+   "Old reversed bank direction detected: "+dir);
+ for(const [i,s] of scenarios.entries()){
+   assert.ok(Number.isInteger(s.correct)&&s.correct>=0&&s.correct<s.choices.length,"Invalid correct answer "+(i+1));
+   assert.ok(s.choices.every(x=>typeof x==="string"&&x.length>0),"Empty option "+(i+1));
+   const answer=s.choices[s.correct].toLocaleLowerCase("cs");
+   const explanation=s.why.toLocaleLowerCase("cs");
+   const left=/lev(?:ý|ým|ého|á|é|o|ou|[a-z]*)|vlevo/.test(answer);
+   const right=/prav(?:ý|ým|ého|á|é|o|ou|[a-z]*)|vpravo/.test(answer);
+   if(s.roll<0){assert.ok(left&&!right,"Correct answer must indicate left bank, scene "+(i+1));assert.ok(!/pravý náklon|náklon je doprava/.test(explanation),"Wrong bank in explanation "+(i+1));}
+   if(s.roll>0){assert.ok(right&&!left,"Correct answer must indicate right bank, scene "+(i+1));assert.ok(!/levý náklon|náklon je vlevo/.test(explanation),"Wrong bank in explanation "+(i+1));}
+   if(s.roll===0){assert.ok(!left&&!right,"Zero-bank answer must not indicate a bank, scene "+(i+1));}
+   if(s.vertical>0) assert.ok(/stoupán|kladnou vertikální rychlost/.test(answer),"Climb answer mismatch scene "+(i+1));
+   if(s.vertical<0) assert.ok(/klesán|snižovat/.test(answer),"Descent answer mismatch scene "+(i+1));
+   if(s.vertical===0) assert.ok(/nulovou vertikální rychlost|bez náklonu/.test(answer)||/vlevo|vpravo/.test(answer),"Level VSI answer mismatch scene "+(i+1));
+ }
+}
+console.log("✓ All eight artificial-horizon/VSI training scenarios verified against direction and vertical rate.");

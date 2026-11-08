@@ -13,6 +13,26 @@
     <link rel="stylesheet" href="./styles.css?v=40" />
   </head>
   <body>
+        <section id="mobileCoursePicker" class="mobile-course-picker" aria-labelledby="mobileCourseTitle">
+      <header class="mobile-course-heading">
+        <span class="mobile-course-eyebrow">PILOTNÍ AKADEMIE</span>
+        <h1 id="mobileCourseTitle">Co se chceš dnes učit?</h1>
+        <p>Vyber si kurz. PPL, ULL a další výukové moduly najdeš přehledně na jednom místě.</p>
+        <a href="./ucet.html" class="mobile-account-link">Můj studentský účet</a>
+      </header>
+      <nav class="mobile-course-grid" aria-label="Výběr výukového kurzu">
+        <button type="button" class="mobile-course-tile" id="mobileOpenPpl"><span class="mobile-course-symbol" aria-hidden="true">✈</span><span><strong>PPL(A) / PPL(H)</strong><small>Teorie, procvičování a zkušební testy</small></span><span class="mobile-tile-arrow" aria-hidden="true">›</span></button>
+        <a class="mobile-course-tile" href="./ull.html"><span class="mobile-course-symbol" aria-hidden="true">🛩</span><span><strong>ULL</strong><small>Ultralehká letadla</small></span><span class="mobile-tile-arrow" aria-hidden="true">›</span></a>
+        <a class="mobile-course-tile" href="./ifr.html"><span class="mobile-course-symbol" aria-hidden="true">◉</span><span><strong>IFR / IR(A)</strong><small>Přístrojové létání a výpočty</small></span><span class="mobile-tile-arrow" aria-hidden="true">›</span></a>
+        <a class="mobile-course-tile" href="./radio-exam.html?license=ofl"><span class="mobile-course-symbol" aria-hidden="true">♬</span><span><strong>Radiotelefonista OFL</strong><small>Radiokomunikace pro letadla</small></span><span class="mobile-tile-arrow" aria-hidden="true">›</span></a>
+        <a class="mobile-course-tile" href="./radio-exam.html?license=vfl"><span class="mobile-course-symbol" aria-hidden="true">▤</span><span><strong>Radiotelefonista VFL</strong><small>Radiokomunikace pro VFR</small></span><span class="mobile-tile-arrow" aria-hidden="true">›</span></a>
+        <a class="mobile-course-tile" href="./icao.html"><span class="mobile-course-symbol" aria-hidden="true">🌐</span><span><strong>ICAO English</strong><small>Letecká angličtina a fráze</small></span><span class="mobile-tile-arrow" aria-hidden="true">›</span></a>
+      </nav>
+      <div class="mobile-course-extras">
+        <strong>Další trenažéry a pomůcky</strong>
+        <div><a href="./weather-trainer.html">METAR / TAF</a><a href="./preflight.html">Předletová příprava</a><a href="./calc.html">Kalkulačka</a><a href="./instruments.html">Přístroje</a></div>
+      </div>
+    </section>
     <main class="app-shell">
       <aside class="sidebar">
         <div class="brand">
@@ -120,6 +140,8 @@
       </aside>
 
       <section class="workspace">
+        <button id="mobileBackToCourses" type="button" class="mobile-back-to-courses">‹ Zpět na výběr kurzu</button>
+
         <header class="topbar">
           <div>
             <p class="eyebrow" id="currentMeta">Výběr</p>
@@ -245,6 +267,7 @@
     </main>
 
     <script type="application/x-pilot-member" data-member-src="./data/questions.js?v=12"></script>
+    <script type="application/x-pilot-member" data-member-src="./mobile-course-selector.js?v=1"></script>
     <script type="application/x-pilot-member" data-member-src="./app.js?v=12"></script>
   </body>
 </html>

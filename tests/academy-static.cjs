@@ -1,5 +1,5 @@
 const fs=require("node:fs"),assert=require("node:assert/strict");
-const dirs=["docs","ppl_app","ppl_mobile/www"],files=["index.html","styles.css","service-worker.js","clenstvi.html","ucet.html","pilot-public-config.js","membership-gate.js","radio-exam.js","radio-exam-data.js","ifr.js","ifr-data.js"];
+const dirs=["docs","ppl_app","ppl_mobile/www"],files=["index.html","styles.css","mobile-course-selector.js","service-worker.js","clenstvi.html","ucet.html","pilot-public-config.js","membership-gate.js","radio-exam.js","radio-exam-data.js","ifr.js","ifr-data.js"];
 for(const file of files){const a=fs.readFileSync(dirs[0]+"/"+file,"utf8");for(const dir of dirs.slice(1))assert.equal(fs.readFileSync(dir+"/"+file,"utf8"),a,"Unsynced "+dir+"/"+file);}
 for(const dir of dirs){
 const p=fs.readFileSync(dir+"/pilot-public-config.js","utf8"),index=fs.readFileSync(dir+"/index.html","utf8");
@@ -32,3 +32,13 @@ for (const dir of dirs) {
  assert.match(account,/safe-area-inset-bottom/,"iOS safe-area handling missing: "+dir);
 }
 console.log("✓ Mobile web styles and login consistency validated.");
+
+for(const dir of dirs){
+ const page=fs.readFileSync(dir+"/index.html","utf8"),css=fs.readFileSync(dir+"/styles.css","utf8"),js=fs.readFileSync(dir+"/mobile-course-selector.js","utf8"),account=fs.readFileSync(dir+"/ucet.html","utf8");
+ for(const fragment of ["mobileCoursePicker","mobileOpenPpl","mobileBackToCourses","./ull.html","./ifr.html","./radio-exam.html","./icao.html","./mobile-course-selector.js"])assert.ok(page.includes(fragment),"Missing course selector component: "+dir+" "+fragment);
+ assert.ok(css.includes("html:not(.pilot-mobile-ppl-open) .mobile-course-picker"),"Course selector CSS missing "+dir);
+ assert.ok(js.includes("pilot-mobile-ppl-open"),"Course chooser interaction missing "+dir);
+ assert.ok(account.includes("Vybrat kurz a pokračovat"),"Course picker account CTA missing "+dir);
+ new Function(js);
+}
+console.log("✓ Mobile course selection and navigation synced.");

@@ -5,7 +5,8 @@ __pycache__/
 *.pyc
 *.log
 *.zip
-\n# Secrets and local development configuration
+
+# Secrets and local development configuration
 .env
 .env.*
 !.env.example

@@ -91,3 +91,9 @@ Price ID jsou netajné identifikátory. Jsou i v `supabase/.env.example`, ale **
 **Proč nejsou secrets nahrané automaticky:** Připojené Supabase nástroje umí nasadit Edge Functions, migrace i SQL, ale nemají operaci pro bezpečné nastavení Edge Function Secrets. Secrets se nesmějí obcházet přes veřejný GitHub nebo klientskou konfiguraci. Stripe konektor zase neumožňuje přes MCP nastavit secrets v Supabase.
 
 **UPOZORNĚNÍ:** Už vytvořený Stripe webhook může do konfigurace secrets vracet `503` a testovací Stripe může zaznamenat neúspěšné doručení. Neprovádět testovací nákupy, dokud nebudou secrets nastavené a zpracování webhooku bezpečně ověřené.
+
+### Aktualizace webhooku (v2)
+
+- Nasazena verze 2 Stripe webhooku. Podporuje období subscription item v novém Stripe API, zjišťování subscription z `invoice.parent.subscription_details.subscription`, fail-closed kontrolu zaplacené poslední faktury, `invoice.payment_failed` a zrušení jednorázových přístupů po plném refundu/sporu.
+- Zatím není end-to-end ověřena skutečná testovací platba, protože Supabase Edge Function Secrets nemají nakonfigurované `STRIPE_SECRET_KEY` a `STRIPE_WEBHOOK_SECRET`.
+- Všechny transakce musí zůstat v Sandboxu, platby na webu vypnuté. Pro produkci je ještě nutné dořešit race conditions, Stripe customer portal, chargebacky předplatného a právní podklady.

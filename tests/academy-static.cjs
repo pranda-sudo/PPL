@@ -6,6 +6,8 @@ const p=fs.readFileSync(dir+"/pilot-public-config.js","utf8"),index=fs.readFileS
 assert.match(p,/paymentsEnabled:\s*false/,"Payments must default to OFF");
 assert.match(p,/https:\/\/rnoykjhrmparxtopwnrm\.supabase\.co/);
 assert.ok(index.includes("clenstvi.html")&&index.includes("ucet.html"),"Membership menu missing");
+assert.ok(index.includes("mobile-coming-soon")&&index.includes("Android")&&index.includes("iPhone"),"Mobile app announcement missing from home");
+assert.ok(fs.readFileSync(dir+"/clenstvi.html","utf8").includes("Mobilní aplikace připravujeme"),"Mobile app announcement missing from membership page");
 assert.ok(fs.readFileSync(dir+"/service-worker.js","utf8").includes("registration.unregister()"),"Legacy offline PWA is not retired");
 for(const name of ["index.html","ull.html","icao.html","icao-flight.html","ifr.html","radio-exam.html","calc.html","instruments.html","preflight.html","weather-trainer.html"]){const content=fs.readFileSync(dir+"/"+name,"utf8");assert.ok(content.includes("membership-gate.js?v=39"),"Missing membership gate: "+dir+"/"+name);assert.ok(content.includes("html:not(.pilot-access-granted)"),"No fail-closed CSS: "+dir+"/"+name);}
 }

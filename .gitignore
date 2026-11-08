@@ -5,3 +5,16 @@ __pycache__/
 *.pyc
 *.log
 *.zip
+\n# Secrets and local development configuration
+.env
+.env.*
+!.env.example
+!supabase/.env.example
+supabase/.env.local
+supabase/.env.production
+supabase/.env.development
+*.pem
+*.key
+node_modules/
+.DS_Store
+dist/

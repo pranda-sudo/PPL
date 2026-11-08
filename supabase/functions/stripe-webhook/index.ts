@@ -27,6 +27,7 @@ serve(async req=>{
  const raw=await req.text();
  if(!await verifyStripe(raw,req.headers.get("stripe-signature")||"",secret))return text("Invalid Stripe signature",400);
  const event=JSON.parse(raw);
+ if(event.livemode!==false)return text("Sandbox only",400);
  const sb=createClient(sbUrl,serviceKey,{auth:{autoRefreshToken:false,persistSession:false}});
  const {data:prior,error:priorErr}=await sb.from("stripe_event_receipts").select("stripe_event_id").eq("stripe_event_id",event.id).maybeSingle();
  if(priorErr)return text("Could not verify event state",503);
@@ -40,11 +41,20 @@ serve(async req=>{
   const subscription=await fetchStripe("subscriptions/"+encodeURIComponent(subscriptionId));
   const userId=subscription.metadata?.user_id;
   if(!userId||!/^[a-f\d-]{36}$/i.test(userId))throw new Error("Subscription lacks valid user ID");
-  const started=subscription.current_period_start,ended=subscription.current_period_end;
-  if(!started||!ended)throw new Error("Subscription period unavailable; check Stripe API version");
+  const item=subscription.items?.data?.[0];
+  if(item?.price?.id!=="price_1UZXHiC1UC9efvKajcz82GGj")throw new Error("Subscription price does not belong to Pilot Academy sandbox");
+  const started=item?.current_period_start||subscription.current_period_start;
+  const ended=item?.current_period_end||subscription.current_period_end;
+  if(!started||!ended)throw new Error("Subscription period unavailable");
+  const latestInvoice=subscription.latest_invoice;
+  const invoiceId=typeof latestInvoice==="string"?latestInvoice:latestInvoice?.id;
+  const invoice=invoiceId?await fetchStripe("invoices/"+encodeURIComponent(invoiceId)):null;
+  const hasPaidInvoice=invoice?.status==="paid"&&invoice?.amount_paid>0;
   const {data:existing,error:lookupErr}=await sb.from("memberships").select("id").eq("stripe_subscription_id",subscriptionId).maybeSingle();
   if(lookupErr)throw lookupErr;
-  const status=subscription.status==="active"||subscription.status==="trialing"?"active":subscription.status==="past_due"?"past_due":subscription.status==="canceled"?"cancelled":"pending";
+  const status=subscription.status==="canceled"?"cancelled":
+    subscription.status==="past_due"||subscription.status==="unpaid"?"past_due":
+    subscription.status==="active"&&hasPaidInvoice?"active":"pending";
   const row={user_id:userId,product_code:"monthly",status,starts_at:new Date(started*1000).toISOString(),ends_at:new Date(ended*1000).toISOString(),
     stripe_customer_id:typeof subscription.customer==="string"?subscription.customer:null,stripe_subscription_id:subscriptionId,updated_at:new Date().toISOString()};
   const result=existing?await sb.from("memberships").update(row).eq("id",existing.id):await sb.from("memberships").insert(row);
@@ -72,10 +82,31 @@ serve(async req=>{
   }
   if(event.type==="invoice.paid"){
     const invoice=event.data.object;
-    const subscriptionId=typeof invoice.subscription==="string"?invoice.subscription:null;
+    const rawSubscription=invoice.parent?.subscription_details?.subscription||invoice.subscription;
+    const subscriptionId=typeof rawSubscription==="string"?rawSubscription:rawSubscription?.id||null;
     if(subscriptionId)await updateMonthly(subscriptionId);
   }
-  if(event.type==="customer.subscription.updated"||event.type==="customer.subscription.deleted"){
+  if(event.type==="invoice.payment_failed"){
+    const invoice=event.data.object;
+    const rawSubscription=invoice.parent?.subscription_details?.subscription||invoice.subscription;
+    const subscriptionId=typeof rawSubscription==="string"?rawSubscription:rawSubscription?.id||null;
+    if(subscriptionId)await updateMonthly(subscriptionId);
+  }
+  if(event.type==="charge.refunded"||event.type==="charge.dispute.created"){
+    const charge=event.type==="charge.refunded"?event.data.object:event.data.object.charge;
+    const chargeObj=typeof charge==="string"?await fetchStripe("charges/"+encodeURIComponent(charge)):charge;
+    const fullyRefunded=event.type==="charge.dispute.created"||(
+      chargeObj.refunded===true||(chargeObj.amount_refunded>0&&chargeObj.amount_refunded>=chargeObj.amount));
+    if(fullyRefunded&&chargeObj.payment_intent){
+      const intent=typeof chargeObj.payment_intent==="string"?chargeObj.payment_intent:chargeObj.payment_intent.id;
+      const sessions=await fetchStripe("checkout/sessions?payment_intent="+encodeURIComponent(intent)+"&limit=10");
+      for(const session of sessions.data||[]){
+        const {error}=await sb.from("memberships").update({status:"cancelled",updated_at:new Date().toISOString()}).eq("stripe_checkout_session_id",session.id);
+        if(error)throw error;
+      }
+    }
+  }
+  if(event.type==="customer.subscription.created"||event.type==="customer.subscription.updated"||event.type==="customer.subscription.deleted"){
     const subscription=event.data.object;
     await updateMonthly(subscription.id);
   }

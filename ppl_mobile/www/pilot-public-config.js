@@ -1,8 +1,2 @@
-// Veřejná konfigurace – smí obsahovat POUZE Supabase URL a publishable/anon key.
-// Po založení Supabase projektu nahraď prázdné hodnoty.
-// Nikdy sem nedávej service_role, secret key, Stripe klíč ani hesla.
-window.PILOT_PUBLIC_CONFIG = {
-  url: "https://rnoykjhrmparxtopwnrm.supabase.co",
-  publishableKey: "sb_publishable_D7LhJDklP2bjLYsIzUqcRg_GKIPGkgk",
-  paymentsEnabled: false
-};
+// Veřejný režim Pilotní akademie: Supabase ani placené členství se nepoužívá.
+window.PILOT_PUBLIC_CONFIG = { url: "", publishableKey: "", paymentsEnabled: false };

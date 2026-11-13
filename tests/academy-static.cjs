@@ -28,7 +28,7 @@ for (const dir of dirs) {
  assert.match(mainCss,/touch-action:\s*manipulation/,"Mobile touch behavior missing: "+dir);
  assert.match(mainCss,/@media \(max-width: 360px\)/,"Very narrow mobile layout missing: "+dir);
  assert.match(mainCss,/grid-template-columns:\s*1fr/,"Single-column mobile layout missing: "+dir);
- assert.ok(account.includes("bez přihlášení"),"Public account notice missing: "+dir);
+ assert.ok(account.includes("není potřeba registrace"),"Public account notice missing: "+dir);
  
 }
 console.log("✓ Mobile web styles and login consistency validated.");

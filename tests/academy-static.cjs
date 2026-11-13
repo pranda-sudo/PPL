@@ -9,7 +9,7 @@ assert.ok(index.includes("mobileCoursePicker"),"Public course picker missing");
 assert.ok(index.includes("mobile-coming-soon")&&index.includes("Android")&&index.includes("iPhone"),"Mobile app announcement missing from home");
 assert.ok(fs.readFileSync(dir+"/clenstvi.html","utf8").includes("zdarma"),"Public free-use message missing");
 assert.ok(fs.readFileSync(dir+"/service-worker.js","utf8").includes("registration.unregister()"),"Legacy offline PWA is not retired");
-for(const name of ["index.html","ull.html","icao.html","icao-flight.html","ifr.html","radio-exam.html","calc.html","instruments.html","preflight.html","weather-trainer.html"]){const content=fs.readFileSync(dir+"/"+name,"utf8");assert.ok(content.includes("membership-gate.js?v="+(name==="index.html"?"40":"39")),"Missing public script loader: "+dir+"/"+name);assert.ok(content.includes("html:not(.pilot-access-granted)"),"No fail-closed CSS: "+dir+"/"+name);}
+for(const name of ["index.html","ull.html","icao.html","icao-flight.html","ifr.html","radio-exam.html","calc.html","instruments.html","preflight.html","weather-trainer.html"]){const content=fs.readFileSync(dir+"/"+name,"utf8");assert.ok(content.includes("membership-gate.js?v=40"),"Missing public script loader: "+dir+"/"+name);assert.ok(content.includes("html:not(.pilot-access-granted)"),"No fail-closed CSS: "+dir+"/"+name);}
 }
 for(const f of ["docs/ucet.html","docs/clenstvi.html"]){
 const text=fs.readFileSync(f,"utf8"),script=[...text.matchAll(/<script(?:\s+[^>]*)?>([\s\S]*?)<\/script>/g)].map(m=>m[1]).filter(Boolean);

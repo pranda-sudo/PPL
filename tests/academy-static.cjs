@@ -4,12 +4,12 @@ for(const file of files){const a=fs.readFileSync(dirs[0]+"/"+file,"utf8");for(co
 for(const dir of dirs){
 const p=fs.readFileSync(dir+"/pilot-public-config.js","utf8"),index=fs.readFileSync(dir+"/index.html","utf8");
 assert.match(p,/paymentsEnabled:\s*false/,"Payments must default to OFF");
-assert.match(p,/https:\/\/rnoykjhrmparxtopwnrm\.supabase\.co/);
-assert.ok(index.includes("clenstvi.html")&&index.includes("ucet.html"),"Membership menu missing");
+assert.doesNotMatch(p,/https:\/\/[^" ]+\.supabase\.co/);
+assert.ok(index.includes("mobileCoursePicker"),"Public course picker missing");
 assert.ok(index.includes("mobile-coming-soon")&&index.includes("Android")&&index.includes("iPhone"),"Mobile app announcement missing from home");
-assert.ok(fs.readFileSync(dir+"/clenstvi.html","utf8").includes("Mobilní aplikace připravujeme"),"Mobile app announcement missing from membership page");
+assert.ok(fs.readFileSync(dir+"/clenstvi.html","utf8").includes("zdarma"),"Public free-use message missing");
 assert.ok(fs.readFileSync(dir+"/service-worker.js","utf8").includes("registration.unregister()"),"Legacy offline PWA is not retired");
-for(const name of ["index.html","ull.html","icao.html","icao-flight.html","ifr.html","radio-exam.html","calc.html","instruments.html","preflight.html","weather-trainer.html"]){const content=fs.readFileSync(dir+"/"+name,"utf8");assert.ok(content.includes("membership-gate.js?v=39"),"Missing membership gate: "+dir+"/"+name);assert.ok(content.includes("html:not(.pilot-access-granted)"),"No fail-closed CSS: "+dir+"/"+name);}
+for(const name of ["index.html","ull.html","icao.html","icao-flight.html","ifr.html","radio-exam.html","calc.html","instruments.html","preflight.html","weather-trainer.html"]){const content=fs.readFileSync(dir+"/"+name,"utf8");assert.ok(content.includes("membership-gate.js?v="+(name==="index.html"?"40":"39")),"Missing public script loader: "+dir+"/"+name);assert.ok(content.includes("html:not(.pilot-access-granted)"),"No fail-closed CSS: "+dir+"/"+name);}
 }
 for(const f of ["docs/ucet.html","docs/clenstvi.html"]){
 const text=fs.readFileSync(f,"utf8"),script=[...text.matchAll(/<script(?:\s+[^>]*)?>([\s\S]*?)<\/script>/g)].map(m=>m[1]).filter(Boolean);
@@ -20,7 +20,7 @@ const exposed=dirs.flatMap(dir=>["pilot-public-config.js","clenstvi.html","ucet.
 for(const file of exposed){const content=fs.readFileSync(file,"utf8");assert.doesNotMatch(content,/(?:sk_live_|sk_test_[A-Za-z0-9]{16}|whsec_[A-Za-z0-9]{16}|sb_secret_[A-Za-z0-9]{16}|service_role\s*[:=]\s*['"][A-Za-z0-9])/,"Possible exposed secret in "+file);}
 const sql=fs.readFileSync("supabase/migrations/20261107_pilot_academy.sql","utf8");
 for(const name of ["student_profiles","memberships","study_progress","premium_questions","stripe_event_receipts"])assert.match(sql,new RegExp("alter table public\\."+name+" enable row level security","i"));
-console.log("✓ Member UI gates installed across all modules; PWA caches retired; web/mobile synced; payments remain disabled.");
+console.log("✓ Public script loader installed; web/mobile synced; payments disabled.");
 
 for (const dir of dirs) {
  const mainCss=fs.readFileSync(dir+"/styles.css","utf8");
@@ -28,8 +28,8 @@ for (const dir of dirs) {
  assert.match(mainCss,/touch-action:\s*manipulation/,"Mobile touch behavior missing: "+dir);
  assert.match(mainCss,/@media \(max-width: 360px\)/,"Very narrow mobile layout missing: "+dir);
  assert.match(mainCss,/grid-template-columns:\s*1fr/,"Single-column mobile layout missing: "+dir);
- assert.match(account,/fields input\{font-size:16px/,"iOS login input zoom prevention missing: "+dir);
- assert.match(account,/safe-area-inset-bottom/,"iOS safe-area handling missing: "+dir);
+ assert.ok(account.includes("bez přihlášení"),"Public account notice missing: "+dir);
+ 
 }
 console.log("✓ Mobile web styles and login consistency validated.");
 
@@ -38,7 +38,7 @@ for(const dir of dirs){
  for(const fragment of ["mobileCoursePicker","mobileOpenPpl","mobileBackToCourses","./ull.html","./ifr.html","./radio-exam.html","./icao.html","./mobile-course-selector.js"])assert.ok(page.includes(fragment),"Missing course selector component: "+dir+" "+fragment);
  assert.ok(css.includes("html:not(.pilot-mobile-ppl-open) .mobile-course-picker"),"Course selector CSS missing "+dir);
  assert.ok(js.includes("pilot-mobile-ppl-open"),"Course chooser interaction missing "+dir);
- assert.ok(account.includes("Vybrat kurz a pokračovat"),"Course picker account CTA missing "+dir);
+ assert.ok(account.includes("Otevřít výukové testy"),"Public course link missing "+dir);
  new Function(js);
 }
 console.log("✓ Mobile course selection and navigation synced.");

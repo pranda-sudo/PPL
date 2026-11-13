@@ -14,8 +14,8 @@ const tests = [
   ["reject untrusted browser origins", /!allowedOrigins\.has\(origin\)/],
 ];
 for (const [name, pattern] of tests) assert.match(api, pattern, name);
-assert.match(gate, /supabase\.auth\.getUser\(/, "membership UI authentication required");
-assert.match(gate, /\.eq\("status","active"\)/, "membership gate must check active status");
+assert.match(gate, /pilot-access-granted/, "Public gate must enable free access");
+assert.doesNotMatch(gate, /supabase\.auth|getUser|memberships/, "Public gate must not require accounts");
 // Guard against accidentally adding secret credentials to public application assets.
 for (const dir of ["docs", "ppl_app", "ppl_mobile/www"]) {
   for (const file of fs.readdirSync(dir)) {
